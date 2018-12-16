@@ -1,0 +1,18 @@
+{
+	"eternalID": 259,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Rapid Shot",
+	"text": "Give a unit +4 Attack and Quickdraw this turn.",
+	"cost": 2,
+	"influence": "{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rapid_Shot.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-259/rapid-shot",
+	"deckBuildable": true
+}

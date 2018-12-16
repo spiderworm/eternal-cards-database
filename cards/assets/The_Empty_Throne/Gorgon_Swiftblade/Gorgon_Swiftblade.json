@@ -1,0 +1,18 @@
+{
+	"eternalID": 377,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Gorgon Swiftblade",
+	"text": "Infiltrate: Deadly and Quickdraw.",
+	"cost": 2,
+	"influence": "{P}{S}",
+	"attack": 2,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Gorgon_Swiftblade.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-377/gorgon-swiftblade",
+	"deckBuildable": true
+}

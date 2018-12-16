@@ -1,0 +1,18 @@
+{
+	"eternalID": 222,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Duskcaller",
+	"text": "Summon: Nightfall.",
+	"cost": 3,
+	"influence": "{S}",
+	"attack": 3,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Duskcaller.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-222/duskcaller",
+	"deckBuildable": true
+}

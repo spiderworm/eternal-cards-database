@@ -1,0 +1,18 @@
+{
+	"eternalID": 77,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Sparring Partner",
+	"text": "Mentor: Give the Student +1/+1.",
+	"cost": 2,
+	"influence": "{J}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sparring_Partner.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-77/sparring-partner",
+	"deckBuildable": true
+}

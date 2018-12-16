@@ -1,0 +1,17 @@
+{
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Snowball",
+	"text": "Deal 1 damage.",
+	"cost": 1,
+	"influence": "{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "None",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Snowball.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/Yg7Xr_8GH7g/snowball",
+	"deckBuildable": false
+}

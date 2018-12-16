@@ -1,0 +1,18 @@
+{
+	"eternalID": 121,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Stormcrasher",
+	"text": "Flying; Ultimate: Pay 6 to give Stormcrasher +2/+2.",
+	"cost": 3,
+	"influence": "{P}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Stormcrasher.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-121/stormcrasher",
+	"deckBuildable": true
+}

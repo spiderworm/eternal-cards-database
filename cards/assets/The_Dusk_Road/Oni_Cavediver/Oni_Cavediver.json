@@ -1,0 +1,18 @@
+{
+	"eternalID": 11,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Oni Cavediver",
+	"text": "+2 Attack while you have a relic.; Ultimate: Pay 2 to Scout.",
+	"cost": 2,
+	"influence": "{F}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Oni_Cavediver.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-11/oni-cavediver",
+	"deckBuildable": true
+}

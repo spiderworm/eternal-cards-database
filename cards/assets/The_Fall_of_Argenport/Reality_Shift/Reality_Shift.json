@@ -1,0 +1,18 @@
+{
+	"eternalID": 94,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Reality Shift",
+	"text": "Warp; Put an enemy unit into its owner's hand, plus an additional enemy unit for each of your units with Endurance.",
+	"cost": 7,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Reality_Shift.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-94/reality-shift",
+	"deckBuildable": true
+}

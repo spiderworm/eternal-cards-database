@@ -1,0 +1,18 @@
+{
+	"eternalID": 110,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Rilgon's Disciple",
+	"text": "When you play a spell, Rilgon's Disciple deals Double Damage this turn.",
+	"cost": 2,
+	"influence": "{J}",
+	"attack": 2,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rilgon's_Disciple.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-110/rilgons-disciple",
+	"deckBuildable": true
+}

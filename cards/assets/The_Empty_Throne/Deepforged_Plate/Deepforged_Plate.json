@@ -1,0 +1,18 @@
+{
+	"eternalID": 317,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Deepforged Plate",
+	"text": "Overwhelm, Endurance",
+	"cost": 5,
+	"influence": "{F}{F}{J}{J}",
+	"attack": 5,
+	"health": 5,
+	"rarity": "Legendary",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Deepforged_Plate.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-317/deepforged-plate",
+	"deckBuildable": true
+}

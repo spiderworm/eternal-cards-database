@@ -1,0 +1,18 @@
+{
+	"eternalID": 240,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Brel, Solist Apostate",
+	"text": "Warcry, Warcry;Summon: Play a 4/4 relic weapon with Warcry 2 or give your current relic weapon +4/+4 and Warcry 2.",
+	"cost": 7,
+	"influence": "{F}{F}{J}{J}{S}{S}",
+	"attack": 4,
+	"health": 5,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Brel,_Solist_Apostate.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-240/brel-solist-apostate",
+	"deckBuildable": true
+}

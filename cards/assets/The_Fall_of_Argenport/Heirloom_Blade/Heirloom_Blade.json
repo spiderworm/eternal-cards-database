@@ -1,0 +1,18 @@
+{
+	"eternalID": 139,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Heirloom Blade",
+	"text": "Heirloom Blade costs 4 less if you sacrifice a unit to play it.",
+	"cost": 6,
+	"influence": "{J}{J}{J}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Relic Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Heirloom_Blade.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-139/heirloom-blade",
+	"deckBuildable": true
+}

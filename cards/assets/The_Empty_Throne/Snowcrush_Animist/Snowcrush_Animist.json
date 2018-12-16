@@ -1,0 +1,18 @@
+{
+	"eternalID": 384,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Snowcrush Animist",
+	"text": "Deadly; Summon: Kill all enemy units with 3 Attack or less. Stun all other enemy units.",
+	"cost": 8,
+	"influence": "{P}{P}{S}{S}",
+	"attack": 4,
+	"health": 5,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Snowcrush_Animist.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-384/snowcrush-animist",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 337,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Enlightened Stranger",
+	"text": "Empower: All Strangers get +1/+1.",
+	"cost": 4,
+	"influence": "{T}{J}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Enlightened_Stranger.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-337/enlightened-stranger",
+	"deckBuildable": true
+}

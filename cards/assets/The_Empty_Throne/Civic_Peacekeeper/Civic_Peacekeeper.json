@@ -1,0 +1,18 @@
+{
+	"eternalID": 180,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Civic Peacekeeper",
+	"text": "Empower: Stun an enemy unit.",
+	"cost": 6,
+	"influence": "{J}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Civic_Peacekeeper.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-180/civic-peacekeeper",
+	"deckBuildable": true
+}

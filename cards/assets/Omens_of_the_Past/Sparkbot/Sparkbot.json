@@ -1,0 +1,18 @@
+{
+	"eternalID": 13,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Sparkbot",
+	"text": "Spark: Play a 1/1 Grenadin.",
+	"cost": 3,
+	"influence": "{F}",
+	"attack": 1,
+	"health": 4,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sparkbot.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-13/sparkbot",
+	"deckBuildable": true
+}

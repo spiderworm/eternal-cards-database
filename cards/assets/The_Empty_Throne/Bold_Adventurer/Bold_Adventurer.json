@@ -1,0 +1,18 @@
+{
+	"eternalID": 77,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Bold Adventurer",
+	"text": "",
+	"cost": 2,
+	"influence": "{T}",
+	"attack": 2,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bold_Adventurer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-77/bold-adventurer",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 87,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Rabblerouser",
+	"text": "Revenge; Summon: You may give another units +2/+2 this turn.",
+	"cost": 4,
+	"influence": "{J}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rabblerouser.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-87/rabblerouser",
+	"deckBuildable": true
+}

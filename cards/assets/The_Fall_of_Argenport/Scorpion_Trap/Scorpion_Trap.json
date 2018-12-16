@@ -1,0 +1,17 @@
+{
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Scorpion Trap",
+	"text": "Destiny; When Scropion Trap goes to your void, the enemy player plays a 1/1 Scorpion with Deadly.",
+	"cost": 0,
+	"influence": "",
+	"attack": 0,
+	"health": 0,
+	"rarity": "None",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Scorpion_Trap.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/yxZOR5FnfIw/scorpion-trap",
+	"deckBuildable": false
+}

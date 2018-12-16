@@ -1,0 +1,18 @@
+{
+	"eternalID": 228,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Meditative Stranger",
+	"text": "Strangers have Aegis.",
+	"cost": 6,
+	"influence": "{J}{P}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Meditative_Stranger.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-228/meditative-stranger",
+	"deckBuildable": true
+}

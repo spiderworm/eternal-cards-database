@@ -1,0 +1,18 @@
+{
+	"eternalID": 286,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Impending Doom",
+	"text": "Flying; At the end of your turn, Impending Doom deals 1 damage to you.",
+	"cost": 4,
+	"influence": "{S}{S}",
+	"attack": 5,
+	"health": 5,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Impending_Doom.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-286/impending-doom",
+	"deckBuildable": true
+}

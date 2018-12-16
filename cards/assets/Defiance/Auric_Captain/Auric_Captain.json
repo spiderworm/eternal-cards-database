@@ -1,0 +1,18 @@
+{
+	"eternalID": 180,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Auric Captain",
+	"text": "Lifesteal;Your other {S} units have +1/+1.",
+	"cost": 6,
+	"influence": "{S}{S}",
+	"attack": 5,
+	"health": 5,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Auric_Captain.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-180/auric-captain",
+	"deckBuildable": true
+}

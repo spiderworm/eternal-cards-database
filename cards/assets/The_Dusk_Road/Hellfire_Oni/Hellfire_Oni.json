@@ -1,0 +1,18 @@
+{
+	"eternalID": 30,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Hellfire Oni",
+	"text": "Ultimate: When you play a weapon on Hellfire Oni, play an additional copy of that weapon on her.",
+	"cost": 4,
+	"influence": "{F}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hellfire_Oni.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-30/hellfire-oni",
+	"deckBuildable": true
+}

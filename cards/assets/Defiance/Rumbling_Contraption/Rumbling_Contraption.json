@@ -1,0 +1,18 @@
+{
+	"eternalID": 256,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Rumbling Contraption",
+	"text": "Overwhelm;Summon: Exhaust Rumbling Contraption.",
+	"cost": 7,
+	"influence": "",
+	"attack": 6,
+	"health": 4,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rumbling_Contraption.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-256/rumbling-contraption",
+	"deckBuildable": true
+}

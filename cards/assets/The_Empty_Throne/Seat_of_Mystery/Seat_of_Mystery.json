@@ -1,0 +1,18 @@
+{
+	"eternalID": 61,
+	"set": {
+		"id": 0,
+		"name": "The Empty Throne"
+	},
+	"name": "Seat of Mystery",
+	"text": "Gain {T}{S}.; Depleted unless you have a Sigil in your hand.",
+	"cost": 0,
+	"influence": "{T}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Power",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Seat_of_Mystery.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/0-61/seat-of-mystery",
+	"deckBuildable": true
+}

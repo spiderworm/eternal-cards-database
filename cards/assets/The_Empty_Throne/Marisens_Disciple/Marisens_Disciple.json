@@ -1,0 +1,18 @@
+{
+	"eternalID": 104,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Marisen's Disciple",
+	"text": "Summon: Choose and play a 1/1 Scorpion, 2/2 Locust, or 3/3 Sandcrawler.",
+	"cost": 4,
+	"influence": "{T}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Marisen's_Disciple.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-104/marisens-disciple",
+	"deckBuildable": true
+}

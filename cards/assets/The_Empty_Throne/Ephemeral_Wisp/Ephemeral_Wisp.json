@@ -1,0 +1,18 @@
+{
+	"eternalID": 84,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Ephemeral Wisp",
+	"text": "Empower: Play Ephemeral Wisp from your void.",
+	"cost": 2,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 1,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ephemeral_Wisp.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-84/ephemeral-wisp",
+	"deckBuildable": true
+}

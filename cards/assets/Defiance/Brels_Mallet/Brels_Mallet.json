@@ -1,0 +1,17 @@
+{
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Brel's Mallet",
+	"text": "Warcry 2",
+	"cost": 4,
+	"influence": "{F}{J}{S}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "None",
+	"type": "Relic Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Brel's_Mallet.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/Ys8VDmrtzcQ/brel-s-mallet",
+	"deckBuildable": false
+}

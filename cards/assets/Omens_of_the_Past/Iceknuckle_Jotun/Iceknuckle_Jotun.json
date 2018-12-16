@@ -1,0 +1,18 @@
+{
+	"eternalID": 133,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Iceknuckle Jotun",
+	"text": "Spark: Stun an enemy unit.",
+	"cost": 6,
+	"influence": "{P}",
+	"attack": 3,
+	"health": 6,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Iceknuckle_Jotun.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-133/iceknuckle-jotun",
+	"deckBuildable": true
+}

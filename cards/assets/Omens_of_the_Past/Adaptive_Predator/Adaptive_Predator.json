@@ -1,0 +1,18 @@
+{
+	"eternalID": 135,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Adaptive Predator",
+	"text": "Overwhelm, Reckless; When Adaptive Predator hits the enemy player, it gets a random battle skill.",
+	"cost": 7,
+	"influence": "{P}{P}",
+	"attack": 8,
+	"health": 8,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Adaptive_Predator.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-135/adaptive-predator",
+	"deckBuildable": true
+}

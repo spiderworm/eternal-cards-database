@@ -1,0 +1,18 @@
+{
+	"eternalID": 209,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Flash Freeze",
+	"text": "Stun two enemy units.",
+	"cost": 3,
+	"influence": "{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Flash_Freeze.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-209/flash-freeze",
+	"deckBuildable": true
+}

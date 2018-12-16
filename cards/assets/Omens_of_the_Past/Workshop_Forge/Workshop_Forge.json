@@ -1,0 +1,18 @@
+{
+	"eternalID": 182,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Workshop Forge",
+	"text": "Warp; Warp cards on top of your deck cost 2 less.",
+	"cost": 5,
+	"influence": "{F}{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Workshop_Forge.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-182/workshop-forge",
+	"deckBuildable": true
+}

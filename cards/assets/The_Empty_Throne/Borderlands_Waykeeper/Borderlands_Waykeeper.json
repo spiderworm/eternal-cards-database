@@ -1,0 +1,18 @@
+{
+	"eternalID": 517,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Borderlands Waykeeper",
+	"text": "Aegis; Ultimate: Pay 4 to give Borderlands Waykeeper +1 Atack and Flying.",
+	"cost": 2,
+	"influence": "{P}",
+	"attack": 1,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Borderlands_Waykeeper.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-517/borderlands-waykeeper",
+	"deckBuildable": true
+}

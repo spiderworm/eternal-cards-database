@@ -1,0 +1,18 @@
+{
+	"eternalID": 194,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Clan Huntcaller",
+	"text": "Warcry;Summon: Your other units get Warcry this turn.",
+	"cost": 4,
+	"influence": "{F}{S}",
+	"attack": 4,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Clan_Huntcaller.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-194/clan-huntcaller",
+	"deckBuildable": true
+}

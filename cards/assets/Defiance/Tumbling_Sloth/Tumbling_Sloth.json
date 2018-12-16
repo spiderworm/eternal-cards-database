@@ -1,0 +1,18 @@
+{
+	"eternalID": 234,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Tumbling Sloth",
+	"text": "Ambush while you have a relic.",
+	"cost": 3,
+	"influence": "{T}{P}{S}",
+	"attack": 3,
+	"health": 4,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Tumbling_Sloth.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-234/tumbling-sloth",
+	"deckBuildable": true
+}

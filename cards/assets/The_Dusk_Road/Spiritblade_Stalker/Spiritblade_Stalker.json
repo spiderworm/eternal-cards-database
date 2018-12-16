@@ -1,0 +1,18 @@
+{
+	"eternalID": 134,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Spiritblade Stalker",
+	"text": "Ultimate: Pay 6 to give one of your units +1/+1 and Lifesteal.",
+	"cost": 4,
+	"influence": "{J}",
+	"attack": 2,
+	"health": 4,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Spiritblade_Stalker.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-134/spiritblade-stalker",
+	"deckBuildable": true
+}

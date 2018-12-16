@@ -1,0 +1,18 @@
+{
+	"eternalID": 205,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Colossal Pteriax",
+	"text": "Flying, Pledge;Pay 3 to give Colossal Pteriax +1/+1.",
+	"cost": 5,
+	"influence": "{T}{T}{P}{P}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Colossal_Pteriax.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-205/colossal-pteriax",
+	"deckBuildable": true
+}

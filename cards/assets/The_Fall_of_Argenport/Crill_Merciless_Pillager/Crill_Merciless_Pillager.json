@@ -1,0 +1,18 @@
+{
+	"eternalID": 260,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Crill, Merciless Pillager",
+	"text": "Summon: Kill all attachments.; Crill gets a random battle skill for each attachment she killed.",
+	"cost": 7,
+	"influence": "{F}{F}{P}{P}",
+	"attack": 5,
+	"health": 5,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crill,_Merciless_Pillager.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-260/crill-merciless-pillager",
+	"deckBuildable": true
+}

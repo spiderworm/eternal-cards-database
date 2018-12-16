@@ -1,0 +1,18 @@
+{
+	"eternalID": 86,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Dawnwalker",
+	"text": "Overwhelm; {T}{T}{T}{T}: When you play a unit with 5 Attack or more, play Dawnwalker from your void exhausted.",
+	"cost": 3,
+	"influence": "{T}{T}",
+	"attack": 4,
+	"health": 1,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Dawnwalker.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-86/dawnwalker",
+	"deckBuildable": true
+}

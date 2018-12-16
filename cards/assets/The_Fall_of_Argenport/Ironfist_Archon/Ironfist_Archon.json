@@ -1,0 +1,18 @@
+{
+	"eternalID": 140,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Ironfist Archon",
+	"text": "Once per turn, you may pay 6 to draw a unit of your choice from your deck with cost equal to or less than the number of your units in play.",
+	"cost": 6,
+	"influence": "{J}{J}",
+	"attack": 5,
+	"health": 5,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ironfist_Archon.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-140/ironfist-archon",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 85,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Stinging Wind",
+	"text": "Flying during the enemy turn.",
+	"cost": 4,
+	"influence": "{T}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Stinging_Wind.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-85/stinging-wind",
+	"deckBuildable": true
+}

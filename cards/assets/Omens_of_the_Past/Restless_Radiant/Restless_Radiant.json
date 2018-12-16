@@ -1,0 +1,17 @@
+{
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Restless Radiant",
+	"text": "",
+	"cost": 3,
+	"influence": "{T}{S}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Restless_Radiant.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/e6Bxa9ZVTXA/restless-radiant",
+	"deckBuildable": false
+}

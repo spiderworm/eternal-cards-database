@@ -1,0 +1,18 @@
+{
+	"eternalID": 12,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Hotblood Barbarian",
+	"text": "Berserk; Summon: You may discard a card to create a draw Temper.",
+	"cost": 2,
+	"influence": "{F}",
+	"attack": 2,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hotblood_Barbarian.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-12/hotblood-barbarian",
+	"deckBuildable": true
+}

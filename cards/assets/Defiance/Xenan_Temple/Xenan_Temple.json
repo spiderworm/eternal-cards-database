@@ -1,0 +1,18 @@
+{
+	"eternalID": 224,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Xenan Temple",
+	"text": "When an enemy unit dies, steal it and put it into your void.;Worldjoiner's Agenda: Xenan Initiation, Scare, Xenan Augury.",
+	"cost": 5,
+	"influence": "{T}{T}{S}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Legendary",
+	"type": "Site",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Xenan_Temple.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-224/xenan-temple",
+	"deckBuildable": true
+}

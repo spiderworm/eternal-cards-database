@@ -1,0 +1,18 @@
+{
+	"eternalID": 17,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Factory Quota",
+	"text": "Players can't gain Health.; At the end of each player's turn, if they didn't play a unit, deal 2 damage to them.",
+	"cost": 3,
+	"influence": "{F}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Factory_Quota.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-17/factory-quota",
+	"deckBuildable": true
+}

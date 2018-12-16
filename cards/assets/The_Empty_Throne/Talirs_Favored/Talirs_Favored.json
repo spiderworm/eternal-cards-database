@@ -1,0 +1,18 @@
+{
+	"eternalID": 11,
+	"set": {
+		"id": 0,
+		"name": "The Empty Throne"
+	},
+	"name": "Talir's Favored",
+	"text": "Summon: Draw a Time Sigil from your deck.",
+	"cost": 2,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Talir's_Favored.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/0-11/talirs-favored",
+	"deckBuildable": true
+}

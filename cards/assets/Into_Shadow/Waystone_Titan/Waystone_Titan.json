@@ -1,0 +1,18 @@
+{
+	"eternalID": 4,
+	"set": {
+		"id": 1004,
+		"name": "Into Shadow"
+	},
+	"name": "Waystone Titan",
+	"text": "Charge; When Waystone Titan hits the enemy player, you get +6 power this turn.",
+	"cost": 6,
+	"influence": "{F}{F}{F}",
+	"attack": 5,
+	"health": 7,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Waystone_Titan.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1004-4/waystone-titan",
+	"deckBuildable": true
+}

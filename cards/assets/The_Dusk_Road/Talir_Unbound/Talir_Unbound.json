@@ -1,0 +1,18 @@
+{
+	"eternalID": 93,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Talir, Unbound",
+	"text": "At the start of your turn, gain the power you didn't spend last turn.; Ultimate: Pay 33 to give Talir +7/+7 and Overwhelm, then take an additional turn after this one.",
+	"cost": 7,
+	"influence": "{T}{T}{T}",
+	"attack": 7,
+	"health": 7,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Talir,_Unbound.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-93/talir-unbound",
+	"deckBuildable": true
+}

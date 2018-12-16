@@ -1,0 +1,18 @@
+{
+	"eternalID": 375,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Gorgon Fanatic",
+	"text": "Infiltrate: Sacrifice Gorgon Fanatic to draw three cards and gain 3 Health.",
+	"cost": 3,
+	"influence": "{P}{S}",
+	"attack": 3,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Gorgon_Fanatic.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-375/gorgon-fanatic",
+	"deckBuildable": true
+}

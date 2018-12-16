@@ -1,0 +1,18 @@
+{
+	"eternalID": 166,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Auric Runehammer",
+	"text": "Summon: You are invulnerable to damage this turn.",
+	"cost": 4,
+	"influence": "{J}{J}",
+	"attack": 4,
+	"health": 1,
+	"rarity": "Rare",
+	"type": "Relic Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Auric_Runehammer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-166/auric-runehammer",
+	"deckBuildable": true
+}

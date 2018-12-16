@@ -1,0 +1,18 @@
+{
+	"eternalID": 166,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Flickerling",
+	"text": "Flying",
+	"cost": 3,
+	"influence": "{S}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Flickerling.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-166/flickerling",
+	"deckBuildable": true
+}

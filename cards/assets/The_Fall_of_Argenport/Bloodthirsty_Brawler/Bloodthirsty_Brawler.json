@@ -1,0 +1,18 @@
+{
+	"eternalID": 259,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Bloodthirsty Brawler",
+	"text": "Berserk, Overwhelm",
+	"cost": 5,
+	"influence": "{F}{P}",
+	"attack": 4,
+	"health": 6,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bloodthirsty_Brawler.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-259/bloodthirsty-brawler",
+	"deckBuildable": true
+}

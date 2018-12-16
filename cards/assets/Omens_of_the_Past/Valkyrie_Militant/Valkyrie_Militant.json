@@ -1,0 +1,18 @@
+{
+	"eternalID": 89,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Valkyrie Militant",
+	"text": "Flying; When you play a weapon, you gain +2 Armor.",
+	"cost": 4,
+	"influence": "{J}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Valkyrie_Militant.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-89/valkyrie-militant",
+	"deckBuildable": true
+}

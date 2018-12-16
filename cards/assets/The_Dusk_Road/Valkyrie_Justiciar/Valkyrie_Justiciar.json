@@ -1,0 +1,18 @@
+{
+	"eternalID": 124,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Valkyrie Justiciar",
+	"text": "Flying; Summon: Choose a card with cost 4 or more in the enemy hand. They can't play cards with that name while you have Valkyrie Justiciar.",
+	"cost": 3,
+	"influence": "{J}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Valkyrie_Justiciar.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-124/valkyrie-justiciar",
+	"deckBuildable": true
+}

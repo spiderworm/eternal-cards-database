@@ -1,0 +1,18 @@
+{
+	"eternalID": 235,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Shadowlands Tyrant",
+	"text": "Lifesteal; When Shadowlands Tyrant attacks, he deals 1 damage to an enemy.; Then, increase this ability by 1.",
+	"cost": 5,
+	"influence": "{S}{S}{S}",
+	"attack": 6,
+	"health": 4,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Shadowlands_Tyrant.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-235/shadowlands-tyrant",
+	"deckBuildable": true
+}

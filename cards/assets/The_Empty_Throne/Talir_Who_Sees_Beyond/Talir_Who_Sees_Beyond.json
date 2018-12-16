@@ -1,0 +1,18 @@
+{
+	"eternalID": 124,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Talir, Who Sees Beyond",
+	"text": "Overwhelm; Your {T} units have Destiny.",
+	"cost": 8,
+	"influence": "{T}{T}{T}",
+	"attack": 6,
+	"health": 6,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Talir,_Who_Sees_Beyond.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-124/talir-who-sees-beyond",
+	"deckBuildable": true
+}

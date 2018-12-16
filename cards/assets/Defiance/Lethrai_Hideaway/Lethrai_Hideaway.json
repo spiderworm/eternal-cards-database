@@ -1,0 +1,18 @@
+{
+	"eternalID": 192,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Lethrai Hideaway",
+	"text": "Once per turn, you may pay 4 to give one of your Elves +2 Strength.;Summon: Play a 2/1 Dark Elf.",
+	"cost": 2,
+	"influence": "{P}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lethrai_Hideaway.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-192/lethrai-hideaway",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 32,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Oni Quartermaster",
+	"text": "When you play a weapon, draw a card.",
+	"cost": 3,
+	"influence": "{F}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Oni_Quartermaster.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-32/oni-quartermaster",
+	"deckBuildable": true
+}

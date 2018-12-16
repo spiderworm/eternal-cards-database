@@ -1,0 +1,18 @@
+{
+	"eternalID": 147,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Starved Vorlunk",
+	"text": "Overwhelm;Amplify 2: +3/+3.",
+	"cost": 7,
+	"influence": "{P}{P}",
+	"attack": 6,
+	"health": 6,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Starved_Vorlunk.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-147/starved-vorlunk",
+	"deckBuildable": true
+}

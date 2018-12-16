@@ -1,0 +1,18 @@
+{
+	"eternalID": 84,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Spiteful Lumen",
+	"text": "Summon: Give one of your Wisps Deadly.",
+	"cost": 3,
+	"influence": "{T}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Spiteful_Lumen.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-84/spiteful-lumen",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 104,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Hearty Stranger",
+	"text": "Strangers have +1 Health.",
+	"cost": 1,
+	"influence": "{P}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hearty_Stranger.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-104/hearty-stranger",
+	"deckBuildable": true
+}

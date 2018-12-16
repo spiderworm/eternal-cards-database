@@ -1,0 +1,18 @@
+{
+	"eternalID": 340,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Copperhall Elite",
+	"text": "Overwhelm, Aegis",
+	"cost": 4,
+	"influence": "{T}{J}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Copperhall_Elite.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-340/copperhall-elite",
+	"deckBuildable": true
+}

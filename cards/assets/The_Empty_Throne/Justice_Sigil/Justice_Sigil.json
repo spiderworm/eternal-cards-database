@@ -1,0 +1,18 @@
+{
+	"eternalID": 126,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Justice Sigil",
+	"text": "",
+	"cost": 0,
+	"influence": "{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "None",
+	"type": "Power",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Justice_Sigil.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-126/justice-sigil",
+	"deckBuildable": true
+}

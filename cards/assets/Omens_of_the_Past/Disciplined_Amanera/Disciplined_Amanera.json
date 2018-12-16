@@ -1,0 +1,18 @@
+{
+	"eternalID": 47,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Disciplined Amanera",
+	"text": "Lifeforce: When you gain Health, Disciplined Amanera gets +1/+1.",
+	"cost": 3,
+	"influence": "{T}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Disciplined_Amanera.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-47/disciplined-amanera",
+	"deckBuildable": true
+}

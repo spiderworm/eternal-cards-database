@@ -1,0 +1,18 @@
+{
+	"eternalID": 335,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Knight-Chancellor Siraf",
+	"text": "Overwhelm; Pay 8 and exhaust Siraf to play a random {T} or {J} unit and double its Attack / Health.",
+	"cost": 3,
+	"influence": "{T}{J}",
+	"attack": 3,
+	"health": 4,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Knight-Chancellor_Siraf.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-335/knight-chancellor-siraf",
+	"deckBuildable": true
+}

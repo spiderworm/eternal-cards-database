@@ -1,0 +1,18 @@
+{
+	"eternalID": 212,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Dreamsnatcher",
+	"text": "Lifesteal; When the enemy player discards a non-power card, Dreamsnatcher gets +1 Attack.; Ultimate: Pay 10 to make the enemy player discard the top 15 cards of their deck.",
+	"cost": 2,
+	"influence": "{S}{S}",
+	"attack": 2,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Dreamsnatcher.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-212/dreamsnatcher",
+	"deckBuildable": true
+}

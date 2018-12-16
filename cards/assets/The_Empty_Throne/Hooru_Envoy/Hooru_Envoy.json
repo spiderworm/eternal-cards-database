@@ -1,0 +1,18 @@
+{
+	"eternalID": 155,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Hooru Envoy",
+	"text": "When a spell is played directly on Hooru Envoy, you draw a card.",
+	"cost": 3,
+	"influence": "{J}{J}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hooru_Envoy.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-155/hooru-envoy",
+	"deckBuildable": true
+}

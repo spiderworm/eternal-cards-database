@@ -1,0 +1,18 @@
+{
+	"eternalID": 100,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Leave a Witness",
+	"text": "Kill all units.; Mentor: Spare the Student.",
+	"cost": 7,
+	"influence": "{J}{J}{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Legendary",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Leave_a_Witness.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-100/leave-a-witness",
+	"deckBuildable": true
+}

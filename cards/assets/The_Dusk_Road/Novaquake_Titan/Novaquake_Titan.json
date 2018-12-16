@@ -1,0 +1,18 @@
+{
+	"eternalID": 100,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Novaquake Titan",
+	"text": "Bond; When you bond Novaquake Titan, silence each enemy unit and put them into the enemy hand. Then, draw a card for each of your relics.",
+	"cost": 16,
+	"influence": "{T}{T}{T}{T}",
+	"attack": 10,
+	"health": 11,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Novaquake_Titan.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-100/novaquake-titan",
+	"deckBuildable": true
+}

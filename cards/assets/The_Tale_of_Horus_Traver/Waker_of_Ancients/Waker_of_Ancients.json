@@ -1,0 +1,18 @@
+{
+	"eternalID": 16,
+	"set": {
+		"id": 1002,
+		"name": "The Tale of Horus Traver"
+	},
+	"name": "Waker of Ancients",
+	"text": "Your units with 5 Attack or more have Warp.",
+	"cost": 2,
+	"influence": "{F}{T}",
+	"attack": 1,
+	"health": 2,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Waker_of_Ancients.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1002-16/waker-of-ancients",
+	"deckBuildable": true
+}

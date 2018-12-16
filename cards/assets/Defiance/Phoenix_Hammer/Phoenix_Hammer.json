@@ -1,0 +1,18 @@
+{
+	"eternalID": 32,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Phoenix Hammer",
+	"text": "When you play your third spell in a turn, draw Phoenix Hammer from your void.;Amplify 2: +1 Strength.",
+	"cost": 6,
+	"influence": "{F}{F}",
+	"attack": 4,
+	"health": 2,
+	"rarity": "Rare",
+	"type": "Relic Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Phoenix_Hammer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-32/phoenix-hammer",
+	"deckBuildable": true
+}

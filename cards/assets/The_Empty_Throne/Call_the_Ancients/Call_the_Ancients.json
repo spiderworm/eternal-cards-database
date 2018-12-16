@@ -1,0 +1,18 @@
+{
+	"eternalID": 350,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Call the Ancients",
+	"text": "Put four 6/6 Titans with Aegis and Endurance into your deck.",
+	"cost": 1,
+	"influence": "{T}{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Legendary",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Call_the_Ancients.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-350/call-the-ancients",
+	"deckBuildable": true
+}

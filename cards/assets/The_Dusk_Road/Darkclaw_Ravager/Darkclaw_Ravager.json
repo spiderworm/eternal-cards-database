@@ -1,0 +1,18 @@
+{
+	"eternalID": 221,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Darkclaw Ravager",
+	"text": "Summon: Nightfall.; When you play another Dinosaur at Night, it gets Darkclaw Ravager's Attack.",
+	"cost": 3,
+	"influence": "{S}{S}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Darkclaw_Ravager.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-221/darkclaw-ravager",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 1,
+	"set": {
+		"id": 1002,
+		"name": "The Tale of Horus Traver"
+	},
+	"name": "Cinder Yeti",
+	"text": "Overwhelm, Warp; Summon: Exhaust an enemy unit.",
+	"cost": 3,
+	"influence": "{F}",
+	"attack": 3,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cinder_Yeti.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1002-1/cinder-yeti",
+	"deckBuildable": true
+}

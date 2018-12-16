@@ -1,0 +1,18 @@
+{
+	"eternalID": 258,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Crunch, the Hoarder",
+	"text": "Overwhelm; Infiltrate: Draw two cards, then discard a card. If you discarded a spell or attachment, Crunch gets Berserk.",
+	"cost": 3,
+	"influence": "{F}{P}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crunch,_the_Hoarder.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-258/crunch-the-hoarder",
+	"deckBuildable": true
+}

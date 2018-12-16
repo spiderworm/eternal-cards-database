@@ -1,0 +1,18 @@
+{
+	"eternalID": 140,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Paladin Oathbook",
+	"text": "When you attack the enemy player with exactly one unit, it gets +1/+1.",
+	"cost": 2,
+	"influence": "{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Paladin_Oathbook.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-140/paladin-oathbook",
+	"deckBuildable": true
+}

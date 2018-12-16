@@ -1,0 +1,18 @@
+{
+	"eternalID": 513,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Find the Way",
+	"text": "Echo; Draw a Sigil of your choice from your deck. It is depleted when played.",
+	"cost": 2,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Find_the_Way.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-513/find-the-way",
+	"deckBuildable": true
+}

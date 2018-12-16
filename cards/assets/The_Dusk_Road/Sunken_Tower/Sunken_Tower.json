@@ -1,0 +1,18 @@
+{
+	"eternalID": 175,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Sunken Tower",
+	"text": "Once per turn, you may pay 5 to play a copy of one of your units without Reckless, then give them both Reckless.; After the third use, sacrifice Sunken Tower to stun all units.",
+	"cost": 3,
+	"influence": "{P}{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Legendary",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sunken_Tower.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-175/sunken-tower",
+	"deckBuildable": true
+}

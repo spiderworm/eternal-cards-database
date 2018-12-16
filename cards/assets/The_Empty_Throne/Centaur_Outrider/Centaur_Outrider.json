@@ -1,0 +1,18 @@
+{
+	"eternalID": 35,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Centaur Outrider",
+	"text": "",
+	"cost": 4,
+	"influence": "{F}",
+	"attack": 5,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Centaur_Outrider.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-35/centaur-outrider",
+	"deckBuildable": true
+}

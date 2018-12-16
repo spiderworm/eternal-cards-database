@@ -1,0 +1,18 @@
+{
+	"eternalID": 57,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Staff of Speed",
+	"text": "Endurance; Spellcraft 3: Play Slow.",
+	"cost": 1,
+	"influence": "{T}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Staff_of_Speed.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-57/staff-of-speed",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 102,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Soaring Guard",
+	"text": "Flying; Summon: You gain 2 Armor.",
+	"cost": 2,
+	"influence": "{J}",
+	"attack": 1,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Soaring_Guard.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-102/soaring-guard",
+	"deckBuildable": true
+}

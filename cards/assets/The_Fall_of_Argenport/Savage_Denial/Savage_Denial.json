@@ -1,0 +1,18 @@
+{
+	"eternalID": 147,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Savage Denial",
+	"text": "Negate an enemy fast spell.",
+	"cost": 1,
+	"influence": "{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Savage_Denial.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-147/savage-denial",
+	"deckBuildable": true
+}

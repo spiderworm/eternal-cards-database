@@ -1,0 +1,18 @@
+{
+	"eternalID": 175,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Galeprowler",
+	"text": "When you play a spell, Galeprowler gets +1/+1 and Flying this turn.",
+	"cost": 4,
+	"influence": "{P}",
+	"attack": 3,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Galeprowler.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-175/galeprowler",
+	"deckBuildable": true
+}

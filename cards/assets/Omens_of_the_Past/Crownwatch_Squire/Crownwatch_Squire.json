@@ -1,0 +1,18 @@
+{
+	"eternalID": 69,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Crownwatch Squire",
+	"text": "Ultimate: When Crownwatch Squire is a Student, give him +2/+2.",
+	"cost": 1,
+	"influence": "{J}",
+	"attack": 1,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crownwatch_Squire.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-69/crownwatch-squire",
+	"deckBuildable": true
+}

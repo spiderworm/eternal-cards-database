@@ -1,0 +1,18 @@
+{
+	"eternalID": 82,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Friendly Wisp",
+	"text": "Flying; Ultimate: When you play a unit with 5 Attack or more, draw two cards.",
+	"cost": 2,
+	"influence": "{T}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Friendly_Wisp.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-82/friendly-wisp",
+	"deckBuildable": true
+}

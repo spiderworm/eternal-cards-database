@@ -1,0 +1,18 @@
+{
+	"eternalID": 55,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Hellfire Rifle",
+	"text": "Summon: The wielder deals 3 damage to the enemy player.",
+	"cost": 6,
+	"influence": "{F}{F}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hellfire_Rifle.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-55/hellfire-rifle",
+	"deckBuildable": true
+}

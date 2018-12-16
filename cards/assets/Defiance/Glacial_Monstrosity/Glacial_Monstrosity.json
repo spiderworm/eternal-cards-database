@@ -1,0 +1,17 @@
+{
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Glacial Monstrosity",
+	"text": "Overwhelm",
+	"cost": 3,
+	"influence": "",
+	"attack": 0,
+	"health": 0,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Glacial_Monstrosity.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/e0FhmNfhd-M/glacial-monstrosity",
+	"deckBuildable": false
+}

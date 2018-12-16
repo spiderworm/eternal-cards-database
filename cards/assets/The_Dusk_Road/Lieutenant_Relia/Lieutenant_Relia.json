@@ -1,0 +1,18 @@
+{
+	"eternalID": 305,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Lieutenant Relia",
+	"text": "Double Damage, Endurance; Invulnerable to damage.; Fate: If you have drawn two or fewer power cards, create and draw a Justice Sigil. Otherwise, Relia gets +1/+1.",
+	"cost": 8,
+	"influence": "{J}{J}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Promo",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lieutenant_Relia.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-305/lieutenant-relia",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 68,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Moonstone Vanguard",
+	"text": "Endurance, Pledge;When Moonstone Vanguard attacks, draw a card.;When it blocks, you gain 5 Health.",
+	"cost": 5,
+	"influence": "{T}{T}",
+	"attack": 5,
+	"health": 5,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Moonstone_Vanguard.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-68/moonstone-vanguard",
+	"deckBuildable": true
+}

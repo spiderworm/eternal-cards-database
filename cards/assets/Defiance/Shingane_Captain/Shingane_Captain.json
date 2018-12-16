@@ -1,0 +1,18 @@
+{
+	"eternalID": 33,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Shingane Captain",
+	"text": "Charge;Your other {F} units have +1/+1.",
+	"cost": 6,
+	"influence": "{F}{F}",
+	"attack": 5,
+	"health": 5,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Shingane_Captain.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-33/shingane-captain",
+	"deckBuildable": true
+}

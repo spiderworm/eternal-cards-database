@@ -1,0 +1,18 @@
+{
+	"eternalID": 178,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Pillar of Dreams",
+	"text": "When a unit goes to your void, your other units get +1 Strength.",
+	"cost": 5,
+	"influence": "{S}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Pillar_of_Dreams.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-178/pillar-of-dreams",
+	"deckBuildable": true
+}

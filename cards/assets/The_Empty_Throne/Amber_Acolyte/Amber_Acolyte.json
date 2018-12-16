@@ -1,0 +1,18 @@
+{
+	"eternalID": 93,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Amber Acolyte",
+	"text": "Summon: Draw a Sigil of your choice from your deck.",
+	"cost": 3,
+	"influence": "{T}",
+	"attack": 2,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Amber_Acolyte.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-93/amber-acolyte",
+	"deckBuildable": true
+}

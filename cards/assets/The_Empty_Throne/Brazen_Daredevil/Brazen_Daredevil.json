@@ -1,0 +1,18 @@
+{
+	"eternalID": 19,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Brazen Daredevil",
+	"text": "Reckless; When Brazen Daredevil attacks, she deals her Attack in damage to a random enemy.",
+	"cost": 2,
+	"influence": "{F}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Brazen_Daredevil.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-19/brazen-daredevil",
+	"deckBuildable": true
+}

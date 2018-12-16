@@ -1,0 +1,18 @@
+{
+	"eternalID": 62,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Lavablood Goliath",
+	"text": "Overwhelm; Summon: Deal Lavablood Goliath's Attack in damage.",
+	"cost": 9,
+	"influence": "{F}{F}",
+	"attack": 6,
+	"health": 6,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lavablood_Goliath.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-62/lavablood-goliath",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 64,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Sand Warrior",
+	"text": "",
+	"cost": 0,
+	"influence": "{T}{T}{T}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sand_Warrior.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-64/sand-warrior",
+	"deckBuildable": true
+}

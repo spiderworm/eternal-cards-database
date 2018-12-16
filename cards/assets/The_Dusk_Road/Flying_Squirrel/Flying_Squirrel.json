@@ -1,0 +1,17 @@
+{
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Flying Squirrel",
+	"text": "Flying",
+	"cost": 2,
+	"influence": "",
+	"attack": 2,
+	"health": 2,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Flying_Squirrel.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/rqJd2Wz1YME/flying-squirrel",
+	"deckBuildable": false
+}

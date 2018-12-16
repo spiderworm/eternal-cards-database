@@ -1,0 +1,18 @@
+{
+	"eternalID": 64,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Plated Goliath",
+	"text": "Overwhelm, Warp",
+	"cost": 6,
+	"influence": "{T}{T}",
+	"attack": 7,
+	"health": 5,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Plated_Goliath.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-64/plated-goliath",
+	"deckBuildable": true
+}

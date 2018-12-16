@@ -1,0 +1,18 @@
+{
+	"eternalID": 98,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Harmless Question",
+	"text": "Stun an enemy unit.",
+	"cost": 0,
+	"influence": "{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Harmless_Question.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-98/harmless-question",
+	"deckBuildable": true
+}

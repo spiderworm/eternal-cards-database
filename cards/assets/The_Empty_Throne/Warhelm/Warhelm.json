@@ -1,0 +1,18 @@
+{
+	"eternalID": 14,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Warhelm",
+	"text": "Charge, Warcry",
+	"cost": 1,
+	"influence": "{F}",
+	"attack": 1,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Warhelm.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-14/warhelm",
+	"deckBuildable": true
+}

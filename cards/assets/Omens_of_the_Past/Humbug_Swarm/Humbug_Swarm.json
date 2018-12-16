@@ -1,0 +1,18 @@
+{
+	"eternalID": 60,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Humbug Swarm",
+	"text": "Play three 1/1 Humbugs with Flying.",
+	"cost": 6,
+	"influence": "{T}{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Humbug_Swarm.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-60/humbug-swarm",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 43,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Dashing Rapscallion",
+	"text": "Berserk; When Dashing Rapscallion attacks, she gets +2 Attack.",
+	"cost": 6,
+	"influence": "{F}{F}",
+	"attack": 5,
+	"health": 5,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Dashing_Rapscallion.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-43/dashing-rapscallion",
+	"deckBuildable": true
+}

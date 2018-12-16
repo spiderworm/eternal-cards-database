@@ -1,0 +1,18 @@
+{
+	"eternalID": 266,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Crest of Mystery",
+	"text": "Depleted; Gain {T}{S}.; Scout.",
+	"cost": 0,
+	"influence": "{T}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Power",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crest_of_Mystery.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-266/crest-of-mystery",
+	"deckBuildable": true
+}

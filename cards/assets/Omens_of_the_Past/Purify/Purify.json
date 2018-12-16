@@ -1,0 +1,18 @@
+{
+	"eternalID": 176,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Purify",
+	"text": "Silence a unit and deal 3 damage to it.",
+	"cost": 2,
+	"influence": "{F}{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Purify.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-176/purify",
+	"deckBuildable": true
+}

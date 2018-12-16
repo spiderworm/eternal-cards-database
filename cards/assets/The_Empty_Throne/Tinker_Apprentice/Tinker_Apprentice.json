@@ -1,0 +1,18 @@
+{
+	"eternalID": 131,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Tinker Apprentice",
+	"text": "Summon: Give a unit or weapon in your hand +1/+1.",
+	"cost": 1,
+	"influence": "{J}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Tinker_Apprentice.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-131/tinker-apprentice",
+	"deckBuildable": true
+}

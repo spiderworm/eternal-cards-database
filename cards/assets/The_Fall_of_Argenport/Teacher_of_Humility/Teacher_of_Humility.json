@@ -1,0 +1,18 @@
+{
+	"eternalID": 67,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Teacher of Humility",
+	"text": "Infiltrate: Play Disciplinary Weights on the enemy player.; Then each player draws a card.",
+	"cost": 2,
+	"influence": "{T}{T}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Teacher_of_Humility.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-67/teacher-of-humility",
+	"deckBuildable": true
+}

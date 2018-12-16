@@ -1,0 +1,18 @@
+{
+	"eternalID": 224,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Stormcaller",
+	"text": "Exhaust Stormcaller to deal 1 damage.",
+	"cost": 4,
+	"influence": "{P}{P}",
+	"attack": 0,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Stormcaller.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-224/stormcaller",
+	"deckBuildable": true
+}

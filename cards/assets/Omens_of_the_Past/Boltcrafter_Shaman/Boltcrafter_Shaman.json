@@ -1,0 +1,18 @@
+{
+	"eternalID": 131,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Boltcrafter Shaman",
+	"text": "Your spells deal +2 damage.",
+	"cost": 6,
+	"influence": "{P}",
+	"attack": 2,
+	"health": 6,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Boltcrafter_Shaman.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-131/boltcrafter-shaman",
+	"deckBuildable": true
+}

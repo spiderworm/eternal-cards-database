@@ -1,0 +1,18 @@
+{
+	"eternalID": 126,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Courier Albatross",
+	"text": "Flying;Amplify 3: +1/+1 and draw a card.",
+	"cost": 3,
+	"influence": "{P}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Courier_Albatross.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-126/courier-albatross",
+	"deckBuildable": true
+}

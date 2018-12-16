@@ -1,0 +1,18 @@
+{
+	"eternalID": 86,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Peacekeeper's Prod",
+	"text": "Summon: Stun an enemy unit.",
+	"cost": 4,
+	"influence": "{J}{J}{J}",
+	"attack": 3,
+	"health": 2,
+	"rarity": "Rare",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Peacekeeper's_Prod.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-86/peacekeepers-prod",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 250,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Siraf's Choice",
+	"text": "- Double the Attack/Health of your units this turn, or; - Draw a unit of your choice from your deck and double its Attack/Health.",
+	"cost": 8,
+	"influence": "{T}{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Siraf's_Choice.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-250/sirafs-choice",
+	"deckBuildable": true
+}

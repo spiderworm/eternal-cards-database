@@ -1,0 +1,18 @@
+{
+	"eternalID": 362,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Cirso, the Great Glutton",
+	"text": "Overwhelm; When a unit blocks or is blocked by Cirso, transform that unit into a 2/2 Pig.",
+	"cost": 5,
+	"influence": "{T}{T}{P}{P}",
+	"attack": 6,
+	"health": 6,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cirso,_the_Great_Glutton.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-362/cirso-the-great-glutton",
+	"deckBuildable": true
+}

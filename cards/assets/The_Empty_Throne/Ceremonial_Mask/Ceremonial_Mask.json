@@ -1,0 +1,18 @@
+{
+	"eternalID": 178,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Ceremonial Mask",
+	"text": "Summon: Give one of your units +4/+4 this turn.",
+	"cost": 6,
+	"influence": "{J}{J}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "Uncommon",
+	"type": "Relic Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ceremonial_Mask.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-178/ceremonial-mask",
+	"deckBuildable": true
+}

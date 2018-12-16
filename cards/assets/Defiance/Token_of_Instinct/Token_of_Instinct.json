@@ -1,0 +1,18 @@
+{
+	"eternalID": 241,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Token of Instinct",
+	"text": "Depleted;Gain {F}, {T}, or {P}.",
+	"cost": 0,
+	"influence": "",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Power",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Token_of_Instinct.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-241/token-of-instinct",
+	"deckBuildable": true
+}

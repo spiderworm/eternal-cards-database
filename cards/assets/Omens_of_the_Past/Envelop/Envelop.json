@@ -1,0 +1,18 @@
+{
+	"eternalID": 36,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Envelop",
+	"text": "Put an attacking enemy unit into its owner's hand.",
+	"cost": 1,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Envelop.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-36/envelop",
+	"deckBuildable": true
+}

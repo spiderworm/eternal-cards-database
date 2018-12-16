@@ -1,0 +1,18 @@
+{
+	"eternalID": 34,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Censari Brigand",
+	"text": "Charge; Deals double damage to players.",
+	"cost": 3,
+	"influence": "{F}{F}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Censari_Brigand.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-34/censari-brigand",
+	"deckBuildable": true
+}

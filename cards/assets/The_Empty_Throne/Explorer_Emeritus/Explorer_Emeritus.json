@@ -1,0 +1,18 @@
+{
+	"eternalID": 361,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Explorer Emeritus",
+	"text": "Exhaust Explorer Emeritus to draw a card.",
+	"cost": 5,
+	"influence": "{T}{T}{P}{P}",
+	"attack": 0,
+	"health": 2,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Explorer_Emeritus.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-361/explorer-emeritus",
+	"deckBuildable": true
+}

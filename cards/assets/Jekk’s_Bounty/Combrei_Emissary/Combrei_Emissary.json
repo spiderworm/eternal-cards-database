@@ -1,0 +1,18 @@
+{
+	"eternalID": 12,
+	"set": {
+		"id": 1001,
+		"name": "Jekk’s Bounty"
+	},
+	"name": "Combrei Emissary",
+	"text": "You can play an additional power card each turn.",
+	"cost": 3,
+	"influence": "{T}{J}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Combrei_Emissary.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1001-12/combrei-emissary",
+	"deckBuildable": true
+}

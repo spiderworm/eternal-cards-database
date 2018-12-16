@@ -1,0 +1,17 @@
+{
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Steel Golem",
+	"text": "Double Damage",
+	"cost": 2,
+	"influence": "{J}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Steel_Golem.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/HiSLFPE2zhQ/steel-golem",
+	"deckBuildable": false
+}

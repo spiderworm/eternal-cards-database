@@ -1,0 +1,18 @@
+{
+	"eternalID": 31,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Dramatist's Mask",
+	"text": "Charge; At the start of your turn, sacrifice the wielder to play a random unit from your deck, then play a copy of Dramatist's Mask on it.",
+	"cost": 4,
+	"influence": "{F}{F}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Legendary",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Dramatist's_Mask.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-31/dramatists-mask",
+	"deckBuildable": true
+}

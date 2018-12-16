@@ -1,0 +1,18 @@
+{
+	"eternalID": 191,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Vadius, Clan Father",
+	"text": "Aegis, Quickdraw; Ultimate: Pay 7 to play a Steelfang Chakram on Vadius.",
+	"cost": 3,
+	"influence": "{F}{F}{P}",
+	"attack": 3,
+	"health": 2,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Vadius,_Clan_Father.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-191/vadius-clan-father",
+	"deckBuildable": true
+}

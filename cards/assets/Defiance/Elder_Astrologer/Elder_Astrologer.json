@@ -1,0 +1,18 @@
+{
+	"eternalID": 175,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Elder Astrologer",
+	"text": "Flying;Summon: Give one of your other units +1 Strength and Lifesteal this turn for each of your units.",
+	"cost": 5,
+	"influence": "{S}{S}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Elder_Astrologer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-175/elder-astrologer",
+	"deckBuildable": true
+}

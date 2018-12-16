@@ -1,0 +1,18 @@
+{
+	"eternalID": 141,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Crownwatch Quartermaster",
+	"text": "Pay 6 and exhaust Crownwatch Quartermaster to give another unit +1/+1 for each of your units.; Valkyrie Ally: Play two 2/2/ Soldiers.",
+	"cost": 6,
+	"influence": "{J}{J}",
+	"attack": 2,
+	"health": 4,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crownwatch_Quartermaster.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-141/crownwatch-quartermaster",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 182,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "First-Frost Shaman",
+	"text": "Summon: Give one of your other units +3 Health while you have First-Frost Shaman.",
+	"cost": 5,
+	"influence": "{P}",
+	"attack": 2,
+	"health": 5,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/First-Frost_Shaman.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-182/first-frost-shaman",
+	"deckBuildable": true
+}

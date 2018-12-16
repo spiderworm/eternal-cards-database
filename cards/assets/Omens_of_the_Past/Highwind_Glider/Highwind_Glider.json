@@ -1,0 +1,18 @@
+{
+	"eternalID": 227,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Highwind Glider",
+	"text": "Flying; Pay 5 to draw a card.",
+	"cost": 6,
+	"influence": "{J}{P}",
+	"attack": 1,
+	"health": 5,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Highwind_Glider.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-227/highwind-glider",
+	"deckBuildable": true
+}

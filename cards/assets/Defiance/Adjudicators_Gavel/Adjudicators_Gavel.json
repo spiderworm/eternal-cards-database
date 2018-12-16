@@ -1,0 +1,18 @@
+{
+	"eternalID": 76,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Adjudicator's Gavel",
+	"text": "Cards can't leave the cursed player's void.",
+	"cost": 1,
+	"influence": "{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Cursed Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Adjudicator's_Gavel.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-76/adjudicators-gavel",
+	"deckBuildable": true
+}

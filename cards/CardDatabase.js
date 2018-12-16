@@ -1,3 +1,4 @@
+const setDatabase = require('../sets/setDatabase.js');
 const Card = require('./Card.js');
 
 function CardDatabase() {

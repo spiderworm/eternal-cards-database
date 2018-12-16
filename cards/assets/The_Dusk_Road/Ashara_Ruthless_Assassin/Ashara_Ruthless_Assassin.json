@@ -1,0 +1,18 @@
+{
+	"eternalID": 220,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Ashara, Ruthless Assassin",
+	"text": "Deadly; When Ashara attacks with exactly one other unit, she gets +4 Attack and Quickdraw this turn. At the end of the turn, she kills the unit.",
+	"cost": 3,
+	"influence": "{S}{S}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ashara,_Ruthless_Assassin.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-220/ashara-ruthless-assassin",
+	"deckBuildable": true
+}

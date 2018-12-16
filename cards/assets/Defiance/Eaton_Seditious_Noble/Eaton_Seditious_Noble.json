@@ -1,0 +1,18 @@
+{
+	"eternalID": 199,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Eaton, Seditious Noble",
+	"text": "Pledge;When one of your units becomes Renowned, create and draw a 3/3 Crownwatch Deserter with Warcry.",
+	"cost": 4,
+	"influence": "{F}{F}{J}{J}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Eaton,_Seditious_Noble.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-199/eaton-seditious-noble",
+	"deckBuildable": true
+}

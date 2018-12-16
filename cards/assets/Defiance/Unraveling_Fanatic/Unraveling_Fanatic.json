@@ -1,0 +1,18 @@
+{
+	"eternalID": 55,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Unraveling Fanatic",
+	"text": "At the start of your turn, each player draws an additional card. After three turns, transform Unraveling Fanatic into Sanity's Anathema.",
+	"cost": 3,
+	"influence": "{T}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Unraveling_Fanatic.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-55/unraveling-fanatic",
+	"deckBuildable": true
+}

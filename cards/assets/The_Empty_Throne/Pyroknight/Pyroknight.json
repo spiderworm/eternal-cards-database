@@ -1,0 +1,18 @@
+{
+	"eternalID": 16,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Pyroknight",
+	"text": "Overwhelm; Ultimate: Pay 6 to give Pyroknight +4/+4.",
+	"cost": 1,
+	"influence": "{F}",
+	"attack": 2,
+	"health": 1,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Pyroknight.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-16/pyroknight",
+	"deckBuildable": true
+}

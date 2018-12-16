@@ -1,0 +1,18 @@
+{
+	"eternalID": 195,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Storm Glider",
+	"text": "Flying, Overwhelm; Pay 5 to give Storm Glider +3 Attack this turn.",
+	"cost": 4,
+	"influence": "{F}{P}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Storm_Glider.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-195/storm-glider",
+	"deckBuildable": true
+}

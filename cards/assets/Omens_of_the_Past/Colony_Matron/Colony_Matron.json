@@ -1,0 +1,18 @@
+{
+	"eternalID": 255,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Colony Matron",
+	"text": "Flying; At the start of your turn, play a 1/1 Vampire Bat with Flying and Lifesteal.",
+	"cost": 5,
+	"influence": "{S}",
+	"attack": 1,
+	"health": 5,
+	"rarity": "Promo",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Colony_Matron.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-255/colony-matron",
+	"deckBuildable": true
+}

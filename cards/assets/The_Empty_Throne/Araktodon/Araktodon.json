@@ -1,0 +1,18 @@
+{
+	"eternalID": 238,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Araktodon",
+	"text": "Overwhelm",
+	"cost": 7,
+	"influence": "{P}",
+	"attack": 5,
+	"health": 6,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Araktodon.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-238/araktodon",
+	"deckBuildable": true
+}

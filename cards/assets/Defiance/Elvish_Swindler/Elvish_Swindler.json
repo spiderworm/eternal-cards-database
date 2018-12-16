@@ -1,0 +1,18 @@
+{
+	"eternalID": 141,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Elvish Swindler",
+	"text": "Summon: Play a relic of your choice with cost 2 or less from your deck.",
+	"cost": 5,
+	"influence": "{P}{P}",
+	"attack": 2,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Elvish_Swindler.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-141/elvish-swindler",
+	"deckBuildable": true
+}

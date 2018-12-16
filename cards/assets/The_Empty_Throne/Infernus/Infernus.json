@@ -1,0 +1,18 @@
+{
+	"eternalID": 45,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Infernus",
+	"text": "Charge, Overwhelm; Free on your first turn. At the end of your turn, sacrifice Infernus.",
+	"cost": 5,
+	"influence": "{F}",
+	"attack": 5,
+	"health": 5,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Infernus.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-45/infernus",
+	"deckBuildable": true
+}

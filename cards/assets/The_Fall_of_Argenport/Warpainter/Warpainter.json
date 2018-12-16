@@ -1,0 +1,18 @@
+{
+	"eternalID": 27,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Warpainter",
+	"text": "Inspire: Units you draw get +1 Attack.",
+	"cost": 3,
+	"influence": "{F}",
+	"attack": 1,
+	"health": 4,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Warpainter.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-27/warpainter",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 380,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Feln Cauldron",
+	"text": "Once per turn, you may discard a card to gain 1 Health. After five cards, sacrifice Feln Cauldron to draw five random spells.",
+	"cost": 3,
+	"influence": "{P}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Legendary",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Feln_Cauldron.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-380/feln-cauldron",
+	"deckBuildable": true
+}

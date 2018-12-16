@@ -1,0 +1,18 @@
+{
+	"eternalID": 143,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Piercing Grief",
+	"text": "Lifesteal, Revenge, Charge; At the end of your turn, sacrifice Piercing Grief.",
+	"cost": 2,
+	"influence": "{S}",
+	"attack": 3,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Piercing_Grief.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-143/piercing-grief",
+	"deckBuildable": true
+}

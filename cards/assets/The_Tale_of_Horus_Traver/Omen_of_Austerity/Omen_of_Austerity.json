@@ -1,0 +1,17 @@
+{
+	"set": {
+		"id": 1002,
+		"name": "The Tale of Horus Traver"
+	},
+	"name": "Omen of Austerity",
+	"text": "The cursed player can't play cards with the name of the transformed relic.",
+	"cost": 2,
+	"influence": "",
+	"attack": 0,
+	"health": 0,
+	"rarity": "None",
+	"type": "Cursed Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Omen_of_Austerity.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/AG-Q-_VBKGA/omen-of-austerity",
+	"deckBuildable": false
+}

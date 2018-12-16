@@ -1,0 +1,18 @@
+{
+	"eternalID": 124,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Snowdrift Delver",
+	"text": "Renown: Create and draw a random relic.",
+	"cost": 2,
+	"influence": "{P}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Snowdrift_Delver.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-124/snowdrift-delver",
+	"deckBuildable": true
+}

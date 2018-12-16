@@ -1,0 +1,18 @@
+{
+	"eternalID": 248,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Scourge of Frosthome",
+	"text": "The enemy player can't play spells.",
+	"cost": 10,
+	"influence": "{P}{P}{P}",
+	"attack": 8,
+	"health": 8,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Scourge_of_Frosthome.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-248/scourge-of-frosthome",
+	"deckBuildable": true
+}

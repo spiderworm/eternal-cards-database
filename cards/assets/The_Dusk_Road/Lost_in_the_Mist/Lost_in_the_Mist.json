@@ -1,0 +1,18 @@
+{
+	"eternalID": 79,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Lost in the Mist",
+	"text": "Put an enemy unit into the enemy player's hand with cost increased by 2.",
+	"cost": 4,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lost_in_the_Mist.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-79/lost-in-the-mist",
+	"deckBuildable": true
+}

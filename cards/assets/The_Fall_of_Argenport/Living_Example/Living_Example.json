@@ -1,0 +1,18 @@
+{
+	"eternalID": 64,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Living Example",
+	"text": "Inspire: Units you draw get +1/+1.",
+	"cost": 2,
+	"influence": "{T}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Living_Example.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-64/living-example",
+	"deckBuildable": true
+}

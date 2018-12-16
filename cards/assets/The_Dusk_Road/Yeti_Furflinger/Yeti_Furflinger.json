@@ -1,0 +1,18 @@
+{
+	"eternalID": 178,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Yeti Furflinger",
+	"text": "Summon: Nightfall.; Ultimate: Pay 6 to transform another unit into a 2/2 Flying Squirrel.",
+	"cost": 3,
+	"influence": "{P}{P}{P}",
+	"attack": 3,
+	"health": 4,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Yeti_Furflinger.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-178/yeti-furflinger",
+	"deckBuildable": true
+}

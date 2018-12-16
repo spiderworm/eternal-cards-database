@@ -1,0 +1,18 @@
+{
+	"eternalID": 48,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "First Flame",
+	"text": "When you or one of your units hits the enemy player, play a 3/1 Flamefang with Reckless.; Summon: Play a 5/5 Infernus.; Tribute: Play three Infernus instead.",
+	"cost": 11,
+	"influence": "{F}{F}",
+	"attack": 8,
+	"health": 8,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/First_Flame.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-48/first-flame",
+	"deckBuildable": true
+}

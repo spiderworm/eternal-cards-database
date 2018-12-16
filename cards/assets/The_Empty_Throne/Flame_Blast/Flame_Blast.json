@@ -1,0 +1,18 @@
+{
+	"eternalID": 2,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Flame Blast",
+	"text": "Deal 1 damage. Spend your remaining power to increase the damage dealt by that much.",
+	"cost": 2,
+	"influence": "{F}{F}{F}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Flame_Blast.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-2/flame-blast",
+	"deckBuildable": true
+}

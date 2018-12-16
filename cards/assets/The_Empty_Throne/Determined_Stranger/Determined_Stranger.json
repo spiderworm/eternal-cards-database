@@ -1,0 +1,18 @@
+{
+	"eternalID": 92,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Determined Stranger",
+	"text": "Stranger have +1/+1.",
+	"cost": 3,
+	"influence": "{T}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Determined_Stranger.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-92/determined-stranger",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 17,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Nika, the Freescaler",
+	"text": "Pledge;When an enemy spell is played directly on Nika, she deals 3 damage to the enemy player.;Pay 3 to double Nika's  Strength this turn.",
+	"cost": 3,
+	"influence": "{F}{F}{F}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Nika,_the_Freescaler.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-17/nika-the-freescaler",
+	"deckBuildable": true
+}

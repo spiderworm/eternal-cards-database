@@ -1,0 +1,18 @@
+{
+	"eternalID": 73,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Runic Protector",
+	"text": "Pledge",
+	"cost": 8,
+	"influence": "{T}",
+	"attack": 8,
+	"health": 8,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Runic_Protector.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-73/runic-protector",
+	"deckBuildable": true
+}

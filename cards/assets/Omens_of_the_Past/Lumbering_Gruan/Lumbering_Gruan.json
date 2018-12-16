@@ -1,0 +1,18 @@
+{
+	"eternalID": 134,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Lumbering Gruan",
+	"text": "When Lumbering Gruan blocks a unit, stun Lumbering Gruan.",
+	"cost": 6,
+	"influence": "{P}",
+	"attack": 6,
+	"health": 7,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lumbering_Gruan.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-134/lumbering-gruan",
+	"deckBuildable": true
+}

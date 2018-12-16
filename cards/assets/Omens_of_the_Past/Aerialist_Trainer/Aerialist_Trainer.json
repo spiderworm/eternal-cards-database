@@ -1,0 +1,18 @@
+{
+	"eternalID": 219,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Aerialist Trainer",
+	"text": "Mentor: Give the Student gets +1/+1. if the Student has Flying, draw a card.",
+	"cost": 3,
+	"influence": "{J}{P}{P}",
+	"attack": 2,
+	"health": 4,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Aerialist_Trainer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-219/aerialist-trainer",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 71,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Deft Strike",
+	"text": "Warp; Give one of your units Killer.",
+	"cost": 3,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Deft_Strike.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-71/deft-strike",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 234,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Moonlit Gargoyle",
+	"text": "Summon: Nightfall.; Flying at Night.",
+	"cost": 5,
+	"influence": "{S}{S}",
+	"attack": 5,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Moonlit_Gargoyle.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-234/moonlit-gargoyle",
+	"deckBuildable": true
+}

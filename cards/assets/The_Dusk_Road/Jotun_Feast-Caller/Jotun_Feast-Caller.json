@@ -1,0 +1,18 @@
+{
+	"eternalID": 187,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Jotun Feast-Caller",
+	"text": "Aegis; When Jotun Feast-Caller attacks, draw 1 card. Then increase this ability by 1.",
+	"cost": 5,
+	"influence": "{P}{P}{P}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Jotun_Feast-Caller.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-187/jotun-feast-caller",
+	"deckBuildable": true
+}

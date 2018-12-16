@@ -1,0 +1,18 @@
+{
+	"eternalID": 163,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Iceberg Mason",
+	"text": "Summon: Move each Yeti in your deck one card closer to the top.",
+	"cost": 2,
+	"influence": "{P}",
+	"attack": 2,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Iceberg_Mason.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-163/iceberg-mason",
+	"deckBuildable": true
+}

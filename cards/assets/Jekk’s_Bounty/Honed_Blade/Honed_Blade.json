@@ -1,0 +1,17 @@
+{
+	"set": {
+		"id": 1001,
+		"name": "Jekk’s Bounty"
+	},
+	"name": "Honed Blade",
+	"text": "",
+	"cost": 5,
+	"influence": "{J}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "None",
+	"type": "Relic Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Honed_Blade.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/0ljjMpuDkfQ/honed-blade",
+	"deckBuildable": false
+}

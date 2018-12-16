@@ -1,0 +1,18 @@
+{
+	"eternalID": 137,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Frontier Confessor",
+	"text": "Summon: You may silence another unit.",
+	"cost": 4,
+	"influence": "{J}",
+	"attack": 3,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Frontier_Confessor.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-137/frontier-confessor",
+	"deckBuildable": true
+}

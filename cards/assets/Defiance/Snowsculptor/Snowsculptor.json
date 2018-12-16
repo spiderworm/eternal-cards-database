@@ -1,0 +1,18 @@
+{
+	"eternalID": 144,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Snowsculptor",
+	"text": "Renown: Draw cards equal to the cost of that spell or weapon.",
+	"cost": 6,
+	"influence": "{P}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Snowsculptor.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-144/snowsculptor",
+	"deckBuildable": true
+}

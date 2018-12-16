@@ -1,0 +1,18 @@
+{
+	"eternalID": 2,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Forge Wolf",
+	"text": "Summon: Deal 1 damage to the enemy player.",
+	"cost": 1,
+	"influence": "{F}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Forge_Wolf.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-2/forge-wolf",
+	"deckBuildable": true
+}

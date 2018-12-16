@@ -1,0 +1,18 @@
+{
+	"eternalID": 217,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Chunk Chunk",
+	"text": "Pledge;Summon: Stun an enemy unit.;Renown: Play a Snowfort.",
+	"cost": 4,
+	"influence": "{F}{F}{P}{P}",
+	"attack": 4,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Chunk_Chunk.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-217/chunk-chunk",
+	"deckBuildable": true
+}

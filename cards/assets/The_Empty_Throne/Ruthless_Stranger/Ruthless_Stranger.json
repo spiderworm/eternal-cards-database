@@ -1,0 +1,18 @@
+{
+	"eternalID": 11,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Ruthless Stranger",
+	"text": "Strangers have +1 Attack.",
+	"cost": 1,
+	"influence": "{F}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ruthless_Stranger.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-11/ruthless-stranger",
+	"deckBuildable": true
+}

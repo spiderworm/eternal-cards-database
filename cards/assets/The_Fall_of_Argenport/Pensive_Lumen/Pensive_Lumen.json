@@ -1,0 +1,18 @@
+{
+	"eternalID": 88,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Pensive Lumen",
+	"text": "Tribute: +2/+2.",
+	"cost": 5,
+	"influence": "{T}{T}",
+	"attack": 5,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Pensive_Lumen.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-88/pensive-lumen",
+	"deckBuildable": true
+}

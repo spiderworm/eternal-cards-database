@@ -1,0 +1,18 @@
+{
+	"eternalID": 177,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Plated Demolisher",
+	"text": "Endurance; Summon: You gain 2 Armor. At the start of the enemy turn, if you have no Armor, sacrifice Plated Demolisher.",
+	"cost": 6,
+	"influence": "{J}{J}",
+	"attack": 8,
+	"health": 8,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Plated_Demolisher.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-177/plated-demolisher",
+	"deckBuildable": true
+}

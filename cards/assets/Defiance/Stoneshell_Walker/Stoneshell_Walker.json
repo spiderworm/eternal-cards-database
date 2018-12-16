@@ -1,0 +1,18 @@
+{
+	"eternalID": 187,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Stoneshell Walker",
+	"text": "Overwhelm;Entomb: You get +5 power this turn.",
+	"cost": 5,
+	"influence": "{F}{T}",
+	"attack": 5,
+	"health": 5,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Stoneshell_Walker.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-187/stoneshell-walker",
+	"deckBuildable": true
+}

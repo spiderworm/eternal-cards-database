@@ -1,0 +1,18 @@
+{
+	"eternalID": 80,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Unmoored Valkyrie",
+	"text": "Flying;Renown: Lifesteal.",
+	"cost": 1,
+	"influence": "{J}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Unmoored_Valkyrie.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-80/unmoored-valkyrie",
+	"deckBuildable": true
+}

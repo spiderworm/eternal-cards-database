@@ -1,0 +1,18 @@
+{
+	"eternalID": 223,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Deranged Dinomancer",
+	"text": "At the start of your turn, transform a unit into a 5/5 Carnosaur.",
+	"cost": 4,
+	"influence": "{P}{P}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Deranged_Dinomancer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-223/deranged-dinomancer",
+	"deckBuildable": true
+}

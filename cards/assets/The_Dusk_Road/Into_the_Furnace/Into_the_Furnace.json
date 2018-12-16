@@ -1,0 +1,18 @@
+{
+	"eternalID": 9,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Into the Furnace",
+	"text": "Deal 2 damage to a unit. If you have a Grenadin in your void, Into the Furnace deals Double Damage.",
+	"cost": 2,
+	"influence": "{F}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Into_the_Furnace.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-9/into-the-furnace",
+	"deckBuildable": true
+}

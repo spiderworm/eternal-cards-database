@@ -1,0 +1,18 @@
+{
+	"eternalID": 17,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Rampage",
+	"text": "Give a unit +3/+1 and Overwhelm this turn.",
+	"cost": 2,
+	"influence": "{F}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rampage.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-17/rampage",
+	"deckBuildable": true
+}

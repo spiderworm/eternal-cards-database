@@ -1,0 +1,18 @@
+{
+	"eternalID": 111,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Rampart Protector",
+	"text": "When one of your Valkyrie dies, play a 2/2 Soldier.",
+	"cost": 2,
+	"influence": "{J}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rampart_Protector.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-111/rampart-protector",
+	"deckBuildable": true
+}

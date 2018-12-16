@@ -1,0 +1,18 @@
+{
+	"eternalID": 235,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Aerial Ace",
+	"text": "Flying, Aegis",
+	"cost": 5,
+	"influence": "{P}",
+	"attack": 2,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Aerial_Ace.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-235/aerial-ace",
+	"deckBuildable": true
+}

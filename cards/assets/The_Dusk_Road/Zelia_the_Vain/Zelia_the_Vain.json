@@ -1,0 +1,18 @@
+{
+	"eternalID": 244,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Zelia, the Vain",
+	"text": "Deadly, Bond; Pay 4 to play a -2/-1 Affliction on an enemy unit and give Zelia +2/+1.",
+	"cost": 6,
+	"influence": "{S}{S}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Zelia,_the_Vain.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-244/zelia-the-vain",
+	"deckBuildable": true
+}

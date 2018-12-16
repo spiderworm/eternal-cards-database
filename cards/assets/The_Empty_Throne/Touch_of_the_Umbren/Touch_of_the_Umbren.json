@@ -1,0 +1,18 @@
+{
+	"eternalID": 308,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Touch of the Umbren",
+	"text": "Lifesteal; Steal the cursed unit (for as long as it is cursed).",
+	"cost": 8,
+	"influence": "{S}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Legendary",
+	"type": "Curse",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Touch_of_the_Umbren.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-308/touch-of-the-umbren",
+	"deckBuildable": true
+}

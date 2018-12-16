@@ -1,0 +1,18 @@
+{
+	"eternalID": 104,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Warband Skald",
+	"text": "Warband Skald has Warcry for each of your units.",
+	"cost": 5,
+	"influence": "{J}",
+	"attack": 3,
+	"health": 4,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Warband_Skald.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-104/warband-skald",
+	"deckBuildable": true
+}

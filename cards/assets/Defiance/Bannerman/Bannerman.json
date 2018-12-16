@@ -1,0 +1,18 @@
+{
+	"eternalID": 252,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Bannerman",
+	"text": "Summon: Gain an influence of your choice.",
+	"cost": 2,
+	"influence": "",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bannerman.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-252/bannerman",
+	"deckBuildable": true
+}

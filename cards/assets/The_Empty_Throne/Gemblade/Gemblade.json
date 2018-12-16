@@ -1,0 +1,17 @@
+{
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Gemblade",
+	"text": "",
+	"cost": 5,
+	"influence": "{J}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "None",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Gemblade.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/AHRzRAyHByU/gemblade",
+	"deckBuildable": false
+}

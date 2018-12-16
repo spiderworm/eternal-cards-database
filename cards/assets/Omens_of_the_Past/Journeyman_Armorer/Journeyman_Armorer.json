@@ -1,0 +1,18 @@
+{
+	"eternalID": 175,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Journeyman Armorer",
+	"text": "Warp; Summon: Play a +1/+1 weapon on another one of your units.",
+	"cost": 3,
+	"influence": "{F}{T}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Journeyman_Armorer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-175/journeyman-armorer",
+	"deckBuildable": true
+}

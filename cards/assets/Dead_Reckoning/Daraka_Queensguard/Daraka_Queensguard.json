@@ -1,0 +1,18 @@
+{
+	"eternalID": 12,
+	"set": {
+		"id": 1003,
+		"name": "Dead Reckoning"
+	},
+	"name": "Daraka, Queensguard",
+	"text": "Overwhelm; When you play Eilyn, she gets Aegis.; Summon: Stun an enemy unit. It stays stunned while you have Daraka.",
+	"cost": 6,
+	"influence": "{P}{P}{P}",
+	"attack": 7,
+	"health": 7,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Daraka,_Queensguard.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1003-12/daraka-queensguard",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 116,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Pitfall Trap",
+	"text": "Once per turn, you may pay 1 to draw a card, then discard a card. Use only if you have played a unit this turn.;Summon: Deal 1 damage to an enemy.",
+	"cost": 1,
+	"influence": "{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Pitfall_Trap.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-116/pitfall-trap",
+	"deckBuildable": true
+}

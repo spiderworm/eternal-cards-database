@@ -1,0 +1,18 @@
+{
+	"eternalID": 279,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Lethrai Nightblade",
+	"text": "Unblockable",
+	"cost": 3,
+	"influence": "{S}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lethrai_Nightblade.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-279/lethrai-nightblade",
+	"deckBuildable": true
+}

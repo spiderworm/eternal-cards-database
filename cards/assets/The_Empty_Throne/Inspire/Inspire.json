@@ -1,0 +1,18 @@
+{
+	"eternalID": 129,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Inspire",
+	"text": "The top unit or weapon of your deck gets +1/+1. Draw a card.",
+	"cost": 2,
+	"influence": "{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Inspire.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-129/inspire",
+	"deckBuildable": true
+}

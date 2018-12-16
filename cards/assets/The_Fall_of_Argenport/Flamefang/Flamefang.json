@@ -1,0 +1,17 @@
+{
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Flamefang",
+	"text": "Reckless",
+	"cost": 1,
+	"influence": "{F}{F}",
+	"attack": 3,
+	"health": 1,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Flamefang.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/KaOlSZKLd8E/flamefang",
+	"deckBuildable": false
+}

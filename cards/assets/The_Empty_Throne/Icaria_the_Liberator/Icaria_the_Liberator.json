@@ -1,0 +1,18 @@
+{
+	"eternalID": 329,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Icaria, the Liberator",
+	"text": "Flying, Aegis, Charge, Endurance, Warcry 5",
+	"cost": 8,
+	"influence": "{F}{F}{F}{J}{J}{J}",
+	"attack": 5,
+	"health": 5,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Icaria,_the_Liberator.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-329/icaria-the-liberator",
+	"deckBuildable": true
+}

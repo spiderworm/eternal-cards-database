@@ -1,0 +1,18 @@
+{
+	"eternalID": 59,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Beckoning Lumen",
+	"text": "Lifeforce: At the end of your turn, if you gained health, draw a card.",
+	"cost": 4,
+	"influence": "{T}{T}",
+	"attack": 5,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Beckoning_Lumen.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-59/beckoning-lumen",
+	"deckBuildable": true
+}

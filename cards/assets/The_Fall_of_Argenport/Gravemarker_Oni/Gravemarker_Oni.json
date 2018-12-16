@@ -1,0 +1,18 @@
+{
+	"eternalID": 39,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Gravemarker Oni",
+	"text": "Tribute: Draw a weapon of your choice from your deck.",
+	"cost": 4,
+	"influence": "{F}",
+	"attack": 4,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Gravemarker_Oni.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-39/gravemarker-oni",
+	"deckBuildable": true
+}

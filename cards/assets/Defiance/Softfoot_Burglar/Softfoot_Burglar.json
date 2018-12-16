@@ -1,0 +1,18 @@
+{
+	"eternalID": 5,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Softfoot Burglar",
+	"text": "When you play a spell, Softfoot Burglar gets +1/+1 this turn.;Renown: Create and draw a Treasure Trove.",
+	"cost": 1,
+	"influence": "{F}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Softfoot_Burglar.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-5/softfoot-burglar",
+	"deckBuildable": true
+}

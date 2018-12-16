@@ -1,0 +1,18 @@
+{
+	"eternalID": 144,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Tower Shield",
+	"text": "Summon: You gain Armor equal to the wielder's Health.",
+	"cost": 6,
+	"influence": "{J}",
+	"attack": 1,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Tower_Shield.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-144/tower-shield",
+	"deckBuildable": true
+}

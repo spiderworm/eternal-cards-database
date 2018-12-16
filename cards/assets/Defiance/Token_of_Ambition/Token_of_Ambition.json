@@ -1,0 +1,18 @@
+{
+	"eternalID": 236,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Token of Ambition",
+	"text": "Depleted;Gain {F}, {J}, or {S}.",
+	"cost": 0,
+	"influence": "",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Power",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Token_of_Ambition.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-236/token-of-ambition",
+	"deckBuildable": true
+}

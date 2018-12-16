@@ -1,0 +1,18 @@
+{
+	"eternalID": 132,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Shielded Shortbarrel",
+	"text": "Aegis",
+	"cost": 4,
+	"influence": "{J}",
+	"attack": 2,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Shielded_Shortbarrel.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-132/shielded-shortbarrel",
+	"deckBuildable": true
+}

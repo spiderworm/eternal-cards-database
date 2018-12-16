@@ -1,0 +1,18 @@
+{
+	"eternalID": 37,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Excavation Assistant",
+	"text": "Flying; Summon: Scout.",
+	"cost": 1,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Excavation_Assistant.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-37/excavation-assistant",
+	"deckBuildable": true
+}

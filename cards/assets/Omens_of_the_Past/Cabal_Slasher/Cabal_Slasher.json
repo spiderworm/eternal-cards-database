@@ -1,0 +1,18 @@
+{
+	"eternalID": 147,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Cabal Slasher",
+	"text": "Lifeforce: When you gain health, Cabal Slasher gets that much Attack.",
+	"cost": 2,
+	"influence": "{S}",
+	"attack": 1,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cabal_Slasher.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-147/cabal-slasher",
+	"deckBuildable": true
+}

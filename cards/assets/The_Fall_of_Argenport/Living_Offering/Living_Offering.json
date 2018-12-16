@@ -1,0 +1,18 @@
+{
+	"eternalID": 65,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Living Offering",
+	"text": "Pay 1 and sacrifice Living Offering to silence an enemy unit.",
+	"cost": 2,
+	"influence": "{T}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Living_Offering.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-65/living-offering",
+	"deckBuildable": true
+}

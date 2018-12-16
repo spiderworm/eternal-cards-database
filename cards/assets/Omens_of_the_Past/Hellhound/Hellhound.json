@@ -1,0 +1,17 @@
+{
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Hellhound",
+	"text": "Charge",
+	"cost": 2,
+	"influence": "",
+	"attack": 4,
+	"health": 4,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hellhound.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/cdd1wMERIcs/hellhound",
+	"deckBuildable": false
+}

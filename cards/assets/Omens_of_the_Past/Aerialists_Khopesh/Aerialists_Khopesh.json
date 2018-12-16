@@ -1,0 +1,18 @@
+{
+	"eternalID": 95,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Aerialist's Khopesh",
+	"text": "Summon: The wielder gets Flying this turn.",
+	"cost": 6,
+	"influence": "{J}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Aerialist's_Khopesh.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-95/aerialists-khopesh",
+	"deckBuildable": true
+}

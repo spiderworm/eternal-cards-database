@@ -1,0 +1,18 @@
+{
+	"eternalID": 392,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Combust",
+	"text": "Sacrifice a unit to kill an enemy unit.",
+	"cost": 1,
+	"influence": "{F}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Combust.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-392/combust",
+	"deckBuildable": true
+}

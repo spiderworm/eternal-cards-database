@@ -1,0 +1,18 @@
+{
+	"eternalID": 99,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Ironfist Faithful",
+	"text": "Flying; Tribute: +1/+1.",
+	"cost": 1,
+	"influence": "{J}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ironfist_Faithful.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-99/ironfist-faithful",
+	"deckBuildable": true
+}

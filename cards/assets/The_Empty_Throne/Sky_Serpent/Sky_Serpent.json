@@ -1,0 +1,17 @@
+{
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Sky Serpent",
+	"text": "Flying",
+	"cost": 2,
+	"influence": "{P}{P}{P}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sky_Serpent.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/PjMh6VW21nU/sky-serpent",
+	"deckBuildable": false
+}

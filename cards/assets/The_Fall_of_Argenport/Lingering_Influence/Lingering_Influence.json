@@ -1,0 +1,18 @@
+{
+	"eternalID": 100,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Lingering Influence",
+	"text": "Draw a Justice Sigil from your deck.; Scout.",
+	"cost": 1,
+	"influence": "{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lingering_Influence.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-100/lingering-influence",
+	"deckBuildable": true
+}

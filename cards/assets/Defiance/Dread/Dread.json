@@ -1,0 +1,18 @@
+{
+	"eternalID": 223,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Dread",
+	"text": "Lifesteal, Charge, Pledge;At the end of the turn, sacrifice Dread. Then draw another unit from your void.",
+	"cost": 4,
+	"influence": "{T}{T}{S}{S}",
+	"attack": 4,
+	"health": 1,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Dread.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-223/dread",
+	"deckBuildable": true
+}

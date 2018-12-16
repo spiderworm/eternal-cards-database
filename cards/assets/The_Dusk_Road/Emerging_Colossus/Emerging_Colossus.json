@@ -1,0 +1,18 @@
+{
+	"eternalID": 97,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Emerging Colossus",
+	"text": "Overwhelm; When Emerging Colossus hits the enemy player, draw a card with 6 cost or more from your void and reduce its cost by 6.",
+	"cost": 9,
+	"influence": "{T}{T}",
+	"attack": 7,
+	"health": 9,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Emerging_Colossus.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-97/emerging-colossus",
+	"deckBuildable": true
+}

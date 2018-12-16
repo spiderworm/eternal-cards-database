@@ -1,0 +1,16 @@
+{
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Direwood Beast",
+	"cost": 5,
+	"influence": "{S}",
+	"attack": 5,
+	"health": 5,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Direwood_Beast.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/kHggGFpDZWE/direwood-beast",
+	"deckBuildable": false
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 107,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Idol of Destran",
+	"text": "While Idol of Destran is in your hand or deck, it gets +1/+1 each time you play a unit.",
+	"cost": 5,
+	"influence": "{T}{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Idol_of_Destran.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-107/idol-of-destran",
+	"deckBuildable": true
+}

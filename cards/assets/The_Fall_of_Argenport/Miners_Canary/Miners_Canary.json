@@ -1,0 +1,18 @@
+{
+	"eternalID": 109,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Miner's Canary",
+	"text": "Flying",
+	"cost": 3,
+	"influence": "{J}",
+	"attack": 0,
+	"health": 4,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Miner's_Canary.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-109/miners-canary",
+	"deckBuildable": true
+}

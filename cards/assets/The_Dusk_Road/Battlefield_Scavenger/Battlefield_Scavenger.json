@@ -1,0 +1,18 @@
+{
+	"eternalID": 209,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Battlefield Scavenger",
+	"text": "Warcry; Ultimate: Pay 4 to draw a Valkyrie from your void and give it Warcry.",
+	"cost": 2,
+	"influence": "{S}",
+	"attack": 1,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Battlefield_Scavenger.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-209/battlefield-scavenger",
+	"deckBuildable": true
+}

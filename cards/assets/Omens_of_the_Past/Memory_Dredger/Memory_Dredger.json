@@ -1,0 +1,18 @@
+{
+	"eternalID": 159,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Memory Dredger",
+	"text": "Flying; When Memory Dredger hits the enemy player, play a unit with cost 2 or less from your void.",
+	"cost": 4,
+	"influence": "{S}{S}",
+	"attack": 3,
+	"health": 4,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Memory_Dredger.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-159/memory-dredger",
+	"deckBuildable": true
+}

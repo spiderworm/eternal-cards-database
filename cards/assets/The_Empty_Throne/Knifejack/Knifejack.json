@@ -1,0 +1,18 @@
+{
+	"eternalID": 257,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Knifejack",
+	"text": "Summon: Knifejack deals 2 damage to you.",
+	"cost": 1,
+	"influence": "{S}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Knifejack.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-257/knifejack",
+	"deckBuildable": true
+}

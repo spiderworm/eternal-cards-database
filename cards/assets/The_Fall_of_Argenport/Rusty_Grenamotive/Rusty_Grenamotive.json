@@ -1,0 +1,18 @@
+{
+	"eternalID": 26,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Rusty Grenamotive",
+	"text": "Berserk; When Rusty Grenamotive attacks, you get +1 power this turn.",
+	"cost": 3,
+	"influence": "{F}",
+	"attack": 2,
+	"health": 4,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rusty_Grenamotive.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-26/rusty-grenamotive",
+	"deckBuildable": true
+}

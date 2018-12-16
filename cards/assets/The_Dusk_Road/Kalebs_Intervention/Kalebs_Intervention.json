@@ -1,0 +1,18 @@
+{
+	"eternalID": 4,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Kaleb's Intervention",
+	"text": "- Play a 1/1 Grenadin, or; - Give one of your units +2/+2 and Overwhelm this turn, or; - Kill an enemy weapon or relic.",
+	"cost": 1,
+	"influence": "{F}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Kaleb's_Intervention.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-4/kalebs-intervention",
+	"deckBuildable": true
+}

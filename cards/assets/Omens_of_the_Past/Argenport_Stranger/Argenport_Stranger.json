@@ -1,0 +1,18 @@
+{
+	"eternalID": 246,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Argenport Stranger",
+	"text": "Summon: Gain {J}{S}.",
+	"cost": 2,
+	"influence": "",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Argenport_Stranger.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-246/argenport-stranger",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 31,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Granite Acolyte",
+	"text": "Summon: Play a +2 Attack Iron Sword on one of your units.",
+	"cost": 3,
+	"influence": "{F}",
+	"attack": 2,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Granite_Acolyte.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-31/granite-acolyte",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 278,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Ravenous Thornbeast",
+	"text": "Summon: You may sacrifice another unit to give Ravenous Thornbeast +2/+2.",
+	"cost": 3,
+	"influence": "{S}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ravenous_Thornbeast.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-278/ravenous-thornbeast",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 15,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Ruin",
+	"text": "Kill an enemy attachment.",
+	"cost": 1,
+	"influence": "{F}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ruin.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-15/ruin",
+	"deckBuildable": true
+}

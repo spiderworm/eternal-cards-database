@@ -1,0 +1,18 @@
+{
+	"eternalID": 158,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Lida's Apprentice",
+	"text": "Lida's Apprentice can never be Silenced.; Your other cards can't be silenced while you have her.",
+	"cost": 2,
+	"influence": "{P}",
+	"attack": 2,
+	"health": 3,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lida's_Apprentice.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-158/lidas-apprentice",
+	"deckBuildable": true
+}

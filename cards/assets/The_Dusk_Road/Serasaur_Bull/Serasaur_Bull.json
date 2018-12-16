@@ -1,0 +1,18 @@
+{
+	"eternalID": 92,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Serasaur Bull",
+	"text": "Dinosaur Ally: Charge.; When Serasaur Bull attacks, kill an enemy attachment.",
+	"cost": 7,
+	"influence": "{T}{T}",
+	"attack": 7,
+	"health": 6,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Serasaur_Bull.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-92/serasaur-bull",
+	"deckBuildable": true
+}

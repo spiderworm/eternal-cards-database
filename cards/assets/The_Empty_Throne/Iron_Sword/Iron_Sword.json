@@ -1,0 +1,17 @@
+{
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Iron Sword",
+	"text": "",
+	"cost": 1,
+	"influence": "",
+	"attack": 2,
+	"health": 0,
+	"rarity": "None",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Iron_Sword.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/a1L_6mWCN-0/iron-sword",
+	"deckBuildable": false
+}

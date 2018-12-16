@@ -1,0 +1,18 @@
+{
+	"eternalID": 260,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Blood Beetle",
+	"text": "Infiltrate: +1 Attack and Flying.",
+	"cost": 1,
+	"influence": "{S}",
+	"attack": 1,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Blood_Beetle.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-260/blood-beetle",
+	"deckBuildable": true
+}

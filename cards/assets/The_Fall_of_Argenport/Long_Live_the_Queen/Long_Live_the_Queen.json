@@ -1,0 +1,18 @@
+{
+	"eternalID": 255,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Long Live the Queen",
+	"text": "Warp; Negate an enemy spell.; Draw a card.",
+	"cost": 4,
+	"influence": "{J}{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Long_Live_the_Queen.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-255/long-live-the-queen",
+	"deckBuildable": true
+}

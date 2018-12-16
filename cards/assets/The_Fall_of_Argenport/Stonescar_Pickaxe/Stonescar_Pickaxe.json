@@ -1,0 +1,18 @@
+{
+	"eternalID": 263,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Stonescar Pickaxe",
+	"text": "When the wielder hits the enemy player, create and draw a 1/1 Grenadin.; Spellcraft 3: Play Quarry.",
+	"cost": 4,
+	"influence": "{F}{S}",
+	"attack": 4,
+	"health": 2,
+	"rarity": "Rare",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Stonescar_Pickaxe.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-263/stonescar-pickaxe",
+	"deckBuildable": true
+}

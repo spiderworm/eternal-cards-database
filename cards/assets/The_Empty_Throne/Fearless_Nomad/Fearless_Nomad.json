@@ -1,0 +1,18 @@
+{
+	"eternalID": 311,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Fearless Nomad",
+	"text": "Overwhelm",
+	"cost": 1,
+	"influence": "{F}{J}",
+	"attack": 3,
+	"health": 1,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Fearless_Nomad.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-311/fearless-nomad",
+	"deckBuildable": true
+}

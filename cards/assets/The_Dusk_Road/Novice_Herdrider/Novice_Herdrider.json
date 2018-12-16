@@ -1,0 +1,18 @@
+{
+	"eternalID": 197,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Novice Herdrider",
+	"text": "Fate: The Explorer or Dinosaur in your hand with the least Health gets +1/+1.",
+	"cost": 7,
+	"influence": "{P}{P}",
+	"attack": 6,
+	"health": 8,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Novice_Herdrider.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-197/novice-herdrider",
+	"deckBuildable": true
+}

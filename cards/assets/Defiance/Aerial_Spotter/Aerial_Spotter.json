@@ -1,0 +1,18 @@
+{
+	"eternalID": 96,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Aerial Spotter",
+	"text": "Flying;Renown: Play a 3/2 Argenport Soldier.",
+	"cost": 4,
+	"influence": "{J}{J}",
+	"attack": 2,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Aerial_Spotter.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-96/aerial-spotter",
+	"deckBuildable": true
+}

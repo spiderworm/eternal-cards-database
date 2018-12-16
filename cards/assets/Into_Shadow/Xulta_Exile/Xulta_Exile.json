@@ -1,0 +1,17 @@
+{
+	"set": {
+		"id": 1004,
+		"name": "Into Shadow"
+	},
+	"name": "Xulta Exile",
+	"text": "Aegis, Endurance",
+	"cost": 3,
+	"influence": "{J}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Xulta_Exile.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/z5HjvDoE2fg/xulta-exile",
+	"deckBuildable": false
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 8,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Firemane Lioness",
+	"text": "Amplify 2: Play a 1/1 Wildcat with Charge.",
+	"cost": 2,
+	"influence": "{F}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Firemane_Lioness.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-8/firemane-lioness",
+	"deckBuildable": true
+}

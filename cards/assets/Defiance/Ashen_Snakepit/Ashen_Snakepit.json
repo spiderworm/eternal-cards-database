@@ -1,0 +1,18 @@
+{
+	"eternalID": 29,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Ashen Snakepit",
+	"text": "When you play your first spell in a turn, play a 3/1 Flamefang with Reckless exhausted.",
+	"cost": 5,
+	"influence": "{F}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ashen_Snakepit.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-29/ashen-snakepit",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 304,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Horsesnatcher Bat",
+	"text": "Flying, Quickdraw",
+	"cost": 6,
+	"influence": "{S}{S}",
+	"attack": 5,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Horsesnatcher_Bat.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-304/horsesnatcher-bat",
+	"deckBuildable": true
+}

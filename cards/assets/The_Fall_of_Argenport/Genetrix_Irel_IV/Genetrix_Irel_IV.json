@@ -1,0 +1,18 @@
+{
+	"eternalID": 307,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Genetrix Irel IV",
+	"text": "+1 Maximum Power.;Summon: Give one of your other units +4/+4 while you have Genetrix Irel IV.",
+	"cost": 4,
+	"influence": "{T}{T}{J}{J}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Promo",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Genetrix_Irel_IV.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-307/genetrix-irel-iv",
+	"deckBuildable": true
+}

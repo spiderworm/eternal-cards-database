@@ -1,0 +1,18 @@
+{
+	"eternalID": 232,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Auric Bully",
+	"text": "+1/+1 while wielding a weapon.",
+	"cost": 2,
+	"influence": "{J}{S}",
+	"attack": 3,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Auric_Bully.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-232/auric-bully",
+	"deckBuildable": true
+}

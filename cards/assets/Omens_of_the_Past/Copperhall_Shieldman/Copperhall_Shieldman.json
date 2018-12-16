@@ -1,0 +1,18 @@
+{
+	"eternalID": 79,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Copperhall Shieldman",
+	"text": "",
+	"cost": 3,
+	"influence": "{J}",
+	"attack": 0,
+	"health": 7,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Copperhall_Shieldman.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-79/copperhall-shieldman",
+	"deckBuildable": true
+}

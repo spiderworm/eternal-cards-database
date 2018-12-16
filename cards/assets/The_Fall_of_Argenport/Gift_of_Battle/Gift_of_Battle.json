@@ -1,0 +1,18 @@
+{
+	"eternalID": 146,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Gift of Battle",
+	"text": "Give one of your units Berserk.",
+	"cost": 1,
+	"influence": "{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Gift_of_Battle.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-146/gift-of-battle",
+	"deckBuildable": true
+}

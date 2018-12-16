@@ -1,0 +1,18 @@
+{
+	"eternalID": 480,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Vault of the Praxis",
+	"text": "When you play your second unit in a turn, draw a card.",
+	"cost": 4,
+	"influence": "{T}{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Vault_of_the_Praxis.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-480/vault-of-the-praxis",
+	"deckBuildable": true
+}

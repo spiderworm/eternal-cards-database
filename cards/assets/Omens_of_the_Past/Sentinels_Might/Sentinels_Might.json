@@ -1,0 +1,18 @@
+{
+	"eternalID": 65,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Sentinel's Might",
+	"text": "Lifeforce: Your units get +Attack/+Health equal to the Health you've gained this turn.",
+	"cost": 6,
+	"influence": "{T}{T}{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Legendary",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sentinel's_Might.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-65/sentinels-might",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 157,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Privilege of Rank",
+	"text": "Draw two Justice Sigils from your deck. If Privilege of Rank is discarded, play it.",
+	"cost": 3,
+	"influence": "{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Privilege_of_Rank.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-157/privilege-of-rank",
+	"deckBuildable": true
+}

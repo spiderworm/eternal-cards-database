@@ -1,0 +1,18 @@
+{
+	"eternalID": 120,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Longhorn Treasurer",
+	"text": "+3/+3 while you have a unit with Endurance.",
+	"cost": 3,
+	"influence": "{J}",
+	"attack": 2,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Longhorn_Treasurer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-120/longhorn-treasurer",
+	"deckBuildable": true
+}

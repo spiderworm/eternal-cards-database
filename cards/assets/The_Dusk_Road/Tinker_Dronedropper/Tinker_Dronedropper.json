@@ -1,0 +1,18 @@
+{
+	"eternalID": 256,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Tinker Dronedropper",
+	"text": "Flying; When Tinker Dronedropper hits the enemy player, play a 1/1 Grenadin.",
+	"cost": 4,
+	"influence": "{F}{F}{J}{J}",
+	"attack": 3,
+	"health": 4,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Tinker_Dronedropper.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-256/tinker-dronedropper",
+	"deckBuildable": true
+}

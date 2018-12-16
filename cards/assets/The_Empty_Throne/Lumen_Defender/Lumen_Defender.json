@@ -1,0 +1,18 @@
+{
+	"eternalID": 115,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Lumen Defender",
+	"text": "Deadly; Summon: You gain 5 Health.",
+	"cost": 5,
+	"influence": "{T}",
+	"attack": 1,
+	"health": 5,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lumen_Defender.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-115/lumen-defender",
+	"deckBuildable": true
+}

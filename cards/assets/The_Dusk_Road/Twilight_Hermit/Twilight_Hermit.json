@@ -1,0 +1,18 @@
+{
+	"eternalID": 166,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Twilight Hermit",
+	"text": "When you start your turn at Night, transform Twilight Hermit into a 5/3 Twilight Prowler with Reckless.",
+	"cost": 2,
+	"influence": "{P}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Twilight_Hermit.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-166/twilight-hermit",
+	"deckBuildable": true
+}

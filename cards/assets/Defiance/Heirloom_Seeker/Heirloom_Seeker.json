@@ -1,0 +1,18 @@
+{
+	"eternalID": 158,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Heirloom Seeker",
+	"text": "Pledge;+1 Strength and Unblockable while you have a relic.",
+	"cost": 2,
+	"influence": "{S}",
+	"attack": 1,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Heirloom_Seeker.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-158/heirloom-seeker",
+	"deckBuildable": true
+}

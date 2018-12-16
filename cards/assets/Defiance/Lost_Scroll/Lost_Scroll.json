@@ -1,0 +1,18 @@
+{
+	"eternalID": 208,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Lost Scroll",
+	"text": "Play a Justice Sigil or Shadow Sigil from your deck Depleted.",
+	"cost": 2,
+	"influence": "{J}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lost_Scroll.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-208/lost-scroll",
+	"deckBuildable": true
+}

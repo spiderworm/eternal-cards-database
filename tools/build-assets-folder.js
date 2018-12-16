@@ -1,14 +1,14 @@
 const CardDatabase = require('../cards/CardDatabase.js');
 const path = require('path');
 const mkdirp = require('mkdirp');
-const fs = require('fs');
+const fs = require('fs-extra');
 const request = require('request');
 
 const db = CardDatabase.create();
 
-module.exports = db;
-
 const baseDir = path.resolve(__dirname, '../built/assets/');
+
+fs.removeSync(baseDir); 
 
 const writes = prepareWrites();
 
@@ -27,28 +27,29 @@ function doWrite(writes, i) {
 		mkdirp.sync(w.dir);
 		writeCopyright(w.dir);
 		fs.writeFileSync(w.json, JSON.stringify(w.card.toObject(), null, "\t"));
-		doNext(); // downloadFile(w.card.imageURL, w.image, doNext);
+		downloadFile(w.card.imageURL, w.image, doNext);
 	}
 }
 
 function prepareWrites() {
 	const results = {};
 
-	function createResult(card, name, setName) {
-		const dir = path.join(baseDir, sanitizeDirectoryName(setName), sanitizeDirectoryName(name));
-		const fileBase = path.join(dir, sanitizeDirectoryName(name));
+	function createResult(card, name) {
+		const setDir = sanitizeDirectoryName(card.set.name);
+		const sanitizedName = sanitizeDirectoryName(name)
+		const dir = path.join(baseDir, setDir, sanitizedName);
+		const fileBase = path.join(dir, sanitizedName);
 
 		results[name] = {
 			card: card,
 			dir: dir,
-			set: setName,
+			set: setDir,
 			json: `${fileBase}.json`,
 			image: `${fileBase}.png`,
 		};
 	}
 
 	db.forEach(card => {
-		const setName = `set-${card.setID}`;
 		const nameSimple = card.name;
 		let nameArrayed = `${nameSimple}-1`;
 		let name;
@@ -69,7 +70,7 @@ function prepareWrites() {
 			name = nameSimple;
 		}
 
-		createResult(card, name, setName);
+		createResult(card, name);
 	});
 
 	return Object.keys(results).map(key => results[key]);

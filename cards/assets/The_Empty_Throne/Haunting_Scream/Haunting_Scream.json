@@ -1,0 +1,18 @@
+{
+	"eternalID": 374,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Haunting Scream",
+	"text": "Play a unit with cost 4 or less from your void. It gets Charge and Flying. Sacrifice it at the end of the turn.",
+	"cost": 2,
+	"influence": "{P}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Haunting_Scream.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-374/haunting-scream",
+	"deckBuildable": true
+}

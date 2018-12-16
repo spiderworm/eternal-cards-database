@@ -1,0 +1,18 @@
+{
+	"eternalID": 116,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Grit",
+	"text": "Warp; You gain 3 Armor.",
+	"cost": 3,
+	"influence": "{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Grit.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-116/grit",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 80,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Lumen Reclaimer",
+	"text": "Summon: Shuffle a void your choice into its owner's deck.; Entomb: Put four copies of Lumen Reclaimer into your deck.",
+	"cost": 4,
+	"influence": "{T}{T}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lumen_Reclaimer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-80/lumen-reclaimer",
+	"deckBuildable": true
+}

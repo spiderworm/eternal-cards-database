@@ -1,0 +1,18 @@
+{
+	"eternalID": 177,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Wild Rider",
+	"text": "When Wild Rider hits the enemy player, it gets +1 Attack.",
+	"cost": 3,
+	"influence": "{P}",
+	"attack": 1,
+	"health": 4,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Wild_Rider.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-177/wild-rider",
+	"deckBuildable": true
+}

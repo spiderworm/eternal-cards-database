@@ -1,0 +1,18 @@
+{
+	"eternalID": 365,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Shimmerpack",
+	"text": "Summon: Transform any number of units into copies of Shimmerpack.",
+	"cost": 8,
+	"influence": "{T}{T}{P}{P}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Shimmerpack.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-365/shimmerpack",
+	"deckBuildable": true
+}

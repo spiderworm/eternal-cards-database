@@ -1,0 +1,18 @@
+{
+	"eternalID": 129,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Graceful Calligrapher",
+	"text": "Endurance",
+	"cost": 4,
+	"influence": "{J}",
+	"attack": 2,
+	"health": 4,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Graceful_Calligrapher.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-129/graceful-calligrapher",
+	"deckBuildable": true
+}

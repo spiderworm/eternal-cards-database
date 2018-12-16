@@ -1,0 +1,18 @@
+{
+	"eternalID": 354,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Pteriax Hatchling",
+	"text": "Flying, Echo",
+	"cost": 3,
+	"influence": "{T}{P}",
+	"attack": 2,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Pteriax_Hatchling.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-354/pteriax-hatchling",
+	"deckBuildable": true
+}

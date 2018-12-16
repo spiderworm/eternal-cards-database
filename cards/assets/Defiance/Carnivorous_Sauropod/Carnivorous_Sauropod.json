@@ -1,0 +1,18 @@
+{
+	"eternalID": 243,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Carnivorous Sauropod",
+	"text": "Amplify 4: Give one of your other units +4/+4.",
+	"cost": 3,
+	"influence": "{F}{T}{P}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Carnivorous_Sauropod.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-243/carnivorous-sauropod",
+	"deckBuildable": true
+}

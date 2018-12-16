@@ -1,0 +1,18 @@
+{
+	"eternalID": 222,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Yeti Troublemaker",
+	"text": "Echo",
+	"cost": 4,
+	"influence": "{P}",
+	"attack": 3,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Yeti_Troublemaker.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-222/yeti-troublemaker",
+	"deckBuildable": true
+}

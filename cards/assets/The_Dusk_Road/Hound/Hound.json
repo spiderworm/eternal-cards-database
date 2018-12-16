@@ -1,0 +1,17 @@
+{
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Hound",
+	"text": "Charge, Reckless",
+	"cost": 2,
+	"influence": "",
+	"attack": 2,
+	"health": 2,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hound.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/y8mPKZf2Cyk/hound",
+	"deckBuildable": false
+}

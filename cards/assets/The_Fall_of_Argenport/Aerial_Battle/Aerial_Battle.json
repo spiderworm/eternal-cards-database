@@ -1,0 +1,18 @@
+{
+	"eternalID": 166,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Aerial Battle",
+	"text": "Deal 5 damage to each unit with Flying.",
+	"cost": 3,
+	"influence": "{P}{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Aerial_Battle.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-166/aerial-battle",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 336,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Vodakhan's Staff",
+	"text": "Empower: If you have 8 or more maximum power, draw Vodakhan's Staff from your void.",
+	"cost": 3,
+	"influence": "{T}{J}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Vodakhan's_Staff.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-336/vodakhans-staff",
+	"deckBuildable": true
+}

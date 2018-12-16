@@ -1,0 +1,18 @@
+{
+	"eternalID": 1,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Melt Down",
+	"text": "Kill an enemy attachment.",
+	"cost": 0,
+	"influence": "{F}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Melt_Down.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-1/melt-down",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 218,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Kothon, the Far-Watcher",
+	"text": "Endurance; Ultimate: Pay 6 to give Kothon Flying and play a 4/4 Owl with Flying.",
+	"cost": 2,
+	"influence": "{J}{P}",
+	"attack": 2,
+	"health": 3,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Kothon,_the_Far-Watcher.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-218/kothon-the-far-watcher",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 54,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Striped Araktodon",
+	"text": "",
+	"cost": 4,
+	"influence": "{T}{T}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Striped_Araktodon.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-54/striped-araktodon",
+	"deckBuildable": true
+}

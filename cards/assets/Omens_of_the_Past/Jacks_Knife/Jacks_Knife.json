@@ -1,0 +1,18 @@
+{
+	"eternalID": 139,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Jack's Knife",
+	"text": "Summon: The wielder deals 2 damage to you.",
+	"cost": 1,
+	"influence": "{S}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Jack's_Knife.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-139/jacks-knife",
+	"deckBuildable": true
+}

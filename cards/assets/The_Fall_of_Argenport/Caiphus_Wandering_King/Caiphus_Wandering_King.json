@@ -1,0 +1,18 @@
+{
+	"eternalID": 309,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Caiphus, Wandering King",
+	"text": "Summon: Caiphus gets three random battle skills.",
+	"cost": 6,
+	"influence": "",
+	"attack": 5,
+	"health": 5,
+	"rarity": "Promo",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Caiphus,_Wandering_King.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-309/caiphus-wandering-king",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 230,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Shadowstalker",
+	"text": "Unblockable at Night.; Tribute: Nightfall.",
+	"cost": 3,
+	"influence": "{S}{S}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Shadowstalker.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-230/shadowstalker",
+	"deckBuildable": true
+}

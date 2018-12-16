@@ -1,0 +1,18 @@
+{
+	"eternalID": 137,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Minotaur Grunt",
+	"text": "Warcry",
+	"cost": 2,
+	"influence": "{J}",
+	"attack": 1,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Minotaur_Grunt.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-137/minotaur-grunt",
+	"deckBuildable": true
+}

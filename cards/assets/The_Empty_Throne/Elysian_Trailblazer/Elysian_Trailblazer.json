@@ -1,0 +1,18 @@
+{
+	"eternalID": 228,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Elysian Trailblazer",
+	"text": "Summon: The top spell of your deck gets Echo.",
+	"cost": 7,
+	"influence": "{P}{P}{P}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Elysian_Trailblazer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-228/elysian-trailblazer",
+	"deckBuildable": true
+}

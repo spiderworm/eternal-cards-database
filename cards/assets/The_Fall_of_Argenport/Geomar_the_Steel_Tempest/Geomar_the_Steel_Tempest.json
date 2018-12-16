@@ -1,0 +1,18 @@
+{
+	"eternalID": 128,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Geomar, the Steel Tempest",
+	"text": "Flying, Endurance; When you play a spell, Geomar gets +2/+2 and Lifesteal this turn.",
+	"cost": 4,
+	"influence": "{J}{J}",
+	"attack": 3,
+	"health": 2,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Geomar,_the_Steel_Tempest.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-128/geomar-the-steel-tempest",
+	"deckBuildable": true
+}

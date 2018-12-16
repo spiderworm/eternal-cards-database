@@ -1,0 +1,18 @@
+{
+	"eternalID": 169,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Dumping Ground",
+	"text": "Pay 10 and sacrifice Dumping Ground to play two units from your void and give them Charge. Sacrifice them at the end of the turn.;Summon: You may sacrifice a unit to give enemy units -2/-1.",
+	"cost": 4,
+	"influence": "{S}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Legendary",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Dumping_Ground.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-169/dumping-ground",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 241,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Gunrustler",
+	"text": "Summon: Gunrustler steals all weapons from an enemy unit.",
+	"cost": 6,
+	"influence": "{S}{S}",
+	"attack": 4,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Gunrustler.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-241/gunrustler",
+	"deckBuildable": true
+}

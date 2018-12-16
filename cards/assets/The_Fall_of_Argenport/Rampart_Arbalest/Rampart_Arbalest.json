@@ -1,0 +1,18 @@
+{
+	"eternalID": 136,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Rampart Arbalest",
+	"text": "Summon: +3 Attack this turn.",
+	"cost": 5,
+	"influence": "{J}{J}",
+	"attack": 1,
+	"health": 5,
+	"rarity": "Uncommon",
+	"type": "Relic Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rampart_Arbalest.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-136/rampart-arbalest",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 168,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Cabal Rogue",
+	"text": "Unblockable",
+	"cost": 7,
+	"influence": "{S}",
+	"attack": 5,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cabal_Rogue.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-168/cabal-rogue",
+	"deckBuildable": true
+}

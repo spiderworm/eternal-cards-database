@@ -1,0 +1,18 @@
+{
+	"eternalID": 271,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Direwood Beastcaller",
+	"text": "Infiltrate: Play two 5/5 Beasts.",
+	"cost": 3,
+	"influence": "{S}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Direwood_Beastcaller.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-271/direwood-beastcaller",
+	"deckBuildable": true
+}

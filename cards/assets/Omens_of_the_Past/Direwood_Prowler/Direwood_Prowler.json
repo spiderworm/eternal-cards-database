@@ -1,0 +1,18 @@
+{
+	"eternalID": 166,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Direwood Prowler",
+	"text": "Summon: You may sacrifice another unit to draw two cards.",
+	"cost": 6,
+	"influence": "{S}{S}",
+	"attack": 5,
+	"health": 5,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Direwood_Prowler.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-166/direwood-prowler",
+	"deckBuildable": true
+}

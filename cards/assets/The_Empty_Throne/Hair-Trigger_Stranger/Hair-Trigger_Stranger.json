@@ -1,0 +1,18 @@
+{
+	"eternalID": 253,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Hair-Trigger Stranger",
+	"text": "Strangers have Quickdraw.",
+	"cost": 2,
+	"influence": "{F}{S}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hair-Trigger_Stranger.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-253/hair-trigger-stranger",
+	"deckBuildable": true
+}

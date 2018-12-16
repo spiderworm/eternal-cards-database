@@ -1,0 +1,18 @@
+{
+	"eternalID": 267,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Crest of Cunning",
+	"text": "Depleted; Gain {P}{S}.; Scout.",
+	"cost": 0,
+	"influence": "{P}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Power",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crest_of_Cunning.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-267/crest-of-cunning",
+	"deckBuildable": true
+}

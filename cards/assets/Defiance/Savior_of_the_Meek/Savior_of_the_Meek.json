@@ -1,0 +1,18 @@
+{
+	"eternalID": 111,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Savior of the Meek",
+	"text": "Flying, Lifesteal;Fate: Play a 1/1 Watchman with Lifesteal that can't attack.",
+	"cost": 9,
+	"influence": "{J}{J}",
+	"attack": 7,
+	"health": 7,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Savior_of_the_Meek.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-111/savior-of-the-meek",
+	"deckBuildable": true
+}

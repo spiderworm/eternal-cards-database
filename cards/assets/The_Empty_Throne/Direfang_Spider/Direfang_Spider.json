@@ -1,0 +1,18 @@
+{
+	"eternalID": 256,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Direfang Spider",
+	"text": "Deadly",
+	"cost": 1,
+	"influence": "{S}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Direfang_Spider.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-256/direfang-spider",
+	"deckBuildable": true
+}

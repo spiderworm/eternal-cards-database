@@ -1,0 +1,17 @@
+{
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Shugo Tactic",
+	"text": "Give a unit +4/+2 and Overwhelm this turn.",
+	"cost": 2,
+	"influence": "{F}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "None",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Shugo_Tactic.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/bBWyg114zc0/shugo-tactic",
+	"deckBuildable": false
+}

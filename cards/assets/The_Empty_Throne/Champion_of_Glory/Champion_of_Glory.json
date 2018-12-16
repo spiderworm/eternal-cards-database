@@ -1,0 +1,18 @@
+{
+	"eternalID": 314,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Champion of Glory",
+	"text": "{F}{F}: +2 Attack and Quickdraw.; {J}{J}: +2 Health and Endurance.",
+	"cost": 2,
+	"influence": "{F}{J}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Champion_of_Glory.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-314/champion-of-glory",
+	"deckBuildable": true
+}

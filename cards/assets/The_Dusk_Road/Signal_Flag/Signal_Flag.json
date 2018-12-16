@@ -1,0 +1,18 @@
+{
+	"eternalID": 118,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Signal Flag",
+	"text": "Valkyrie Ally: Warcry",
+	"cost": 3,
+	"influence": "{J}",
+	"attack": 1,
+	"health": 4,
+	"rarity": "Uncommon",
+	"type": "Relic Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Signal_Flag.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-118/signal-flag",
+	"deckBuildable": true
+}

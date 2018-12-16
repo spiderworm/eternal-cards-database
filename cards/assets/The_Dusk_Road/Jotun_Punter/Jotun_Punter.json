@@ -1,0 +1,18 @@
+{
+	"eternalID": 188,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Jotun Punter",
+	"text": "Exhaust Jotun Punter to give one of your Yeti +4 Attack and Flying this turn. At the end of your turn, stun that Yeti.",
+	"cost": 5,
+	"influence": "{P}",
+	"attack": 2,
+	"health": 6,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Jotun_Punter.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-188/jotun-punter",
+	"deckBuildable": true
+}

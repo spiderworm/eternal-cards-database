@@ -1,0 +1,18 @@
+{
+	"eternalID": 35,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Cult Aspirant",
+	"text": "Overwhelm; Lifeforce: When you gain health, Cult Aspirant gets +1/+1.",
+	"cost": 1,
+	"influence": "{T}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cult_Aspirant.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-35/cult-aspirant",
+	"deckBuildable": true
+}

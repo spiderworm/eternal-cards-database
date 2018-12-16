@@ -1,0 +1,17 @@
+{
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Skycrag Goad",
+	"text": "Flying",
+	"cost": 4,
+	"influence": "{P}{P}",
+	"attack": 0,
+	"health": 2,
+	"rarity": "None",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Skycrag_Goad.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/474GfMAqN7s/skycrag-goad",
+	"deckBuildable": false
+}

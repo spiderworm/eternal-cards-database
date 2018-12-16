@@ -1,0 +1,18 @@
+{
+	"eternalID": 126,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Caltrops",
+	"text": "The cursed unit has -5 Attack.; The enemy player can't play cards with the name of the cursed unit.",
+	"cost": 4,
+	"influence": "{J}{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Curse",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Caltrops.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-126/caltrops",
+	"deckBuildable": true
+}

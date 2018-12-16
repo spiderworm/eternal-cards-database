@@ -1,0 +1,18 @@
+{
+	"eternalID": 207,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Tunneling Gargantua",
+	"text": "Killer, Pledge;+ Strength/+ Health equal to the cost of your highest cost relic.",
+	"cost": 8,
+	"influence": "{T}{P}",
+	"attack": 5,
+	"health": 5,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Tunneling_Gargantua.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-207/tunneling-gargantua",
+	"deckBuildable": true
+}

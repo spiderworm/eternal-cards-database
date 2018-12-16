@@ -1,0 +1,18 @@
+{
+	"eternalID": 251,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Astromancer's Compass",
+	"text": "Once per turn, you may pay 2 to give one of your units +1/+1 this turn.",
+	"cost": 1,
+	"influence": "",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Astromancer's_Compass.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-251/astromancers-compass",
+	"deckBuildable": true
+}

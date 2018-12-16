@@ -1,0 +1,18 @@
+{
+	"eternalID": 111,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Merciless Stranger",
+	"text": "Strangers are Deadly.",
+	"cost": 5,
+	"influence": "{S}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Merciless_Stranger.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-111/merciless-stranger",
+	"deckBuildable": true
+}

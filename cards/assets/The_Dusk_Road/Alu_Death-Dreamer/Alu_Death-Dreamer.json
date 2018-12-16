@@ -1,0 +1,18 @@
+{
+	"eternalID": 192,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Alu, Death-Dreamer",
+	"text": "Flying; Summon: Nightfall.; When you play a curse, play a 3/3 Unseen with a random battle skill.",
+	"cost": 5,
+	"influence": "{P}{P}",
+	"attack": 2,
+	"health": 5,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Alu,_Death-Dreamer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-192/alu-death-dreamer",
+	"deckBuildable": true
+}

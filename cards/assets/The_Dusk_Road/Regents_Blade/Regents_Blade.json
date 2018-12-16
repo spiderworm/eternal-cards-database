@@ -1,0 +1,18 @@
+{
+	"eternalID": 143,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Regent's Blade",
+	"text": "The wielder is invulnerable to damage.",
+	"cost": 6,
+	"influence": "{J}{J}{J}",
+	"attack": 3,
+	"health": 0,
+	"rarity": "Legendary",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Regent's_Blade.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-143/regents-blade",
+	"deckBuildable": true
+}

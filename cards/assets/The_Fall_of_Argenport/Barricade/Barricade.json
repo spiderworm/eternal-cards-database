@@ -1,0 +1,18 @@
+{
+	"eternalID": 106,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Barricade",
+	"text": "Give one of your blocking units +8/+8 this turn.",
+	"cost": 2,
+	"influence": "{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Barricade.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-106/barricade",
+	"deckBuildable": true
+}

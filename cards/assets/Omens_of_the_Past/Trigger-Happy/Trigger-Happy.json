@@ -1,0 +1,18 @@
+{
+	"eternalID": 153,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Trigger-Happy",
+	"text": "Your units get Quickdraw this turn.",
+	"cost": 3,
+	"influence": "{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Trigger-Happy.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-153/trigger-happy",
+	"deckBuildable": true
+}

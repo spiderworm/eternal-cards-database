@@ -1,0 +1,18 @@
+{
+	"eternalID": 106,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Defender's Bulwark",
+	"text": "Summon: Defender's Bulwark gets +1/+1 for each damage you were dealt last turn.",
+	"cost": 6,
+	"influence": "{J}{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Defender's_Bulwark.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-106/defenders-bulwark",
+	"deckBuildable": true
+}

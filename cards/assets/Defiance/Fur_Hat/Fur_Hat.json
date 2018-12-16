@@ -1,0 +1,18 @@
+{
+	"eternalID": 88,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Fur Hat",
+	"text": "Summon: Draw a Justice Sigil from your deck.",
+	"cost": 3,
+	"influence": "{J}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Fur_Hat.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-88/fur-hat",
+	"deckBuildable": true
+}

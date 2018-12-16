@@ -1,0 +1,18 @@
+{
+	"eternalID": 5,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Kennelmaster",
+	"text": "At the start of your turn, if you have three or more spells in your void, play a 2/2 Hound with Charge and Reckless.",
+	"cost": 1,
+	"influence": "{F}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Kennelmaster.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-5/kennelmaster",
+	"deckBuildable": true
+}

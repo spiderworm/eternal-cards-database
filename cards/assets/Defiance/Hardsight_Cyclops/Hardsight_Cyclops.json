@@ -1,0 +1,18 @@
+{
+	"eternalID": 23,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Hardsight Cyclops",
+	"text": "Amplify 2: Exhaust an enemy unit.",
+	"cost": 4,
+	"influence": "{F}{F}",
+	"attack": 4,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hardsight_Cyclops.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-23/hardsight-cyclops",
+	"deckBuildable": true
+}

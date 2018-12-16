@@ -1,0 +1,17 @@
+{
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Obsidian Armor",
+	"text": "",
+	"cost": 2,
+	"influence": "{F}{S}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "None",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Obsidian_Armor.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/Bhw-eILw0xM/obsidian-armor",
+	"deckBuildable": false
+}

@@ -10,11 +10,11 @@
 	},
 	"author": "David Millet",
 	"license": "MIT",
-	"dependencies": {
+	"dependencies": {},
+	"devDependencies": {
+		"fs-extra": "^7.0.1",
+		"json-loader": "^0.5.7",
 		"mkdirp": "^0.5.1",
 		"request": "^2.88.0"
-	},
-	"devDependencies": {
-		"json-loader": "^0.5.7"
 	}
 }

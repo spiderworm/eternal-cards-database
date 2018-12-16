@@ -1,0 +1,18 @@
+{
+	"eternalID": 7,
+	"set": {
+		"id": 1001,
+		"name": "Jekk’s Bounty"
+	},
+	"name": "Cliffside Porter",
+	"text": "Echo",
+	"cost": 1,
+	"influence": "{P}",
+	"attack": 0,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cliffside_Porter.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1001-7/cliffside-porter",
+	"deckBuildable": true
+}

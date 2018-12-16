@@ -1,0 +1,18 @@
+{
+	"eternalID": 57,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Cykalis, the Burning Sand",
+	"text": "Charge, Overwhelm, Pledge;Summon: Cykalis is invulnerable to damage this turn.",
+	"cost": 4,
+	"influence": "{T}{T}",
+	"attack": 5,
+	"health": 2,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cykalis,_the_Burning_Sand.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-57/cykalis-the-burning-sand",
+	"deckBuildable": true
+}

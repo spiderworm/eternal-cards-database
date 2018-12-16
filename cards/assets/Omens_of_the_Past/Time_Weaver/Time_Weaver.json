@@ -1,0 +1,18 @@
+{
+	"eternalID": 62,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Time Weaver",
+	"text": "Summon: Double the cost of a card in the enemy player's hand.",
+	"cost": 5,
+	"influence": "{T}{T}",
+	"attack": 3,
+	"health": 4,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Time_Weaver.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-62/time-weaver",
+	"deckBuildable": true
+}

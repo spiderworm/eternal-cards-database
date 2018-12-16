@@ -1,0 +1,18 @@
+{
+	"eternalID": 60,
+	"set": {
+		"id": 0,
+		"name": "The Empty Throne"
+	},
+	"name": "Seat of Chaos",
+	"text": "Gain {F}{S}.; Depleted unless you have a Sigil in your hand.",
+	"cost": 0,
+	"influence": "{F}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Power",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Seat_of_Chaos.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/0-60/seat-of-chaos",
+	"deckBuildable": true
+}

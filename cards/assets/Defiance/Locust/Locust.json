@@ -1,0 +1,18 @@
+{
+	"eternalID": 45,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Locust",
+	"text": "Flying",
+	"cost": 2,
+	"influence": "{T}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Locust.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-45/locust",
+	"deckBuildable": true
+}

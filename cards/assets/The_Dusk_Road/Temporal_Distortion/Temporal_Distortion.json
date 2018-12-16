@@ -1,0 +1,18 @@
+{
+	"eternalID": 96,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Temporal Distortion",
+	"text": "Your spells are fast.; At the start of the enemy turn, replenish your power.",
+	"cost": 8,
+	"influence": "{T}{T}{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Legendary",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Temporal_Distortion.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-96/temporal-distortion",
+	"deckBuildable": true
+}

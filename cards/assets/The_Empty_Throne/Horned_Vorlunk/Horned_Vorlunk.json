@@ -1,0 +1,18 @@
+{
+	"eternalID": 503,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Horned Vorlunk",
+	"text": "Overwhelm",
+	"cost": 4,
+	"influence": "{T}",
+	"attack": 3,
+	"health": 4,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Horned_Vorlunk.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-503/horned-vorlunk",
+	"deckBuildable": true
+}

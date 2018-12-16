@@ -1,0 +1,18 @@
+{
+	"eternalID": 73,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Strength of Many",
+	"text": "Give one of your units +1/+1 this turn for each of your units.",
+	"cost": 2,
+	"influence": "{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Strength_of_Many.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-73/strength-of-many",
+	"deckBuildable": true
+}

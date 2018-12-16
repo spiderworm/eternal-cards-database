@@ -1,0 +1,18 @@
+{
+	"eternalID": 9,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Granite Ring",
+	"text": "Once per turn, you may pay 3 to give your units +1 Attack and Overwhelm this turn.",
+	"cost": 3,
+	"influence": "{F}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Granite_Ring.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-9/granite-ring",
+	"deckBuildable": true
+}

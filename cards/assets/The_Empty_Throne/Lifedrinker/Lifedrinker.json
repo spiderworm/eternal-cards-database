@@ -1,0 +1,18 @@
+{
+	"eternalID": 275,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Lifedrinker",
+	"text": "Summon: You get Lifesteal this turn.",
+	"cost": 3,
+	"influence": "{S}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Relic Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lifedrinker.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-275/lifedrinker",
+	"deckBuildable": true
+}

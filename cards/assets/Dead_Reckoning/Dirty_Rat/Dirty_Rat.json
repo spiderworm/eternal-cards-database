@@ -1,0 +1,17 @@
+{
+	"set": {
+		"id": 1003,
+		"name": "Dead Reckoning"
+	},
+	"name": "Dirty Rat",
+	"text": "Dirty Rat can't block.",
+	"cost": 0,
+	"influence": "{S}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Dirty_Rat.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/Z1ColXNbrTE/dirty-rat",
+	"deckBuildable": false
+}

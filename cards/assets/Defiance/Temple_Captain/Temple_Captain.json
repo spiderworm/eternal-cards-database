@@ -1,0 +1,18 @@
+{
+	"eternalID": 71,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Temple Captain",
+	"text": "Overwhelm;Your other {T} units have +1/+1.",
+	"cost": 6,
+	"influence": "{T}{T}",
+	"attack": 5,
+	"health": 5,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Temple_Captain.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-71/temple-captain",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 25,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Shingane Firebrand",
+	"text": "Pledge;Renown: Deal damage to an enemy equal to the cost of that spell or weapon.",
+	"cost": 4,
+	"influence": "{F}{F}",
+	"attack": 4,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Shingane_Firebrand.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-25/shingane-firebrand",
+	"deckBuildable": true
+}

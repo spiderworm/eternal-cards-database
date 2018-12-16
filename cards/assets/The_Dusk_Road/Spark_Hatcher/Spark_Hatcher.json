@@ -1,0 +1,18 @@
+{
+	"eternalID": 12,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Spark Hatcher",
+	"text": "Entomb: Play a 1/1 Grenadin",
+	"cost": 2,
+	"influence": "{F}",
+	"attack": 2,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Spark_Hatcher.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-12/spark-hatcher",
+	"deckBuildable": true
+}

@@ -1,0 +1,17 @@
+{
+	"eternalID": 215,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Daggerclaw Howler",
+	"cost": 3,
+	"influence": "{S}",
+	"attack": 4,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Daggerclaw_Howler.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-215/daggerclaw-howler",
+	"deckBuildable": true
+}

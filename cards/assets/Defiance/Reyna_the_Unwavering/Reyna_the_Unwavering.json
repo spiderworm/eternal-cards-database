@@ -1,0 +1,18 @@
+{
+	"eternalID": 109,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Reyna, the Unwavering",
+	"text": "Endurance, Pledge;Enemy {S} spells and curses can't be played directly on Reyna.",
+	"cost": 6,
+	"influence": "{J}{J}{J}",
+	"attack": 6,
+	"health": 7,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Reyna,_the_Unwavering.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-109/reyna-the-unwavering",
+	"deckBuildable": true
+}

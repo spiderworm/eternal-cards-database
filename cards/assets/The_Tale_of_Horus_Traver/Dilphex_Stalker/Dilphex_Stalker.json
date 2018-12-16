@@ -1,0 +1,18 @@
+{
+	"eternalID": 5,
+	"set": {
+		"id": 1002,
+		"name": "The Tale of Horus Traver"
+	},
+	"name": "Dilphex Stalker",
+	"text": "Killer; Summon: Scout.",
+	"cost": 3,
+	"influence": "{T}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Dilphex_Stalker.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1002-5/dilphex-stalker",
+	"deckBuildable": true
+}

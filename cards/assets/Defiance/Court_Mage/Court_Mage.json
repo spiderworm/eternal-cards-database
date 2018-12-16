@@ -1,0 +1,18 @@
+{
+	"eternalID": 134,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Court Mage",
+	"text": "Pledge",
+	"cost": 4,
+	"influence": "{P}",
+	"attack": 2,
+	"health": 5,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Court_Mage.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-134/court-mage",
+	"deckBuildable": true
+}

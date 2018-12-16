@@ -1,0 +1,18 @@
+{
+	"eternalID": 103,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Spire Spellsword",
+	"text": "When you play a spell, Spire Spellsword gets +1/+1 and Lifesteal this turn.",
+	"cost": 1,
+	"influence": "{J}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Spire_Spellsword.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-103/spire-spellsword",
+	"deckBuildable": true
+}

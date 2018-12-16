@@ -1,0 +1,18 @@
+{
+	"eternalID": 207,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Banish",
+	"text": "Kill an enemy unit or relic with cost 4 or less.",
+	"cost": 3,
+	"influence": "{T}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Banish.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-207/banish",
+	"deckBuildable": true
+}

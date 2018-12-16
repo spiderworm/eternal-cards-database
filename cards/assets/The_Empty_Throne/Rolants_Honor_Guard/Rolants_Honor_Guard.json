@@ -1,0 +1,18 @@
+{
+	"eternalID": 183,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Rolant's Honor Guard",
+	"text": "Flying, Lifesteal",
+	"cost": 7,
+	"influence": "{J}{J}",
+	"attack": 6,
+	"health": 6,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rolant's_Honor_Guard.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-183/rolants-honor-guard",
+	"deckBuildable": true
+}

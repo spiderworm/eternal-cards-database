@@ -1,0 +1,18 @@
+{
+	"eternalID": 156,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Cabal Bludgeoner",
+	"text": "+2/+2 while wielding a weapon.",
+	"cost": 4,
+	"influence": "{S}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cabal_Bludgeoner.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-156/cabal-bludgeoner",
+	"deckBuildable": true
+}

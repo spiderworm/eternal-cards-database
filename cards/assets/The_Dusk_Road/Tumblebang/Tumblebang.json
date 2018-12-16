@@ -1,0 +1,18 @@
+{
+	"eternalID": 27,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Tumblebang",
+	"text": "Entomb: You get +3 power this turn.",
+	"cost": 3,
+	"influence": "{F}{F}",
+	"attack": 3,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Tumblebang.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-27/tumblebang",
+	"deckBuildable": true
+}

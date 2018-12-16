@@ -1,0 +1,17 @@
+{
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Fixit",
+	"text": "Overwhelm",
+	"cost": 2,
+	"influence": "",
+	"attack": 3,
+	"health": 2,
+	"rarity": "None",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Fixit.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/Ji2zDVIe_uI/fixit",
+	"deckBuildable": false
+}

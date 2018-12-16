@@ -1,0 +1,18 @@
+{
+	"eternalID": 307,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Vara, Fate-Touched",
+	"text": "Deadly; When you play another {S} unit, play an additional {S} unit from your void.",
+	"cost": 8,
+	"influence": "{S}{S}{S}",
+	"attack": 6,
+	"health": 6,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Vara,_Fate-Touched.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-307/vara-fate-touched",
+	"deckBuildable": true
+}

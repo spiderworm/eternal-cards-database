@@ -1,0 +1,18 @@
+{
+	"eternalID": 129,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Shapeshifter's Mask",
+	"text": "At the end of your turn, transform the wielder into a random unit that costs 1 more.",
+	"cost": 3,
+	"influence": "{P}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Rare",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Shapeshifter's_Mask.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-129/shapeshifters-mask",
+	"deckBuildable": true
+}

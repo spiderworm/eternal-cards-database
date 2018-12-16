@@ -1,0 +1,18 @@
+{
+	"eternalID": 7,
+	"set": {
+		"id": 1003,
+		"name": "Dead Reckoning"
+	},
+	"name": "Icaria, Valkyrie Captain",
+	"text": "Flying, Endurance; {J}{J}{J}{J}{J}{J}: +3/+2.; Ultimate: Pay 3 to play a Justice Sigil from your deck Depleted. Each Valkyrie in your hand gets +1/+1.",
+	"cost": 2,
+	"influence": "{J}{J}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Icaria,_Valkyrie_Captain.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1003-7/icaria-valkyrie-captain",
+	"deckBuildable": true
+}

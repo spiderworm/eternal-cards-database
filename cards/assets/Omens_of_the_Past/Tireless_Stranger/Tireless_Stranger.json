@@ -1,0 +1,18 @@
+{
+	"eternalID": 84,
+	"set": {
+		"id": 2,
+		"name": "Omens of the Past"
+	},
+	"name": "Tireless Stranger",
+	"text": "Strangers have Endurance.",
+	"cost": 3,
+	"influence": "{J}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Tireless_Stranger.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-84/tireless-stranger",
+	"deckBuildable": true
+}

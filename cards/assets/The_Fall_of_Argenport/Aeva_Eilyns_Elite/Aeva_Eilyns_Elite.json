@@ -1,0 +1,18 @@
+{
+	"eternalID": 180,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Aeva, Eilyn's Elite",
+	"text": "Flying; Tribute: Create and draw two 1/2 Cloudsnakes with Flying.; Infiltrate: Create and draw two 1/2 Cloudsnakes with Flying.",
+	"cost": 5,
+	"influence": "{P}{P}",
+	"attack": 4,
+	"health": 5,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Aeva,_Eilyn's_Elite.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-180/aeva-eilyns-elite",
+	"deckBuildable": true
+}

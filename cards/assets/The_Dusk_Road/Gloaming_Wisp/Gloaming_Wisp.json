@@ -1,0 +1,18 @@
+{
+	"eternalID": 55,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Gloaming Wisp",
+	"text": "Flying; Summon: Nightfall.",
+	"cost": 1,
+	"influence": "{T}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Gloaming_Wisp.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-55/gloaming-wisp",
+	"deckBuildable": true
+}

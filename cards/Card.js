@@ -1,7 +1,8 @@
+const setDatabase = require('../sets/setDatabase.js');
 
 function Card(
 	eternalID,
-	setID,
+	set,
 	name,
 	text,
 	cost,
@@ -15,7 +16,7 @@ function Card(
 	deckBuildable
 ) {
 	this.eternalID = eternalID;
-	this.setID = setID;
+	this.set = set;
 	this.name = name;
 	this.text = text;
 	this.cost = cost;
@@ -34,9 +35,11 @@ Card.prototype.toObject = function() {
 };
 
 Card.create = function(props) {
+	const set = setDatabase.getByID(props.setID);
+
 	return new Card(
 		props.eternalID,
-		props.setID,
+		set,
 		props.name,
 		props.text,
 		props.cost,
@@ -55,7 +58,7 @@ Card.cardsMatch = function(c1, c2) {
 	return (
 		c1 === c2 || (
 			c1.eternalID === c2.eternalID &&
-			c1.setID === c2.setID &&
+			c1.set.id === c2.set.id &&
 			c1.name === c2.name &&
 			c1.text === c2.text &&
 			c1.cost === c2.cost &&

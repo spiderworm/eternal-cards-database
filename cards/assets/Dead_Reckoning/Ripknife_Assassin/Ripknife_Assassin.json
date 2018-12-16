@@ -1,0 +1,18 @@
+{
+	"eternalID": 13,
+	"set": {
+		"id": 1003,
+		"name": "Dead Reckoning"
+	},
+	"name": "Ripknife Assassin",
+	"text": "Deadly, Warcry",
+	"cost": 2,
+	"influence": "{S}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ripknife_Assassin.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1003-13/ripknife-assassin",
+	"deckBuildable": true
+}

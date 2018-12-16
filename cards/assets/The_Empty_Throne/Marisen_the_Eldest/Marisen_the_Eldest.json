@@ -1,0 +1,18 @@
+{
+	"eternalID": 123,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Marisen, the Eldest",
+	"text": "At the start of each player's turn, play one of the following at random: 1/1 Scorpion, 2/2 Locust, or 3/3 Sandcrawler",
+	"cost": 8,
+	"influence": "{T}{T}",
+	"attack": 4,
+	"health": 7,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Marisen,_the_Eldest.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-123/marisen-the-eldest",
+	"deckBuildable": true
+}

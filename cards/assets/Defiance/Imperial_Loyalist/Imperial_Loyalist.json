@@ -1,0 +1,18 @@
+{
+	"eternalID": 98,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Imperial Loyalist",
+	"text": "Pledge;Renown: Play another unit of your choice from your deck with cost equal to or less than that spell or weapon.",
+	"cost": 4,
+	"influence": "{J}",
+	"attack": 4,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Imperial_Loyalist.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-98/imperial-loyalist",
+	"deckBuildable": true
+}

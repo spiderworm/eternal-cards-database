@@ -1,0 +1,18 @@
+{
+	"eternalID": 172,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Rabid Yeti",
+	"text": "Killer",
+	"cost": 3,
+	"influence": "{P}{P}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rabid_Yeti.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-172/rabid-yeti",
+	"deckBuildable": true
+}

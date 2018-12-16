@@ -1,0 +1,18 @@
+{
+	"eternalID": 21,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Bladerang",
+	"text": "Double Damage",
+	"cost": 4,
+	"influence": "{F}{F}{F}{F}",
+	"attack": 1,
+	"health": 3,
+	"rarity": "Legendary",
+	"type": "Relic Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bladerang.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-21/bladerang",
+	"deckBuildable": true
+}

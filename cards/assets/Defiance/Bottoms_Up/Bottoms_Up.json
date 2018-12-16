@@ -1,0 +1,18 @@
+{
+	"eternalID": 2,
+	"set": {
+		"id": 5,
+		"name": "Defiance"
+	},
+	"name": "Bottoms Up",
+	"text": "Give a unit +2 Strength this turn.\nAmplify 2: Give a unit +2 Strength this turn.",
+	"cost": 1,
+	"influence": "{F}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bottoms_Up.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-2/bottoms-up",
+	"deckBuildable": true
+}

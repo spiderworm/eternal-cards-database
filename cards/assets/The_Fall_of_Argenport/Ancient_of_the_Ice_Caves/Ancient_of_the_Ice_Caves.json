@@ -1,0 +1,18 @@
+{
+	"eternalID": 262,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Ancient of the Ice Caves",
+	"text": "Overwhelm; Ultimate: Pay 8 to make each player discard their hand and draw eight cards.",
+	"cost": 4,
+	"influence": "{P}{P}{S}{S}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ancient_of_the_Ice_Caves.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-262/ancient-of-the-ice-caves",
+	"deckBuildable": true
+}

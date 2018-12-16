@@ -1,0 +1,18 @@
+{
+	"eternalID": 239,
+	"set": {
+		"id": 3,
+		"name": "The Dusk Road"
+	},
+	"name": "Drifting Death",
+	"text": "Flying, Lifesteal; Entomb: Draw a curse from your void.",
+	"cost": 6,
+	"influence": "{S}",
+	"attack": 3,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Drifting_Death.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-239/drifting-death",
+	"deckBuildable": true
+}

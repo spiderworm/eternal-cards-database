@@ -1,0 +1,18 @@
+{
+	"eternalID": 279,
+	"set": {
+		"id": 4,
+		"name": "The Fall of Argenport"
+	},
+	"name": "Rotorcycle",
+	"text": "Flying",
+	"cost": 4,
+	"influence": "",
+	"attack": 2,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rotorcycle.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-279/rotorcycle",
+	"deckBuildable": true
+}

@@ -1,0 +1,18 @@
+{
+	"eternalID": 142,
+	"set": {
+		"id": 1,
+		"name": "The Empty Throne"
+	},
+	"name": "Crownwatch Longsword",
+	"text": "",
+	"cost": 2,
+	"influence": "{J}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crownwatch_Longsword.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-142/crownwatch-longsword",
+	"deckBuildable": true
+}
