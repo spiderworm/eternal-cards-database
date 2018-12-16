@@ -1,9 +1,5 @@
 {
 	"eternalID": 189,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Rockslide",
 	"text": "- Deal 2 damage to an enemy, or; - Deal 1 damage to two enemies.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rockslide.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-189/rockslide",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 91,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "End of Days",
 	"text": "Warp; Draw a Sigil of each faction from your deck.; Tribute: Play them Depleted instead.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/End_of_Days.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-91/end-of-days",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

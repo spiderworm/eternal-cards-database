@@ -1,9 +1,5 @@
 {
 	"eternalID": 81,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Lumen Attendant",
 	"text": "Voidbound; Ultimate: Pay 3 and discard a card to draw another card from your void. Play a 1/1 Wisp.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lumen_Attendant.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-81/lumen-attendant",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

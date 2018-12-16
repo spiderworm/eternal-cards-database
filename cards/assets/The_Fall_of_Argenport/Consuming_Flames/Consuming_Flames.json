@@ -1,9 +1,5 @@
 {
 	"eternalID": 9,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Consuming Flames",
 	"text": "Warp; Sacrifice a unit to deal 3 damage to an enemy.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Consuming_Flames.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-9/consuming-flames",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

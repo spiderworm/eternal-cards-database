@@ -1,9 +1,5 @@
 {
 	"eternalID": 176,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Voracious Fosora",
 	"text": "Reckless",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Voracious_Fosora.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-176/voracious-fosora",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 20,
-	"set": {
-		"id": 1004,
-		"name": "Into Shadow"
-	},
 	"name": "Eremot, the Gathering Dark",
 	"text": "Flying; When Eremot hits the enemy player, they discard cards from their deck until they discard a unit.; Charge while there are no enemy units.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Eremot,_the_Gathering_Dark.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1004-20/eremot-the-gathering-dark",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1004
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 3,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Charchain Flail",
 	"text": "Summon: Spend your remaining power to give Charchain Flail that much Attack.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Relic Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Charchain_Flail.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-3/charchain-flail",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

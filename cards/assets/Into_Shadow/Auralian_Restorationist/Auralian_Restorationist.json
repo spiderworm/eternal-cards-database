@@ -1,9 +1,5 @@
 {
 	"eternalID": 5,
-	"set": {
-		"id": 1004,
-		"name": "Into Shadow"
-	},
 	"name": "Auralian Restorationist",
 	"text": "Summon: You gain 2 Health.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Auralian_Restorationist.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1004-5/auralian-restorationist",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1004
 }

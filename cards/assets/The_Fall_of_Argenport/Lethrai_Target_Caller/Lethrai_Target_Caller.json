@@ -1,9 +1,5 @@
 {
 	"eternalID": 206,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Lethrai Target Caller",
 	"text": "Inspire: Units you draw get Quickdraw.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lethrai_Target_Caller.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-206/lethrai-target-caller",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

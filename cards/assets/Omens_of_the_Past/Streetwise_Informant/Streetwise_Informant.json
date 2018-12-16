@@ -1,9 +1,5 @@
 {
 	"eternalID": 240,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Streetwise Informant",
 	"text": "Endurance, Unblockable; Pay 5 to gain 2 Armor.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Streetwise_Informant.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-240/streetwise-informant",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

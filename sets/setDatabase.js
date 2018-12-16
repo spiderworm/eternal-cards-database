@@ -22,7 +22,8 @@ function SetDatabase() {
 }
 
 SetDatabase.prototype.getByID = function(id) {
-	return this._items.find(set => set.id === id);
+	const result = this._items.find(set => set.id === id);
+	return result;
 };
 
 module.exports = new SetDatabase();

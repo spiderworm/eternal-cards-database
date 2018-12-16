@@ -1,9 +1,5 @@
 {
 	"eternalID": 9,
-	"set": {
-		"id": 1003,
-		"name": "Dead Reckoning"
-	},
 	"name": "Inquisitor's Blade",
 	"text": "Flying; When the wielder dies, give Inquisitor's Blade Destiny and put it into the top ten cards of your deck.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Inquisitor's_Blade.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1003-9/inquisitors-blade",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1003
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 6,
-	"set": {
-		"id": 1004,
-		"name": "Into Shadow"
-	},
 	"name": "Tome of Repetition",
 	"text": "You can use Spellcraft abilities an additional time.; Spellcraft 2: Play Secret Pages.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Tome_of_Repetition.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1004-6/tome-of-repetition",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1004
 }

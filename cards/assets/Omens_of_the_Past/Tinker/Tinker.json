@@ -1,9 +1,5 @@
 {
 	"eternalID": 75,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Tinker",
 	"text": "Scout.; The top unit or weapon of your deck gets +2/+2.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Tinker.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-75/tinker",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

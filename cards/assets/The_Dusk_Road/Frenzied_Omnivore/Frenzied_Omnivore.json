@@ -1,9 +1,5 @@
 {
 	"eternalID": 84,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Frenzied Omnivore",
 	"text": "When an enemy unit dies, Frenzied Omnivore gets +1/+1.; Summon: You may discard a card to give Frenzied Omnivore Killer.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Frenzied_Omnivore.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-84/frenzied-omnivore",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 221,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Spellshield Architect",
 	"text": "Aegis; Mentor: Give the Student Aegis.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Spellshield_Architect.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-221/spellshield-architect",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 46,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Core Scavenger",
 	"text": "Summon: Give one of your other units +2/+1 while you have Core Scavenger.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Core_Scavenger.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-46/core-scavenger",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 423,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Granite Monument",
 	"text": "Depleted; Gain {F}; Transmute 5: 4/1; Magmahound with Charge.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Power",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Granite_Monument.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-423/granite-monument",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

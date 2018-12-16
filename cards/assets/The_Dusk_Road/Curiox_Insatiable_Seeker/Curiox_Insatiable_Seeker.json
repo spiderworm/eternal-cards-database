@@ -1,9 +1,5 @@
 {
 	"eternalID": 278,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Curiox, Insatiable Seeker",
 	"text": "Flying; +2/+2 while you have a relic.; Ultimate: When Curiox hits the enemy player, if you have five or more spells in your void, create and draw a Dragon's Eye.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Curiox,_Insatiable_Seeker.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-278/curiox-insatiable-seeker",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

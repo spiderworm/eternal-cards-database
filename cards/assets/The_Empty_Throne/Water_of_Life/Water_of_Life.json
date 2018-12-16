@@ -1,9 +1,5 @@
 {
 	"eternalID": 68,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Water of Life",
 	"text": "Echo; You gain 3 Health.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Water_of_Life.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-68/water-of-life",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

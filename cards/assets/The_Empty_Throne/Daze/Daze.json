@@ -1,9 +1,5 @@
 {
 	"eternalID": 414,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Daze",
 	"text": "Stun an enemy unit.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Daze.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-414/daze",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

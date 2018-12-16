@@ -1,9 +1,5 @@
 {
 	"eternalID": 51,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Entrancer",
 	"text": "Flying; Summon: Silence a unit with cost 3 or less in the enemy player's hand.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Entrancer.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-51/entrancer",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 83,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Sauropod Wrangler",
 	"text": "Your units with 5 Attack or more cost 1 less.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sauropod_Wrangler.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-83/sauropod-wrangler",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

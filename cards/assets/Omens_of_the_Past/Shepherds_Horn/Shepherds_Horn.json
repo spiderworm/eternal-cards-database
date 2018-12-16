@@ -1,9 +1,5 @@
 {
 	"eternalID": 49,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Shepherd's Horn",
 	"text": "Your cards with Overwhelm cost 1 less.; When you play a card with Overwhelm, you gain 3 Health.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Shepherd's_Horn.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-49/shepherds-horn",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

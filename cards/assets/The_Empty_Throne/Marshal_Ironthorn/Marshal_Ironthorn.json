@@ -1,9 +1,5 @@
 {
 	"eternalID": 174,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Marshal Ironthorn",
 	"text": "Empower: Play an additional copy of that power.; Ultimate: Pay 15 to kill all enemy units. ",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Marshal_Ironthorn.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-174/marshal-ironthorn",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

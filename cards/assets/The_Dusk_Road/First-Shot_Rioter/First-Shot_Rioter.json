@@ -1,9 +1,5 @@
 {
 	"eternalID": 17,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "First-Shot Rioter",
 	"text": "Gunslinger Ally: Play a +1/+1 weapon on First-Shot Rioter.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/First-Shot_Rioter.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-17/first-shot-rioter",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

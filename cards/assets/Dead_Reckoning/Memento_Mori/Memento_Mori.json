@@ -1,9 +1,5 @@
 {
 	"eternalID": 4,
-	"set": {
-		"id": 1003,
-		"name": "Dead Reckoning"
-	},
 	"name": "Memento Mori",
 	"text": "+1 Maximum Power.; Summon: Gain {F}{T}{J}{P}{S}.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Memento_Mori.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1003-4/memento-mori",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1003
 }

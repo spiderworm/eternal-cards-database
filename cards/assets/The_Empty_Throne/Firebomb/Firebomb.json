@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Firebomb",
 	"text": "Destiny; Deal 5 damage to yourself.",
 	"cost": 1,
@@ -13,5 +9,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Firebomb.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/jFOuZUk74pA/firebomb",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 1
 }

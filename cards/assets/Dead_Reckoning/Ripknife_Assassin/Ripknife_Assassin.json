@@ -1,9 +1,5 @@
 {
 	"eternalID": 13,
-	"set": {
-		"id": 1003,
-		"name": "Dead Reckoning"
-	},
 	"name": "Ripknife Assassin",
 	"text": "Deadly, Warcry",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ripknife_Assassin.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1003-13/ripknife-assassin",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1003
 }

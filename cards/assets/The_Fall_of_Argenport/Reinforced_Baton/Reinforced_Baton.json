@@ -1,9 +1,5 @@
 {
 	"eternalID": 122,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Reinforced Baton",
 	"cost": 3,
 	"influence": "{J}{J}",
@@ -13,5 +9,6 @@
 	"type": "Relic Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Reinforced_Baton.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-122/reinforced-baton",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

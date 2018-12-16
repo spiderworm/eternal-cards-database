@@ -1,9 +1,5 @@
 {
 	"eternalID": 243,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Crest of Glory",
 	"text": "Depleted; Gain {F}{J}.; Scout.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Power",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crest_of_Glory.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-243/crest-of-glory",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

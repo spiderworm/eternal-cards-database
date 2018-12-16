@@ -1,9 +1,5 @@
 {
 	"eternalID": 10,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Grenade",
 	"text": "Sacrifice a unit to deal 3 damage to an enemy unit and 3 damage to the enemy player.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Grenade.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-10/grenade",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

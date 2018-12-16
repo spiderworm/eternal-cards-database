@@ -1,9 +1,5 @@
 {
 	"eternalID": 205,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Violent Gust",
 	"text": "Deal 5 damage to unit with Flying.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Violent_Gust.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-205/violent-gust",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

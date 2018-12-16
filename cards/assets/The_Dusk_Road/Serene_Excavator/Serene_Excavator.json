@@ -1,9 +1,5 @@
 {
 	"eternalID": 73,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Serene Excavator",
 	"text": "Flying; Sentinel Ally: +1/+1.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Serene_Excavator.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-73/serene-excavator",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

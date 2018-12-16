@@ -1,9 +1,5 @@
 {
 	"eternalID": 271,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Chairman's Contract",
 	"text": "Discard the top two cards of your deck.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Power",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Chairman's_Contract.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-271/chairmans-contract",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

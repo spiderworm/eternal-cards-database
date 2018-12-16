@@ -1,9 +1,5 @@
 {
 	"eternalID": 238,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Cut Ties",
 	"text": "Kill an Enemy unit.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cut_Ties.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-238/cut-ties",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

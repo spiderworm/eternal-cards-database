@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Valkyrie",
 	"text": "Flying",
 	"cost": 1,
@@ -13,5 +9,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Valkyrie.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/b8B82wNEV5M/valkyrie",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 3
 }

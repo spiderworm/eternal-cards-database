@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Ruin Stalker",
 	"text": "Flying",
 	"cost": 3,
@@ -13,5 +9,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ruin_Stalker.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/sEgUDdkxYAs/ruin-stalker",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 5
 }

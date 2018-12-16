@@ -1,9 +1,5 @@
 {
 	"eternalID": 369,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Trickster's Cloak",
 	"text": "Summon: The wielder is Unblockable this turn.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Trickster's_Cloak.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-369/tricksters-cloak",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 108,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Elysian Pathfinder",
 	"text": "Summon: The top unit of your deck gets Echo.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Elysian_Pathfinder.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-108/elysian-pathfinder",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

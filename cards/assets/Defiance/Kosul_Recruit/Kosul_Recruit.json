@@ -1,9 +1,5 @@
 {
 	"eternalID": 91,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Kosul Recruit",
 	"text": "Pledge",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Kosul_Recruit.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-91/kosul-recruit",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 114,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Auric Herdward",
 	"text": "Give one of your units Aegis.; You gain an Aegis.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Auric_Herdward.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-114/auric-herdward",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

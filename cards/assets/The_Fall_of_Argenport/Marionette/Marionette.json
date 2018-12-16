@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Marionette",
 	"text": "Entomb: Sacrifice each Marionette Cross.",
 	"cost": 3,
@@ -13,5 +9,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Marionette.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/oR07oeaHtzs/marionette",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 4
 }

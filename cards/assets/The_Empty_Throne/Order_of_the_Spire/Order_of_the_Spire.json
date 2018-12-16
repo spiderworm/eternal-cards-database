@@ -1,9 +1,5 @@
 {
 	"eternalID": 149,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Order of the Spire",
 	"text": "Empower: Double Order of the Spire's Attack / Health.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Order_of_the_Spire.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-149/order-of-the-spire",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 3,
-	"set": {
-		"id": 0,
-		"name": "The Empty Throne"
-	},
 	"name": "Kaleb's Favor",
 	"text": "Deal 2 damage to the enemy player. Draw a Fire Sigil from your deck.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Kaleb's_Favor.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/0-3/kalebs-favor",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 0
 }

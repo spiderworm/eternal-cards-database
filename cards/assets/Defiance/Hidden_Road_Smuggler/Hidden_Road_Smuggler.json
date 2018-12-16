@@ -1,9 +1,5 @@
 {
 	"eternalID": 210,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Hidden Road Smuggler",
 	"text": "Lifesteal;Summon: You may choose a card from your hand to swap with a {J} or {S} card in your Black Market.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hidden_Road_Smuggler.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-210/hidden-road-smuggler",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

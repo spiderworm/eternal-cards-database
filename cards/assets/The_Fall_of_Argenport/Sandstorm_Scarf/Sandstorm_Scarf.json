@@ -1,9 +1,5 @@
 {
 	"eternalID": 50,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Sandstorm Scarf",
 	"text": "Units can't fly.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sandstorm_Scarf.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-50/sandstorm-scarf",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

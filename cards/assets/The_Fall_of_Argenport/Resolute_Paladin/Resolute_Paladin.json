@@ -1,9 +1,5 @@
 {
 	"eternalID": 130,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Resolute Paladin",
 	"text": "When you play a spell, Resolute Paladin is invulnerable to damage this turn.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Resolute_Paladin.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-130/resolute-paladin",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

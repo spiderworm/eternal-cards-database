@@ -1,9 +1,5 @@
 {
 	"eternalID": 156,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Savage Skybrood",
 	"text": "Flying; When you play another Dinosaur, Savage Skybrood gets +1 Attack.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Savage_Skybrood.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-156/savage-skybrood",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

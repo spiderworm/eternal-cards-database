@@ -1,9 +1,5 @@
 {
 	"eternalID": 1,
-	"set": {
-		"id": 1004,
-		"name": "Into Shadow"
-	},
 	"name": "Signal Flare",
 	"text": "Deal 2 damage.; Scout.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Signal_Flare.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1004-1/signal-flare",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1004
 }

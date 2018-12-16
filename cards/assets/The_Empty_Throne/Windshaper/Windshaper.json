@@ -1,9 +1,5 @@
 {
 	"eternalID": 230,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Windshaper",
 	"text": "Your Flying units have +1/+1.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Windshaper.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-230/windshaper",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

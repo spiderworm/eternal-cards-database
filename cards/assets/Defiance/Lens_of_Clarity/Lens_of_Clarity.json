@@ -1,9 +1,5 @@
 {
 	"eternalID": 132,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Lens of Clarity",
 	"text": "Your spells deal +1 damage.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lens_of_Clarity.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-132/lens-of-clarity",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 41,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Oasis Seeker",
 	"text": "When Oasis Seeker attacks, you gain 1 Health.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Oasis_Seeker.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-41/oasis-seeker",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

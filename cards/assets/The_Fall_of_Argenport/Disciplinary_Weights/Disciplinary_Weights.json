@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Disciplinary Weights",
 	"text": "When the cursed player draws an additional card, increase its cost by 2.",
 	"cost": 2,
@@ -13,5 +9,6 @@
 	"type": "Cursed Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Disciplinary_Weights.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/p9OaOtdXjsI/disciplinary-weights",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 4
 }

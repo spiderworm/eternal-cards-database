@@ -1,9 +1,5 @@
 {
 	"eternalID": 256,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Unfinished Business",
 	"text": "Give one of your units +5/+5.; Sacrifice it at the end of the turn or when it deals damage.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Unfinished_Business.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-256/unfinished-business",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

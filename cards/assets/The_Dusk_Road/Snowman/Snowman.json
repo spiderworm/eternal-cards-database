@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Snowman",
 	"text": "",
 	"cost": 0,
@@ -13,5 +9,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Snowman.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/xJy2h2OOY8M/snowman",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 3
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 66,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Baying Serasaur",
 	"text": "Summon: Nightfall.; When you draw a card, Baying Serasaur gets +1/+1 this turn.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Baying_Serasaur.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-66/baying-serasaur",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

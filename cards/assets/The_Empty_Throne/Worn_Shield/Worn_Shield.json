@@ -1,9 +1,5 @@
 {
 	"eternalID": 407,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Worn Shield",
 	"text": "",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Worn_Shield.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-407/worn-shield",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

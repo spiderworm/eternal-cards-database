@@ -1,9 +1,5 @@
 {
 	"eternalID": 82,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Barrel Through",
 	"text": "Give a unit +3/+3 this turn.\nGain {F} or {P}.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Barrel_Through.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-82/barrel-through",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 146,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Quicksilver Mirror",
 	"text": "At the start of your turn, play a copy of one of your units.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Quicksilver_Mirror.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-146/quicksilver-mirror",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 368,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Withering Witch",
 	"text": "Summon: Each undamaged enemy unit's Health becomes 1.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Withering_Witch.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-368/withering-witch",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

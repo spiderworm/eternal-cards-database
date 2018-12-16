@@ -1,9 +1,5 @@
 {
 	"eternalID": 118,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Icebow",
 	"text": "Summon: The wielder deals 1 damage to an enemy.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Icebow.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-118/icebow",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

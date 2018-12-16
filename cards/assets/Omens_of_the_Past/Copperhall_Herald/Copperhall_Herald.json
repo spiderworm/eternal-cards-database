@@ -1,9 +1,5 @@
 {
 	"eternalID": 71,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Copperhall Herald",
 	"text": "Endurance; Ultimate: Pay 6 to give Copperhall Herald +2/+2.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Copperhall_Herald.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-71/copperhall-herald",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

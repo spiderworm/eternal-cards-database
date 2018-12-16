@@ -1,9 +1,5 @@
 {
 	"eternalID": 238,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Blaze",
 	"text": "Deal damage to an enemy equal to your number of units. You gain that much  Armor.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Blaze.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-238/blaze",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

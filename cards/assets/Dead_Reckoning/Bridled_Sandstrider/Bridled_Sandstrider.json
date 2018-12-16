@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 1003,
-		"name": "Dead Reckoning"
-	},
 	"name": "Bridled Sandstrider",
 	"text": "Deadly, Killer",
 	"cost": 5,
@@ -13,5 +9,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bridled_Sandstrider.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/a7RZ9et1nzc/bridled-sandstrider",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 1003
 }

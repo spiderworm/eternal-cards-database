@@ -1,9 +1,5 @@
 {
 	"eternalID": 181,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Big Brother",
 	"text": "Big Brother can't attack or block.; Summon: Play two 1/1 Little Brothers.; When a Little Brother hits the enemy player, silence Big Brother.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Big_Brother.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-181/big-brother",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

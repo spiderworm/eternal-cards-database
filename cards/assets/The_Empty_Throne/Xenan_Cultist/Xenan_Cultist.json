@@ -1,9 +1,5 @@
 {
 	"eternalID": 516,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Xenan Cultist",
 	"text": "When one of your other units is killed, that unit gets +2/+2.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Xenan_Cultist.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-516/xenan-cultist",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

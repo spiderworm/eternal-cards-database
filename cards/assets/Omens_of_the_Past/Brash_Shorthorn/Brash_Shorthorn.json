@@ -1,9 +1,5 @@
 {
 	"eternalID": 137,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Brash Shorthorn",
 	"text": "",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Brash_Shorthorn.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-137/brash-shorthorn",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

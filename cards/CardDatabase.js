@@ -54,20 +54,29 @@ CardDatabase.prototype.addCard = function(card) {
 };
 
 CardDatabase.prototype.cardCanBeAdded = function(card) {
-	if (this._byName[card.Name]) {
-		if (this._byName[card.Name].find(card2 => Card.cardsMatch(card, card2))) {
-			return false;
+	try {
+		if (this._byName[card.Name]) {
+			if (this._byName[card.Name].find(card2 => Card.cardsMatch(card, card2))) {
+				return false;
+			}
 		}
+		return true;
+	} catch(e) {
+		return false;
 	}
-	return true;
 }
 
 CardDatabase.create = () => {
 	const db = new CardDatabase();
-
-	db.import(require('../built/eternal-cards-1.42.json'));
-
+	db.import(require('./assets/eternal-cards-dev.js'));
 	return db;
 };
+
+CardDatabase.createFromReleaseExport = (version) => {
+	const db = new CardDatabase();
+	db.import(require(`../built/eternal-cards-${version}.json`));
+	return db;
+};
+
 
 module.exports = CardDatabase;

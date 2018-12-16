@@ -1,9 +1,5 @@
 {
 	"eternalID": 164,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Treasury Gate",
 	"text": "The first time you play a relic weapon each turn, play a Minotaur with the same Attack / Health and battle skills.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Treasury_Gate.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-164/treasury-gate",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

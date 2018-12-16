@@ -1,9 +1,5 @@
 {
 	"eternalID": 56,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "General Izalio",
 	"text": "Quickdraw; Your other units have +2 Attack.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/General_Izalio.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-56/general-izalio",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

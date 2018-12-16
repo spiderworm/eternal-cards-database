@@ -1,9 +1,5 @@
 {
 	"eternalID": 54,
-	"set": {
-		"id": 0,
-		"name": "The Empty Throne"
-	},
 	"name": "Seat of Impulse",
 	"text": "Gain {F}{T}.; Depleted unless you have a Sigil in your hand.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Power",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Seat_of_Impulse.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/0-54/seat-of-impulse",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 0
 }

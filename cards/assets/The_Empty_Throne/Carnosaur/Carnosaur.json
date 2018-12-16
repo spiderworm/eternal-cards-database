@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Carnosaur",
 	"text": "",
 	"cost": 5,
@@ -13,5 +9,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Carnosaur.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/pjn0yshm2dU/carnosaur",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 1
 }

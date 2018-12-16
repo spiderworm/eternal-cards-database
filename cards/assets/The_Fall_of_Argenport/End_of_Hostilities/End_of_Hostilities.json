@@ -1,9 +1,5 @@
 {
 	"eternalID": 187,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "End of Hostilities",
 	"text": "Warp; Play a copy of a unit.; Tribute: Play two copies instead.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/End_of_Hostilities.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-187/end-of-hostilities",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

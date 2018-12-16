@@ -1,9 +1,5 @@
 {
 	"eternalID": 138,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Fallen Oni",
 	"text": "Summon: The enemy player discards the top unit of their deck.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Fallen_Oni.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-138/fallen-oni",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

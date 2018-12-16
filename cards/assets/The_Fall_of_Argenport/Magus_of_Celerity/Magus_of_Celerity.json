@@ -1,9 +1,5 @@
 {
 	"eternalID": 241,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Magus of Celerity",
 	"text": "Inspire: Units you draw get Charge.; Summon: Scout.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Magus_of_Celerity.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-241/magus-of-celerity",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

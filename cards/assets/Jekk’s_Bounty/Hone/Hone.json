@@ -1,9 +1,5 @@
 {
 	"eternalID": 6,
-	"set": {
-		"id": 1001,
-		"name": "Jekk’s Bounty"
-	},
 	"name": "Hone",
 	"text": "Play a 3/3 relic weapon or give your current relic weapon +3/+3.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hone.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1001-6/hone",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1001
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 302,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Spirit Drain",
 	"text": "Lifesteal; Deal 4 damage to a unit.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Spirit_Drain.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-302/spirit-drain",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

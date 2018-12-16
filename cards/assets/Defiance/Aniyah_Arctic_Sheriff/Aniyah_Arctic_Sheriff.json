@@ -1,9 +1,5 @@
 {
 	"eternalID": 190,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Aniyah, Arctic Sheriff",
 	"text": "Pledge;Summon: Stun an enemy unit. It stays stunned while you have Aniyah.;Renown: +2/+2 and Aegis.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Aniyah,_Arctic_Sheriff.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-190/aniyah-arctic-sheriff",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

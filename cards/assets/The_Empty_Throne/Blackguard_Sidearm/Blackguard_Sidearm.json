@@ -1,9 +1,5 @@
 {
 	"eternalID": 266,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Blackguard Sidearm",
 	"text": "Quickdraw",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Blackguard_Sidearm.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-266/blackguard-sidearm",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

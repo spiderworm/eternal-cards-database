@@ -1,9 +1,5 @@
 {
 	"eternalID": 1,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Shugo Standard",
 	"text": "Depleted; Gain {F}.; Transmute 5: Shugo Tactic.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Power",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Shugo_Standard.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-1/shugo-standard",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

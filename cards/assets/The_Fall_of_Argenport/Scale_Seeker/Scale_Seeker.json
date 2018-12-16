@@ -1,9 +1,5 @@
 {
 	"eternalID": 15,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Scale Seeker",
 	"text": "Pay 1 and exhaust Scale Seeker to Scout. After the third use, sacrifice him to play a 5/5 Dragon with Flying",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Scale_Seeker.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-15/scale-seeker",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

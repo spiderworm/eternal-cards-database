@@ -1,9 +1,5 @@
 {
 	"eternalID": 99,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Loyal Falcon",
 	"text": "Flying, Endurance, Pledge",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Loyal_Falcon.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-99/loyal-falcon",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

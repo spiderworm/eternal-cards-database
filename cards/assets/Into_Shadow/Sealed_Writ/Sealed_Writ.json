@@ -1,9 +1,5 @@
 {
 	"eternalID": 23,
-	"set": {
-		"id": 1004,
-		"name": "Into Shadow"
-	},
 	"name": "Sealed Writ",
 	"text": "Transmute 7: Word of Sol.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Power",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sealed_Writ.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1004-23/sealed-writ",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1004
 }

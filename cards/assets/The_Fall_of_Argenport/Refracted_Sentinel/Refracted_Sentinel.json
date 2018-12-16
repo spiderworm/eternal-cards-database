@@ -1,9 +1,5 @@
 {
 	"eternalID": 24,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Refracted Sentinel",
 	"text": "Summon: The enemy player plays a Sigil of their choice from their deck Depleted.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Refracted_Sentinel.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-24/refracted-sentinel",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 59,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Training Ground",
 	"text": "Create and draw a 2/2 Monk with Endurance.; Scout.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Training_Ground.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-59/training-ground",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 6,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Urn of Choking Embers",
 	"text": "When the cursed player plays a unit, exhaust it.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Cursed Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Urn_of_Choking_Embers.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-6/urn-of-choking-embers",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

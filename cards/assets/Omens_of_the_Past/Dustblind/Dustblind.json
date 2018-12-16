@@ -1,9 +1,5 @@
 {
 	"eternalID": 19,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Dustblind",
 	"text": "Warp; Exhaust two enemy units.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Dustblind.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-19/dustblind",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

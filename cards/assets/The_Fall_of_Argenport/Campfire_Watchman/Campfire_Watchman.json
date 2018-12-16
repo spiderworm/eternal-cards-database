@@ -1,9 +1,5 @@
 {
 	"eternalID": 151,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Campfire Watchman",
 	"cost": 2,
 	"influence": "{P}",
@@ -13,5 +9,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Campfire_Watchman.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-151/campfire-watchman",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

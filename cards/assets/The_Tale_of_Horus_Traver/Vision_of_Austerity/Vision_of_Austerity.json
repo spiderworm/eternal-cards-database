@@ -1,9 +1,5 @@
 {
 	"eternalID": 17,
-	"set": {
-		"id": 1002,
-		"name": "The Tale of Horus Traver"
-	},
 	"name": "Vision of Austerity",
 	"text": "Transform an enemy relic into an Omen of Austerity cursed relic.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Vision_of_Austerity.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1002-17/vision-of-austerity",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1002
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 231,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "West-Wind Herald",
 	"text": "Flying, Aegis; Infiltrate: Play a spell from your void.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/West-Wind_Herald.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-231/west-wind-herald",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

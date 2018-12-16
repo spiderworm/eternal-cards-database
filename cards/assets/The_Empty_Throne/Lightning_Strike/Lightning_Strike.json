@@ -1,9 +1,5 @@
 {
 	"eternalID": 197,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Lightning Strike",
 	"text": "Deal 4 damage to an attacking enemy.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lightning_Strike.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-197/lightning-strike",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

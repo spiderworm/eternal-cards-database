@@ -1,9 +1,5 @@
 {
 	"eternalID": 46,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Avirax Familiar",
 	"text": "Flying, Warp;+1 Maximum Power",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Avirax_Familiar.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-46/avirax-familiar",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

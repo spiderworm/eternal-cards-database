@@ -1,9 +1,5 @@
 {
 	"eternalID": 13,
-	"set": {
-		"id": 1004,
-		"name": "Into Shadow"
-	},
 	"name": "Messenger Hawk",
 	"text": "Flying; Summon: Choose a card in your hand. Create four copies of it and put them into your deck.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Messenger_Hawk.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1004-13/messenger-hawk",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1004
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 86,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Hojan, Crownbreaker",
 	"text": "Empower: +2/+2 and Lifesteal this turn.;Renown: Play a Justice Sigil from your deck Depleted.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hojan,_Crownbreaker.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-86/hojan-crownbreaker",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 409,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Feln Stranger",
 	"text": "Summon: You gain {P}{S}.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Feln_Stranger.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-409/feln-stranger",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

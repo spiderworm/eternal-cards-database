@@ -1,9 +1,5 @@
 {
 	"eternalID": 92,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Crownwatch Press-Gang",
 	"text": "Revenge.; Summon: Draw a 1-cost unit of your choice from your deck.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crownwatch_Press-Gang.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-92/crownwatch-press-gang",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

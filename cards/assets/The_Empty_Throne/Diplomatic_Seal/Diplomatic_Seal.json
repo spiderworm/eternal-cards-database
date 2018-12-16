@@ -1,9 +1,5 @@
 {
 	"eternalID": 425,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Diplomatic Seal",
 	"text": "If you have two or fewer Influence, gain an Influence of your choice.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Power",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Diplomatic_Seal.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-425/diplomatic-seal",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

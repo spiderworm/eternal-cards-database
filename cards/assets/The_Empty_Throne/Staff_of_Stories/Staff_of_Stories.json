@@ -1,9 +1,5 @@
 {
 	"eternalID": 234,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Staff of Stories",
 	"text": "At the start of your turn, draw a card.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Relic Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Staff_of_Stories.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-234/staff-of-stories",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 34,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Sindok, Rage Incarnate",
 	"text": "Flying; Sindok costs 1 less for each damage the enemy player has taken this turn.",
 	"cost": 9,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sindok,_Rage_Incarnate.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-34/sindok-rage-incarnate",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

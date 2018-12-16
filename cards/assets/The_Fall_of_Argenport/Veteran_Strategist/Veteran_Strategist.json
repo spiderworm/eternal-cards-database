@@ -1,9 +1,5 @@
 {
 	"eternalID": 273,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Veteran Strategist",
 	"text": "Ultimate: Pay 2 to gain 1 Health and an influence of your choice.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Veteran_Strategist.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-273/veteran-strategist",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

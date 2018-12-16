@@ -1,9 +1,5 @@
 {
 	"eternalID": 96,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Royal Guardian",
 	"text": "Tribute: You gain Health equal to the number of cards in your void.; Infilate: Create and draw Hall of Lost Kings.",
 	"cost": 10,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Royal_Guardian.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-96/royal-guardian",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

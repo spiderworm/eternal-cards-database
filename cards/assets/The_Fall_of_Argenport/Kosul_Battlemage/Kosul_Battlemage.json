@@ -1,9 +1,5 @@
 {
 	"eternalID": 119,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Kosul Battlemage",
 	"text": "Aegis; When you play a spell, Kosul Battlemage gets +1/+1 this turn.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Kosul_Battlemage.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-119/kosul-battlemage",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

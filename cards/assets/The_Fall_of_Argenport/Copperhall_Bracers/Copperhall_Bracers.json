@@ -1,9 +1,5 @@
 {
 	"eternalID": 115,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Copperhall Bracers",
 	"text": "When the wielder hits the enemy player, play a Justice Sigil from your deck.; Spellcraft 1: Play Copperhall Blessing.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Copperhall_Bracers.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-115/copperhall-bracers",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

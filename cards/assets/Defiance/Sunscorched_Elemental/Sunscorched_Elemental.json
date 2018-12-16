@@ -1,9 +1,5 @@
 {
 	"eternalID": 34,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Sunscorched Elemental",
 	"text": "Reckless;Renown: Play two 3/1 Flamefangs with Reckless.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sunscorched_Elemental.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-34/sunscorched-elemental",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

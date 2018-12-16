@@ -1,9 +1,5 @@
 {
 	"eternalID": 117,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Foothills Alpha",
 	"cost": 3,
 	"influence": "{P}",
@@ -13,5 +9,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Foothills_Alpha.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-117/foothills-alpha",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

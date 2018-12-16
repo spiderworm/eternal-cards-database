@@ -1,9 +1,5 @@
 {
 	"eternalID": 123,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Ridgeline Watcher",
 	"text": "Aegis",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ridgeline_Watcher.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-123/ridgeline-watcher",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

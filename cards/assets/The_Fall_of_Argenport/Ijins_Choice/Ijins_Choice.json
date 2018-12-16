@@ -1,9 +1,5 @@
 {
 	"eternalID": 245,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Ijin's Choice",
 	"text": "- Kill an attachment on an enemy, or; - Create and draw a +4/+4 Mithril Armor.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ijin's_Choice.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-245/ijins-choice",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

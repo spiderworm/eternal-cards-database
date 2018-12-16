@@ -1,9 +1,5 @@
 {
 	"eternalID": 221,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Ebon Dune Smuggler",
 	"text": "Ambush;Summon: You may choose a card from your hand to swap with a {T} or {S} card in your Black Market.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ebon_Dune_Smuggler.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-221/ebon-dune-smuggler",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

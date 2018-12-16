@@ -1,9 +1,5 @@
 {
 	"eternalID": 73,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Sanctuary Priest",
 	"text": "Empower: You gain 1 Health.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sanctuary_Priest.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-73/sanctuary-priest",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 196,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Bear Arms",
 	"text": "When you play a unit, Bear Arms gets +1/+1.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bear_Arms.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-196/bear-arms",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

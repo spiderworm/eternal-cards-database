@@ -1,9 +1,5 @@
 {
 	"eternalID": 60,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Amaran Armadillo",
 	"text": "Your units with Endurance have +1/+1.; Inspire: Units you draw get Endurance.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Amaran_Armadillo.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-60/amaran-armadillo",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

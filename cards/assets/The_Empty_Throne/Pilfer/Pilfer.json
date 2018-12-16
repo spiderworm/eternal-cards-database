@@ -1,9 +1,5 @@
 {
 	"eternalID": 254,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Pilfer",
 	"text": "Draw the top card of the enemy deck.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Pilfer.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-254/pilfer",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

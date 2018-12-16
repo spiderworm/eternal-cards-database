@@ -1,9 +1,5 @@
 {
 	"eternalID": 150,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Skeeter",
 	"text": "Flying, Lifesteal",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Skeeter.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-150/skeeter",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

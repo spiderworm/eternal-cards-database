@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Explorer",
 	"text": "",
 	"cost": 1,
@@ -13,5 +9,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Explorer.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/0uX18-HSbDE/explorer",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 2
 }

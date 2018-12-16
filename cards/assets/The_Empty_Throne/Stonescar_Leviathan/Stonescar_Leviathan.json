@@ -1,9 +1,5 @@
 {
 	"eternalID": 403,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Stonescar Leviathan",
 	"text": "Entomb: The enemy player's Health becomes 7.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Stonescar_Leviathan.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-403/stonescar-leviathan",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

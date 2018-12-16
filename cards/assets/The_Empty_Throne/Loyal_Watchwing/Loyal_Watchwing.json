@@ -1,9 +1,5 @@
 {
 	"eternalID": 150,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Loyal Watchwing",
 	"text": "Flying, Warcry",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Loyal_Watchwing.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-150/loyal-watchwing",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

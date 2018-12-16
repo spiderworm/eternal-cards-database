@@ -1,9 +1,5 @@
 {
 	"eternalID": 24,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Swift Stranger",
 	"text": "Strangers have Charge.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Swift_Stranger.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-24/swift-stranger",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 162,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Stalwart Shield",
 	"text": "Endurance",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Stalwart_Shield.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-162/stalwart-shield",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

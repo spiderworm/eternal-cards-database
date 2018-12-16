@@ -1,9 +1,5 @@
 {
 	"eternalID": 389,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Bandit Queen",
 	"text": "Charge; Summon: Your units get +1 Attack and Quickdraw this turn.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bandit_Queen.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-389/bandit-queen",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

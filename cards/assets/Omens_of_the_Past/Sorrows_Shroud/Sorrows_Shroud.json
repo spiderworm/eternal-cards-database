@@ -1,9 +1,5 @@
 {
 	"eternalID": 151,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Sorrow's Shroud",
 	"text": "When the wielder dies, you gain Health equal to its Health.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sorrow's_Shroud.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-151/sorrows-shroud",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

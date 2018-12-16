@@ -1,9 +1,5 @@
 {
 	"eternalID": 244,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Valkyrie Denouncer",
 	"text": "Flying, Revenge",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Valkyrie_Denouncer.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-244/valkyrie-denouncer",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

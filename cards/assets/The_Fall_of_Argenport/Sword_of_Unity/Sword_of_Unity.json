@@ -1,9 +1,5 @@
 {
 	"eternalID": 249,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Sword of Unity",
 	"text": "Lifesteal, Overwhelm; Spellcraft 2: Play Stand Together.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sword_of_Unity.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-249/sword-of-unity",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

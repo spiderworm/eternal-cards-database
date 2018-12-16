@@ -1,9 +1,5 @@
 {
 	"eternalID": 197,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Knucklebones",
 	"text": "Summon: Transform each card in your deck into a random card.; At the start of your turn, draw an additional card.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Knucklebones.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-197/knucklebones",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

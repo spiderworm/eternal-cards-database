@@ -1,9 +1,5 @@
 {
 	"eternalID": 87,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Kosul Diplomat",
 	"text": "Summon: You may silence another unit.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Kosul_Diplomat.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-87/kosul-diplomat",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

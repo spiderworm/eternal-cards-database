@@ -1,9 +1,5 @@
 {
 	"eternalID": 174,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Breeze Dancer",
 	"text": "Flying; Inspire: Units you draw get a random battle skill.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Breeze_Dancer.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-174/breeze-dancer",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

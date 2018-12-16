@@ -1,9 +1,5 @@
 {
 	"eternalID": 131,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Sheriff Marley",
 	"text": "Aegis; Once per turn, you may pay 3 to draw a 1/1 Deputy with Aegis.; Tribute: Silence an enemy unit.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sheriff_Marley.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-131/sheriff-marley",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Watchman",
 	"text": "Lifesteal;Watchman can't attack.",
 	"cost": 0,
@@ -13,5 +9,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Watchman.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/AYp-K40XBlM/watchman",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 5
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 232,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Cover of Darkness",
 	"text": "Nightfall.\r\nGive two of your units Unblockable this turn.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cover_of_Darkness.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-232/cover-of-darkness",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

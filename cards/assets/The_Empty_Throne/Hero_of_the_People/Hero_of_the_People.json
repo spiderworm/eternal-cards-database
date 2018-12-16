@@ -1,9 +1,5 @@
 {
 	"eternalID": 156,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Hero of the People",
 	"text": "When you play a unit, Hero of the People gets that unit's battle skills.; Hero of the People has +1/+1 for each of her battle skills.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hero_of_the_People.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-156/hero-of-the-people",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

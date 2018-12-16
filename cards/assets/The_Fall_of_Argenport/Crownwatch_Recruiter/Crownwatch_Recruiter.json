@@ -1,9 +1,5 @@
 {
 	"eternalID": 134,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Crownwatch Recruiter",
 	"text": "Tribute: Create and draw a 2/2 Soldier.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crownwatch_Recruiter.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-134/crownwatch-recruiter",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

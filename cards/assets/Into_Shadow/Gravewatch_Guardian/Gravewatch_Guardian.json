@@ -1,9 +1,5 @@
 {
 	"eternalID": 7,
-	"set": {
-		"id": 1004,
-		"name": "Into Shadow"
-	},
 	"name": "Gravewatch Guardian",
 	"text": "Overwhelm; Tribute: +3/+3 for each unit that went to your void this turn.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Gravewatch_Guardian.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1004-7/gravewatch-guardian",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1004
 }

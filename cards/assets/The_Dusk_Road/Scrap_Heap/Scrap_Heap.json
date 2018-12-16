@@ -1,9 +1,5 @@
 {
 	"eternalID": 23,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Scrap Heap",
 	"text": "Your Grenadin have Charge.; Once per turn, you may pay 5 to play a 1/1 Grenadin.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Scrap_Heap.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-23/scrap-heap",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

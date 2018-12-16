@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Dark Elf",
 	"cost": 2,
 	"influence": "{S}",
@@ -12,5 +8,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Dark_Elf.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/GFYtY_q7Wvo/dark-elf",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 5
 }

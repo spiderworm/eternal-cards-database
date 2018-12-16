@@ -1,9 +1,5 @@
 {
 	"eternalID": 22,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Bladekin Apprentice",
 	"text": "Quickdraw; When Bladekin Apprentice attacks, she gets +1 Attack.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bladekin_Apprentice.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-22/bladekin-apprentice",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

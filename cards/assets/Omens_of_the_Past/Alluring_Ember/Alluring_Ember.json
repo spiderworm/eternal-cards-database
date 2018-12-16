@@ -1,9 +1,5 @@
 {
 	"eternalID": 172,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Alluring Ember",
 	"text": "Flying, Charge, Warp",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Alluring_Ember.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-172/alluring-ember",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

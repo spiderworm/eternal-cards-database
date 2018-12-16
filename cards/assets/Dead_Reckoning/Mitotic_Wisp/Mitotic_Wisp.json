@@ -1,9 +1,5 @@
 {
 	"eternalID": 22,
-	"set": {
-		"id": 1003,
-		"name": "Dead Reckoning"
-	},
 	"name": "Mitotic Wisp",
 	"text": "Flying; Your Radiant cost 1 less. Ultimate: When 7 other units go to the void, draw a Radiant of your choice from your deck.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Mitotic_Wisp.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1003-22/mitotic-wisp",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1003
 }

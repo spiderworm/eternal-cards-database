@@ -1,9 +1,5 @@
 {
 	"eternalID": 79,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Gnash, Pridemaster",
 	"text": "Tribute: +3/+3.; When Gnash attacks, discard the top card of your deck. If it was a unit, your other units are invulnerable to damage this turn.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Gnash,_Pridemaster.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-79/gnash-pridemaster",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

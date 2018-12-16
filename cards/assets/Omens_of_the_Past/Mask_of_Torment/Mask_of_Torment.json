@@ -1,9 +1,5 @@
 {
 	"eternalID": 212,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Mask of Torment",
 	"text": "+1 Maximum Power.; Lifeforce: When you gain Health, +1 Maximum Power.; Ultimate: Pay 20 to play The Tormentor.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Mask_of_Torment.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-212/mask-of-torment",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

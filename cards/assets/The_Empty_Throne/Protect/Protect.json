@@ -1,9 +1,5 @@
 {
 	"eternalID": 132,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Protect",
 	"text": "Give a unit or player Aegis.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Protect.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-132/protect",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

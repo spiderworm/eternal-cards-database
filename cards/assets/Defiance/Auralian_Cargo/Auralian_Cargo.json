@@ -1,9 +1,5 @@
 {
 	"eternalID": 232,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Auralian Cargo",
 	"text": "Draw a Time Sigil, Primal Sigil, or Shadow Sigil from your deck.;Transmute {T}{T}{P}{P}{S}{S}: Auralian Contraband.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Auralian_Cargo.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-232/auralian-cargo",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

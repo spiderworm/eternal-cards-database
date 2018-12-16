@@ -1,9 +1,5 @@
 {
 	"eternalID": 214,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Ice Sprite",
 	"text": "Flying; Summon: Stun an enemy unit.; It stays stunned while you have Ice Sprite.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ice_Sprite.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-214/ice-sprite",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

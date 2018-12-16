@@ -1,9 +1,5 @@
 {
 	"eternalID": 18,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Phoenix Stone",
 	"text": "Pay 2 to transform Phoenix Stone into a 4/4 Molten Phoenix.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Phoenix_Stone.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-18/phoenix-stone",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

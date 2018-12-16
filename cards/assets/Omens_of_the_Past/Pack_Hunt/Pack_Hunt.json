@@ -1,9 +1,5 @@
 {
 	"eternalID": 61,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Pack Hunt",
 	"text": "Your units get +2/+2 this turn.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Pack_Hunt.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-61/pack-hunt",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

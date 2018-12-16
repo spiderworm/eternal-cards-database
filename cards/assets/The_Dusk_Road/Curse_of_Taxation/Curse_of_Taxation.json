@@ -1,9 +1,5 @@
 {
 	"eternalID": 127,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Curse of Taxation",
 	"text": "The cursed player has -1 Maximum Power.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Cursed Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Curse_of_Taxation.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-127/curse-of-taxation",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

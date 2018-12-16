@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Serpent Hatchling",
 	"text": "Flying",
 	"cost": 2,
@@ -13,5 +9,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Serpent_Hatchling.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/7LntJdR3uZ8/serpent-hatchling",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 1
 }

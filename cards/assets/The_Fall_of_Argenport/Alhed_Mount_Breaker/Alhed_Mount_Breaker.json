@@ -1,9 +1,5 @@
 {
 	"eternalID": 87,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Alhed, Mount Breaker",
 	"text": "Inspire: Double the Attack/Health of units you draw.; Ultimate: Pay 4 and put one of your other units on top of your deck to give Alhed its Attack/Health.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Alhed,_Mount_Breaker.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-87/alhed-mount-breaker",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

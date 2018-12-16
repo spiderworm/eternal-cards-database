@@ -1,9 +1,5 @@
 {
 	"eternalID": 225,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Deadly Confrontation",
 	"text": "Kill an enemy unit.; For each of your Unseen, you may pay 2 and exhaust it to kill an additional enemy unit.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Deadly_Confrontation.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-225/deadly-confrontation",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

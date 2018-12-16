@@ -1,9 +1,5 @@
 {
 	"eternalID": 46,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Calderan Gunsmith",
 	"text": "Summon: Each of your units deals 1 damage to the enemy player.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Calderan_Gunsmith.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-46/calderan-gunsmith",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

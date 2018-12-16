@@ -1,9 +1,5 @@
 {
 	"eternalID": 279,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Common Cause",
 	"text": "If two units in your hand share a type, gain an influence of your choice.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Power",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Common_Cause.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-279/common-cause",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

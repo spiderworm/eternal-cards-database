@@ -1,9 +1,5 @@
 {
 	"eternalID": 488,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Scouting Party",
 	"text": "Play four 1/1 Yeti Spies.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Scouting_Party.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-488/scouting-party",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

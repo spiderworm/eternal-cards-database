@@ -1,9 +1,5 @@
 {
 	"eternalID": 68,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Belching Behemoth",
 	"text": "Summon: You gain 6 Health.",
 	"cost": 8,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Belching_Behemoth.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-68/belching-behemoth",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

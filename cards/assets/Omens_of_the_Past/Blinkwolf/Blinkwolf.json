@@ -1,9 +1,5 @@
 {
 	"eternalID": 7,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Blinkwolf",
 	"text": "Warp",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Blinkwolf.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-7/blinkwolf",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 400,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Voprex, the Great Ruin",
 	"text": "Flying, Overwhelm; Summon: The enemy player must choose: Discard their hand or sacrifice all of their units.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Voprex,_the_Great_Ruin.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-400/voprex-the-great-ruin",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 66,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Sandglass Parma",
 	"text": "+1 Maximum Power.; Spellcraft 3: Play Teleport.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sandglass_Parma.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-66/sandglass-parma",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

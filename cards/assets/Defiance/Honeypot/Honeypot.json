@@ -1,9 +1,5 @@
 {
 	"eternalID": 202,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Honeypot",
 	"text": "Deal 1 damage to an enemy unit, plus additional damage equal to the cost of your highest cost relic.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Honeypot.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-202/honeypot",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

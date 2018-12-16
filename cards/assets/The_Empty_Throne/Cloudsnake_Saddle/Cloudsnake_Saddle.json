@@ -1,9 +1,5 @@
 {
 	"eternalID": 199,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Cloudsnake Saddle",
 	"text": "Can only be played on a unit with Flying.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cloudsnake_Saddle.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-199/cloudsnake-saddle",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

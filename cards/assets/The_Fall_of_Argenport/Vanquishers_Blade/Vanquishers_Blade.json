@@ -1,9 +1,5 @@
 {
 	"eternalID": 112,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Vanquisher's Blade",
 	"text": "Cards can't leave the enemy void.; Spellcraft 3: Play Vanquish",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Vanquisher's_Blade.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-112/vanquishers-blade",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

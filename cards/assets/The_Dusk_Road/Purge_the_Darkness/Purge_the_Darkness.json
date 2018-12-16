@@ -1,9 +1,5 @@
 {
 	"eternalID": 20,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Purge the Darkness",
 	"text": "Deal 4 damage to the enemy player.; Night ends.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Purge_the_Darkness.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-20/purge-the-darkness",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

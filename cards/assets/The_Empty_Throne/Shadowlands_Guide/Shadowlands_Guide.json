@@ -1,9 +1,5 @@
 {
 	"eternalID": 280,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Shadowlands Guide",
 	"text": "Summon: Play a unit with cost 1 or less from your void.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Shadowlands_Guide.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-280/shadowlands-guide",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

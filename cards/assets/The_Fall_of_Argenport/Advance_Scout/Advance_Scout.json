@@ -1,9 +1,5 @@
 {
 	"eternalID": 165,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Advance Scout",
 	"text": "Flying; Infiltrate: Scout",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Advance_Scout.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-165/advance-scout",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

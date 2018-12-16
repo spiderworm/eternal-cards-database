@@ -1,9 +1,5 @@
 {
 	"eternalID": 292,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Grasping at Shadows",
 	"text": "Play a unit from your void.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Grasping_at_Shadows.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-292/grasping-at-shadows",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

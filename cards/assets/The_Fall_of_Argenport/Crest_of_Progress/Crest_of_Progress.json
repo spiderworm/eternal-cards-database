@@ -1,9 +1,5 @@
 {
 	"eternalID": 247,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Crest of Progress",
 	"text": "Depleted; Gain {T}{J}.; Scout.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Power",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crest_of_Progress.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-247/crest-of-progress",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 20,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Rakano Outlaw",
 	"text": "Quickdraw, Warcry",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rakano_Outlaw.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-20/rakano-outlaw",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 152,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Silverwing Familiar",
 	"text": "Flying, Lifesteal, Aegis",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Silverwing_Familiar.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-152/silverwing-familiar",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

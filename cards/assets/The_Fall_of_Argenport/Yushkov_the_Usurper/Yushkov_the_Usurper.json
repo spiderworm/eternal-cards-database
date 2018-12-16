@@ -1,9 +1,5 @@
 {
 	"eternalID": 310,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Yushkov, the Usurper",
 	"text": "When the enemy player plays a unit, exhaust it.; Ultimate: At the start of your turn, you get +1 power this turn plus an additional power for each exhausted enemy unit.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Yushkov,_the_Usurper.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-310/yushkov-the-usurper",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

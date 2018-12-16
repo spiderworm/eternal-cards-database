@@ -1,9 +1,5 @@
 {
 	"eternalID": 63,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Waystone Infuser",
 	"text": "Warp; Your power cards have Warp.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Waystone_Infuser.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-63/waystone-infuser",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 11,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Plunder",
 	"text": "Exhaust one of your units to create and draw two Treasure Troves.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Plunder.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-11/plunder",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 33,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Jawbone Greatsword",
 	"text": "Tribute: Create and draw an 8/6 Brand, Without Fear.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Relic Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Jawbone_Greatsword.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-33/jawbone-greatsword",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

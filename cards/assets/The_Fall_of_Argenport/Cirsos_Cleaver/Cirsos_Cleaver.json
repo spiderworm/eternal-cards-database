@@ -1,9 +1,5 @@
 {
 	"eternalID": 270,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Cirso's Cleaver",
 	"text": "Summon: The wielder gets Killer.; Spellcraft 2: Play Feeding Time.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cirso's_Cleaver.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-270/cirsos-cleaver",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

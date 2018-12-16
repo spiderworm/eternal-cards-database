@@ -1,9 +1,5 @@
 {
 	"eternalID": 306,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Azindel's Gift",
 	"text": "At the end of the cursed player's turn, they discard their hand.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Cursed Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Azindel's_Gift.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-306/azindels-gift",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 89,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Panoptic Guardian",
 	"text": "Ambush; Fate: You see the top card of each deck this turn.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Panoptic_Guardian.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-89/panoptic-guardian",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 125,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Bisma, Revered Elder",
 	"text": "When you play another Unseen, BIsma gets a random battle skill.; Entomb: Give one of your units Bisma's battle skills.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bisma,_Revered_Elder.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-125/bisma-revered-elder",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

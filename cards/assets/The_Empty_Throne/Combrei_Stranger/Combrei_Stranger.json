@@ -1,9 +1,5 @@
 {
 	"eternalID": 410,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Combrei Stranger",
 	"text": "Summon: You gain {T}{J}.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Combrei_Stranger.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-410/combrei-stranger",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

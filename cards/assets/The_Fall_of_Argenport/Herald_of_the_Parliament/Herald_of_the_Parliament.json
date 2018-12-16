@@ -1,9 +1,5 @@
 {
 	"eternalID": 118,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Herald of the Parliament",
 	"text": "Flying; +2/+2 while the enemy player has no units.; Ultimate: Pay 4 to create and draw a 4/4 Owl with Flying.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Herald_of_the_Parliament.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-118/herald-of-the-parliament",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

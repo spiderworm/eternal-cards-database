@@ -1,9 +1,5 @@
 {
 	"eternalID": 248,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Alessi, Combrei Archmage",
 	"text": "When you play a spell, Alessi gets +1/+1 and you gain 1 Armor.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Alessi,_Combrei_Archmage.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-248/alessi-combrei-archmage",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 14,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Stonescar Excavator",
 	"text": "Once per turn, you may pay 4 and discard a power card to deal 1 damage to the enemy player for each power card in your void.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Stonescar_Excavator.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-14/stonescar-excavator",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

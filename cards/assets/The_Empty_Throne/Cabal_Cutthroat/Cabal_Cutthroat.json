@@ -1,9 +1,5 @@
 {
 	"eternalID": 297,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Cabal Cutthroat",
 	"text": "Lifesteal",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cabal_Cutthroat.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-297/cabal-cutthroat",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

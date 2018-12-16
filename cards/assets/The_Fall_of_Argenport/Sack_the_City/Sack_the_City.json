@@ -1,9 +1,5 @@
 {
 	"eternalID": 184,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Sack the City",
 	"text": "Your units go Berserk.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sack_the_City.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-184/sack-the-city",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

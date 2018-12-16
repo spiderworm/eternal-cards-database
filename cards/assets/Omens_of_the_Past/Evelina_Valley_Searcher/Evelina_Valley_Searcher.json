@@ -1,9 +1,5 @@
 {
 	"eternalID": 48,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Evelina, Valley Searcher",
 	"text": "When you play an Explorer (including Evelina), DInosaurs in your hand get +1/+1.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Evelina,_Valley_Searcher.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-48/evelina-valley-searcher",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

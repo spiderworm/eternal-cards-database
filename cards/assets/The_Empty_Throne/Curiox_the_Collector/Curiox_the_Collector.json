@@ -1,9 +1,5 @@
 {
 	"eternalID": 366,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Curiox, the Collector",
 	"text": "Flying, Endurance; Fate: Put a Dragon's Eye into your deck.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Curiox,_the_Collector.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-366/curiox-the-collector",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

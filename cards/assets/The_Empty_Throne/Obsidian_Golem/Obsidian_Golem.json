@@ -1,9 +1,5 @@
 {
 	"eternalID": 398,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Obsidian Golem",
 	"text": "Entomb: Draw a +2/+2 Obsidian Armor.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Obsidian_Golem.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-398/obsidian-golem",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

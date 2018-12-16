@@ -1,9 +1,5 @@
 {
 	"eternalID": 102,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Sharpened Reflex",
 	"text": "Give one of your units +1/+1.; Scout.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sharpened_Reflex.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-102/sharpened-reflex",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

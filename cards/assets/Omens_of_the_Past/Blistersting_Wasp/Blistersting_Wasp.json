@@ -1,9 +1,5 @@
 {
 	"eternalID": 202,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Blistersting Wasp",
 	"text": "Flying, Deadly",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Blistersting_Wasp.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-202/blistersting-wasp",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

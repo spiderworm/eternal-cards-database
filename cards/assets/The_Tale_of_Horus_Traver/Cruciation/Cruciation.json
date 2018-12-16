@@ -1,9 +1,5 @@
 {
 	"eternalID": 20,
-	"set": {
-		"id": 1002,
-		"name": "The Tale of Horus Traver"
-	},
 	"name": "Cruciation",
 	"text": "Kill a unit with a single faction and gain its Health.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cruciation.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1002-20/cruciation",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1002
 }

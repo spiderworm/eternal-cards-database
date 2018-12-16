@@ -1,9 +1,5 @@
 {
 	"eternalID": 21,
-	"set": {
-		"id": 1002,
-		"name": "The Tale of Horus Traver"
-	},
 	"name": "Triumphant Stranger",
 	"text": "+1/+1 for each Stranger. At the start of your turn, create and play a random Stranger.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Triumphant_Stranger.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1002-21/triumphant-stranger",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1002
 }

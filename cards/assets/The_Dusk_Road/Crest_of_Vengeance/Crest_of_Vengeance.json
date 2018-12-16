@@ -1,9 +1,5 @@
 {
 	"eternalID": 264,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Crest of Vengeance",
 	"text": "Depleted; Gain {J}{S}.; Scout.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Power",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crest_of_Vengeance.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-264/crest-of-vengeance",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

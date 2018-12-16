@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Wildcat",
 	"text": "Charge",
 	"cost": 1,
@@ -13,5 +9,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Wildcat.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/9hyQYqXgPWY/wildcat",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 5
 }

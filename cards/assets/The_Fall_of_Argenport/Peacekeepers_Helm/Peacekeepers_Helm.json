@@ -1,9 +1,5 @@
 {
 	"eternalID": 101,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Peacekeeper's Helm",
 	"text": "Spellcraft 4: Play Rebuke.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Peacekeeper's_Helm.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-101/peacekeepers-helm",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

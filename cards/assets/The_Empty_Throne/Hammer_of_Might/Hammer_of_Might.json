@@ -1,9 +1,5 @@
 {
 	"eternalID": 170,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Hammer of Might",
 	"text": "Summon: Warcry 3 this turn.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hammer_of_Might.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-170/hammer-of-might",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

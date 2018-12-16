@@ -1,9 +1,5 @@
 {
 	"eternalID": 3,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Young Gun",
 	"text": "Quickdraw",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Young_Gun.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-3/young-gun",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

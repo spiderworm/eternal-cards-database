@@ -1,9 +1,5 @@
 {
 	"eternalID": 141,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Silverwing Purgeleader",
 	"text": "Flying; Tribute: Lifesteal.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Silverwing_Purgeleader.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-141/silverwing-purgeleader",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

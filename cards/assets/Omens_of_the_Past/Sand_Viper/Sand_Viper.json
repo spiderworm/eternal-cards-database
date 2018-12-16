@@ -1,9 +1,5 @@
 {
 	"eternalID": 42,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Sand Viper",
 	"text": "Deadly; Ultimate: Pay 6 to give Sand Viper +2/+2.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sand_Viper.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-42/sand-viper",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

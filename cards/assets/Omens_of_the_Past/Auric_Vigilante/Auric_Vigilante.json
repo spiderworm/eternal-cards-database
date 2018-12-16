@@ -1,9 +1,5 @@
 {
 	"eternalID": 233,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Auric Vigilante",
 	"text": "Revenge; When Auric Vigilante attacks, she gets +1 Attack.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Auric_Vigilante.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-233/auric-vigilante",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

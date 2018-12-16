@@ -1,9 +1,5 @@
 {
 	"eternalID": 59,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Twilight Hunt",
 	"text": "NIghtfall.; Give one of your units Killer. If it's a Dinosaur, it gets +1/+1.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Twilight_Hunt.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-59/twilight-hunt",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

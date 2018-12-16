@@ -1,9 +1,5 @@
 {
 	"eternalID": 102,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Rallying Banner",
 	"text": "Once per turn, you may pay 2 to give one of your units +1/+1 this turn for each of your units.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rallying_Banner.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-102/rallying-banner",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

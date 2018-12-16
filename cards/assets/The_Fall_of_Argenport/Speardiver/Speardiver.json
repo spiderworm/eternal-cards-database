@@ -1,9 +1,5 @@
 {
 	"eternalID": 185,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Speardiver",
 	"text": "Flying, Berserk",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Speardiver.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-185/speardiver",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

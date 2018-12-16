@@ -1,9 +1,5 @@
 {
 	"eternalID": 426,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Amethyst Monument",
 	"text": "Depleted; Gain {S}; Transmute 5: 4/4 Puma with Lifesteal.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Power",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Amethyst_Monument.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-426/amethyst-monument",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

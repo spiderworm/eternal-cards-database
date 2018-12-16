@@ -1,9 +1,5 @@
 {
 	"eternalID": 203,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Bloodcall Invocation",
 	"text": "Lifeforce: Play a Restless Radiant with attack/health equal to the health you gained this turn.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bloodcall_Invocation.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-203/bloodcall-invocation",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

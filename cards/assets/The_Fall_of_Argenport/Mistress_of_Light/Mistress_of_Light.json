@@ -1,9 +1,5 @@
 {
 	"eternalID": 92,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Mistress of Light",
 	"text": "Your Wisps have +1/+1.; Tribute: Your Wisps have an additional +1/+1.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Mistress_of_Light.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-92/mistress-of-light",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 52,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Jibbering Jackal",
 	"text": "Killer",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Jibbering_Jackal.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-52/jibbering-jackal",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

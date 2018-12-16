@@ -1,9 +1,5 @@
 {
 	"eternalID": 145,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Clan Standard",
 	"text": "Depleted; Gain {P}.; Transmute 5: Clan Tactic.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Power",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Clan_Standard.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-145/clan-standard",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

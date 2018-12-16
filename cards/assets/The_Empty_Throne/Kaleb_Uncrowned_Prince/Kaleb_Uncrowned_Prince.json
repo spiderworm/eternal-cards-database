@@ -1,9 +1,5 @@
 {
 	"eternalID": 61,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Kaleb, Uncrowned Prince",
 	"text": "Charge; Summon: Play a random weapon on each of your {F} units.",
 	"cost": 8,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Kaleb,_Uncrowned_Prince.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-61/kaleb-uncrowned-prince",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

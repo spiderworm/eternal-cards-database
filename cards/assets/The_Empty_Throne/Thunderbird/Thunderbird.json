@@ -1,9 +1,5 @@
 {
 	"eternalID": 27,
-	"set": {
-		"id": 0,
-		"name": "The Empty Throne"
-	},
 	"name": "Thunderbird",
 	"text": "Flying, Aegis",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Thunderbird.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/0-27/thunderbird",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 0
 }

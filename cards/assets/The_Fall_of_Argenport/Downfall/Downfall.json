@@ -1,9 +1,5 @@
 {
 	"eternalID": 135,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Downfall",
 	"text": "Kill a unit with 5 Attack or more.; Scout.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Downfall.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-135/downfall",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

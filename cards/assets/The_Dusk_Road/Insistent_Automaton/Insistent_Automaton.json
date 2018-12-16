@@ -1,9 +1,5 @@
 {
 	"eternalID": 78,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Insistent Automaton",
 	"text": "Summon: Put one of your other units into your hand.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Insistent_Automaton.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-78/insistent-automaton",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

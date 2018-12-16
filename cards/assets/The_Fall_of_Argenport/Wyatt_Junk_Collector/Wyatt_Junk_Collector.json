@@ -1,9 +1,5 @@
 {
 	"eternalID": 306,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Wyatt, Junk Collector",
 	"text": "Quickdraw; When Wyatt hits the enemy player, discard a card to draw the top card of their deck. After every three hits, create and draw Smuggler's Stash.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Wyatt,_Junk_Collector.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-306/wyatt-junk-collector",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 102,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Xenan Guardian",
 	"text": "Endurance; Ultimate: Pay 8 to give Xenan Guardian +5/+5.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Xenan_Guardian.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-102/xenan-guardian",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

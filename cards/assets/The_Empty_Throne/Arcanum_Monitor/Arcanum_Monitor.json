@@ -1,9 +1,5 @@
 {
 	"eternalID": 520,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Arcanum Monitor",
 	"text": "Overwhelm;+1/+1 for each of your other units.;Your other units have +1/+1.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Arcanum_Monitor.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-520/arcanum-monitor",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

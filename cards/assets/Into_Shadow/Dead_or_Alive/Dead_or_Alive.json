@@ -1,9 +1,5 @@
 {
 	"eternalID": 11,
-	"set": {
-		"id": 1004,
-		"name": "Into Shadow"
-	},
 	"name": "Dead or Alive",
 	"text": "Play a Wanted Poster on each enemy unit that dealt damage to you this turn.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Dead_or_Alive.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1004-11/dead-or-alive",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1004
 }

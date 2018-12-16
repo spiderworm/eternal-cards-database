@@ -1,9 +1,5 @@
 {
 	"eternalID": 144,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Scare",
 	"text": "Swap a unit's Attack and Health.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Scare.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-144/scare",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 230,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Aid of the Hooru",
 	"text": "Stun each enemy unit.; Play two 4/4 Owls with Flying. Draw four cards. Gain 4 Armor.",
 	"cost": 12,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Aid_of_the_Hooru.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-230/aid-of-the-hooru",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 252,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Sabotage",
 	"text": "The enemy player discards a spell or attachment of your choice from their hand.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sabotage.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-252/sabotage",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

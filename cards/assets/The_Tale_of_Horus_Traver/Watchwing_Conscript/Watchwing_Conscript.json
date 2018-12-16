@@ -1,9 +1,5 @@
 {
 	"eternalID": 9,
-	"set": {
-		"id": 1002,
-		"name": "The Tale of Horus Traver"
-	},
 	"name": "Watchwing Conscript",
 	"text": "Revenge; Summon: If Watchwing Conscript has Destiny, play a +2/+4 Valkyrie Wings with Flying and Aegis on him. He is now a Valkyrie",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Watchwing_Conscript.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1002-9/watchwing-conscript",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1002
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 1,
-	"set": {
-		"id": 1003,
-		"name": "Dead Reckoning"
-	},
 	"name": "Bore",
 	"text": "Kill an enemy attachment.; Create and draw a copy of Bore, then discard it at the end of the turn.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bore.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1003-1/bore",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1003
 }

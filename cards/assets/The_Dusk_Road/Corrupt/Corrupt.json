@@ -1,9 +1,5 @@
 {
 	"eternalID": 210,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Corrupt",
 	"text": "Negate an enemy spell played on you or one of your units, then steal it and play it from the void.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Corrupt.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-210/corrupt",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

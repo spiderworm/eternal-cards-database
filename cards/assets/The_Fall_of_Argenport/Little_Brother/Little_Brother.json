@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Little Brother",
 	"text": "When Little Brother damages a unit, stun that unit.",
 	"cost": 1,
@@ -13,5 +9,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Little_Brother.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/BcyeAqQ2N0Q/little-brother",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 4
 }

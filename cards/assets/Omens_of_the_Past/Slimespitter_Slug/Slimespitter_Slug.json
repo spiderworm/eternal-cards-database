@@ -1,9 +1,5 @@
 {
 	"eternalID": 167,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Slimespitter Slug",
 	"text": "Summon: Each unit with Flying gets -1/-1 for each of your units.; When an enemy unit dies, you gain 1 Health and Slimespitter Slug gets +1/+1.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Slimespitter_Slug.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-167/slimespitter-slug",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 204,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Tundra Explorer",
 	"text": "When Tundra Explorer attacks, if the top card of your deck is a spell, draw it.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Tundra_Explorer.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-204/tundra-explorer",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

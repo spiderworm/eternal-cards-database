@@ -1,9 +1,5 @@
 {
 	"eternalID": 157,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Iceberg Hailshrieker",
 	"text": "Pay 1 and sacrifice Iceberg Hailshrieker to deal 2 damage to the enemy player.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Iceberg_Hailshrieker.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-157/iceberg-hailshrieker",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

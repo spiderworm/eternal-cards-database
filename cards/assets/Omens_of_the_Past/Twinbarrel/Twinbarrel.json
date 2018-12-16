@@ -1,9 +1,5 @@
 {
 	"eternalID": 16,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Twinbarrel",
 	"text": "Double Damage",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Twinbarrel.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-16/twinbarrel",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

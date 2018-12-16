@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Whirly-Twirly",
 	"text": "Flying;Pay 3 to transform Whirly-Twirly into a Makeshift Barrier.",
 	"cost": 3,
@@ -13,5 +9,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Whirly-Twirly.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/GwKp5QK4cVk/whirly-twirly",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 5
 }

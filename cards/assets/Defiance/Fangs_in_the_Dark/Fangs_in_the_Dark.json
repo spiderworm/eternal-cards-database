@@ -1,9 +1,5 @@
 {
 	"eternalID": 170,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Fangs in the Dark",
 	"text": "Your attacking units get Deadly this turn.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Fangs_in_the_Dark.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-170/fangs-in-the-dark",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

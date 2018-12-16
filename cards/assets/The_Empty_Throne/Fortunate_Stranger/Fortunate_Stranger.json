@@ -1,9 +1,5 @@
 {
 	"eternalID": 364,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Fortunate Stranger",
 	"text": "When a player plays a Stranger (including Fortunate Stranger), that player draws a card.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Fortunate_Stranger.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-364/fortunate-stranger",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

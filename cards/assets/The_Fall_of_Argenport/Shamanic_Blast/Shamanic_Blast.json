@@ -1,9 +1,5 @@
 {
 	"eternalID": 189,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Shamanic Blast",
 	"text": "Shamanic Blast costs 1 less for each spell in your void.; Deal 3 damage to an enemy unit.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Shamanic_Blast.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-189/shamanic-blast",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

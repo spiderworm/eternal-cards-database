@@ -1,9 +1,5 @@
 {
 	"eternalID": 43,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Rebel Illuminator",
 	"text": "Entomb: Create and draw a Torch.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rebel_Illuminator.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-43/rebel-illuminator",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

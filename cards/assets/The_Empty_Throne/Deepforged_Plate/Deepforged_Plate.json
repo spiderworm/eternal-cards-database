@@ -1,9 +1,5 @@
 {
 	"eternalID": 317,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Deepforged Plate",
 	"text": "Overwhelm, Endurance",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Deepforged_Plate.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-317/deepforged-plate",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

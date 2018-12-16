@@ -1,9 +1,5 @@
 {
 	"eternalID": 339,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Stronghold's Visage",
 	"text": "At the start of your turn, you gain 1 Health and 1 Armor.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Stronghold's_Visage.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-339/strongholds-visage",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 110,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Mating Call",
 	"text": "Mentor: Play all copies of the Student from the top 10 cards of your deck.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Mating_Call.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-110/mating-call",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

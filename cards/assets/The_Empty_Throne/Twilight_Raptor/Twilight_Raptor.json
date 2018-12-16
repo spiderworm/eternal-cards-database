@@ -1,9 +1,5 @@
 {
 	"eternalID": 379,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Twilight Raptor",
 	"text": "Flying",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Twilight_Raptor.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-379/twilight-raptor",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

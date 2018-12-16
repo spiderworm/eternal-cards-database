@@ -1,9 +1,5 @@
 {
 	"eternalID": 308,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Tamarys, the Geomancer",
 	"text": "Flying, Overwhelm;Your spells cost 1 less.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Tamarys,_the_Geomancer.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-308/tamarys-the-geomancer",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

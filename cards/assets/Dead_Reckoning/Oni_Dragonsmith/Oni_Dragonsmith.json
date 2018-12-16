@@ -1,9 +1,5 @@
 {
 	"eternalID": 2,
-	"set": {
-		"id": 1003,
-		"name": "Dead Reckoning"
-	},
 	"name": "Oni Dragonsmith",
 	"text": "Your Dragons cost 1 less.; Dragon Ally: +2/+1 and Quickdraw.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Oni_Dragonsmith.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1003-2/oni-dragonsmith",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1003
 }

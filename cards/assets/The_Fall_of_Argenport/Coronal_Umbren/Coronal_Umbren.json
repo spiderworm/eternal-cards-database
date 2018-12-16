@@ -1,9 +1,5 @@
 {
 	"eternalID": 214,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Coronal Umbren",
 	"text": "Flying while you have a Wisp.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Coronal_Umbren.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-214/coronal-umbren",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

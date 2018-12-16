@@ -1,9 +1,5 @@
 {
 	"eternalID": 122,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Kosul Huntsman",
 	"text": "Renown: Killer.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Kosul_Huntsman.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-122/kosul-huntsman",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

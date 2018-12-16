@@ -1,9 +1,5 @@
 {
 	"eternalID": 323,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Navani, Warsinger",
 	"text": "Warcry; Navani's Warcry affects each unit and weapon in your deck.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Navani,_Warsinger.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-323/navani-warsinger",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

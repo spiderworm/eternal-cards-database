@@ -1,9 +1,5 @@
 {
 	"eternalID": 88,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Invoke the Waystones",
 	"text": "Discard the top four cards of your deck, then play the top card of your deck. Create and draw a copy of Invoke the Waystones with cost increased by 1.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Invoke_the_Waystones.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-88/invoke-the-waystones",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

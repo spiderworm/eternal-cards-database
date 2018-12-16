@@ -1,9 +1,5 @@
 {
 	"eternalID": 230,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Street Leecher",
 	"text": "Warcry; Ultimate: When you play a weapon on Street Leecher, give an enemy unit and each copy in the enemy hand and deck -1/-1.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Street_Leecher.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-230/street-leecher",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

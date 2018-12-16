@@ -1,9 +1,5 @@
 {
 	"eternalID": 48,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Obliterate",
 	"text": "Overwhelm; Deal 6 damage to a unit or player.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Obliterate.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-48/obliterate",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

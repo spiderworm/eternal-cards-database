@@ -1,9 +1,5 @@
 {
 	"eternalID": 110,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Reliquary Raider",
 	"text": "When Reliquary Raider attacks, draw a card. When she blocks, you gain 3 Health.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Reliquary_Raider.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-110/reliquary-raider",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

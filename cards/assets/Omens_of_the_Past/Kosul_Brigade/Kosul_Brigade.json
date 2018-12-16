@@ -1,9 +1,5 @@
 {
 	"eternalID": 254,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Kosul Brigade",
 	"text": "Endurance; Summon: You may discard two cards to play an 8/8 Urska, the Bear with Reckless.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Kosul_Brigade.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-254/kosul-brigade",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

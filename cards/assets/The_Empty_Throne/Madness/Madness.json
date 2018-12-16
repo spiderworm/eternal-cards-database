@@ -1,9 +1,5 @@
 {
 	"eternalID": 267,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Madness",
 	"text": "Ready and steal an enemy unit this turn.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Madness.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-267/madness",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

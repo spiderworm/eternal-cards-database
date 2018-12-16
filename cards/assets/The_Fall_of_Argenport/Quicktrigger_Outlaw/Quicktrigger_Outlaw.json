@@ -1,9 +1,5 @@
 {
 	"eternalID": 13,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Quicktrigger Outlaw",
 	"text": "When you play a weapon on Quicktrigger Outlaw, he deals 1 damage to an enemy.; Tribute: Play a +1/+1 weapon on one of your units.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Quicktrigger_Outlaw.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-13/quicktrigger-outlaw",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 153,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Farplace Finder",
 	"text": "Summon: Scout.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Farplace_Finder.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-153/farplace-finder",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

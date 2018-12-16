@@ -1,9 +1,5 @@
 {
 	"eternalID": 254,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Makeshift Barrier",
 	"text": "Endurance;Pay 3 to transform Makeshift Barrier into a Whirly-Twirly.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Makeshift_Barrier.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-254/makeshift-barrier",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

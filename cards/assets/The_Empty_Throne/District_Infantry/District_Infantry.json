@@ -1,9 +1,5 @@
 {
 	"eternalID": 134,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "District Infantry",
 	"text": "Empower: +2/+2 this turn.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/District_Infantry.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-134/district-infantry",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

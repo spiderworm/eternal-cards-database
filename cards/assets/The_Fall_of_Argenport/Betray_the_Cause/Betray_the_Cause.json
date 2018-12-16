@@ -1,9 +1,5 @@
 {
 	"eternalID": 234,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Betray the Cause",
 	"text": "Warp; Steal and ready an enemy unit this turn.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Betray_the_Cause.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-234/betray-the-cause",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

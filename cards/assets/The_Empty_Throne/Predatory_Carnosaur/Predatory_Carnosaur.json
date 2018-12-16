@@ -1,9 +1,5 @@
 {
 	"eternalID": 118,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Predatory Carnosaur",
 	"text": "Killer",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Predatory_Carnosaur.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-118/predatory-carnosaur",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

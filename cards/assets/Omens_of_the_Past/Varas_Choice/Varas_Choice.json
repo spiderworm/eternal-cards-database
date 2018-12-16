@@ -1,9 +1,5 @@
 {
 	"eternalID": 206,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Vara's Choice",
 	"text": "- Silence an enemy unit and put it into its owner's hand, or; - Silence a unit in the enemy player's hand. They discard it.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Vara's_Choice.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-206/varas-choice",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

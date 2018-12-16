@@ -1,9 +1,5 @@
 {
 	"eternalID": 293,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Lurking Sanguar",
 	"text": "Lifesteal; Free if two units dealt damage to the enemy player this turn.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lurking_Sanguar.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-293/lurking-sanguar",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

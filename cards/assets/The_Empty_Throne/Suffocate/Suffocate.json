@@ -1,9 +1,5 @@
 {
 	"eternalID": 251,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Suffocate",
 	"text": "Kill a unit with 3 Attack or less.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Suffocate.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-251/suffocate",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

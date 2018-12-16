@@ -1,9 +1,5 @@
 {
 	"eternalID": 106,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Wanted Poster",
 	"text": "When the cursed unit dies, draw two cards.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Curse",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Wanted_Poster.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-106/wanted-poster",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 119,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Mind Link",
 	"text": "When you transform an enemy card, other than one in their deck, create and draw a copy of the new card.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Mind_Link.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-119/mind-link",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 67,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Rhinarc Huntpack",
 	"text": "Warp; Ambush while on top of your deck.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rhinarc_Huntpack.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-67/rhinarc-huntpack",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

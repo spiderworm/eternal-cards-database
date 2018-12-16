@@ -1,9 +1,5 @@
 {
 	"eternalID": 124,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Serpent Mount",
 	"text": "Flying; Mentor: Serpent Mount gains the Student's Attack.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Serpent_Mount.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-124/serpent-mount",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

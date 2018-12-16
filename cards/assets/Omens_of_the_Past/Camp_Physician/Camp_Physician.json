@@ -1,9 +1,5 @@
 {
 	"eternalID": 52,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Camp Physician",
 	"text": "Warp; Summon: You gain 3 Health.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Camp_Physician.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-52/camp-physician",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

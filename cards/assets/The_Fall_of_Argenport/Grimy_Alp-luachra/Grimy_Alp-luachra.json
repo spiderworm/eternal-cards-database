@@ -1,9 +1,5 @@
 {
 	"eternalID": 235,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Grimy Alp-luachra",
 	"text": "Once per turn, you may pay 2 to give Grimy Alp-luachra Flying this turn. It deals 1 damage to you.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Grimy_Alp-luachra.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-235/grimy-alp-luachra",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

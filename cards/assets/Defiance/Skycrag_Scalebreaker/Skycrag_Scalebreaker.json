@@ -1,9 +1,5 @@
 {
 	"eternalID": 130,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Skycrag Scalebreaker",
 	"text": "Fate: Create and draw a Skycrag Goad with Flying.;Renown: +2 Strength.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Skycrag_Scalebreaker.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-130/skycrag-scalebreaker",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

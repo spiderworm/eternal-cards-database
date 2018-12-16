@@ -1,9 +1,5 @@
 {
 	"eternalID": 9,
-	"set": {
-		"id": 1001,
-		"name": "Jekk’s Bounty"
-	},
 	"name": "Stray into Shadow",
 	"text": "Each unit gets -4 Health.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Stray_into_Shadow.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1001-9/stray-into-shadow",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1001
 }

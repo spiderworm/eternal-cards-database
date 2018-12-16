@@ -1,9 +1,5 @@
 {
 	"eternalID": 195,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Horrifying Helm",
 	"text": "Spellcraft 3: Play Scare.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Horrifying_Helm.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-195/horrifying-helm",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

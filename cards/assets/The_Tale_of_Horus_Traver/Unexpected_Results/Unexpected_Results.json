@@ -1,9 +1,5 @@
 {
 	"eternalID": 19,
-	"set": {
-		"id": 1002,
-		"name": "The Tale of Horus Traver"
-	},
 	"name": "Unexpected Results",
 	"text": "Transform all copies of a spell of your choice from the enemy player's deck into Firebombs.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Unexpected_Results.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1002-19/unexpected-results",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1002
 }

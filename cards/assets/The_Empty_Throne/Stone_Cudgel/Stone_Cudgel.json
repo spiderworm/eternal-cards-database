@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Stone Cudgel",
 	"text": "",
 	"cost": 1,
@@ -13,5 +9,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Stone_Cudgel.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/zn0NdU5QUgU/stone-cudgel",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 1
 }

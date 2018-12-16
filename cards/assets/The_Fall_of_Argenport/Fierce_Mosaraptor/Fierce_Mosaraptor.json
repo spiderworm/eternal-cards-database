@@ -1,9 +1,5 @@
 {
 	"eternalID": 77,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Fierce Mosaraptor",
 	"text": "Tribute: Killer.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Fierce_Mosaraptor.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-77/fierce-mosaraptor",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

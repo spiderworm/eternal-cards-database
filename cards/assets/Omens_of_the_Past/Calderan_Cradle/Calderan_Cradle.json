@@ -1,9 +1,5 @@
 {
 	"eternalID": 192,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Calderan Cradle",
 	"text": "For every five spells you play, play a 5/5 Dragon with Flying.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Calderan_Cradle.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-192/calderan-cradle",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

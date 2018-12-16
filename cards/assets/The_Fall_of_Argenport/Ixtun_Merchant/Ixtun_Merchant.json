@@ -1,9 +1,5 @@
 {
 	"eternalID": 21,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Ixtun Merchant",
 	"text": "Overwhelm; Summon: You may choose a card from your hand to swap with a {F} card in your Market.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ixtun_Merchant.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-21/ixtun-merchant",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

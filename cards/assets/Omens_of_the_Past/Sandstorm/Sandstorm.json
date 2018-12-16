@@ -1,9 +1,5 @@
 {
 	"eternalID": 43,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Sandstorm",
 	"text": "Units can't fly this turn.; Draw a card.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sandstorm.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-43/sandstorm",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

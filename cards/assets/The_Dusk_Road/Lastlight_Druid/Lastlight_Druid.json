@@ -1,9 +1,5 @@
 {
 	"eternalID": 172,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Lastlight Druid",
 	"text": "Summon: Nightfall.; When you end a turn at Night, transform each other unit you played this turn into a random unit that costs 1 more.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lastlight_Druid.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-172/lastlight-druid",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

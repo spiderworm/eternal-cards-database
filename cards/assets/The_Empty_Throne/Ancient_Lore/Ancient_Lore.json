@@ -1,9 +1,5 @@
 {
 	"eternalID": 105,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Ancient Lore",
 	"text": "Draw two cards. Units drawn this way get +1/+1.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ancient_Lore.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-105/ancient-lore",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

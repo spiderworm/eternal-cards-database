@@ -1,9 +1,5 @@
 {
 	"eternalID": 15,
-	"set": {
-		"id": 0,
-		"name": "The Empty Throne"
-	},
 	"name": "Oasis Sanctuary",
 	"text": "You gain 5 Health.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Oasis_Sanctuary.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/0-15/oasis-sanctuary",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 0
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 188,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Trail Stories",
 	"text": "Reduce the cost of a spell in your hand by 1.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Trail_Stories.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-188/trail-stories",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

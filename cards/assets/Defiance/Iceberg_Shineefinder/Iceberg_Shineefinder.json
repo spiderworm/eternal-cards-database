@@ -1,9 +1,5 @@
 {
 	"eternalID": 216,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Iceberg Shineefinder",
 	"text": "Pledge;Amplify 2: Deal 1 damage to an enemy.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Iceberg_Shineefinder.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-216/iceberg-shineefinder",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

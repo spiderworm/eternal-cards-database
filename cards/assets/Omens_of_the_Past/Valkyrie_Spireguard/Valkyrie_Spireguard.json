@@ -1,9 +1,5 @@
 {
 	"eternalID": 90,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Valkyrie Spireguard",
 	"text": "Flying; +3/+3 while you have another Valkyrie.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Valkyrie_Spireguard.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-90/valkyrie-spireguard",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 137,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Answer the Call",
 	"text": "Play a unit from the top six cards of your deck. Then play all weapons from among those cards on it and discard the rest.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Answer_the_Call.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-137/answer-the-call",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

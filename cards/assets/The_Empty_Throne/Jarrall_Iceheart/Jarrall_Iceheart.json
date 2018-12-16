@@ -1,9 +1,5 @@
 {
 	"eternalID": 239,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Jarrall Iceheart",
 	"text": "Infiltrate: Draw the top spell of your deck. Deal damage to each enemy unit equal to that spell's cost.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Jarrall_Iceheart.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-239/jarrall-iceheart",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

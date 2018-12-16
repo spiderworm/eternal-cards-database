@@ -1,9 +1,5 @@
 {
 	"eternalID": 229,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Nostrix, Lord of Visions",
 	"text": "Flying; Mentor: Give the Student and each other copy in your hand and deck +5/+5.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Nostrix,_Lord_of_Visions.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-229/nostrix-lord-of-visions",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 20,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Grenadin Cannoneer",
 	"text": "Spark: Put a Firebomb in the enemy player's deck.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Grenadin_Cannoneer.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-20/grenadin-cannoneer",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 4,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Light 'em Up",
 	"text": "Your units get +1 Attack this turn.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Light_'em_Up.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-4/light-em-up",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

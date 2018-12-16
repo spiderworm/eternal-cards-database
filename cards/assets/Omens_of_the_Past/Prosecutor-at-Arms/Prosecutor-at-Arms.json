@@ -1,9 +1,5 @@
 {
 	"eternalID": 97,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Prosecutor-at-Arms",
 	"text": "Mentor: Give an enemy units -Attack equal to the Student's Attack.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Prosecutor-at-Arms.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-97/prosecutor-at-arms",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 152,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Spur On",
 	"text": "Revenge; Give one of your units +1 Attack and Unblockable this turn.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Spur_On.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-152/spur-on",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 264,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Jekk's Choice",
 	"text": "- Play a +1/+1 weapon on each of your attacking units, or; - Kill an enemy unit not wielding a weapon.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Jekk's_Choice.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-264/jekks-choice",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 239,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Stonepowder Alchemist",
 	"text": "Lifesteal, Revenge; Summon: Deal 2 damage to the enemy player.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Stonepowder_Alchemist.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-239/stonepowder-alchemist",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

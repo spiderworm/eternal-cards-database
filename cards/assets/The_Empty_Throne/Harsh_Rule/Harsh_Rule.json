@@ -1,9 +1,5 @@
 {
 	"eternalID": 172,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Harsh Rule",
 	"text": "Kill all units.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Harsh_Rule.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-172/harsh-rule",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

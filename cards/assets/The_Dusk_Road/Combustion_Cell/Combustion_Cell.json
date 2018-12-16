@@ -1,9 +1,5 @@
 {
 	"eternalID": 7,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Combustion Cell",
 	"text": "Once per turn, you may sacrifice a unit to get +1 power this turn. If it was a Grenadin, get +2 power this turn instead.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Combustion_Cell.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-7/combustion-cell",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

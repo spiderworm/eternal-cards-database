@@ -1,9 +1,5 @@
 {
 	"eternalID": 21,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Pyre Adept",
 	"text": "",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Pyre_Adept.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-21/pyre-adept",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

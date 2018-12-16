@@ -1,9 +1,5 @@
 {
 	"eternalID": 198,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Topaz Drake",
 	"text": "Flying, Charge",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Topaz_Drake.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-198/topaz-drake",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

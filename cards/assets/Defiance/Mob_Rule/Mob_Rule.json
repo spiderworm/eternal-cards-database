@@ -1,9 +1,5 @@
 {
 	"eternalID": 160,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Mob Rule",
 	"text": "Kill an enemy unit with  Strength equal to or less than your number of units.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Mob_Rule.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-160/mob-rule",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

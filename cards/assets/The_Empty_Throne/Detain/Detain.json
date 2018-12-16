@@ -1,9 +1,5 @@
 {
 	"eternalID": 133,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Detain",
 	"text": "Give an enemy unit -6 Attack this turn.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Detain.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-133/detain",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

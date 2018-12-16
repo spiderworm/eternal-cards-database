@@ -1,9 +1,5 @@
 {
 	"eternalID": 167,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Unseal",
 	"text": "Negate an enemy spell or curse.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Unseal.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-167/unseal",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

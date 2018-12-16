@@ -1,9 +1,5 @@
 {
 	"eternalID": 11,
-	"set": {
-		"id": 1003,
-		"name": "Dead Reckoning"
-	},
 	"name": "Hailstorm",
 	"text": "Deal 3 damage to each unit.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hailstorm.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1003-11/hailstorm",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1003
 }

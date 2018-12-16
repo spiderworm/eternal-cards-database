@@ -1,9 +1,5 @@
 {
 	"eternalID": 332,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Desert Marshal",
 	"text": "Ambush; Summon: You may silence another unit.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Desert_Marshal.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-332/desert-marshal",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

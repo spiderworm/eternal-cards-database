@@ -1,9 +1,5 @@
 {
 	"eternalID": 309,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "The Last Word",
 	"text": "Deadly, Quickdraw; Ultimate: Pay 9 to make The Last Word's attacks deadly to players.",
 	"cost": 9,
@@ -14,5 +10,6 @@
 	"type": "Relic Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/The_Last_Word.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-309/the-last-word",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

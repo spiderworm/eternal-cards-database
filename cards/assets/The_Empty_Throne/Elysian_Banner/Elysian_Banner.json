@@ -1,9 +1,5 @@
 {
 	"eternalID": 421,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Elysian Banner",
 	"text": "Gain {T}{P}.; Depleted unless you have a unit.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Power",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Elysian_Banner.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-421/elysian-banner",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

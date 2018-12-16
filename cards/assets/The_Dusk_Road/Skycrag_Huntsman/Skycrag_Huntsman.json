@@ -1,9 +1,5 @@
 {
 	"eternalID": 24,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Skycrag Huntsman",
 	"text": "Pay 4 and exhaust Skycrag Huntsman to deal 1 damage to an enemy if you have a relic.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Skycrag_Huntsman.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-24/skycrag-huntsman",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

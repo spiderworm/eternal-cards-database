@@ -1,9 +1,5 @@
 {
 	"eternalID": 78,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Gathering Lights",
 	"text": "Play two 1/1 Wisps. Then you gain 1 health for each of your units.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Gathering_Lights.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-78/gathering-lights",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

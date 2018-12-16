@@ -1,9 +1,5 @@
 {
 	"eternalID": 244,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Bulletshaper",
 	"text": "Summong: Gain {F}{J}.; Ultimate: Discard a spell to get +2 power this turn.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bulletshaper.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-244/bulletshaper",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

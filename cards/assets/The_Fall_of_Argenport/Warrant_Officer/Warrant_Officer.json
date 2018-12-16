@@ -1,9 +1,5 @@
 {
 	"eternalID": 125,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Warrant Officer",
 	"text": "Tribute: Stun an enemy unit. Warrant Officer gets +1 Attack equal to that unit's Attack.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Warrant_Officer.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-125/warrant-officer",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

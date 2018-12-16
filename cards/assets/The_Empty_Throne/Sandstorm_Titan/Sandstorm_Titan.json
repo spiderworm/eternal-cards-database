@@ -1,9 +1,5 @@
 {
 	"eternalID": 99,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Sandstorm Titan",
 	"text": "Endurance; Units can't fly.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sandstorm_Titan.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-99/sandstorm-titan",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

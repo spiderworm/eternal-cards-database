@@ -1,9 +1,5 @@
 {
 	"eternalID": 318,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Longhorn Sergeant",
 	"text": "Warcry; When you Warcry, you gain 1 Armor.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Longhorn_Sergeant.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-318/longhorn-sergeant",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

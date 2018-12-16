@@ -1,9 +1,5 @@
 {
 	"eternalID": 276,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Amethyst Acolyte",
 	"text": "Summon: Give an enemy unit -1/-1.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Amethyst_Acolyte.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-276/amethyst-acolyte",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

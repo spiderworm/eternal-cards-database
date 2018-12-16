@@ -3,8 +3,11 @@ const path = require('path');
 const mkdirp = require('mkdirp');
 const fs = require('fs-extra');
 const request = require('request');
+const CURRENT_RELEASE = require('../CURRENT_RELEASE.js');
 
-const db = CardDatabase.create();
+
+
+const db = CardDatabase.createFromReleaseExport(CURRENT_RELEASE);
 
 const baseDir = path.resolve(__dirname, '../built/assets/');
 
@@ -26,7 +29,7 @@ function doWrite(writes, i) {
 		w = writes[i];
 		mkdirp.sync(w.dir);
 		writeCopyright(w.dir);
-		fs.writeFileSync(w.json, JSON.stringify(w.card.toObject(), null, "\t"));
+		fs.writeFileSync(w.json, JSON.stringify(w.card.export(), null, "\t"));
 		downloadFile(w.card.imageURL, w.image, doNext);
 	}
 }
@@ -35,7 +38,7 @@ function prepareWrites() {
 	const results = {};
 
 	function createResult(card, name) {
-		const setDir = sanitizeDirectoryName(card.set.name);
+		const setDir = sanitizeDirectoryName(card.set ? card.set.name : "none");
 		const sanitizedName = sanitizeDirectoryName(name)
 		const dir = path.join(baseDir, setDir, sanitizedName);
 		const fileBase = path.join(dir, sanitizedName);
@@ -91,21 +94,25 @@ function writeIndexFile() {
 		return w.json.replace(baseDir, '.');
 	}
 
-	const indexPath = path.join(baseDir, 'index.js');
+	const filePath = path.join(baseDir, 'eternal-cards-dev.js');
 	const text = (
-`const assets = [
+`const exported = {
+	eternalVersion: 'dev',
+	cards: [
 ${
 writes.map(w => {
 return (
-`	require('${getLocalJsonPath(w)}'),`
+`		require('${getLocalJsonPath(w)}'),`
 )
 }).join('\n')
 }
-];
-module.exports = assets;`
+	]
+};
+
+module.exports = exported;`
 	);
 
-	fs.writeFileSync(indexPath, text);
+	fs.writeFileSync(filePath, text);
 }
 
 function writeCopyright(dir) {

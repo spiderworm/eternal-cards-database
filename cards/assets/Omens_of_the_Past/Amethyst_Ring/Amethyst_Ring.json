@@ -1,9 +1,5 @@
 {
 	"eternalID": 146,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Amethyst Ring",
 	"text": "Once per turn, you may pay 3 to deal 1 damage to the enemy player and gain 1 Health.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Amethyst_Ring.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-146/amethyst-ring",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 320,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Rise to the Challenge",
 	"text": "Draw a unit or weapon of your choice from your deck. It gets +2 Attack.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rise_to_the_Challenge.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-320/rise-to-the-challenge",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

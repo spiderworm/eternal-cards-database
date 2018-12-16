@@ -1,9 +1,5 @@
 {
 	"eternalID": 210,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Territorial Elf",
 	"text": "Berserk; Territorial Elf can't block.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Territorial_Elf.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-210/territorial-elf",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

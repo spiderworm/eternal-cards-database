@@ -1,9 +1,5 @@
 {
 	"eternalID": 192,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Blind Storyteller",
 	"text": "Pay 2 and exhaust Blind Storyteller to draw a card, then discard a card.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Blind_Storyteller.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-192/blind-storyteller",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

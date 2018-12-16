@@ -1,9 +1,5 @@
 {
 	"eternalID": 288,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Stonescar Magus",
 	"text": "Entomb: Give an enemy unit -2/-2.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Stonescar_Magus.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-288/stonescar-magus",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

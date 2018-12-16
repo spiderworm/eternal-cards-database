@@ -1,9 +1,5 @@
 {
 	"eternalID": 179,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Diogo Málaga",
 	"text": "Charge; Ultimate: Pay 8 to give Diogo and all units in your deck Double Damage and Charge.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Diogo_Málaga.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-179/diogo-málaga",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

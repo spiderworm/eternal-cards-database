@@ -1,9 +1,5 @@
 {
 	"eternalID": 418,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Cobalt Monument",
 	"text": "Depleted; Gain {P}; Transmute 5: 4/4 Stormdancer with Flying.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Power",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cobalt_Monument.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-418/cobalt-monument",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

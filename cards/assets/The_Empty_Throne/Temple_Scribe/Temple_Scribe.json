@@ -1,9 +1,5 @@
 {
 	"eternalID": 502,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Temple Scribe",
 	"text": "Summon: You gain 1 Health and draw a card.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Temple_Scribe.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-502/temple-scribe",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

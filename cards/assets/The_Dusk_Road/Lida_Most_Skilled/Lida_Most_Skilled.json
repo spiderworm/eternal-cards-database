@@ -1,9 +1,5 @@
 {
 	"eternalID": 189,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Lida, Most Skilled",
 	"text": "Overwhelm; Unseen Ally: Killer.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lida,_Most_Skilled.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-189/lida-most-skilled",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

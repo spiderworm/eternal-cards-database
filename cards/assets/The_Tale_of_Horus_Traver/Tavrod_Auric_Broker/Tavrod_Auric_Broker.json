@@ -1,9 +1,5 @@
 {
 	"eternalID": 18,
-	"set": {
-		"id": 1002,
-		"name": "The Tale of Horus Traver"
-	},
 	"name": "Tavrod, Auric Broker",
 	"text": "Endurance; When Tavrod attacks, draw a Minotaur and weapon from the top 5 cards of your deck. Give them +5 Attack and discard the rest.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Tavrod,_Auric_Broker.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1002-18/tavrod-auric-broker",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1002
 }

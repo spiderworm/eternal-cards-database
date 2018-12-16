@@ -1,9 +1,5 @@
 {
 	"eternalID": 52,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Azurite Prixis",
 	"text": "When one of your units dies, discard the top card of your deck.; If Azurite Prixis is on the bottom of your deck at the start of the game, play it.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Azurite_Prixis.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-52/azurite-prixis",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

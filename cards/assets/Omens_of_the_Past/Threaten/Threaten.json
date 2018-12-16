@@ -1,9 +1,5 @@
 {
 	"eternalID": 145,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Threaten",
 	"text": "Give one of your units +2 Attack.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Threaten.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-145/threaten",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

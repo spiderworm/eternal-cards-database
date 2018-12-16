@@ -1,9 +1,5 @@
 {
 	"eternalID": 250,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Dark Return",
 	"text": "Draw a unit from the void and give it +1/+1.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Dark_Return.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-250/dark-return",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

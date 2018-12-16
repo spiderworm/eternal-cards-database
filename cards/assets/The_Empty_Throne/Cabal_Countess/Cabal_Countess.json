@@ -1,9 +1,5 @@
 {
 	"eternalID": 506,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Cabal Countess",
 	"text": "Ambush; Ultimate: Pay 4 to give Cabal Countess +2 Attack and Quickdraw.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cabal_Countess.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-506/cabal-countess",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

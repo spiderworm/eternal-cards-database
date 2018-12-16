@@ -1,9 +1,5 @@
 {
 	"eternalID": 101,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Elias, the Broken Wing",
 	"text": "Flying, Lifesteal, Revenge",
 	"cost": 8,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Elias,_the_Broken_Wing.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-101/elias-the-broken-wing",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

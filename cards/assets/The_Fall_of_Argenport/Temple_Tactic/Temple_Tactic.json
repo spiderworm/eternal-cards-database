@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Temple Tactic",
 	"text": "Put a unit and each weapon it's wielding into its owner's hand.",
 	"cost": 2,
@@ -13,5 +9,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Temple_Tactic.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/F3RGIbJga1Y/temple-tactic",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 4
 }

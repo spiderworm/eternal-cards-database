@@ -1,9 +1,5 @@
 {
 	"eternalID": 30,
-	"set": {
-		"id": 0,
-		"name": "The Empty Throne"
-	},
 	"name": "Primal Incarnation",
 	"text": "Flying; +1 Attack for each of your {P} influence.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Primal_Incarnation.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/0-30/primal-incarnation",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 0
 }

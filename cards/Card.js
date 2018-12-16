@@ -1,4 +1,5 @@
 const setDatabase = require('../sets/setDatabase.js');
+const SetItem = require('../sets/Set.js');
 
 function Card(
 	eternalID,
@@ -30,12 +31,20 @@ function Card(
 	this.deckBuildable = deckBuildable;
 }
 
-Card.prototype.toObject = function() {
-	return JSON.parse(JSON.stringify(this));
+Card.prototype.export = function() {
+	const exported = JSON.parse(JSON.stringify(this));
+	if (exported.set) {
+		exported.setID = exported.set.id;
+	}
+	delete exported.set;
+	return exported;
 };
 
 Card.create = function(props) {
-	const set = setDatabase.getByID(props.setID);
+	let set = null;
+	if (props.setID || props.setID === 0) {
+		set = setDatabase.getByID(props.setID);
+	}
 
 	return new Card(
 		props.eternalID,
@@ -58,7 +67,7 @@ Card.cardsMatch = function(c1, c2) {
 	return (
 		c1 === c2 || (
 			c1.eternalID === c2.eternalID &&
-			c1.set.id === c2.set.id &&
+			SetItem.setsMatch(c1.set, c2.set) &&
 			c1.name === c2.name &&
 			c1.text === c2.text &&
 			c1.cost === c2.cost &&

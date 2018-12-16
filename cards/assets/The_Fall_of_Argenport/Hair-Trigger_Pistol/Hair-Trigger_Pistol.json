@@ -1,9 +1,5 @@
 {
 	"eternalID": 216,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Hair-Trigger Pistol",
 	"text": "Deadly; Spellcraft 2: Play Trigger Happy.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hair-Trigger_Pistol.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-216/hair-trigger-pistol",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

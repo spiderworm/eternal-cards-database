@@ -1,9 +1,5 @@
 {
 	"eternalID": 181,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Shatterglass Mage",
 	"text": "Overwhelm, Warp; Summon: Kill an enemy attachment.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Shatterglass_Mage.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-181/shatterglass-mage",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

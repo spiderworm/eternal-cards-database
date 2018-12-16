@@ -1,9 +1,5 @@
 {
 	"eternalID": 12,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Flametail Whip",
 	"text": "Charge;Summon: Play three 1/1 Wildcats with Charge. Sacrifice them at the end of the turn.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Flametail_Whip.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-12/flametail-whip",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

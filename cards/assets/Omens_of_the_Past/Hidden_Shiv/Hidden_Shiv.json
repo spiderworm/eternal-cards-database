@@ -1,9 +1,5 @@
 {
 	"eternalID": 4,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Hidden Shiv",
 	"text": "Warp",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hidden_Shiv.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-4/hidden-shiv",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

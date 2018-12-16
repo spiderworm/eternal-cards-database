@@ -1,9 +1,5 @@
 {
 	"eternalID": 12,
-	"set": {
-		"id": 1004,
-		"name": "Into Shadow"
-	},
 	"name": "Telut, Queen's Hand",
 	"text": "When you attack the enemy player with one unit, play a +3/+3 weapon on it, play two Justice Sigils from your deck depleted, and enemy units get -1 Attack.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Telut,_Queen's_Hand.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1004-12/telut-queens-hand",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1004
 }

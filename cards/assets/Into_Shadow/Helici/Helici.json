@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 1004,
-		"name": "Into Shadow"
-	},
 	"name": "Helici",
 	"text": "Deadly, Unblockable",
 	"cost": 2,
@@ -13,5 +9,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Helici.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/EToEAZ0XL_w/helici",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 1004
 }

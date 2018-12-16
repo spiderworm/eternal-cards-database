@@ -1,9 +1,5 @@
 {
 	"eternalID": 211,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Resilient Wagoneer",
 	"text": "Pledge;Empower: +1/+1 this turn for each of your units.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Resilient_Wagoneer.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-211/resilient-wagoneer",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

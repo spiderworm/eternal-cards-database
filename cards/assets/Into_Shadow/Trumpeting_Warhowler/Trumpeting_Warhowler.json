@@ -1,9 +1,5 @@
 {
 	"eternalID": 14,
-	"set": {
-		"id": 1004,
-		"name": "Into Shadow"
-	},
 	"name": "Trumpeting Warhowler",
 	"text": "Reckless; Inspire: Units you draw get Killer.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Trumpeting_Warhowler.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1004-14/trumpeting-warhowler",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1004
 }

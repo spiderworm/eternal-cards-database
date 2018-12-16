@@ -1,9 +1,5 @@
 {
 	"eternalID": 257,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Knight of Sorrow",
 	"text": "Lifesteal; Tribute: +2/+2.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Knight_of_Sorrow.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-257/knight-of-sorrow",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

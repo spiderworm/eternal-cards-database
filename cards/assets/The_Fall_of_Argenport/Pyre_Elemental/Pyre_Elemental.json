@@ -1,9 +1,5 @@
 {
 	"eternalID": 45,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Pyre Elemental",
 	"text": "Charge; Pyre Elemental costs 4 less if you have played a spell this turn.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Pyre_Elemental.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-45/pyre-elemental",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

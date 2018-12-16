@@ -1,9 +1,5 @@
 {
 	"eternalID": 63,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Thrashing Dune Wurm",
 	"text": "Your units with Killer have +1/+1.;Amplify 2: Give one of your units Killer.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Thrashing_Dune_Wurm.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-63/thrashing-dune-wurm",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

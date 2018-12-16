@@ -1,9 +1,5 @@
 {
 	"eternalID": 371,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Champion of Cunning",
 	"text": "{P}{P}{P}{P}{P}: Flying and Aegis.; {S}{S}{S}{S}{S}: At the end of your turn, your units get +2 Attack.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Champion_of_Cunning.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-371/champion-of-cunning",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

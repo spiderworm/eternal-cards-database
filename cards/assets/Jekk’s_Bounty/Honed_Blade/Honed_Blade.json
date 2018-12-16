@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 1001,
-		"name": "Jekk’s Bounty"
-	},
 	"name": "Honed Blade",
 	"text": "",
 	"cost": 5,
@@ -13,5 +9,6 @@
 	"type": "Relic Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Honed_Blade.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/0ljjMpuDkfQ/honed-blade",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 1001
 }

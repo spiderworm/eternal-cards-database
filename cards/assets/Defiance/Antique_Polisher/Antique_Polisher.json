@@ -1,9 +1,5 @@
 {
 	"eternalID": 51,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Antique Polisher",
 	"text": "Endurance;Summon: Reduce the cost of a relic in your hand by 2.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Antique_Polisher.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-51/antique-polisher",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

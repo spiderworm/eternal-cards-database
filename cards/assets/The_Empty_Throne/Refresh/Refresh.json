@@ -1,9 +1,5 @@
 {
 	"eternalID": 501,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Refresh",
 	"text": "Give yourself or a unit +4 Health.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Refresh.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-501/refresh",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

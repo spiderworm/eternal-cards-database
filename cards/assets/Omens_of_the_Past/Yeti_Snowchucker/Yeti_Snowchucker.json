@@ -1,9 +1,5 @@
 {
 	"eternalID": 113,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Yeti Snowchucker",
 	"text": "Reckless; When Yeti Snowchucker attacks, it deals 1 damage to the enemy player.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Yeti_Snowchucker.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-113/yeti-snowchucker",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

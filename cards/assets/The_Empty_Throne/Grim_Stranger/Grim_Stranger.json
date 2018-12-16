@@ -1,9 +1,5 @@
 {
 	"eternalID": 372,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Grim Stranger",
 	"text": "When one or more Strangers attack, deal that much damage to the defending player.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Grim_Stranger.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-372/grim-stranger",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

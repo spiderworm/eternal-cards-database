@@ -1,9 +1,5 @@
 {
 	"eternalID": 18,
-	"set": {
-		"id": 0,
-		"name": "The Empty Throne"
-	},
 	"name": "Rolant's Favor",
 	"text": "You gain 2 Armor. Draw a Justice Sigil from your deck.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rolant's_Favor.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/0-18/rolants-favor",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 0
 }

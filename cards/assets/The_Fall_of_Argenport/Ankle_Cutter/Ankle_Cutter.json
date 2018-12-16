@@ -1,9 +1,5 @@
 {
 	"eternalID": 8,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Ankle Cutter",
 	"text": "When a unit with Endurance takes damage, kill it.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ankle_Cutter.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-8/ankle-cutter",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

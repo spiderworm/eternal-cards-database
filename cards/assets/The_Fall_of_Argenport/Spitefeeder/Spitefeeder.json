@@ -1,9 +1,5 @@
 {
 	"eternalID": 197,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Spitefeeder",
 	"text": "Flying; Summon: The player of your choice discards the top two cards of their deck.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Spitefeeder.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-197/spitefeeder",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

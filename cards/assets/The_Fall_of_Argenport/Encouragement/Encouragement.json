@@ -1,9 +1,5 @@
 {
 	"eternalID": 107,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Encouragement",
 	"text": "Warp; Give a unit +2/+2 and Flying this turn.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Encouragement.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-107/encouragement",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

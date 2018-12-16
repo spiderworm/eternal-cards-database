@@ -1,9 +1,5 @@
 {
 	"eternalID": 188,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Moonlight Huntress",
 	"text": "Flying; +3/+3 at Night.; Summon: Nightfall.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Moonlight_Huntress.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-188/moonlight-huntress",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

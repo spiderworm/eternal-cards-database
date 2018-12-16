@@ -1,9 +1,5 @@
 {
 	"eternalID": 31,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Cannonbearer",
 	"text": "Warp; Summon: Deal 1 damage to an enemy.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cannonbearer.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-31/cannonbearer",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

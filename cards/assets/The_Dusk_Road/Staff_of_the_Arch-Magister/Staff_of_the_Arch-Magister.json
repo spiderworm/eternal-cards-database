@@ -1,9 +1,5 @@
 {
 	"eternalID": 39,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Staff of the Arch-Magister",
 	"text": "+1/+1 for each spell in your void.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Staff_of_the_Arch-Magister.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-39/staff-of-the-arch-magister",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

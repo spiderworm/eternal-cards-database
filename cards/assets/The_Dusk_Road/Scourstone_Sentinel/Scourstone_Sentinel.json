@@ -1,9 +1,5 @@
 {
 	"eternalID": 98,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Scourstone Sentinel",
 	"text": "Overwhelm, Bond",
 	"cost": 9,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Scourstone_Sentinel.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-98/scourstone-sentinel",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

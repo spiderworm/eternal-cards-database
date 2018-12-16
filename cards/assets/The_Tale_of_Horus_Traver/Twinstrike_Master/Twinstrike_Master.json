@@ -1,9 +1,5 @@
 {
 	"eternalID": 8,
-	"set": {
-		"id": 1002,
-		"name": "The Tale of Horus Traver"
-	},
 	"name": "Twinstrike Master",
 	"text": "Double Damage; Mentor: Give the Student Double Damage.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Twinstrike_Master.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1002-8/twinstrike-master",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1002
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 25,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Rika, Desert Navigator",
 	"text": "When Rika hits the enemy player, the top card of your deck gets Warp this turn.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rika,_Desert_Navigator.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-25/rika-desert-navigator",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

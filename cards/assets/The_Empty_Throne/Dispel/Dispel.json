@@ -1,9 +1,5 @@
 {
 	"eternalID": 91,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Dispel",
 	"text": "Silence a unit. Draw a card.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Dispel.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-91/dispel",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

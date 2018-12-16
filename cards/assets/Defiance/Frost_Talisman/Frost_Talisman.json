@@ -1,9 +1,5 @@
 {
 	"eternalID": 119,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Frost Talisman",
 	"text": "Pay 7 to draw a card.;Summon: Stun an enemy unit.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Frost_Talisman.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-119/frost-talisman",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

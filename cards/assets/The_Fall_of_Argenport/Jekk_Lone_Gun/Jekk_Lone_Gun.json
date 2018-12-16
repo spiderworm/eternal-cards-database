@@ -1,9 +1,5 @@
 {
 	"eternalID": 265,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Jekk, Lone Gun",
 	"text": "Deadly; When a unit goes to the enemy void, it gets Voidbound. Tribute: Kill an enemy unit.; Infiltrate: Create and draw Bad News.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Jekk,_Lone_Gun.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-265/jekk-lone-gun",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

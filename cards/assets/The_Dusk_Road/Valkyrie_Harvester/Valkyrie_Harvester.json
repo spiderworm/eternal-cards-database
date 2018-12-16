@@ -1,9 +1,5 @@
 {
 	"eternalID": 249,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Valkyrie Harvester",
 	"text": "Flying; Summon: Draw each unit that died this turn. They get Flying and become Valkyrie.",
 	"cost": 8,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Valkyrie_Harvester.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-249/valkyrie-harvester",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

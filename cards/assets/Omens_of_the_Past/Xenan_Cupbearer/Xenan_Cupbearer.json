@@ -1,9 +1,5 @@
 {
 	"eternalID": 210,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Xenan Cupbearer",
 	"text": "Lifesteal",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Xenan_Cupbearer.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-210/xenan-cupbearer",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

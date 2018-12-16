@@ -1,9 +1,5 @@
 {
 	"eternalID": 247,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Skycrag Wyvarch",
 	"text": "Flying, Killer",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Skycrag_Wyvarch.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-247/skycrag-wyvarch",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

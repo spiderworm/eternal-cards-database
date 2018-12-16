@@ -1,9 +1,5 @@
 {
 	"eternalID": 25,
-	"set": {
-		"id": 1003,
-		"name": "Dead Reckoning"
-	},
 	"name": "Lethrai Skystrider",
 	"text": "When Lethrai Skystrider attacks, your attacking Elves get Flying this turn.; Elf Ally: Draw a spell from the top 4 cards of your deck. Discard the rest.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lethrai_Skystrider.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1003-25/lethrai-skystrider",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1003
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 262,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Sporefolk",
 	"text": "Summon: Discard the top five cards of your deck.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sporefolk.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-262/sporefolk",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

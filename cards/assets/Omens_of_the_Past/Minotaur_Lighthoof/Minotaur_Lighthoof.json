@@ -1,9 +1,5 @@
 {
 	"eternalID": 163,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Minotaur Lighthoof",
 	"text": "Summon: Another unit is Unblockable this turn.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Minotaur_Lighthoof.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-163/minotaur-lighthoof",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

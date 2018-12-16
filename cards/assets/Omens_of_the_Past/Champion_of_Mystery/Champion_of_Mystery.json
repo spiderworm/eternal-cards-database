@@ -1,9 +1,5 @@
 {
 	"eternalID": 213,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Champion of Mystery",
 	"text": "{T}{T}{T}{T}{T}{T}: When Champion of Mystery hits the enemy player, draw a card.; {S}{S}{S}{S}{S}{S}: Unblockable.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Champion_of_Mystery.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-213/champion-of-mystery",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

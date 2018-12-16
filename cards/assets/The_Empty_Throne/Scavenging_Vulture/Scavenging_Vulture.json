@@ -1,9 +1,5 @@
 {
 	"eternalID": 265,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Scavenging Vulture",
 	"text": "Flying; +1 Attack while you have a unit in your void.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Scavenging_Vulture.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-265/scavenging-vulture",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

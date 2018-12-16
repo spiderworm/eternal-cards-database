@@ -1,9 +1,5 @@
 {
 	"eternalID": 136,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Icequake",
 	"text": "Deal 3 damage to each unit and the enemy player.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Icequake.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-136/icequake",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

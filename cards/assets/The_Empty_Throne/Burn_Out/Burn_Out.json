@@ -1,9 +1,5 @@
 {
 	"eternalID": 28,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Burn Out",
 	"text": "Sacrifice a unit to deal 5 damage to an enemy.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Burn_Out.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-28/burn-out",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

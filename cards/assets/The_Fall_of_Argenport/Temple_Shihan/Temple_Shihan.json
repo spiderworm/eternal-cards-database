@@ -1,9 +1,5 @@
 {
 	"eternalID": 173,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Temple Shihan",
 	"text": "Inspire: Units you draw get Flying.; Summon: Play Inferiority Complex on an enemy unit.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Temple_Shihan.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-173/temple-shihan",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

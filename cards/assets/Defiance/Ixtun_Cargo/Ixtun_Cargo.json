@@ -1,9 +1,5 @@
 {
 	"eternalID": 227,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Ixtun Cargo",
 	"text": "Draw a Fire Sigil, Justice Sigil, or Primal Sigil from your deck.;Transmute {F}{F}{J}{J}{P}{P}: Ixtun Contraband.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ixtun_Cargo.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-227/ixtun-cargo",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

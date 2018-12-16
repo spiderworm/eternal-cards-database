@@ -1,9 +1,5 @@
 {
 	"eternalID": 69,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Ornamental Daggers",
 	"text": "Echo",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ornamental_Daggers.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-69/ornamental-daggers",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

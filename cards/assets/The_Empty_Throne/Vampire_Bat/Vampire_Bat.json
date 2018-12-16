@@ -1,9 +1,5 @@
 {
 	"eternalID": 33,
-	"set": {
-		"id": 0,
-		"name": "The Empty Throne"
-	},
 	"name": "Vampire Bat",
 	"text": "Flying, Lifesteal",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Vampire_Bat.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/0-33/vampire-bat",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 0
 }

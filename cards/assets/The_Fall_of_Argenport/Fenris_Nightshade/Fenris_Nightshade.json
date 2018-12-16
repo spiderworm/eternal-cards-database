@@ -1,9 +1,5 @@
 {
 	"eternalID": 204,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Fenris Nightshade",
 	"text": "Once per turn, you may pay 3 to draw a card. Fenris deals 3 damage to you and 1 damage to each cursed enemy.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Fenris_Nightshade.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-204/fenris-nightshade",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

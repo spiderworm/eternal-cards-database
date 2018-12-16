@@ -1,9 +1,5 @@
 {
 	"eternalID": 19,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Shiftstone Processor",
 	"text": "When a unit goes to your void, you get +1 power this turn.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Shiftstone_Processor.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-19/shiftstone-processor",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

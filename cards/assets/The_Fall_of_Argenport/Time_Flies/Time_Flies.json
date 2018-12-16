@@ -1,9 +1,5 @@
 {
 	"eternalID": 58,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Time Flies",
 	"text": "Flying; Each player has +2 Maximum Power.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Time_Flies.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-58/time-flies",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

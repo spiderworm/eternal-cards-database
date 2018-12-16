@@ -1,9 +1,5 @@
 {
 	"eternalID": 15,
-	"set": {
-		"id": 1003,
-		"name": "Dead Reckoning"
-	},
 	"name": "In Cold Blood",
 	"text": "Kill an enemy unit.; If it was {J}, the enemy player discards each copy from their hand and deck.; They can't leave the void. You lose all {J} influence.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/In_Cold_Blood.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1003-15/in-cold-blood",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1003
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 44,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "End of the Barrel",
 	"text": "Warp; +8 power this turn.; Tribute: +10 power this turn instead.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/End_of_the_Barrel.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-44/end-of-the-barrel",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

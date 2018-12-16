@@ -1,9 +1,5 @@
 {
 	"eternalID": 113,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Twinbrood Sauropod",
 	"text": "Echo",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Twinbrood_Sauropod.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-113/twinbrood-sauropod",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

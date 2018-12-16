@@ -1,9 +1,5 @@
 {
 	"eternalID": 194,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Mortar",
 	"text": "Deal 4 damage.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Mortar.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-194/mortar",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

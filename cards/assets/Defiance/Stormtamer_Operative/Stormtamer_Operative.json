@@ -1,9 +1,5 @@
 {
 	"eternalID": 118,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Stormtamer Operative",
 	"text": "All spells deal -1 damage.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Stormtamer_Operative.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-118/stormtamer-operative",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

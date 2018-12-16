@@ -1,9 +1,5 @@
 {
 	"eternalID": 85,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Shard of the Spire",
 	"text": "When you play a unit, its Attack/Health becomes the higher of the two.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Shard_of_the_Spire.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-85/shard-of-the-spire",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

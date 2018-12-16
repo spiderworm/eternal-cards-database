@@ -1,9 +1,5 @@
 {
 	"eternalID": 246,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Repulsive Gorger",
 	"text": "Summon: You may sacrifice another unit to give each enemy unit -1/-1.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Repulsive_Gorger.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-246/repulsive-gorger",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 35,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Forgeborn",
 	"text": "Overwhelm, Pledge;Pay 9 to give Forgeborn +2 Strength this turn for each of your units.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Forgeborn.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-35/forgeborn",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

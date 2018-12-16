@@ -1,9 +1,5 @@
 {
 	"eternalID": 7,
-	"set": {
-		"id": 1002,
-		"name": "The Tale of Horus Traver"
-	},
 	"name": "Copperhall Paladin",
 	"text": "Lifesteal; When you play a weapon on Copperhall Paladin, play a Justice Sigil from your deck Depleted",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Copperhall_Paladin.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1002-7/copperhall-paladin",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1002
 }

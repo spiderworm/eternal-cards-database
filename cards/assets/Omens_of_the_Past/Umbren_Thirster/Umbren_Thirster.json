@@ -1,9 +1,5 @@
 {
 	"eternalID": 165,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Umbren Thirster",
 	"text": "Lifeforce: When you gain health, Umbren Thirster gets +1 Attack and Flying.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Umbren_Thirster.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-165/umbren-thirster",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

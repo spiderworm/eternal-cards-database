@@ -1,9 +1,5 @@
 {
 	"eternalID": 316,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Crownwatch Deserter",
 	"text": "Warcry",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crownwatch_Deserter.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-316/crownwatch-deserter",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

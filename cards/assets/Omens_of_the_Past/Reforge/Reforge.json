@@ -1,9 +1,5 @@
 {
 	"eternalID": 23,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Reforge",
 	"text": "Draw a weapon from your void. It gets +2/+2.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Reforge.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-23/reforge",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

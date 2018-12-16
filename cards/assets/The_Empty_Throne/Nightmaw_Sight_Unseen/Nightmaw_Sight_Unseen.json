@@ -1,9 +1,5 @@
 {
 	"eternalID": 383,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Nightmaw, Sight Unseen",
 	"text": "Your units are Unblockable.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Nightmaw,_Sight_Unseen.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-383/nightmaw-sight-unseen",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

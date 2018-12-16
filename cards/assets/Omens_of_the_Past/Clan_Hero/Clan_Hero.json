@@ -1,9 +1,5 @@
 {
 	"eternalID": 190,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Clan Hero",
 	"text": "Spark: Play a +2 Attack Iron Sword on Clan Hero.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Clan_Hero.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-190/clan-hero",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

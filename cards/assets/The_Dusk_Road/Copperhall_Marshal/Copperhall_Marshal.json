@@ -1,9 +1,5 @@
 {
 	"eternalID": 114,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Copperhall Marshal",
 	"text": "Ultimate: When you play a weapon on Copperhall Marshal, stun an enemy unit.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Copperhall_Marshal.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-114/copperhall-marshal",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

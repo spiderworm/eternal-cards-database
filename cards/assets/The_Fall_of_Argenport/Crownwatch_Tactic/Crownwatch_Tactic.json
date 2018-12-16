@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Crownwatch Tactic",
 	"text": "Give a unit +3/+3 and Lifesteal this turn.",
 	"cost": 2,
@@ -13,5 +9,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crownwatch_Tactic.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/X_3etTrq1Jo/crownwatch-tactic",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 4
 }

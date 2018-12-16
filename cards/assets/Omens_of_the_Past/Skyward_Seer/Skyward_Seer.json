@@ -1,9 +1,5 @@
 {
 	"eternalID": 125,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Skyward Seer",
 	"text": "Spark: Draw a Flying unit of your choice from your deck.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Skyward_Seer.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-125/skyward-seer",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

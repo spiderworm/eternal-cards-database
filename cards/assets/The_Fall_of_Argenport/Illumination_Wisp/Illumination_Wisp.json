@@ -1,9 +1,5 @@
 {
 	"eternalID": 61,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Illumination Wisp",
 	"text": "Flying, Endurance",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Illumination_Wisp.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-61/illumination-wisp",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 36,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Welding Torch",
 	"text": "Spellcraft 3: Play Torch.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Welding_Torch.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-36/welding-torch",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

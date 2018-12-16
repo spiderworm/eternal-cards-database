@@ -1,9 +1,5 @@
 {
 	"eternalID": 232,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Transmogrifier",
 	"text": "Once per turn, you may pay 2 to give one of your units +3/-2.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Transmogrifier.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-232/transmogrifier",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

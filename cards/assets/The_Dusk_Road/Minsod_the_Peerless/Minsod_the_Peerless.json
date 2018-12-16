@@ -1,9 +1,5 @@
 {
 	"eternalID": 149,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Minsod, the Peerless",
 	"text": "Bond; Pay 4 to double Minsod's Attack and Health this turn.",
 	"cost": 8,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Minsod,_the_Peerless.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-149/minsod-the-peerless",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

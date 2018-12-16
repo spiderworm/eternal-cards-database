@@ -1,9 +1,5 @@
 {
 	"eternalID": 183,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Heart of the Vault",
 	"text": "Warp; Summon: Deal 2 damage to an enemy. Draw a card and reduce its cost by 2.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Heart_of_the_Vault.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-183/heart-of-the-vault",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

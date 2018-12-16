@@ -1,9 +1,5 @@
 {
 	"eternalID": 34,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Overheat",
 	"text": "Give a unit +5/+2 this turn.; Scout.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Overheat.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-34/overheat",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 9,
-	"set": {
-		"id": 0,
-		"name": "The Empty Throne"
-	},
 	"name": "Silence",
 	"text": "Silence a unit.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Silence.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/0-9/silence",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 0
 }

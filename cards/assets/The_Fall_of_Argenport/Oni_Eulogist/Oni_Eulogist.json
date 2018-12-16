@@ -1,9 +1,5 @@
 {
 	"eternalID": 23,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Oni Eulogist",
 	"text": "Tribute: +1/+1.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Oni_Eulogist.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-23/oni-eulogist",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

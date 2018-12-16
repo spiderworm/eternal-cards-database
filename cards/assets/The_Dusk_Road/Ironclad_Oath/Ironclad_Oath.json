@@ -1,9 +1,5 @@
 {
 	"eternalID": 129,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Ironclad Oath",
 	"text": "Give one of your units +4/+4 this turn.; You gain 1 Armor for each of your Valkyrie.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ironclad_Oath.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-129/ironclad-oath",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

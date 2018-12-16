@@ -1,9 +1,5 @@
 {
 	"eternalID": 121,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Reinforced Towershield",
 	"text": "Summon: Gain {T} or {S}.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Relic Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Reinforced_Towershield.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-121/reinforced-towershield",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

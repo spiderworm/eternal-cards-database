@@ -1,9 +1,5 @@
 {
 	"eternalID": 268,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Crest of Chaos",
 	"text": "Depleted; Gain {F}{S}.; Scout.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Power",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crest_of_Chaos.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-268/crest-of-chaos",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 395,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Warband Chieftain",
 	"text": "Entomb: Give one of your units +5 Attack.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Warband_Chieftain.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-395/warband-chieftain",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

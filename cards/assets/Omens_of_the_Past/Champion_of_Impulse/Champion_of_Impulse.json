@@ -1,9 +1,5 @@
 {
 	"eternalID": 173,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Champion of Impulse",
 	"text": "{F}{F}{F}: When Champion of Impulse attacks, you get +1 power this turn.;{T}{T}{T}: +2/+2.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Champion_of_Impulse.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-173/champion-of-impulse",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 170,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Sleepless Night",
 	"text": "Revenge; Discard your hand and draw four cards.",
 	"cost": 8,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sleepless_Night.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-170/sleepless-night",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

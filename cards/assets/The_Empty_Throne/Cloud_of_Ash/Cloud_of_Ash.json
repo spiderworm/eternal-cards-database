@@ -1,9 +1,5 @@
 {
 	"eternalID": 39,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Cloud of Ash",
 	"text": "Exhaust all enemy units.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cloud_of_Ash.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-39/cloud-of-ash",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

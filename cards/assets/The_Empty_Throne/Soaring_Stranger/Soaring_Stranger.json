@@ -1,9 +1,5 @@
 {
 	"eternalID": 229,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Soaring Stranger",
 	"text": "Strangers have Flying.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Soaring_Stranger.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-229/soaring-stranger",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

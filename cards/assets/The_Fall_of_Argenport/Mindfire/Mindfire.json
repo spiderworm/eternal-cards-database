@@ -1,9 +1,5 @@
 {
 	"eternalID": 6,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Mindfire",
 	"text": "Exhaust two enemy units.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Mindfire.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-6/mindfire",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

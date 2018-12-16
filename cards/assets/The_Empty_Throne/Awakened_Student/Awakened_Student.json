@@ -1,9 +1,5 @@
 {
 	"eternalID": 331,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Awakened Student",
 	"text": "Empower: +1/+1.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Awakened_Student.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-331/awakened-student",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

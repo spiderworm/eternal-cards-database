@@ -1,9 +1,5 @@
 {
 	"eternalID": 56,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Amaran Archaeologist",
 	"text": "Summon: Play a Sigil of your choice from your deck Depleted",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Amaran_Archaeologist.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-56/amaran-archaeologist",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

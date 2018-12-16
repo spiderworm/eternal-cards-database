@@ -1,9 +1,5 @@
 {
 	"eternalID": 248,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Nametaker",
 	"text": "When an enemy unit dies, the enemy player discards each copy from their hand and deck.",
 	"cost": 8,
@@ -14,5 +10,6 @@
 	"type": "Relic Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Nametaker.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-248/nametaker",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

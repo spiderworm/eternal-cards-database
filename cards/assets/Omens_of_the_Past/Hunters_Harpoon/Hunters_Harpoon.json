@@ -1,9 +1,5 @@
 {
 	"eternalID": 193,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Hunter's Harpoon",
 	"text": "Quickdraw; When the wielder hits the enemy player, draw a card.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hunter's_Harpoon.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-193/hunters-harpoon",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

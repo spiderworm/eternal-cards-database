@@ -1,9 +1,5 @@
 {
 	"eternalID": 115,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Cobalt Ring",
 	"text": "Once per turn, you may pay 3 to draw a card, then discard a card.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cobalt_Ring.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-115/cobalt-ring",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

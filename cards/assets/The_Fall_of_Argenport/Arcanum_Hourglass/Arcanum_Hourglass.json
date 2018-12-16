@@ -1,9 +1,5 @@
 {
 	"eternalID": 69,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Arcanum Hourglass",
 	"text": "At the start of your turn, play a random power card from your void.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Arcanum_Hourglass.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-69/arcanum-hourglass",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

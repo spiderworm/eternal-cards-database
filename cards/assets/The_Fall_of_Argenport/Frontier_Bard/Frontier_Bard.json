@@ -1,9 +1,5 @@
 {
 	"eternalID": 19,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Frontier Bard",
 	"text": "When one or more of your other units hit the enemy player, Frontier Bard gets +1 Attack.; Inspire: Units you draw get Overwhelm.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Frontier_Bard.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-19/frontier-bard",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

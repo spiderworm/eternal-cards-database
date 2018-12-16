@@ -1,9 +1,5 @@
 {
 	"eternalID": 196,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Towering Stranger",
 	"text": "Strangers have Overwhelm.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Towering_Stranger.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-196/towering-stranger",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

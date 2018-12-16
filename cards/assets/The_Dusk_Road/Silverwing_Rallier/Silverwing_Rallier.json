@@ -1,9 +1,5 @@
 {
 	"eternalID": 150,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Silverwing Rallier",
 	"text": "Flying, Bond; Entomb: Play a 2/2 Soldier.",
 	"cost": 9,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Silverwing_Rallier.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-150/silverwing-rallier",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 27,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Pit Fighter",
 	"text": "",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Pit_Fighter.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-27/pit-fighter",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

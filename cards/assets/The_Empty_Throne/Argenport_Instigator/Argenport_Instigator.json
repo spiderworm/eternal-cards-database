@@ -1,9 +1,5 @@
 {
 	"eternalID": 268,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Argenport Instigator",
 	"text": "When a unit dies, deal 1 damage to its owner.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Argenport_Instigator.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-268/argenport-instigator",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

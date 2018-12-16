@@ -1,9 +1,5 @@
 {
 	"eternalID": 4,
-	"set": {
-		"id": 1001,
-		"name": "Jekk’s Bounty"
-	},
 	"name": "Hibernating Behemoth",
 	"text": "Fate: Hibernating Behemoth gets +2/+2 and you gain 2 Health.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hibernating_Behemoth.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1001-4/hibernating-behemoth",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1001
 }

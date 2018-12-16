@@ -1,9 +1,5 @@
 {
 	"eternalID": 171,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Mithril Mace",
 	"text": "",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Relic Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Mithril_Mace.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-171/mithril-mace",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

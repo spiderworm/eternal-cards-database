@@ -1,9 +1,5 @@
 {
 	"eternalID": 21,
-	"set": {
-		"id": 1003,
-		"name": "Dead Reckoning"
-	},
 	"name": "Equivocate",
 	"text": "Put a unit into its owner's hand, then transform it into a random unit with the same cost.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Equivocate.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1003-21/equivocate",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1003
 }

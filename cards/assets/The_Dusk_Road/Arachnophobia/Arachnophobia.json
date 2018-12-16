@@ -1,9 +1,5 @@
 {
 	"eternalID": 203,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Arachnophobia",
 	"text": "Summon: Nightfall.; When the cursed unit dies, play a 1/1 Spider with Deadly.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Curse",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Arachnophobia.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-203/arachnophobia",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

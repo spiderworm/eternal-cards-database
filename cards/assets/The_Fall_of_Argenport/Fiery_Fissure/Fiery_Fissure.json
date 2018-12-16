@@ -1,9 +1,5 @@
 {
 	"eternalID": 38,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Fiery Fissure",
 	"text": "Deal 4 damage to an enemy.; Tribute: Overwhelm",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Fiery_Fissure.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-38/fiery-fissure",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

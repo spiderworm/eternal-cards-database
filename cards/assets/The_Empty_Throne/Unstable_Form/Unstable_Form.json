@@ -1,9 +1,5 @@
 {
 	"eternalID": 189,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Unstable Form",
 	"text": "Echo; Transform a unit into a random unit that costs 1 more.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Unstable_Form.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-189/unstable-form",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

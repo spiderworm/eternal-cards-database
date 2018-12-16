@@ -1,9 +1,5 @@
 {
 	"eternalID": 248,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Bleak Basin Guide",
 	"text": "Flying;Empower: +3/+3 this turn.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bleak_Basin_Guide.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-248/bleak-basin-guide",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

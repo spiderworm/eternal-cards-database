@@ -1,9 +1,5 @@
 {
 	"eternalID": 203,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Yeti Snowslinger",
 	"text": "Infiltrate: Create and draw a Snowball.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Yeti_Snowslinger.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-203/yeti-snowslinger",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

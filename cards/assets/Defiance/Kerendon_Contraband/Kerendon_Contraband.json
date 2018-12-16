@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Kerendon Contraband",
 	"text": "Choose between a random {T}, {J}, and {S} card to create and draw.",
 	"cost": 1,
@@ -13,5 +9,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Kerendon_Contraband.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/96nDPLpAPEA/kerendon-contraband",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 5
 }

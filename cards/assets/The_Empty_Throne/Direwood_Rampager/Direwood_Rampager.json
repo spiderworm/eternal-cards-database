@@ -1,9 +1,5 @@
 {
 	"eternalID": 301,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Direwood Rampager",
 	"cost": 6,
 	"influence": "{S}",
@@ -13,5 +9,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Direwood_Rampager.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-301/direwood-rampager",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

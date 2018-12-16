@@ -1,9 +1,5 @@
 {
 	"eternalID": 241,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Bereaved Stranger",
 	"text": "Strangers have Lifesteal.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bereaved_Stranger.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-241/bereaved-stranger",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

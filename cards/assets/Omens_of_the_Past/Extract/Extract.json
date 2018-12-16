@@ -1,9 +1,5 @@
 {
 	"eternalID": 155,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Extract",
 	"text": "Lifesteal; Deal 3 damage.; Scout.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Extract.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-155/extract",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 148,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Shiver",
 	"text": "Nightfall.; Deal 2 damage to an exhausted unit.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Shiver.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-148/shiver",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

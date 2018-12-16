@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Inferiority Complex",
 	"text": "The cursed unit is Reckless.",
 	"cost": 1,
@@ -13,5 +9,6 @@
 	"type": "Curse",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Inferiority_Complex.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/iAz_JlZBDu8/inferiority-complex",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 4
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 522,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Alpine Tracker",
 	"text": "Charge;\r\nSummon: Deal 1 damage to each other unit and each player.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Alpine_Tracker.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-522/alpine-tracker",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

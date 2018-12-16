@@ -1,9 +1,5 @@
 {
 	"eternalID": 152,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Eilyn's Intervention",
 	"text": "- Deal 3 damage to an enemy unit with Flying, or; - Negate a 3-cost enemy spell, or; - Your Yeti get +3 Health this turn.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Eilyn's_Intervention.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-152/eilyns-intervention",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 122,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Pillar of Amar",
 	"text": "Empower: Play a 5/5 Sentinel.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Pillar_of_Amar.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-122/pillar-of-amar",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

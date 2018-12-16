@@ -1,9 +1,5 @@
 {
 	"eternalID": 358,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Champion of Wisdom",
 	"text": "{T}{T}{T}{T}: +2/+2.; {P}{P}{P}{P}: Flying.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Champion_of_Wisdom.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-358/champion-of-wisdom",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 164,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Obrak, the Feaster",
 	"text": "Flying, Revenge; At the start of your turn, sacrifice a unit.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Obrak,_the_Feaster.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-164/obrak-the-feaster",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

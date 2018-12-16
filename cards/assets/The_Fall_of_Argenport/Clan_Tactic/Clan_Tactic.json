@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Clan Tactic",
 	"text": "Deal 5 damage to an attacking enemy.",
 	"cost": 2,
@@ -13,5 +9,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Clan_Tactic.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/O_AqFRLmjbQ/clan-tactic",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 4
 }

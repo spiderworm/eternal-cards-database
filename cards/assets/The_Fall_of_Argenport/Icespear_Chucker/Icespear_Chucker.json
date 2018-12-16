@@ -1,9 +1,5 @@
 {
 	"eternalID": 176,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Icespear Chucker",
 	"text": "When you play a spell, Icespear Chucker deals 1 damage to the enemy player.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Icespear_Chucker.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-176/icespear-chucker",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

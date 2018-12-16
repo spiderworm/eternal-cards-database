@@ -1,9 +1,5 @@
 {
 	"eternalID": 274,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Plague",
 	"text": "Enemy units get -1/-1.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Plague.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-274/plague",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

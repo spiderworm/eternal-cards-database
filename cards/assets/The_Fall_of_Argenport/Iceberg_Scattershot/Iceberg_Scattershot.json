@@ -1,9 +1,5 @@
 {
 	"eternalID": 32,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Iceberg Scattershot",
 	"text": "When you play a unit (including Iceberg Scattershot), it deals 1 damage to the enemy player.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Iceberg_Scattershot.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-32/iceberg-scattershot",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

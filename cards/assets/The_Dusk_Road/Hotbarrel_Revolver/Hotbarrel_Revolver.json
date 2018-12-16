@@ -1,9 +1,5 @@
 {
 	"eternalID": 34,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Hotbarrel Revolver",
 	"text": "Summon: The wielder deals 3 damage to a random enemy. If played on a Gunslinger, you choose the enemy instead.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hotbarrel_Revolver.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-34/hotbarrel-revolver",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

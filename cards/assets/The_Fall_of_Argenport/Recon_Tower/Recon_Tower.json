@@ -1,9 +1,5 @@
 {
 	"eternalID": 275,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Recon Tower",
 	"text": "Once per turn, you may pay 3 to draw a Sigil of your choice from your deck.; After the third use, sacrifice Recon Tower to play a Guard Tower.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Recon_Tower.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-275/recon-tower",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

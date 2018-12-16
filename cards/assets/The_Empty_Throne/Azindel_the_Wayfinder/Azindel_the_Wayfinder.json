@@ -1,9 +1,5 @@
 {
 	"eternalID": 518,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Azindel, the Wayfinder",
 	"text": "+1 Maximum Power.;When another unit enters a void, +1 Maximum Power.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Azindel,_the_Wayfinder.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-518/azindel-the-wayfinder",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

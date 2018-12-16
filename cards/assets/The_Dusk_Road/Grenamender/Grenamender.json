@@ -1,9 +1,5 @@
 {
 	"eternalID": 204,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Grenamender",
 	"text": "Entomb: You gain 3 Health.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Grenamender.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-204/grenamender",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

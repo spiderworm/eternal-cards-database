@@ -1,9 +1,5 @@
 {
 	"eternalID": 248,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Praxis Stranger",
 	"text": "Summon: Gain {F}{T}.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Praxis_Stranger.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-248/praxis-stranger",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

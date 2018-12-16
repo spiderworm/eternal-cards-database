@@ -1,9 +1,5 @@
 {
 	"eternalID": 262,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Deepwood Ranger",
 	"text": "Summon: Deepwood Ranger gets +2/+2 for each of your units with two or more battle skills.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Deepwood_Ranger.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-262/deepwood-ranger",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

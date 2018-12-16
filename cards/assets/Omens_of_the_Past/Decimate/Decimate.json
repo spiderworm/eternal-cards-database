@@ -1,9 +1,5 @@
 {
 	"eternalID": 200,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Decimate",
 	"text": "Deal 10 damage.; Decimate can't be negated or blocked by Aegis",
 	"cost": 10,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Decimate.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-200/decimate",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

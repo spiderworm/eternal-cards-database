@@ -1,9 +1,5 @@
 {
 	"eternalID": 98,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Rolant's Fist",
 	"text": "Summon: Silence all enemy Valkyrie.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rolant's_Fist.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-98/rolants-fist",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

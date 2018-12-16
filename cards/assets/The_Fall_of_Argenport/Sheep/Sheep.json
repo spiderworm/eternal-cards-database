@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Sheep",
 	"cost": 0,
 	"influence": "{P}",
@@ -12,5 +8,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sheep.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/trrSAzCudyg/sheep",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 4
 }

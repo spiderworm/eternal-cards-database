@@ -1,9 +1,5 @@
 {
 	"eternalID": 237,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Hatchery Hunter",
 	"text": "Summon: Transform all cards in your hand into 3/3 Sky Serpents with Flying.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hatchery_Hunter.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-237/hatchery-hunter",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

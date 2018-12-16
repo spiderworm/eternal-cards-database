@@ -1,9 +1,5 @@
 {
 	"eternalID": 24,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Ruckus Rouser",
 	"text": "Renown: You get power this turn equal to double the cost of that spell or weapon.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ruckus_Rouser.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-24/ruckus-rouser",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

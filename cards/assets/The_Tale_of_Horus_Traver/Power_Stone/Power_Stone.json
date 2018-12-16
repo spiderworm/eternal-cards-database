@@ -1,9 +1,5 @@
 {
 	"eternalID": 4,
-	"set": {
-		"id": 1002,
-		"name": "The Tale of Horus Traver"
-	},
 	"name": "Power Stone",
 	"text": "+1 Maximum Power.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Power_Stone.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1002-4/power-stone",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1002
 }

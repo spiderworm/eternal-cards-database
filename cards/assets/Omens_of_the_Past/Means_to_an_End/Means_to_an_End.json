@@ -1,9 +1,5 @@
 {
 	"eternalID": 154,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Means to an End",
 	"text": "Lifeforce: When you gain Health, discard that many cards from your deck. Then, if you have no cards in your deck, sacrifice Means to an End to deal 25 damage to the enemy player.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Means_to_an_End.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-154/means-to-an-end",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 20,
-	"set": {
-		"id": 1003,
-		"name": "Dead Reckoning"
-	},
 	"name": "Jaril, Amaran Ghostblade",
 	"text": "Ultimate: Pay 5 to double the Attack/Health of one of your units wielding a weapon.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Jaril,_Amaran_Ghostblade.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1003-20/jaril-amaran-ghostblade",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1003
 }

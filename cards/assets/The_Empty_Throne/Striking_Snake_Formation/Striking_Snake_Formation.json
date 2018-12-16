@@ -1,9 +1,5 @@
 {
 	"eternalID": 112,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Striking Snake Formation",
 	"text": "All of your units get Killer.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Striking_Snake_Formation.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-112/striking-snake-formation",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

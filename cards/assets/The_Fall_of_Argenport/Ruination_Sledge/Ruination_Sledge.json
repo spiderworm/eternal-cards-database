@@ -1,9 +1,5 @@
 {
 	"eternalID": 14,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Ruination Sledge",
 	"text": "Spellcraft 3: Play Ruin.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ruination_Sledge.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-14/ruination-sledge",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

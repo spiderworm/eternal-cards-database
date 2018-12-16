@@ -1,9 +1,5 @@
 {
 	"eternalID": 84,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Fall Short",
 	"text": "Kill an enemy unit without battle skills.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Fall_Short.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-84/fall-short",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

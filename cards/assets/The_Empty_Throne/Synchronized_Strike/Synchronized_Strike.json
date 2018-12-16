@@ -1,9 +1,5 @@
 {
 	"eternalID": 88,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Synchronized Strike",
 	"text": "Give your units +1/+1 this turn.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Synchronized_Strike.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-88/synchronized-strike",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 226,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Duelist's Blade",
 	"text": "Summon: You gain an Aegis.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Relic Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Duelist's_Blade.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-226/duelists-blade",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

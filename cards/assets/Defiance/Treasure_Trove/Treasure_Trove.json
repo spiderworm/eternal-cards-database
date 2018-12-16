@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Treasure Trove",
 	"text": "Draw a card.",
 	"cost": 2,
@@ -13,5 +9,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Treasure_Trove.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/OHfpMaHTolU/treasure-trove",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

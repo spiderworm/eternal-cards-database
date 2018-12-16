@@ -1,9 +1,5 @@
 {
 	"eternalID": 14,
-	"set": {
-		"id": 1002,
-		"name": "The Tale of Horus Traver"
-	},
 	"name": "Sadistic Valkyrie",
 	"text": "Flying; Lifeforce: When you gain Health, Sadistic Valkyrie gets Lifesteal.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sadistic_Valkyrie.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1002-14/sadistic-valkyrie",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1002
 }

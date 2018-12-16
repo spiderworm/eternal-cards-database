@@ -1,9 +1,5 @@
 {
 	"eternalID": 41,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Wildfire Censari",
 	"text": "When you play a spell, Wildfire Censari gets +1/+1 and Quickdraw this turn.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Wildfire_Censari.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-41/wildfire-censari",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

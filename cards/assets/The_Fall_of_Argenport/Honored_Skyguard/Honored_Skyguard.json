@@ -1,9 +1,5 @@
 {
 	"eternalID": 155,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Honored Skyguard",
 	"text": "Flying; Ultimate: Pay 2 and discard a card to give Honored Skyguard +1/+1 and draw a card.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Honored_Skyguard.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-155/honored-skyguard",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 32,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Flamestoker",
 	"text": "At the start of your turn, play an Infernus.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Flamestoker.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-32/flamestoker",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

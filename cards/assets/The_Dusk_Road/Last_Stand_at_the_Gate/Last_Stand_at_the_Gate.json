@@ -1,9 +1,5 @@
 {
 	"eternalID": 148,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Last Stand at the Gate",
 	"text": "Play three 2/3 Treasury Guards and a 6/6 Gilded Hammer.; Your Health becomes 1.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Last_Stand_at_the_Gate.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-148/last-stand-at-the-gate",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 367,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Strength of the Pack",
 	"text": "Give a unit +3/+3, then play a copy of it.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Strength_of_the_Pack.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-367/strength-of-the-pack",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

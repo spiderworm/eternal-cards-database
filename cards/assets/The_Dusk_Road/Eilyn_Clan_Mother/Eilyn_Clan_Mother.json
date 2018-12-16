@@ -1,9 +1,5 @@
 {
 	"eternalID": 263,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Eilyn, Clan Mother",
 	"text": "Flying, Endurance; Summon: Silence two enemy units.; Ultimate: Pay 8 to give Eilyn +2/+2.; She deals 6 damage to each enemy unit without a battle skill.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Eilyn,_Clan_Mother.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-263/eilyn-clan-mother",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

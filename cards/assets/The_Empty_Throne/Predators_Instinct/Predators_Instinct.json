@@ -1,9 +1,5 @@
 {
 	"eternalID": 75,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Predator's Instinct",
 	"text": "Give a unit Killer.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Predator's_Instinct.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-75/predators-instinct",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

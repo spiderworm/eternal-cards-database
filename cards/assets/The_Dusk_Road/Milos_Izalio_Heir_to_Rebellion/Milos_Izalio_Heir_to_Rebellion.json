@@ -1,9 +1,5 @@
 {
 	"eternalID": 19,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Milos Izalio, Heir to Rebellion",
 	"text": "When Milos attacks while wielding a weapon, you get +2 power this turn.; Gunslinger Ally: Double Damage",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Milos_Izalio,_Heir_to_Rebellion.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-19/milos-izalio-heir-to-rebellion",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

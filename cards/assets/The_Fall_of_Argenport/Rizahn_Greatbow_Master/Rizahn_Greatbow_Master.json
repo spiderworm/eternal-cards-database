@@ -1,9 +1,5 @@
 {
 	"eternalID": 246,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Rizahn, Greatbow Master",
 	"text": "Flying, Reckless; Lifesteal while you have three or more spells in your void.; Summon: Deal 3 damage to an enemy.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rizahn,_Greatbow_Master.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-246/rizahn-greatbow-master",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

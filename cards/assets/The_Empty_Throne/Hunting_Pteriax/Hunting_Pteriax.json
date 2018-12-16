@@ -1,9 +1,5 @@
 {
 	"eternalID": 363,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Hunting Pteriax",
 	"text": "Flying, Ambush",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hunting_Pteriax.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-363/hunting-pteriax",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

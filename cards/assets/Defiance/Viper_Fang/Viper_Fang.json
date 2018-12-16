@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Viper Fang",
 	"text": "Deadly",
 	"cost": 2,
@@ -13,5 +9,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Viper_Fang.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/Ao-eu4kcYys/viper-fang",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 5
 }

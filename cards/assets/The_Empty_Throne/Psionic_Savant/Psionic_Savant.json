@@ -1,9 +1,5 @@
 {
 	"eternalID": 360,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Psionic Savant",
 	"text": "Flying; When you draw a card, Psionic Savant gets +1/+1.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Psionic_Savant.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-360/psionic-savant",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 6,
-	"set": {
-		"id": 1003,
-		"name": "Dead Reckoning"
-	},
 	"name": "Bury the Past",
 	"text": "Put a unit or relic on the bottom of its owner's deck.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bury_the_Past.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1003-6/bury-the-past",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1003
 }

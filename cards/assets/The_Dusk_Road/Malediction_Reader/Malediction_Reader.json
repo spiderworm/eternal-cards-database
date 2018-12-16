@@ -1,9 +1,5 @@
 {
 	"eternalID": 242,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Malediction Reader",
 	"text": "Flying; When you play a curse, deal 2 damage to the enemy player and you gain 2 Health.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Malediction_Reader.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-242/malediction-reader",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

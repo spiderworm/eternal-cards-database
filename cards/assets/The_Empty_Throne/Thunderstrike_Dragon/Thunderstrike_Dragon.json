@@ -1,9 +1,5 @@
 {
 	"eternalID": 243,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Thunderstrike Dragon",
 	"text": "Flying, Echo",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Thunderstrike_Dragon.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-243/thunderstrike-dragon",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

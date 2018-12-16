@@ -1,9 +1,5 @@
 {
 	"eternalID": 249,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Reunite",
 	"text": "Draw a Stranger of your choice from your deck.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Reunite.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-249/reunite",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

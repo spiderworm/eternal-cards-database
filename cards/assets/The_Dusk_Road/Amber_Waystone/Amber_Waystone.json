@@ -1,9 +1,5 @@
 {
 	"eternalID": 51,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Amber Waystone",
 	"text": "Gain {T}, then if you have {T}{T}{T}{T}, you gain 2 Health.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Power",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Amber_Waystone.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-51/amber-waystone",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

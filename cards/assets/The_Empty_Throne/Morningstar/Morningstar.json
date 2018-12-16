@@ -1,9 +1,5 @@
 {
 	"eternalID": 510,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Morningstar",
 	"text": "Overwhelm",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Morningstar.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-510/morningstar",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

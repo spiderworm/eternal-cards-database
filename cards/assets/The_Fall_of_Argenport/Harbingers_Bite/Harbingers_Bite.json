@@ -1,9 +1,5 @@
 {
 	"eternalID": 194,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Harbinger's Bite",
 	"text": "Lifesteal; Nightfall.; Deal 2 damage to the enemy player.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Harbinger's_Bite.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-194/harbingers-bite",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 52,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Awaken the Ages",
 	"text": "Play a random Sigil from your deck Depleted.\nAmplify 3: Play an additional Sigil from your deck Depleted.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Awaken_the_Ages.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-52/awaken-the-ages",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

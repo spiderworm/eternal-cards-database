@@ -1,9 +1,5 @@
 {
 	"eternalID": 221,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Rain of Frogs",
 	"text": "Choose a non-power card from the enemy player's hand. Transform each copy in their hand, deck, and void into 1/1 Frogs with Destiny.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rain_of_Frogs.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-221/rain-of-frogs",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

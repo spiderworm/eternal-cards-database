@@ -1,9 +1,5 @@
 {
 	"eternalID": 78,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Copperhall Cudgel",
 	"text": "When the wielder dies, play a 2/2 Minotaur.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Copperhall_Cudgel.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-78/copperhall-cudgel",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

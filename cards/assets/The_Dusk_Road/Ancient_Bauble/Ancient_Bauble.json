@@ -1,9 +1,5 @@
 {
 	"eternalID": 54,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Ancient Bauble",
 	"text": "Once per turn, you may pay 1 to gain 1 Health.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ancient_Bauble.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-54/ancient-bauble",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

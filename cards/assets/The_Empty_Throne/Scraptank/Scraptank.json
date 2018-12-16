@@ -1,9 +1,5 @@
 {
 	"eternalID": 391,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Scraptank",
 	"text": "Summon: Play two 1/1 Grenadin.; When one of your other units dies, Scraptank gets +2/+2.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Scraptank.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-391/scraptank",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

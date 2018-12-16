@@ -1,9 +1,5 @@
 {
 	"eternalID": 234,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Bartholo, the Seducer",
 	"text": "Aegis, Unblockable; Ultimate: Pay 7 to draw a relic of your choice from your deck.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bartholo,_the_Seducer.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-234/bartholo-the-seducer",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

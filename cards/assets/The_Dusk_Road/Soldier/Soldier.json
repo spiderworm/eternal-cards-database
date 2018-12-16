@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Soldier",
 	"text": "",
 	"cost": 2,
@@ -13,5 +9,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Soldier.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/H4nA11tLpwg/soldier",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 3
 }

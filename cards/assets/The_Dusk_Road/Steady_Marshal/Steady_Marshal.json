@@ -1,9 +1,5 @@
 {
 	"eternalID": 105,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Steady Marshal",
 	"text": "Gunslinger Ally: Play a +1/+1 weapon on Steady Marshal.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Steady_Marshal.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-105/steady-marshal",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

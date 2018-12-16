@@ -1,9 +1,5 @@
 {
 	"eternalID": 5,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Grenadin Drone",
 	"text": "Summon: Play a 1/1 Grenadin",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Grenadin_Drone.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-5/grenadin-drone",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

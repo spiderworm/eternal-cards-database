@@ -1,9 +1,5 @@
 {
 	"eternalID": 125,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Gilded Glaive",
 	"text": "Empower: +2/+2 this turn.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Gilded_Glaive.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-125/gilded-glaive",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

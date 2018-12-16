@@ -1,9 +1,5 @@
 {
 	"eternalID": 51,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Bolster",
 	"text": "You and your units get +2 Health.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bolster.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-51/bolster",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

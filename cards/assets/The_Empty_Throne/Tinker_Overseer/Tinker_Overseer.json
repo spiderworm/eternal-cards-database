@@ -1,9 +1,5 @@
 {
 	"eternalID": 138,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Tinker Overseer",
 	"text": "Flying; When you play a relic, Tinker Overseer gets +1/+1.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Tinker_Overseer.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-138/tinker-overseer",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

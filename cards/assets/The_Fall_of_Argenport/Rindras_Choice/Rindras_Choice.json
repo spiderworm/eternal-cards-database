@@ -1,9 +1,5 @@
 {
 	"eternalID": 261,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Rindra's Choice",
 	"text": "- Kill an enemy unit with more than one faction, or; - Negate an enemy spell with more than one faction.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rindra's_Choice.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-261/rindras-choice",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

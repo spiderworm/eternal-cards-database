@@ -1,9 +1,5 @@
 {
 	"eternalID": 36,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Guerrilla Fighter",
 	"text": "Warcry; Summon: Exhaust an enemy unit.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Guerrilla_Fighter.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-36/guerrilla-fighter",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

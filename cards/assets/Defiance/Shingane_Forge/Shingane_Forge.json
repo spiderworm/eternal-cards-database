@@ -1,9 +1,5 @@
 {
 	"eternalID": 31,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Shingane Forge",
 	"text": "When you play a unit, create and draw a +2/+1 weapon.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Shingane_Forge.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-31/shingane-forge",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

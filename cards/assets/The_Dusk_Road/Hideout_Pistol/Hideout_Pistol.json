@@ -1,9 +1,5 @@
 {
 	"eternalID": 215,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Hideout Pistol",
 	"text": "Summon: If played on a Gunslinger, kill an enemy unit with less Attack than the wielder.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hideout_Pistol.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-215/hideout-pistol",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

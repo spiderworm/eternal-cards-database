@@ -1,9 +1,5 @@
 {
 	"eternalID": 250,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Skycrag Stranger",
 	"text": "Summon: Gain {F}{P}",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Skycrag_Stranger.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-250/skycrag-stranger",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

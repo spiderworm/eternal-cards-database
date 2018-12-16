@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Jennev Contraband",
 	"text": "Choose between a random {F}, {T}, and {P} card to create and draw.",
 	"cost": 1,
@@ -13,5 +9,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Jennev_Contraband.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/KID0Y5n6iD4/jennev-contraband",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 5
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 169,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Crownwatch Cavalry",
 	"text": "Summon: Give one of your other units Crownwatch Cavalry's Attack / Health.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crownwatch_Cavalry.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-169/crownwatch-cavalry",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

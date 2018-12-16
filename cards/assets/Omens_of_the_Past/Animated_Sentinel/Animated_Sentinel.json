@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Animated Sentinel",
 	"cost": 0,
 	"influence": "",
@@ -12,5 +8,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Animated_Sentinel.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/nIUxb1_LtCY/animated-sentinel",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 2
 }

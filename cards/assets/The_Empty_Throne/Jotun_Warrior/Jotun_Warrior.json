@@ -1,9 +1,5 @@
 {
 	"eternalID": 226,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Jotun Warrior",
 	"text": "",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Jotun_Warrior.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-226/jotun-warrior",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

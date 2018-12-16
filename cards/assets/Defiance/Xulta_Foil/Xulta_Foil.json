@@ -1,9 +1,5 @@
 {
 	"eternalID": 101,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Xulta Foil",
 	"text": "When the wielder dies, play a 2/2 Exile with Aegis and Endurance for each weapon it was wielding.;Summon: Silence an enemy unit.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Xulta_Foil.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-101/xulta-foil",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

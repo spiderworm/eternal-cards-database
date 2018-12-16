@@ -1,9 +1,5 @@
 {
 	"eternalID": 153,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Dusk Raider",
 	"text": "Inspire: Units you draw get Berserk.; Summon: Nightfall.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Dusk_Raider.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-153/dusk-raider",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

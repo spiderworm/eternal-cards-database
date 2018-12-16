@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Monk",
 	"text": "Endurance",
 	"cost": 2,
@@ -13,5 +9,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Monk.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/_Bbe8lVp7V8/monk",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 4
 }

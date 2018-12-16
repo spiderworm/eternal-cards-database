@@ -1,9 +1,5 @@
 {
 	"eternalID": 58,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Crowd Favorite",
 	"text": "Summon: Choose a weapon with cost 3 or less from your deck and play it.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crowd_Favorite.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-58/crowd-favorite",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 220,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Jarrall's Frostkin",
 	"text": "Summon: Stun an enemy unit.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Jarrall's_Frostkin.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-220/jarralls-frostkin",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

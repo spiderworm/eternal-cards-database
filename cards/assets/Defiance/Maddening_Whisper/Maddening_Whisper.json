@@ -1,9 +1,5 @@
 {
 	"eternalID": 59,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Maddening Whisper",
 	"text": "Put an enemy unit into its owner's hand.\nAmplify 2: Put an additional enemy unit into its owner's hand.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Maddening_Whisper.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-59/maddening-whisper",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

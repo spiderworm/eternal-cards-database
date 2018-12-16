@@ -1,9 +1,5 @@
 {
 	"eternalID": 315,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Sword of Icaria",
 	"text": "Warcry",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Relic Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sword_of_Icaria.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-315/sword-of-icaria",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

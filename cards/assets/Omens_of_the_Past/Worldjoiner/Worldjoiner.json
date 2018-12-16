@@ -1,9 +1,5 @@
 {
 	"eternalID": 215,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Worldjoiner",
 	"text": "When Worldjoiner attacks, each enemy unit gets -1/-1 and she gets that much Attack/Health.",
 	"cost": 9,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Worldjoiner.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-215/worldjoiner",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

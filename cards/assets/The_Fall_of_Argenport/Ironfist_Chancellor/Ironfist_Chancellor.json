@@ -1,9 +1,5 @@
 {
 	"eternalID": 108,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Ironfist Chancellor",
 	"text": "Pay 5 to play a 2/2 Soldier with a copy of each weapon on Ironfist Chancellor.; Tribute: Pay a +2/+2 Longsword on Ironfist Chancellor.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ironfist_Chancellor.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-108/ironfist-chancellor",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 2,
-	"set": {
-		"id": 1001,
-		"name": "Jekk’s Bounty"
-	},
 	"name": "Bait",
 	"text": "Entomb: Play a 7/7 Steelbound Dragon with Flying and Overwhelm",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bait.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1001-2/bait",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1001
 }

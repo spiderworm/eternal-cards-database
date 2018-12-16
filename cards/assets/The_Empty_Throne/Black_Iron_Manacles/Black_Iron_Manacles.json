@@ -1,9 +1,5 @@
 {
 	"eternalID": 388,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Black Iron Manacles",
 	"text": "At the end of each turn, deal 1 damage to the cursed player for each card that player drew or discarded this turn.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Cursed Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Black_Iron_Manacles.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-388/black-iron-manacles",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

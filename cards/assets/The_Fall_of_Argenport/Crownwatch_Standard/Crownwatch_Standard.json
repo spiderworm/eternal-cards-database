@@ -1,9 +1,5 @@
 {
 	"eternalID": 97,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Crownwatch Standard",
 	"text": "Depleted; Gain {J}.; Transmute 5: Crownwatch Tactic.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Power",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crownwatch_Standard.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-97/crownwatch-standard",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

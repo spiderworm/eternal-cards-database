@@ -1,9 +1,5 @@
 {
 	"eternalID": 53,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Snapping Brushstalker",
 	"text": "When an enemy spell is played, put Snapping Brushstalker into your hand.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Snapping_Brushstalker.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-53/snapping-brushstalker",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

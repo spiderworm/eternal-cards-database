@@ -1,9 +1,5 @@
 {
 	"eternalID": 211,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Thief's Pick",
 	"text": "Unblockable; Spellcraft 3: Play Pilfer.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Thief's_Pick.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-211/thiefs-pick",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

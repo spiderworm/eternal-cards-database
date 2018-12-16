@@ -1,9 +1,5 @@
 {
 	"eternalID": 236,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Slay",
 	"text": "Kill a unit.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Slay.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-236/slay",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

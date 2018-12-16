@@ -1,9 +1,5 @@
 {
 	"eternalID": 96,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Scorpion Wasp",
 	"text": "Flying, Deadly, Ambush",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Scorpion_Wasp.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-96/scorpion-wasp",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

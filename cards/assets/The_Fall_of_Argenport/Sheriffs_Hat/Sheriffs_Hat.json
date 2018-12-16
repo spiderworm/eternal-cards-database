@@ -1,9 +1,5 @@
 {
 	"eternalID": 132,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Sheriff's Hat",
 	"text": "Spellcraft 2: Play Detain.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sheriff's_Hat.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-132/sheriffs-hat",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

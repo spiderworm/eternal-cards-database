@@ -1,9 +1,5 @@
 {
 	"eternalID": 163,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Armorsmith",
 	"text": "Summon: You gain 2 Armor. Free if you already have 2 Armor or more.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Armorsmith.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-163/armorsmith",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

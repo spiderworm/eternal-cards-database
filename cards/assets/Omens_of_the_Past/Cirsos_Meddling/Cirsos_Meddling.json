@@ -1,9 +1,5 @@
 {
 	"eternalID": 132,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Cirso's Meddling",
 	"text": "Transform a unit into a 2/2 pig.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cirso's_Meddling.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-132/cirsos-meddling",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

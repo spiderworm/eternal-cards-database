@@ -1,9 +1,5 @@
 {
 	"eternalID": 411,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Rakano Stranger",
 	"text": "Summon: You gain {F}{J}.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rakano_Stranger.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-411/rakano-stranger",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

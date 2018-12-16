@@ -1,9 +1,5 @@
 {
 	"eternalID": 35,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Scalechannel Sorcerer",
 	"text": "When you play a spell, Scalechannel Sorcerer gets +2 Attack this turn.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Scalechannel_Sorcerer.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-35/scalechannel-sorcerer",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

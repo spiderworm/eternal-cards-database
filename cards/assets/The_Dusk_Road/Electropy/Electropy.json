@@ -1,9 +1,5 @@
 {
 	"eternalID": 171,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Electropy",
 	"text": "At the end of the cursed unit's turn, it deals 1 damage to its owner.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Curse",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Electropy.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-171/electropy",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

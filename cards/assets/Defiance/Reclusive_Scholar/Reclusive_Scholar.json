@@ -1,9 +1,5 @@
 {
 	"eternalID": 138,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Reclusive Scholar",
 	"text": "Renown: Play a Cobalt Ring.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Reclusive_Scholar.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-138/reclusive-scholar",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

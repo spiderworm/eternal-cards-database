@@ -1,9 +1,5 @@
 {
 	"eternalID": 104,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Arcane Defense",
 	"text": "Give two enemy units -1 Attack this turn.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Arcane_Defense.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-104/arcane-defense",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

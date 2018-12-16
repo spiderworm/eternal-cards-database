@@ -1,9 +1,5 @@
 {
 	"eternalID": 328,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Starsteel Daisho",
 	"text": "Your avatar can attack twice each turn.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Relic Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Starsteel_Daisho.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-328/starsteel-daisho",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 184,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Sandglass Sentinel",
 	"text": "Overwhelm; When you play a spell, Sandglass Sentinel gets +4 Attack this turn.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sandglass_Sentinel.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-184/sandglass-sentinel",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

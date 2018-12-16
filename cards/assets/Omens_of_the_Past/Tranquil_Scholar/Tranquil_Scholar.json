@@ -1,9 +1,5 @@
 {
 	"eternalID": 76,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Tranquil Scholar",
 	"text": "Summon: Tranquil Scholar gets a random battle skill. Then, you may give a unit in your hand that battle skill.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Tranquil_Scholar.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-76/tranquil-scholar",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

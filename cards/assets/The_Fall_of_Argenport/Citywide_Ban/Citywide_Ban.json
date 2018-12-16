@@ -1,9 +1,5 @@
 {
 	"eternalID": 127,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Citywide Ban",
 	"text": "Summon: Choose one of the four highest cost cards in the enemy deck. The cursed player can't play cards with that name.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Cursed Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Citywide_Ban.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-127/citywide-ban",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

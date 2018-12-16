@@ -1,9 +1,5 @@
 {
 	"eternalID": 22,
-	"set": {
-		"id": 1004,
-		"name": "Into Shadow"
-	},
 	"name": "Enemy of My Enemy",
 	"text": "Create and draw a random Warrior, Paladin, and Dragon.; Enemy of My Enemy costs 4 less if you have Kaleb and 4 less if you have Eilyn.",
 	"cost": 8,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Enemy_of_My_Enemy.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1004-22/enemy-of-my-enemy",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1004
 }

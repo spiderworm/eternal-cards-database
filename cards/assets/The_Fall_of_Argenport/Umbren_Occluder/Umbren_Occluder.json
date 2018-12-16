@@ -1,9 +1,5 @@
 {
 	"eternalID": 240,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Umbren Occluder",
 	"text": "Flying, Ambush; Tribute: The enemy player discards the top 13 cards of their deck.",
 	"cost": 8,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Umbren_Occluder.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-240/umbren-occluder",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

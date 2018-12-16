@@ -1,9 +1,5 @@
 {
 	"eternalID": 155,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Weary Spiteling",
 	"text": "Entomb: +2/+2 and Flying.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Weary_Spiteling.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-155/weary-spiteling",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

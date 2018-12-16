@@ -1,9 +1,5 @@
 {
 	"eternalID": 276,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Disrupt",
 	"text": "- Kill an enemy relic, or; - Silence an enemy unit.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Disrupt.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-276/disrupt",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

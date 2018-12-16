@@ -1,9 +1,5 @@
 {
 	"eternalID": 74,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Talon of Nostrix",
 	"text": "",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Relic Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Talon_of_Nostrix.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-74/talon-of-nostrix",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

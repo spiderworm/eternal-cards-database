@@ -1,9 +1,5 @@
 {
 	"eternalID": 221,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Umbren Deathwatcher",
 	"text": "+1/+1 for each unit in your void.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Umbren_Deathwatcher.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-221/umbren-deathwatcher",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

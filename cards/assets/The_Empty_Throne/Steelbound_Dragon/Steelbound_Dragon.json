@@ -1,9 +1,5 @@
 {
 	"eternalID": 60,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Steelbound Dragon",
 	"text": "Flying, Overhwlem",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Steelbound_Dragon.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-60/steelbound-dragon",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

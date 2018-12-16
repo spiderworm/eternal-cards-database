@@ -1,9 +1,5 @@
 {
 	"eternalID": 47,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Improvised Rubbler",
 	"text": "Summon: Play two 1/1 Grenadin.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Relic Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Improvised_Rubbler.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-47/improvised-rubbler",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

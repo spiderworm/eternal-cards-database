@@ -1,9 +1,5 @@
 {
 	"eternalID": 142,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Emerald Spear",
 	"text": "Valkyrie Ally: Play a 2/2 Soldier",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Relic Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Emerald_Spear.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-142/emerald-spear",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

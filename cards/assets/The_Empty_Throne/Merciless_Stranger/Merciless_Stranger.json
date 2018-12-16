@@ -1,9 +1,5 @@
 {
 	"eternalID": 111,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Merciless Stranger",
 	"text": "Strangers are Deadly.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Merciless_Stranger.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-111/merciless-stranger",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

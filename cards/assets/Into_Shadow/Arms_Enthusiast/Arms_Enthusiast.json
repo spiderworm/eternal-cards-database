@@ -1,9 +1,5 @@
 {
 	"eternalID": 3,
-	"set": {
-		"id": 1004,
-		"name": "Into Shadow"
-	},
 	"name": "Arms Enthusiast",
 	"text": "Quickdraw; When you play a weapon on one of your units, that unit gets Berserk.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Arms_Enthusiast.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1004-3/arms-enthusiast",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1004
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 128,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Skywalk Instructor",
 	"text": "Flying; Mentor: Give the Student Flying.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Skywalk_Instructor.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-128/skywalk-instructor",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

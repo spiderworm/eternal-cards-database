@@ -1,9 +1,5 @@
 {
 	"eternalID": 72,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Stalwart Silverwing",
 	"text": "Flying, Revenge",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Stalwart_Silverwing.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-72/stalwart-silverwing",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

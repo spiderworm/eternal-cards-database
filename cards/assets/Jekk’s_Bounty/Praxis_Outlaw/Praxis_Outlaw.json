@@ -1,9 +1,5 @@
 {
 	"eternalID": 1,
-	"set": {
-		"id": 1001,
-		"name": "Jekk’s Bounty"
-	},
 	"name": "Praxis Outlaw",
 	"text": "At the end of your turn, if you have no cards in your hand, draw Praxis Outlaw from your deck.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Praxis_Outlaw.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1001-1/praxis-outlaw",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1001
 }

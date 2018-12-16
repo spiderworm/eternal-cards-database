@@ -1,9 +1,5 @@
 {
 	"eternalID": 12,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Ticking Grenadin",
 	"text": "Entomb: Deal 3 damage to the enemy player.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ticking_Grenadin.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-12/ticking-grenadin",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

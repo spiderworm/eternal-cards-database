@@ -1,9 +1,5 @@
 {
 	"eternalID": 164,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Acquisitive Crow",
 	"text": "Flying, Berserk; When Acquisitive Crow attacks, create and draw a random 1-cost spell.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Acquisitive_Crow.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-164/acquisitive-crow",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

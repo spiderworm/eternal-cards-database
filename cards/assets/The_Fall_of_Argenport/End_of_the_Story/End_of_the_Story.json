@@ -1,9 +1,5 @@
 {
 	"eternalID": 138,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "End of the Story",
 	"text": "Warp; Kill all units.; Tribute: End of the Story can't be negated or blocked by Aegis.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/End_of_the_Story.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-138/end-of-the-story",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

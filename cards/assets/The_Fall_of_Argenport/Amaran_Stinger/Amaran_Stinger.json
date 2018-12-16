@@ -1,9 +1,5 @@
 {
 	"eternalID": 68,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Amaran Stinger",
 	"text": "Charge; Infiltrate: Put three Scorpion Traps into the top 20 cards of the enemy deck.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Amaran_Stinger.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-68/amaran-stinger",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

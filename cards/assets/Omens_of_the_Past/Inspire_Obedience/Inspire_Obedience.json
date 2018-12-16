@@ -1,9 +1,5 @@
 {
 	"eternalID": 169,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Inspire Obedience",
 	"text": "Kill an enemy unit. Your units get +1 this turn.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Inspire_Obedience.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-169/inspire-obedience",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 60,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Pompous Historian",
 	"text": "Summon: Draw a Sentinel or relic from the top five cards of your deck. Discard the rest.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Pompous_Historian.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-60/pompous-historian",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

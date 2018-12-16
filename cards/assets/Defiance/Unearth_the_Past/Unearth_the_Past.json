@@ -1,9 +1,5 @@
 {
 	"eternalID": 38,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Unearth the Past",
 	"text": "Draw a relic from your void.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Unearth_the_Past.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-38/unearth-the-past",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

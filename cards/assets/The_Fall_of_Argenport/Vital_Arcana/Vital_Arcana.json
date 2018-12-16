@@ -1,9 +1,5 @@
 {
 	"eternalID": 89,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Vital Arcana",
 	"text": "Draw two cards.; You gain 2 Health.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Vital_Arcana.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-89/vital-arcana",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

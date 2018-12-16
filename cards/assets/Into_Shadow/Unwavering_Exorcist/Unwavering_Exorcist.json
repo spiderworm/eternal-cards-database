@@ -1,9 +1,5 @@
 {
 	"eternalID": 9,
-	"set": {
-		"id": 1004,
-		"name": "Into Shadow"
-	},
 	"name": "Unwavering Exorcist",
 	"text": "You are immune to damage from Night.; Summon: Kill an enemy curse.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Unwavering_Exorcist.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1004-9/unwavering-exorcist",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1004
 }

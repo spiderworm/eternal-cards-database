@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 1004,
-		"name": "Into Shadow"
-	},
 	"name": "Goat",
 	"cost": 2,
 	"influence": "",
@@ -12,5 +8,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Goat.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/bZufhcqYUfs/goat",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 1004
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 188,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Kaleb's Choice",
 	"text": "- Negate an enemy spell with a single faction, or; - Kill an enemy attachment with a single faction.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Kaleb's_Choice.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-188/kalebs-choice",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 231,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Token of Knowledge",
 	"text": "Depleted;Gain {T}, {P}, or {S}.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Power",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Token_of_Knowledge.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-231/token-of-knowledge",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 227,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Devious Drone",
 	"text": "Entomb: Kill an enemy unit.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Devious_Drone.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-227/devious-drone",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

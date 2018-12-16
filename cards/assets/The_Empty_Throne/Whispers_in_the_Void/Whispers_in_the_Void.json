@@ -1,9 +1,5 @@
 {
 	"eternalID": 303,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Whispers in the Void",
 	"text": "The Tormentor appears in your void.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Whispers_in_the_Void.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-303/whispers-in-the-void",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

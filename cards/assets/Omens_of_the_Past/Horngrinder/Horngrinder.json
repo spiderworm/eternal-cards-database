@@ -1,9 +1,5 @@
 {
 	"eternalID": 96,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Horngrinder",
 	"text": "When you gain Armor, Horngrinder gets that much Attack/Health.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Horngrinder.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-96/horngrinder",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

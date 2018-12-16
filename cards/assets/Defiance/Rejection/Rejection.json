@@ -1,9 +1,5 @@
 {
 	"eternalID": 136,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Rejection",
 	"text": "Negate an enemy spell. The enemy player discards all copies from their hand and deck.\nRejection can't be negated.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rejection.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-136/rejection",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

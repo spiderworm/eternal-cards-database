@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 1004,
-		"name": "Into Shadow"
-	},
 	"name": "Razortooth Aranha",
 	"text": "Killer",
 	"cost": 1,
@@ -13,5 +9,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Razortooth_Aranha.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/UvpLfh435_c/razortooth-aranha",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 1004
 }

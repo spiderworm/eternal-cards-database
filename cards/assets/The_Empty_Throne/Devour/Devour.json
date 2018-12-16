@@ -1,9 +1,5 @@
 {
 	"eternalID": 261,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Devour",
 	"text": "Sacrifice a unit to draw two cards and get 2 Health.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Devour.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-261/devour",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

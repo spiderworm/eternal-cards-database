@@ -1,9 +1,5 @@
 {
 	"eternalID": 33,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Burning Glaive",
 	"text": "",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Burning_Glaive.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-33/burning-glaive",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

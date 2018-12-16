@@ -1,9 +1,5 @@
 {
 	"eternalID": 135,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Sudden Schism",
 	"text": "Play a copy of one of your units.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sudden_Schism.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-135/sudden-schism",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

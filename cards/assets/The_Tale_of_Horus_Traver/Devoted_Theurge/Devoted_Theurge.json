@@ -1,9 +1,5 @@
 {
 	"eternalID": 6,
-	"set": {
-		"id": 1002,
-		"name": "The Tale of Horus Traver"
-	},
 	"name": "Devoted Theurge",
 	"text": "Summon: You gain 4 Health.; Pay 6 to give Devoted Theurge +1/+1. You gain 1 Health.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Devoted_Theurge.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1002-6/devoted-theurge",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1002
 }

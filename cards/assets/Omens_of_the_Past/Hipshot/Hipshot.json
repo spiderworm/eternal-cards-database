@@ -1,9 +1,5 @@
 {
 	"eternalID": 11,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Hipshot",
 	"text": "Warp;Deal 2 damage.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hipshot.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-11/hipshot",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

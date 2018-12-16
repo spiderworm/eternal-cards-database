@@ -1,9 +1,5 @@
 {
 	"eternalID": 219,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Howling Peak",
 	"text": "When you play a unit, it gets +3 Health until your next turn.;Kaleb's Agenda: Kaleb's Favor, Mirror Image, Gun Down.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Site",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Howling_Peak.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-219/howling-peak",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

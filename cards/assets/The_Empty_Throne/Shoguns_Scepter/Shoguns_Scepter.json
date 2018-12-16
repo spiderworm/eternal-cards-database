@@ -1,9 +1,5 @@
 {
 	"eternalID": 26,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Shogun's Scepter",
 	"text": "Warcry; Summon: Play a 2/1 Oni Ronin with Warcry.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Shogun's_Scepter.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-26/shoguns-scepter",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

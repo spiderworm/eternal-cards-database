@@ -1,9 +1,5 @@
 {
 	"eternalID": 202,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Whispering Wind",
 	"text": "Flying; When Whispering Wind attacks, you may discard a card to draw a higher-cost card from your deck.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Whispering_Wind.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-202/whispering-wind",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

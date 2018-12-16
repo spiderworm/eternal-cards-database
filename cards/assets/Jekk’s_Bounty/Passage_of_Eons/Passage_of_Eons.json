@@ -1,9 +1,5 @@
 {
 	"eternalID": 3,
-	"set": {
-		"id": 1001,
-		"name": "Jekk’s Bounty"
-	},
 	"name": "Passage of Eons",
 	"text": "Silence all enemy units.; Kill all enemy attachments.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Passage_of_Eons.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1001-3/passage-of-eons",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1001
 }

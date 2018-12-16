@@ -1,9 +1,5 @@
 {
 	"eternalID": 119,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Silverwing Smith",
 	"text": "Flying; When you gain Armor, gain an additional +1 Armor.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Silverwing_Smith.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-119/silverwing-smith",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

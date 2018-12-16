@@ -1,9 +1,5 @@
 {
 	"eternalID": 223,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Wingbrewer",
 	"text": "Pay 2 and exhaust Wingbrewer to draw one of the top two cards of your deck and discard the other. After the third use, sacrifice him to play three 1/1 Vampire Bats.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Wingbrewer.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-223/wingbrewer",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

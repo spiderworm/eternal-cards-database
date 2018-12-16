@@ -1,9 +1,5 @@
 {
 	"eternalID": 105,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Snowcrust Yeti",
 	"text": "Aegis",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Snowcrust_Yeti.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-105/snowcrust-yeti",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 9,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Notorious Scoundrel",
 	"text": "Renown: Play a +4/+2 weapon on Notorious Scoundrel and the enemy player plays a Wanted Poster on him.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Notorious_Scoundrel.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-9/notorious-scoundrel",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

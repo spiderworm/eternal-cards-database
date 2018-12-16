@@ -1,9 +1,5 @@
 {
 	"eternalID": 120,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Dormant Sentinel",
 	"text": "Empower: Overwhelm this turn.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Dormant_Sentinel.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-120/dormant-sentinel",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

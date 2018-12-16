@@ -1,9 +1,5 @@
 {
 	"eternalID": 98,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Healer's Cloak",
 	"text": "Summon: You gain Health equal to the wielder's Health.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Healer's_Cloak.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-98/healers-cloak",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

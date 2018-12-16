@@ -1,9 +1,5 @@
 {
 	"eternalID": 170,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Daring Pioneer",
 	"text": "Overwhelm; When an enemy plays a spell, sacrifice Daring Pioneer to negate it.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Daring_Pioneer.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-170/daring-pioneer",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 58,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Battle-Tested Stranger",
 	"text": "Strangers have +2/+2.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Battle-Tested_Stranger.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-58/battle-tested-stranger",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

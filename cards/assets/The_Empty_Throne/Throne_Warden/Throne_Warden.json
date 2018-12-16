@@ -1,9 +1,5 @@
 {
 	"eternalID": 514,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Throne Warden",
 	"text": "Aegis; Summon: You gain 4 Armor",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Throne_Warden.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-514/throne-warden",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

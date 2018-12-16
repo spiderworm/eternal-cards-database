@@ -1,9 +1,5 @@
 {
 	"eternalID": 15,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Grandfather's Axe",
 	"text": "When the wielder dies, draw Grandfather's Axe from your void.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Grandfather's_Axe.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-15/grandfathers-axe",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

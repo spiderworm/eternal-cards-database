@@ -1,9 +1,5 @@
 {
 	"eternalID": 42,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Birthright",
 	"text": "At the start of each player's turn, they play the top card of their deck.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Birthright.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-42/birthright",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

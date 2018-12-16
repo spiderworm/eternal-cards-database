@@ -1,9 +1,5 @@
 {
 	"eternalID": 144,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Eager Owlet",
 	"text": "Flying; +3 Attack while you have another Flying unit.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Eager_Owlet.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-144/eager-owlet",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

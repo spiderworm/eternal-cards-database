@@ -1,9 +1,5 @@
 {
 	"eternalID": 387,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Statuary Maiden",
 	"text": "Deadly; Enemy units can't Entomb or Revenge.; When an enemy unit dies, transform it into a +2/+2 Cudgel and draw it.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Statuary_Maiden.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-387/statuary-maiden",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

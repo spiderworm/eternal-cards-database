@@ -1,9 +1,5 @@
 {
 	"eternalID": 15,
-	"set": {
-		"id": 1001,
-		"name": "Jekk’s Bounty"
-	},
 	"name": "Quarry",
 	"text": "Draw one of the top two cards of your deck and reduce its cost by 1.; Discard the other.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Quarry.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1001-15/quarry",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1001
 }

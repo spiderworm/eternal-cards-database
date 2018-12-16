@@ -1,9 +1,5 @@
 {
 	"eternalID": 85,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Sandbinder Sentinel",
 	"text": "Summon: Play a Sandbind on an enemy unit with Flying.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sandbinder_Sentinel.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-85/sandbinder-sentinel",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

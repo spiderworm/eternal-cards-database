@@ -1,9 +1,5 @@
 {
 	"eternalID": 169,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Jennev Merchant",
 	"text": "Aegis; Summon: You may choose a card from your hand to swap with a {P} card in your Market.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Jennev_Merchant.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-169/jennev-merchant",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

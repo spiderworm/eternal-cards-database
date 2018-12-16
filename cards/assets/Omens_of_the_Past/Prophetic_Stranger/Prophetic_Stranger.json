@@ -1,9 +1,5 @@
 {
 	"eternalID": 214,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Prophetic Stranger",
 	"text": "Strangers have +3/+3.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Prophetic_Stranger.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-214/prophetic-stranger",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

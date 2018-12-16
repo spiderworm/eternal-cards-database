@@ -1,9 +1,5 @@
 {
 	"eternalID": 133,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Shieldsmith",
 	"text": "Lifesteal; When you lose Armor, Shieldsmith gets that much attack.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Shieldsmith.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-133/shieldsmith",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

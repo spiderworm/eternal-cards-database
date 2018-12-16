@@ -1,9 +1,5 @@
 {
 	"eternalID": 170,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Lethrai Darkstalker",
 	"text": "+4 Attack at Night.; Summon: Nightfall.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lethrai_Darkstalker.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-170/lethrai-darkstalker",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

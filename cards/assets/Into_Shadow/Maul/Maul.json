@@ -1,9 +1,5 @@
 {
 	"eternalID": 16,
-	"set": {
-		"id": 1004,
-		"name": "Into Shadow"
-	},
 	"name": "Maul",
 	"text": "Deal 2 damage to the enemy player for each card in their hand.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Maul.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1004-16/maul",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1004
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 26,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Toppletower",
 	"text": "+2 Attack for each Grenadin in your void.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Toppletower.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-26/toppletower",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

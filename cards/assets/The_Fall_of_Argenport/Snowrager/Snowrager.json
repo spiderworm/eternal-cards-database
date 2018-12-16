@@ -1,9 +1,5 @@
 {
 	"eternalID": 149,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Snowrager",
 	"text": "Berserk; Tribute: Create and draw a Snowball.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Snowrager.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-149/snowrager",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

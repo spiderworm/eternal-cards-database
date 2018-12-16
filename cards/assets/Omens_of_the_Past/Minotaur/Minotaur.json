@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Minotaur",
 	"cost": 2,
 	"influence": "{J}",
@@ -12,5 +8,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Minotaur.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/uCCZWz6Bpak/minotaur",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 2
 }

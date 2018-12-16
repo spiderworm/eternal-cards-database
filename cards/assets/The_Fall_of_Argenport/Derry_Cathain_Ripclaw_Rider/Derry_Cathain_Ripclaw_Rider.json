@@ -1,9 +1,5 @@
 {
 	"eternalID": 251,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Derry Cathain, Ripclaw Rider",
 	"text": "Summon: Increase the cost of a spell in the enemy hand by 1.; Ultimate: Pay 3 to give Derry +4 Attack and Overwhelm if you have two or more spells in your void.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Derry_Cathain,_Ripclaw_Rider.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-251/derry-cathain-ripclaw-rider",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

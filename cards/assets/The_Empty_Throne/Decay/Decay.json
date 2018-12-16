@@ -1,9 +1,5 @@
 {
 	"eternalID": 95,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Decay",
 	"text": "Kill an enemy attachment. Your gain 3 Health.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Decay.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-95/decay",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

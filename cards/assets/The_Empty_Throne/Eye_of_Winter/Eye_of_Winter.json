@@ -1,9 +1,5 @@
 {
 	"eternalID": 210,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Eye of Winter",
 	"text": "Once per turn, you mat pay 2 to stun a unit.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Eye_of_Winter.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-210/eye-of-winter",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

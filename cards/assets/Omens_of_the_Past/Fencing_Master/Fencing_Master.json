@@ -1,9 +1,5 @@
 {
 	"eternalID": 81,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Fencing Master",
 	"text": "Ultimate: When an enemy unit is stunned, play a +3/+3 Gemblade on Fencing Master.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Fencing_Master.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-81/fencing-master",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

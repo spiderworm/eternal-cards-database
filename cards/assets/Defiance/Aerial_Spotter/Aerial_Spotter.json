@@ -1,9 +1,5 @@
 {
 	"eternalID": 96,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Aerial Spotter",
 	"text": "Flying;Renown: Play a 3/2 Argenport Soldier.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Aerial_Spotter.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-96/aerial-spotter",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

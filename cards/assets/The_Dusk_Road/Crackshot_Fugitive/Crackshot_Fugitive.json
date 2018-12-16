@@ -1,9 +1,5 @@
 {
 	"eternalID": 109,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Crackshot Fugitive",
 	"text": "When Crackshot Fugitive attacks, she gets +1/+1 this turn for each of your units wielding a weapon.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crackshot_Fugitive.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-109/crackshot-fugitive",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

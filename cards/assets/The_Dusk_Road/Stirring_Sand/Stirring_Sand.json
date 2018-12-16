@@ -1,9 +1,5 @@
 {
 	"eternalID": 86,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Stirring Sand",
 	"text": "Play a Sentinel from your void.; For each of your Explorers, you may pay 2 and exhaust it to play an additional Sentinel from your void exhausted.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Stirring_Sand.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-86/stirring-sand",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

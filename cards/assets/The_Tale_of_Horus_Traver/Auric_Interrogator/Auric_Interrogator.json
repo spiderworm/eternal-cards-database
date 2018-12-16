@@ -1,9 +1,5 @@
 {
 	"eternalID": 13,
-	"set": {
-		"id": 1002,
-		"name": "The Tale of Horus Traver"
-	},
 	"name": "Auric Interrogator",
 	"text": "At the end of your turn, if Auric Interrogator has 5 Attack or more, he deals 1 damage to you and you draw a card.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Auric_Interrogator.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1002-13/auric-interrogator",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1002
 }

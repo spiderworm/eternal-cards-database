@@ -1,9 +1,5 @@
 {
 	"eternalID": 37,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Recogulator",
 	"text": "Entomb: Play two 1/1 Grenadin.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Recogulator.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-37/recogulator",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

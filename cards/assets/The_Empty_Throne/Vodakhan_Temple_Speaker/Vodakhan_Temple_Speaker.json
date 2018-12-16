@@ -1,9 +1,5 @@
 {
 	"eternalID": 347,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Vodakhan, Temple Speaker",
 	"text": "+Attack / +Health equal to your maximum power.; Your power cards have Destiny.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Vodakhan,_Temple_Speaker.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-347/vodakhan-temple-speaker",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

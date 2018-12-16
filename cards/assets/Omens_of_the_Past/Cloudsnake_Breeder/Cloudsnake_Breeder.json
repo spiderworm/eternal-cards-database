@@ -1,9 +1,5 @@
 {
 	"eternalID": 107,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Cloudsnake Breeder",
 	"text": "Spark: Play a 1/2 Cloudsnake Hatchling with Flying.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cloudsnake_Breeder.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-107/cloudsnake-breeder",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

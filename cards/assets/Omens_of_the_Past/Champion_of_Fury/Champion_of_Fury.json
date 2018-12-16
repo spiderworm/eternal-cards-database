@@ -1,9 +1,5 @@
 {
 	"eternalID": 187,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Champion of Fury",
 	"text": "{F}{F}: +1 Attack and Charge.; {P}{P}: +1 Attack and Overwhelm.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Champion_of_Fury.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-187/champion-of-fury",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

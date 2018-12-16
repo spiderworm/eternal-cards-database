@@ -1,9 +1,5 @@
 {
 	"eternalID": 200,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Back-Alley Delinquent",
 	"text": "Quickdraw; Summon: You may discard a card to create and draw Sabotage.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Back-Alley_Delinquent.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-200/back-alley-delinquent",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

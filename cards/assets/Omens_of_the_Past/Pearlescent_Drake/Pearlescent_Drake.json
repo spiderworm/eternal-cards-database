@@ -1,9 +1,5 @@
 {
 	"eternalID": 127,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Pearlescent Drake",
 	"text": "Flying, Reckless; Spark: +4 Health.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Pearlescent_Drake.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-127/pearlescent-drake",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

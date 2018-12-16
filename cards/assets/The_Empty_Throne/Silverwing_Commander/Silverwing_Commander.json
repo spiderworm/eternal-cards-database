@@ -1,9 +1,5 @@
 {
 	"eternalID": 175,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Silverwing Commander",
 	"text": "Flying, Warcry 2",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Silverwing_Commander.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-175/silverwing-commander",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

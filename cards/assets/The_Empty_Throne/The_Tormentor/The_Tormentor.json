@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "The Tormentor",
 	"text": "Flying, Overwhelm, Charge; At the start of your turn, if The Tormentor is in the void, play a 1/1 Spiteling.",
 	"cost": 10,
@@ -13,5 +9,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/The_Tormentor.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/NYt8tVNLYOs/the-tormentor",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 1
 }

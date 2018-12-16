@@ -1,9 +1,5 @@
 {
 	"eternalID": 102,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Valkyrie Linebreaker",
 	"text": "Flying; Mentor: You gain Armor equal to the Student's Health.",
 	"cost": 8,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Valkyrie_Linebreaker.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-102/valkyrie-linebreaker",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

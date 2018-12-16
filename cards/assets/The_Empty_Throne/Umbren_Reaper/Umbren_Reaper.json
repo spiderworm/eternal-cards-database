@@ -1,9 +1,5 @@
 {
 	"eternalID": 299,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Umbren Reaper",
 	"text": "Flying; Entomb: Deal 5 damage to the enemy player and you gain 5 Health.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Umbren_Reaper.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-299/umbren-reaper",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

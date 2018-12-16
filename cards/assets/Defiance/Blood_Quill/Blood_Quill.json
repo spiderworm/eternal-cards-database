@@ -1,9 +1,5 @@
 {
 	"eternalID": 156,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Blood Quill",
 	"text": "Once per turn, you may pay 2 and discard the bottom card from your deck to give one of your units Lifesteal this turn.;Summon: Discard the bottom two cards of your deck.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Blood_Quill.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-156/blood-quill",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

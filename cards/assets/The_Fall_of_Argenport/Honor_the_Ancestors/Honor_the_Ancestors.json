@@ -1,9 +1,5 @@
 {
 	"eternalID": 20,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Honor the Ancestors",
 	"text": "Draw a weapon from your void.; Tribute: Play it instead.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Honor_the_Ancestors.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-20/honor-the-ancestors",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

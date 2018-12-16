@@ -1,9 +1,5 @@
 {
 	"eternalID": 242,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Inquisitor Makto",
 	"text": "Flying, Revenge; Makto's Revenge never ends.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Inquisitor_Makto.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-242/inquisitor-makto",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

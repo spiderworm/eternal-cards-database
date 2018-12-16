@@ -1,9 +1,5 @@
 {
 	"eternalID": 148,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Bronze Cuirass",
 	"text": "Summon: Draw a card.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bronze_Cuirass.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-148/bronze-cuirass",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

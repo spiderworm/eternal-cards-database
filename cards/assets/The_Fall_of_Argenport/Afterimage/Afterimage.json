@@ -1,9 +1,5 @@
 {
 	"eternalID": 212,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Afterimage",
 	"text": "Warp; Give one of your units Unblockable this turn.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Afterimage.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-212/afterimage",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

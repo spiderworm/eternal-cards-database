@@ -1,9 +1,5 @@
 {
 	"eternalID": 203,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Torgov's Trading Post",
 	"text": "At the end of your turn, discard a random power card from your deck.;Torgov's Agenda: Call the Ancients, Ask for Directions, Weather the Storm.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Site",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Torgov's_Trading_Post.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-203/torgovs-trading-post",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

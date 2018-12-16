@@ -1,9 +1,5 @@
 {
 	"eternalID": 8,
-	"set": {
-		"id": 1001,
-		"name": "Jekk’s Bounty"
-	},
 	"name": "Tyrannize",
 	"text": "Transform a unit into a 5/5 Carnosaur.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Tyrannize.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1001-8/tyrannize",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1001
 }

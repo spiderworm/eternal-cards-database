@@ -1,9 +1,5 @@
 {
 	"eternalID": 191,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Unchecked Rage",
 	"text": "The cursed unit and each other enemy unit are Reckless.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Curse",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Unchecked_Rage.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-191/unchecked-rage",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

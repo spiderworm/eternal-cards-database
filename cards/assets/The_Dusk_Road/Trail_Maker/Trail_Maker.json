@@ -1,9 +1,5 @@
 {
 	"eternalID": 65,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Trail Maker",
 	"text": "+1 Maximum Power.; Summon: Gain an influence of your choice.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Trail_Maker.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-65/trail-maker",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 11,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Grenarender",
 	"text": "Pay 1 and sacrifice Grenarender to kill an enemy attachment.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Grenarender.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-11/grenarender",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 39,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Trail Runner",
 	"text": "Charge",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Trail_Runner.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-39/trail-runner",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

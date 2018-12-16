@@ -1,9 +1,5 @@
 {
 	"eternalID": 119,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Ancient Terrazon",
 	"text": "Invulnerable to damage",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ancient_Terrazon.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-119/ancient-terrazon",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

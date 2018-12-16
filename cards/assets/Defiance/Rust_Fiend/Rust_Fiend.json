@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Rust Fiend",
 	"cost": 2,
 	"influence": "",
@@ -12,5 +8,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rust_Fiend.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/t2r8F-sM_CU/rust-fiend",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 5
 }

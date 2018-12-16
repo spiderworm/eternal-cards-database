@@ -1,9 +1,5 @@
 {
 	"eternalID": 114,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Frostwave",
 	"text": "Stun an enemy unit.\nAmplify 3: Stun an additional enemy unit.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Frostwave.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-114/frostwave",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

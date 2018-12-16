@@ -1,9 +1,5 @@
 {
 	"eternalID": 6,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Pummel",
 	"text": "Give one of your attacking units +2/+2 this turn.; Scout.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Pummel.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-6/pummel",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 48,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Rock Carapace",
 	"text": "The wielder can't fly.; At the end of your turn, if the wielder attacked, stun it.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rock_Carapace.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-48/rock-carapace",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

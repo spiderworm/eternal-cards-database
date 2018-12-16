@@ -1,9 +1,5 @@
 {
 	"eternalID": 291,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Soul Collector",
 	"text": "When another unit dies, Soul Collector gets +1/+1. Entomb: You gain Health equal to Soul Collector's Health.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Soul_Collector.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-291/soul-collector",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

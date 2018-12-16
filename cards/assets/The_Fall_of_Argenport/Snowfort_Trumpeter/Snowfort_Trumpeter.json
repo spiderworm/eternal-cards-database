@@ -1,9 +1,5 @@
 {
 	"eternalID": 161,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Snowfort Trumpeter",
 	"text": "Tribute: +2/+2.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Snowfort_Trumpeter.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-161/snowfort-trumpeter",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

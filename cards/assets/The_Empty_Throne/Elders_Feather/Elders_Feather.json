@@ -1,9 +1,5 @@
 {
 	"eternalID": 128,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Elder's Feather",
 	"text": "Flying",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Elder's_Feather.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-128/elders-feather",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

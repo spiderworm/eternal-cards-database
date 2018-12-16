@@ -1,9 +1,5 @@
 {
 	"eternalID": 185,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Rolant, the Iron Fist",
 	"text": "Endurance; Your {J} units have Endurance and are invulnerable to damage.",
 	"cost": 8,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rolant,_the_Iron_Fist.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-185/rolant-the-iron-fist",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

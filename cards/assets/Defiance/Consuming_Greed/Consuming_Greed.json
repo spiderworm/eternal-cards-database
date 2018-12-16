@@ -1,9 +1,5 @@
 {
 	"eternalID": 174,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Consuming Greed",
 	"text": "Flying;Summon: You may sacrifice a relic to play a 6/4 Rust Fiend.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Consuming_Greed.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-174/consuming-greed",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

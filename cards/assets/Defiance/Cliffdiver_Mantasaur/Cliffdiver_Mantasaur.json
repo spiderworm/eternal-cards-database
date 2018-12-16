@@ -1,9 +1,5 @@
 {
 	"eternalID": 140,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Cliffdiver Mantasaur",
 	"text": "Flying, Aegis, Pledge",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cliffdiver_Mantasaur.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-140/cliffdiver-mantasaur",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

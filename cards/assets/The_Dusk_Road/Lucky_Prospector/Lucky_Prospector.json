@@ -1,9 +1,5 @@
 {
 	"eternalID": 57,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Lucky Prospector",
 	"text": "Endurance; +2/+2 while you have a relic.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lucky_Prospector.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-57/lucky-prospector",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

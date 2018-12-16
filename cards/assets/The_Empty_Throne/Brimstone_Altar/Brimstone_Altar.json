@@ -1,9 +1,5 @@
 {
 	"eternalID": 399,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Brimstone Altar",
 	"text": "Once per turn, you may sacrifice a unit to deal 2 damage to the enemy player.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Brimstone_Altar.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-399/brimstone-altar",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

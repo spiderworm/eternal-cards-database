@@ -1,9 +1,5 @@
 {
 	"eternalID": 121,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Hall of Lost Kings",
 	"text": "Play a 5/5 Sentinel. If you have more than 25 Health, play five Sentinels instead.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hall_of_Lost_Kings.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-121/hall-of-lost-kings",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

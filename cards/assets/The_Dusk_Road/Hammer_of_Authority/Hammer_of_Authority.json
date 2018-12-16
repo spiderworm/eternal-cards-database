@@ -1,9 +1,5 @@
 {
 	"eternalID": 138,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Hammer of Authority",
 	"text": "The enemy player can't play spells on your turn.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Relic Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hammer_of_Authority.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-138/hammer-of-authority",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 178,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Clever Stranger",
 	"text": "Warp;Strangers have Warp.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Clever_Stranger.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-178/clever-stranger",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

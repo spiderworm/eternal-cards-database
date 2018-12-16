@@ -1,9 +1,5 @@
 {
 	"eternalID": 67,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Infused Guardian",
 	"text": "Endurance, Pledge;Empower: +1/+1.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Infused_Guardian.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-67/infused-guardian",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 111,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Shamebearer",
 	"text": "Pay 1 and sacrifice Shamebearer to play a -3 Attack Mark of Shame on an enemy unit.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Shamebearer.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-111/shamebearer",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

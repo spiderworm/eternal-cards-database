@@ -1,9 +1,5 @@
 {
 	"eternalID": 21,
-	"set": {
-		"id": 0,
-		"name": "The Empty Throne"
-	},
 	"name": "Mantle of Justice",
 	"text": "+1/+1 for each of your {J} influence.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Mantle_of_Justice.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/0-21/mantle-of-justice",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 0
 }

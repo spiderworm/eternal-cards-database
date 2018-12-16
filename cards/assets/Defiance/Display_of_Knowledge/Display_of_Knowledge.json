@@ -1,9 +1,5 @@
 {
 	"eternalID": 233,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Display of Knowledge",
 	"text": "- Put an attacking enemy unit on the bottom of the enemy deck, or; - Draw a relic from your deck, or; - Give one of your units +2 Strength and Quickdraw.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Display_of_Knowledge.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-233/display-of-knowledge",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

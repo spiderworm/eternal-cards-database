@@ -1,9 +1,5 @@
 {
 	"eternalID": 61,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Ask for Directions",
 	"text": "Scout.; When you attack with two or more Explorers, draw Ask for Directions from your void.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ask_for_Directions.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-61/ask-for-directions",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

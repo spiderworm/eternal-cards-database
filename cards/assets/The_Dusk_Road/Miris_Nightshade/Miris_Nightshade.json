@@ -1,9 +1,5 @@
 {
 	"eternalID": 217,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Miris Nightshade",
 	"text": "+1/+1 while an enemy is cursed.; Ultimate: Pay 5 to play Nyctophobia on the enemy player.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Miris_Nightshade.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-217/miris-nightshade",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

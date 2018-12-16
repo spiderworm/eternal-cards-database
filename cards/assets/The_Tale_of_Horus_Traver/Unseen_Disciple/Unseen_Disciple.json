@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 1002,
-		"name": "The Tale of Horus Traver"
-	},
 	"name": "Unseen Disciple",
 	"text": "",
 	"cost": 3,
@@ -13,5 +9,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Unseen_Disciple.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/ZUzXLGMoEGU/unseen-disciple",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 1002
 }

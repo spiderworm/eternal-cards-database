@@ -1,9 +1,5 @@
 {
 	"eternalID": 94,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Scepter of Nobility",
 	"text": "Scepter of Nobility costs 2 less while any of your units are wielding a weapon.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Relic Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Scepter_of_Nobility.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-94/scepter-of-nobility",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

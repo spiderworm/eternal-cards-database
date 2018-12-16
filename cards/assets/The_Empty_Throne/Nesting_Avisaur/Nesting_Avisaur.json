@@ -1,9 +1,5 @@
 {
 	"eternalID": 225,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Nesting Avisaur",
 	"text": "Flying; Summon: You may put a card from your hand on top of your deck. Its cost is reduced by 2.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Nesting_Avisaur.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-225/nesting-avisaur",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

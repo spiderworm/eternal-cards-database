@@ -1,9 +1,5 @@
 {
 	"eternalID": 158,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Hatecleaver",
 	"text": "Lifeforce: When you gain Health, Hatecleaver gets +1/+1.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Relic Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hatecleaver.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-158/hatecleaver",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

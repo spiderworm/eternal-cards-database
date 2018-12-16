@@ -1,9 +1,5 @@
 {
 	"eternalID": 168,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Horde Plunderer",
 	"text": "Berserk; Your weapons Spellcraft for free.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Horde_Plunderer.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-168/horde-plunderer",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

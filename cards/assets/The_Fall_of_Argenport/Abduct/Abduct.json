@@ -1,9 +1,5 @@
 {
 	"eternalID": 199,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Abduct",
 	"text": "The enemy player discards a unit of your choice from their hand. Then steal it and put it into your void.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Abduct.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-199/abduct",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

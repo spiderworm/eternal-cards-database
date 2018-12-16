@@ -1,9 +1,5 @@
 {
 	"eternalID": 257,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Iceberg Warchief",
 	"text": "Your spells deal +2 damage.; Your other Yeti have +2 Attack.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Iceberg_Warchief.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-257/iceberg-warchief",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 408,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Seek Power",
 	"text": "Draw a Sigil of your choice from your deck.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Seek_Power.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-408/seek-power",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

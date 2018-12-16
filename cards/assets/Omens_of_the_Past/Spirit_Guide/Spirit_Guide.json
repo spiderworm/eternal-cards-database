@@ -1,9 +1,5 @@
 {
 	"eternalID": 83,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Spirit Guide",
 	"text": "LIfesteal; Mentor: Give the Student Lifesteal.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Spirit_Guide.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-83/spirit-guide",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

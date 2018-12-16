@@ -1,9 +1,5 @@
 {
 	"eternalID": 207,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Lock Horns",
 	"text": "Give a unit +3/-1 this turn.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lock_Horns.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-207/lock-horns",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

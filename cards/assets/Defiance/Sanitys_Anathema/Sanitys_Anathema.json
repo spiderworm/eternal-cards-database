@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Sanity's Anathema",
 	"text": "Overwhelm;Sanity's Anathema has Strength/Health equal to the number of cards in both players' hands.;When Sanity's Anathema attacks, draw two cards.",
 	"cost": 7,
@@ -13,5 +9,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sanity's_Anathema.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/tcLSa7STXIA/sanity-s-anathema",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 5
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 216,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Icebreaker",
 	"text": "Exhaust Icebreaker to kill a stunned enemy unit.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Icebreaker.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-216/icebreaker",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

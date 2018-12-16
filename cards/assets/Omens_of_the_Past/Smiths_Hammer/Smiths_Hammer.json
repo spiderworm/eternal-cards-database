@@ -1,9 +1,5 @@
 {
 	"eternalID": 8,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Smith's Hammer",
 	"text": "Overwhelm",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Smith's_Hammer.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-8/smiths-hammer",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

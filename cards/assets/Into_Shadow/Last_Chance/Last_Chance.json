@@ -1,9 +1,5 @@
 {
 	"eternalID": 17,
-	"set": {
-		"id": 1004,
-		"name": "Into Shadow"
-	},
 	"name": "Last Chance",
 	"text": "Draw a unit from your void.; It gets Voidbound.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Last_Chance.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1004-17/last-chance",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1004
 }

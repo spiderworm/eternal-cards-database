@@ -1,9 +1,5 @@
 {
 	"eternalID": 232,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Crystallize",
 	"text": "Stun and deal 1 damage to each enemy unit.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crystallize.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-232/crystallize",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

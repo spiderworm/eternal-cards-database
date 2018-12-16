@@ -1,9 +1,5 @@
 {
 	"eternalID": 161,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Fearless Yeti",
 	"text": "Overwhelm; When Fearless Yeti hits the enemy player, Scout.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Fearless_Yeti.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-161/fearless-yeti",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

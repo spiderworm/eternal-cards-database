@@ -1,9 +1,5 @@
 {
 	"eternalID": 72,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Gravetender",
 	"text": "Flying; Tribute: +2/+2.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Gravetender.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-72/gravetender",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

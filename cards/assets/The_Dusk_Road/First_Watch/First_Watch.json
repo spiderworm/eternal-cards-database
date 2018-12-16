@@ -1,9 +1,5 @@
 {
 	"eternalID": 82,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "First Watch",
 	"text": "Nightfall.; You gain 8 Health.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/First_Watch.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-82/first-watch",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

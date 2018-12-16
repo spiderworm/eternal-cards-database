@@ -1,9 +1,5 @@
 {
 	"eternalID": 123,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Rolant's Memorial",
 	"text": "At the end of your turn, if a unit went to your void, give one of your units +1/+1 for each spell in your void.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rolant's_Memorial.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-123/rolants-memorial",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

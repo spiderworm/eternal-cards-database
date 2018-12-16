@@ -1,9 +1,5 @@
 {
 	"eternalID": 165,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Mark of Shame",
 	"text": "The cursed unit has -3 Attack.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Curse",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Mark_of_Shame.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-165/mark-of-shame",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

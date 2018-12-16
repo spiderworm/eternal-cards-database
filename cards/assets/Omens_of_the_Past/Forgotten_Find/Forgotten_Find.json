@@ -1,9 +1,5 @@
 {
 	"eternalID": 40,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Forgotten Find",
 	"text": "Play two power cards from your void Depleted.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Forgotten_Find.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-40/forgotten-find",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Mithril Armor",
 	"text": "",
 	"cost": 4,
@@ -13,5 +9,6 @@
 	"type": "Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Mithril_Armor.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/MzN648XhS5M/mithril-armor",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 1
 }

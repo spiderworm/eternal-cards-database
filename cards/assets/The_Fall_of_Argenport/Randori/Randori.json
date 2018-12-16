@@ -1,9 +1,5 @@
 {
 	"eternalID": 56,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Randori",
 	"text": "Swap the blocks  of two blocking enemy units.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Randori.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-56/randori",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

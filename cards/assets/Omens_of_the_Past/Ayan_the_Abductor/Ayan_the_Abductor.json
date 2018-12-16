@@ -1,9 +1,5 @@
 {
 	"eternalID": 204,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Ayan, the Abductor",
 	"text": "Lifesteal, Ambush; Ultimate: Pay 8 to silence a unit in your void, then play it with +3/+3.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ayan,_the_Abductor.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-204/ayan-the-abductor",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

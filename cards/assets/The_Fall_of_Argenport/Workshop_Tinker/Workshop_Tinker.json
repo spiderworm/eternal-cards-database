@@ -1,9 +1,5 @@
 {
 	"eternalID": 113,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Workshop Tinker",
 	"text": "Endurance; Summon: You may discard a card to create and draw Tinker.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Workshop_Tinker.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-113/workshop-tinker",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

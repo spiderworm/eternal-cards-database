@@ -1,9 +1,5 @@
 {
 	"eternalID": 109,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Maelstrom Bell",
 	"text": "Once per turn, you may pay 2 to increase the damage of the top damaging spell of your deck by 1.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Maelstrom_Bell.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-109/maelstrom-bell",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

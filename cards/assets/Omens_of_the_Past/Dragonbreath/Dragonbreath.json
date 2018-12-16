@@ -1,9 +1,5 @@
 {
 	"eternalID": 108,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Dragonbreath",
 	"text": "Mentor: The Student deals its Attack in damage to an enemy unit.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Dragonbreath.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-108/dragonbreath",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

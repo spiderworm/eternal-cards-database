@@ -1,9 +1,5 @@
 {
 	"eternalID": 154,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Spire Chaplain",
 	"text": "When Spire Chaplain attacks, draw a Justice Sigil from your deck.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Spire_Chaplain.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-154/spire-chaplain",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

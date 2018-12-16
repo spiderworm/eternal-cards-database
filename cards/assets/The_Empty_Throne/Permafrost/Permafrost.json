@@ -1,9 +1,5 @@
 {
 	"eternalID": 193,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Permafrost",
 	"text": "Stun the cursed unit (for as long as it is cursed).",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Curse",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Permafrost.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-193/permafrost",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 99,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Roosting Owl",
 	"text": "Flying; Mentor: The top unit of your deck gets the Student's Attack/Health.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Roosting_Owl.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-99/roosting-owl",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

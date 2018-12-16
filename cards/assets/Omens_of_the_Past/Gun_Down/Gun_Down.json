@@ -1,9 +1,5 @@
 {
 	"eternalID": 26,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Gun Down",
 	"text": "Deal 5 damage to an enemy unit without Quickdraw.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Gun_Down.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-26/gun-down",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

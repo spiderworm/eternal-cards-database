@@ -1,9 +1,5 @@
 {
 	"eternalID": 168,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Copperhall Blessing",
 	"text": "You and your units are invulnerable to damage this turn.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Copperhall_Blessing.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-168/copperhall-blessing",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

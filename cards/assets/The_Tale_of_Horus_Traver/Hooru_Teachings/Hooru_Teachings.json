@@ -1,9 +1,5 @@
 {
 	"eternalID": 12,
-	"set": {
-		"id": 1002,
-		"name": "The Tale of Horus Traver"
-	},
 	"name": "Hooru Teachings",
 	"text": "Mentor: For each of the Student's battle skills, play a 3/3 Unseen Disciple with that battle skill.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hooru_Teachings.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1002-12/hooru-teachings",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1002
 }

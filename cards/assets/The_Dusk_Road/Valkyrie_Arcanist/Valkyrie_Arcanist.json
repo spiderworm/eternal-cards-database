@@ -1,9 +1,5 @@
 {
 	"eternalID": 139,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Valkyrie Arcanist",
 	"text": "Flying; Entomb: Create and draw a +3/+3 Gemblade.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Valkyrie_Arcanist.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-139/valkyrie-arcanist",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

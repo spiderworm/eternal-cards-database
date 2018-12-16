@@ -1,9 +1,5 @@
 {
 	"eternalID": 131,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Storm Spiral",
 	"text": "Deal 2 damage to each unit and player.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Storm_Spiral.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-131/storm-spiral",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

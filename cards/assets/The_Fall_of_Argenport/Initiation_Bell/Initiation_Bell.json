@@ -1,9 +1,5 @@
 {
 	"eternalID": 73,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Initiation Bell",
 	"text": "Once per turn, you may pay 1 to create and draw a 2/2 Monk with Endurance if you have played a spell this turn.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Initiation_Bell.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-73/initiation-bell",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

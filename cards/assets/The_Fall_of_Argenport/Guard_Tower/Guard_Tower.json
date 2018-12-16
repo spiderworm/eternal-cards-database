@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Guard Tower",
 	"text": "Once per turn, you may pay 5 to deal 1 damage to an enemy.",
 	"cost": 2,
@@ -13,5 +9,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Guard_Tower.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/to5j1c3TIm4/guard-tower",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 4
 }

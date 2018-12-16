@@ -1,9 +1,5 @@
 {
 	"eternalID": 235,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Talir's Unwinding",
 	"text": "Voidbound;Sacrifice a unit to shuffle each player's hand and void into their deck. Each player draws seven cards.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Talir's_Unwinding.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-235/talirs-unwinding",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

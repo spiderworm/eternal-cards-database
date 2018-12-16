@@ -1,9 +1,5 @@
 {
 	"eternalID": 11,
-	"set": {
-		"id": 1002,
-		"name": "The Tale of Horus Traver"
-	},
 	"name": "Yetipult",
 	"text": "Summon: Deal 1 damage to three enemies.; Pay 7 and exhaust Yetipult to draw three cards. Stun Yetipult.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Yetipult.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1002-11/yetipult",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1002
 }

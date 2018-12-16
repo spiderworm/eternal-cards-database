@@ -1,9 +1,5 @@
 {
 	"eternalID": 106,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Weather the Storm",
 	"text": "Give a unit +4 Health this turn.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Weather_the_Storm.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-106/weather-the-storm",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

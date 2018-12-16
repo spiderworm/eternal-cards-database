@@ -1,9 +1,5 @@
 {
 	"eternalID": 417,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Feln Banner",
 	"text": "Gain {P}{S}.; Depleted unless you have a unit.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Power",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Feln_Banner.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-417/feln-banner",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

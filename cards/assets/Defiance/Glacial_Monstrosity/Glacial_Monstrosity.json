@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Glacial Monstrosity",
 	"text": "Overwhelm",
 	"cost": 3,
@@ -13,5 +9,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Glacial_Monstrosity.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/e0FhmNfhd-M/glacial-monstrosity",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 5
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 115,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Mischief Yeti",
 	"text": "Renown: Create and draw a Snowball.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Mischief_Yeti.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-115/mischief-yeti",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

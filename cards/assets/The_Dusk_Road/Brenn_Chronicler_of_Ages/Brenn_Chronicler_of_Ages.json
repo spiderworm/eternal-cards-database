@@ -1,9 +1,5 @@
 {
 	"eternalID": 303,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Brenn, Chronicler of Ages",
 	"text": "The first time you play a spell on your turn, you get +1 power this turn. Then, increase this ability by 1.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Brenn,_Chronicler_of_Ages.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-303/brenn-chronicler-of-ages",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

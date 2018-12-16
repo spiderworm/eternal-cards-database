@@ -1,9 +1,5 @@
 {
 	"eternalID": 245,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Eilyn, Queen of the Wilds",
 	"text": "Flying; After you play a {P} spell, play an additional random {P} spell from your deck.",
 	"cost": 8,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Eilyn,_Queen_of_the_Wilds.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-245/eilyn-queen-of-the-wilds",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

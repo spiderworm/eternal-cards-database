@@ -1,9 +1,5 @@
 {
 	"eternalID": 205,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Feral Spiteling",
 	"text": "When Feral Spiteling attacks, each of your Radiants get +1 Attack for each unit in your void.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Feral_Spiteling.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-205/feral-spiteling",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 54,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Meditation",
 	"text": "Give one of your units +2/+2 and put it on top of your deck.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Meditation.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-54/meditation",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

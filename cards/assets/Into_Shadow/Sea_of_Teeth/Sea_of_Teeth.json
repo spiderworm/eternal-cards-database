@@ -1,9 +1,5 @@
 {
 	"eternalID": 8,
-	"set": {
-		"id": 1004,
-		"name": "Into Shadow"
-	},
 	"name": "Sea of Teeth",
 	"text": "Play five 1/1 Razortooth Aranhas with Killer.; Kill all attachments.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sea_of_Teeth.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1004-8/sea-of-teeth",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1004
 }

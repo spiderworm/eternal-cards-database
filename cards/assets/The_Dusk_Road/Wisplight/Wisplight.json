@@ -1,9 +1,5 @@
 {
 	"eternalID": 208,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Wisplight",
 	"text": "Flying; Once per turn, you may pay 2 to give Wisplight +2 Attack this turn.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Wisplight.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-208/wisplight",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

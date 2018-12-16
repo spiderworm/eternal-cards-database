@@ -1,9 +1,5 @@
 {
 	"eternalID": 261,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Crest of Wisdom",
 	"text": "Depleted; Gain {T}{P}.; Scout.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Power",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crest_of_Wisdom.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-261/crest-of-wisdom",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

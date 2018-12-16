@@ -1,9 +1,5 @@
 {
 	"eternalID": 130,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Finest Hour",
 	"text": "Give a unit +3/+3 this turn.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Finest_Hour.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-130/finest-hour",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

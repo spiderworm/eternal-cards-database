@@ -1,9 +1,5 @@
 {
 	"eternalID": 59,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Claw of the First Dragon",
 	"text": "Entomb: Play four random 1-cost units.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Relic Weapon",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Claw_of_the_First_Dragon.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-59/claw-of-the-first-dragon",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

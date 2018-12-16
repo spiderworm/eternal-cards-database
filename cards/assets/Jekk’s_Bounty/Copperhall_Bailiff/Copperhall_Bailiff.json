@@ -1,9 +1,5 @@
 {
 	"eternalID": 5,
-	"set": {
-		"id": 1001,
-		"name": "Jekk’s Bounty"
-	},
 	"name": "Copperhall Bailiff",
 	"text": "Warcry; Summon: Enemy units get -1 Attack.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Copperhall_Bailiff.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1001-5/copperhall-bailiff",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1001
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 158,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Snow Pelting",
 	"text": "Deal 2 damage to an enemy.; For each of your Yeti, you may pay 2 and exhaust it to deal 2 damage to an additional enemy.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Snow_Pelting.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-158/snow-pelting",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 86,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Wurmstone",
 	"text": "When you play a spell, sacrifice Wurmstone to play a 7/7 Sand Wurm exhausted.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Wurmstone.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-86/wurmstone",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

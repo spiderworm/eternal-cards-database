@@ -1,9 +1,5 @@
 {
 	"eternalID": 14,
-	"set": {
-		"id": 1001,
-		"name": "Jekk’s Bounty"
-	},
 	"name": "Cabal Spymaster",
 	"text": "Your units can Infiltrate any number of times.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cabal_Spymaster.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1001-14/cabal-spymaster",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1001
 }

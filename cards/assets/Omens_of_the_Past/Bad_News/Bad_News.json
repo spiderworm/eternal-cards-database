@@ -1,9 +1,5 @@
 {
 	"eternalID": 30,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Bad News",
 	"text": "Warp; Ready your units. They can attack again.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bad_News.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-30/bad-news",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

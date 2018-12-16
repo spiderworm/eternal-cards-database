@@ -1,9 +1,5 @@
 {
 	"eternalID": 182,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Dizo's Office",
 	"text": "Your units have Lifesteal.;Dizo's Agenda: Scheme, Threaten, Cut Ties.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Site",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Dizo's_Office.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-182/dizos-office",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

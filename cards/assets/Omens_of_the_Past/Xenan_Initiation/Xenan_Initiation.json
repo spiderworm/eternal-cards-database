@@ -1,9 +1,5 @@
 {
 	"eternalID": 44,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Xenan Initiation",
 	"text": "Give one of your units +1/+1 and Killer.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Xenan_Initiation.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-44/xenan-initiation",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

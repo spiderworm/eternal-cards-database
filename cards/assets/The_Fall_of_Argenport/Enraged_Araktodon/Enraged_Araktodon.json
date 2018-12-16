@@ -1,9 +1,5 @@
 {
 	"eternalID": 190,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Enraged Araktodon",
 	"text": "Berserk",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Enraged_Araktodon.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-190/enraged-araktodon",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

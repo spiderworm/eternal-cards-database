@@ -1,9 +1,5 @@
 {
 	"eternalID": 35,
-	"set": {
-		"id": 0,
-		"name": "The Empty Throne"
-	},
 	"name": "Vara's Favor",
 	"text": "Lifesteal; Deal 1 damage. Draw a Shadow Sigil from your deck.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Vara's_Favor.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/0-35/varas-favor",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 0
 }

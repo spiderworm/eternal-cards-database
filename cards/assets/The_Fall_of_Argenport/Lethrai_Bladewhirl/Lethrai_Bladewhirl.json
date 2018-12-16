@@ -1,9 +1,5 @@
 {
 	"eternalID": 236,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Lethrai Bladewhirl",
 	"text": "Summon: Give one of your other units +3 Attack while you have Lethrai Bladewhirl.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lethrai_Bladewhirl.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-236/lethrai-bladewhirl",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

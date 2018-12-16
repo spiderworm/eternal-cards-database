@@ -1,9 +1,5 @@
 {
 	"eternalID": 219,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Sporebreath",
 	"text": "Give an enemy unit -1/-1 for each unit in your void.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sporebreath.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-219/sporebreath",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

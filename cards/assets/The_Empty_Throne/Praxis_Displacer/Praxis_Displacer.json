@@ -1,9 +1,5 @@
 {
 	"eternalID": 100,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Praxis Displacer",
 	"text": "Summon: You may put another unit into its owner's hand.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Praxis_Displacer.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-100/praxis-displacer",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

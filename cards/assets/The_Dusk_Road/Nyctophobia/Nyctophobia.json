@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Nyctophobia",
 	"text": "Summon: Nightfall.; Night deals +1 damage to the cursed player.",
 	"cost": 5,
@@ -13,5 +9,6 @@
 	"type": "Cursed Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Nyctophobia.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/jFUWzDFKOKk/nyctophobia",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 3
 }

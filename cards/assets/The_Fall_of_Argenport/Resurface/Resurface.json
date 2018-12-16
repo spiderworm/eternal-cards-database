@@ -1,9 +1,5 @@
 {
 	"eternalID": 177,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Resurface",
 	"text": "Warp; Move a spell of your choice to the top of your deck.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Resurface.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-177/resurface",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

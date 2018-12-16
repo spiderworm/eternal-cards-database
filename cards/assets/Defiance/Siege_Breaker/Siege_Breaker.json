@@ -1,9 +1,5 @@
 {
 	"eternalID": 26,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Siege Breaker",
 	"text": "Overwhelm;Summon: Kill an enemy relic.;Entomb: The enemy player draws a relic of their choice from their deck.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Siege_Breaker.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-26/siege-breaker",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

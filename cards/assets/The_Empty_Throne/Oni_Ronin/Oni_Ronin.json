@@ -1,9 +1,5 @@
 {
 	"eternalID": 13,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Oni Ronin",
 	"text": "Warcry",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Oni_Ronin.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-13/oni-ronin",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

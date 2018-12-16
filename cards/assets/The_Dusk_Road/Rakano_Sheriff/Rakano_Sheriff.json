@@ -1,9 +1,5 @@
 {
 	"eternalID": 131,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Rakano Sheriff",
 	"text": "+2/+2 for each of your other units wielding a weapon.; Pay 4 to play a +1/+1 weapon on one of your other units.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rakano_Sheriff.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-131/rakano-sheriff",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

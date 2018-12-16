@@ -1,9 +1,5 @@
 {
 	"eternalID": 93,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Thundering Kerasaur",
 	"text": "Overwhelm; When either player plays a spell, the other player draws a card.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Thundering_Kerasaur.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-93/thundering-kerasaur",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

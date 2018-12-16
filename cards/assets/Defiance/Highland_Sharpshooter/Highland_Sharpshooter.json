@@ -1,9 +1,5 @@
 {
 	"eternalID": 197,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Highland Sharpshooter",
 	"text": "Renown: When Highland Sharpshooter attacks this turn, give the top unit of your deck her battle skills and + Strength/+ Health equal to hers.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Highland_Sharpshooter.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-197/highland-sharpshooter",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

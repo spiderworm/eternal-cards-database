@@ -1,9 +1,5 @@
 {
 	"eternalID": 2,
-	"set": {
-		"id": 1002,
-		"name": "The Tale of Horus Traver"
-	},
 	"name": "Kindle",
 	"text": "+4 Power this turn.; Spark: +5 Power this turn instead.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Kindle.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1002-2/kindle",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1002
 }

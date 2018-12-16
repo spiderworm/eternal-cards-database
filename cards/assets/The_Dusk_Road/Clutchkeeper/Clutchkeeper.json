@@ -1,9 +1,5 @@
 {
 	"eternalID": 200,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Clutchkeeper",
 	"text": "Bond; When you bond Clutchkeeper, she gets Killer.; When she attacks, play two 3/3 Dinosaurs with Overwhelm.",
 	"cost": 14,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Clutchkeeper.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-200/clutchkeeper",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

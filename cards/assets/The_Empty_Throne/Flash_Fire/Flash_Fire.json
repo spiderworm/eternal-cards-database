@@ -1,9 +1,5 @@
 {
 	"eternalID": 6,
-	"set": {
-		"id": 0,
-		"name": "The Empty Throne"
-	},
 	"name": "Flash Fire",
 	"text": "Deal damage equal to your {F} influence.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Flash_Fire.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/0-6/flash-fire",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 0
 }

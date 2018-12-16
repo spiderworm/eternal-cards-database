@@ -1,9 +1,5 @@
 {
 	"eternalID": 45,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Amber Ring",
 	"text": "Once per turn, you may pay 3 to play a 1/1 Explorer",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Relic",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Amber_Ring.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-45/amber-ring",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

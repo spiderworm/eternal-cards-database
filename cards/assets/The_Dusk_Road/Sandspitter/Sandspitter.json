@@ -1,9 +1,5 @@
 {
 	"eternalID": 81,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Sandspitter",
 	"text": "Summon: Increase the cost of each spell in the enemy hand by 1.",
 	"cost": 4,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sandspitter.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-81/sandspitter",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

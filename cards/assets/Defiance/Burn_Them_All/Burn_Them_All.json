@@ -1,9 +1,5 @@
 {
 	"eternalID": 218,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Burn Them All",
 	"text": "Deal 5 damage to an enemy.\nAmplify 3: Deal 5 damage to an additional enemy.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Burn_Them_All.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-218/burn-them-all",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

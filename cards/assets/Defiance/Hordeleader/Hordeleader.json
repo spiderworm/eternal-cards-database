@@ -1,9 +1,5 @@
 {
 	"eternalID": 30,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Hordeleader",
 	"text": "When Hordeleader attacks, your other attacking units get +1 Strength this turn.;Renown: Play a Barbarian Camp.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hordeleader.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-30/hordeleader",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

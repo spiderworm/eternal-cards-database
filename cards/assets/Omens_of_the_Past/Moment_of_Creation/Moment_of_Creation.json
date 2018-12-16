@@ -1,9 +1,5 @@
 {
 	"eternalID": 185,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Moment of Creation",
 	"text": "Play two Sentinels with attack/health equal to the number of spells in your void.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Moment_of_Creation.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-185/moment-of-creation",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

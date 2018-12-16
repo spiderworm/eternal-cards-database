@@ -1,9 +1,5 @@
 {
 	"eternalID": 301,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Bloodscent Avisaur",
 	"text": "Flying; Fate: Your Dinosaurs get +1 Attack.; Summon: Nightfall.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bloodscent_Avisaur.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-301/bloodscent-avisaur",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

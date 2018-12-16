@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 1004,
-		"name": "Into Shadow"
-	},
 	"name": "Word of Sol",
 	"text": "Deal 4 damage.; Double Damage while you have no other cards in hand.",
 	"cost": 7,
@@ -13,5 +9,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Word_of_Sol.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/dl9U6_FffEE/word-of-sol",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 1004
 }

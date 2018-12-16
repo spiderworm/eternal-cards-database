@@ -1,9 +1,5 @@
 {
 	"eternalID": 6,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Scrap Hound",
 	"text": "Ultimate: Pay 4 and sacrifice another unit to give Scrap Hound +2/+2. If it was a Grenadin, Scrap Hound gets +5/+5 instead.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Scrap_Hound.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-6/scrap-hound",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

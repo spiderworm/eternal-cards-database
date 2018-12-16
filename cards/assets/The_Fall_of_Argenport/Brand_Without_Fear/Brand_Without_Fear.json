@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Brand, Without Fear",
 	"text": "Berserk; Summon: You may sacrifice another unit to give Brand Overwhelm.",
 	"cost": 6,
@@ -13,5 +9,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Brand,_Without_Fear.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/E3tyUVzzeag/brand--without-fear",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 4
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 79,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Svetya's Bravery",
 	"text": "Give one of your units +1/+1 this turn. If it's wielding a weapon, it gets Aegis.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Svetya's_Bravery.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-79/svetyas-bravery",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }

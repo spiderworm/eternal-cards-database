@@ -1,8 +1,4 @@
 {
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Urska, the Bear",
 	"text": "Reckless",
 	"cost": 6,
@@ -13,5 +9,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Urska,_the_Bear.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/Sq8Wk-QXmpU/urska--the-bear",
-	"deckBuildable": false
+	"deckBuildable": false,
+	"setID": 2
 }

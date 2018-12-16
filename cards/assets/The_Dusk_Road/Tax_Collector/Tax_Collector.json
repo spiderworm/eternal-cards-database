@@ -1,9 +1,5 @@
 {
 	"eternalID": 113,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Tax Collector",
 	"text": "When one of your other units dies, you gain 1 Armor.; Ultimate: Pay 7 to double your Attack and Armor.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Tax_Collector.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-113/tax-collector",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

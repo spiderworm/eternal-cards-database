@@ -1,9 +1,5 @@
 {
 	"eternalID": 159,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Portent Reader",
 	"text": "Flying; Summon: You may discard a card to create and draw Second Sight.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Portent_Reader.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-159/portent-reader",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

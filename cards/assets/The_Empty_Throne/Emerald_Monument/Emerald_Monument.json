@@ -1,9 +1,5 @@
 {
 	"eternalID": 422,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Emerald Monument",
 	"text": "Depleted; Gain {J}; Transmute 5: +3/+3 Gemblade.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Power",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Emerald_Monument.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-422/emerald-monument",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

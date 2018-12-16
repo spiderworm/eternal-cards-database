@@ -1,9 +1,5 @@
 {
 	"eternalID": 255,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Slumbering Stone",
 	"text": "Entomb: Play a 2/2 Flying Gargoyle.",
 	"cost": 1,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Slumbering_Stone.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-255/slumbering-stone",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 117,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Showdown",
 	"text": "Give one of your units invulnerable to damage this turn.; If it's a Gunslinger, it deals Double Damage this turn.",
 	"cost": 3,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Showdown.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-117/showdown",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 95,
-	"set": {
-		"id": 4,
-		"name": "The Fall of Argenport"
-	},
 	"name": "Subterranean Sentry",
 	"text": "Infiltrate: Endurance.",
 	"cost": 7,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Subterranean_Sentry.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/4-95/subterranean-sentry",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 4
 }

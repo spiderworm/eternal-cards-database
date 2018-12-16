@@ -1,9 +1,5 @@
 {
 	"eternalID": 270,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Lethrai Ranger",
 	"text": "Infiltrate: +2/+2.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lethrai_Ranger.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-270/lethrai-ranger",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

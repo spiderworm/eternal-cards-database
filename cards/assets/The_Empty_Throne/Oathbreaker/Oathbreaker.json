@@ -1,9 +1,5 @@
 {
 	"eternalID": 521,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Oathbreaker",
 	"text": "Lifesteal; When Oathbreaker attacks, your units with Lifesteal get +1/+1.",
 	"cost": 5,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Oathbreaker.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-521/oathbreaker",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

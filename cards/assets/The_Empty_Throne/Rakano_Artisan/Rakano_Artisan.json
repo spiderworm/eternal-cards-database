@@ -1,9 +1,5 @@
 {
 	"eternalID": 312,
-	"set": {
-		"id": 1,
-		"name": "The Empty Throne"
-	},
 	"name": "Rakano Artisan",
 	"text": "Summon: Each weapon in your deck gets +1/+1.",
 	"cost": 2,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rakano_Artisan.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/1-312/rakano-artisan",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 1
 }

@@ -1,9 +1,5 @@
 {
 	"eternalID": 140,
-	"set": {
-		"id": 3,
-		"name": "The Dusk Road"
-	},
 	"name": "Challenge by Law",
 	"text": "Kill an enemy unit.; Silence the rest.",
 	"cost": 6,
@@ -14,5 +10,6 @@
 	"type": "Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Challenge_by_Law.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/3-140/challenge-by-law",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 3
 }

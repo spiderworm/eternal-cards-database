@@ -1,9 +1,5 @@
 {
 	"eternalID": 201,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Xenan Banner",
 	"text": "Gain {T}{S}.; Depleted unless you have a unit.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Power",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Xenan_Banner.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-201/xenan-banner",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

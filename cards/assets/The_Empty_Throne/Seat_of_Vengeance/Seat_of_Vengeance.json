@@ -1,9 +1,5 @@
 {
 	"eternalID": 55,
-	"set": {
-		"id": 0,
-		"name": "The Empty Throne"
-	},
 	"name": "Seat of Vengeance",
 	"text": "Gain {J}{S}.; Depleted unless you have a Sigil in your hand.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Power",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Seat_of_Vengeance.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/0-55/seat-of-vengeance",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 0
 }

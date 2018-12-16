@@ -1,9 +1,5 @@
 {
 	"eternalID": 253,
-	"set": {
-		"id": 2,
-		"name": "Omens of the Past"
-	},
 	"name": "Spirit of Resistance",
 	"text": "Voidbound; Summon: Kill all other units and attachments.",
 	"cost": 12,
@@ -14,5 +10,6 @@
 	"type": "Unit",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Spirit_of_Resistance.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/2-253/spirit-of-resistance",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 2
 }

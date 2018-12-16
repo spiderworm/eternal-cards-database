@@ -1,9 +1,5 @@
 {
 	"eternalID": 112,
-	"set": {
-		"id": 5,
-		"name": "Defiance"
-	},
 	"name": "Steely Resolve",
 	"text": "Negate an enemy spell with cost 1 or less.",
 	"cost": 0,
@@ -14,5 +10,6 @@
 	"type": "Fast Spell",
 	"imageURL": "https://cards.eternalwarcry.com/cards/full/Steely_Resolve.png",
 	"detailsURL": "https://eternalwarcry.com/cards/details/5-112/steely-resolve",
-	"deckBuildable": true
+	"deckBuildable": true,
+	"setID": 5
 }
