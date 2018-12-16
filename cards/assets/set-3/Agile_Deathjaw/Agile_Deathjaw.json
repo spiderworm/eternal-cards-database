@@ -1,0 +1,15 @@
+{
+	"eternalID": 272,
+	"setID": 3,
+	"name": "Agile Deathjaw",
+	"text": "Ambush at Night.; Your other Dinosaurs have +1/+1.",
+	"cost": 5,
+	"influence": "{T}{T}{S}{S}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Agile_Deathjaw.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-272/agile-deathjaw",
+	"deckBuildable": true
+}

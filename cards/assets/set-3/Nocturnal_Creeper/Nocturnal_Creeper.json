@@ -1,0 +1,15 @@
+{
+	"eternalID": 64,
+	"setID": 3,
+	"name": "Nocturnal Creeper",
+	"text": "Deadly; Summon: Nightfall.",
+	"cost": 2,
+	"influence": "{T}",
+	"attack": 2,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Nocturnal_Creeper.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-64/nocturnal-creeper",
+	"deckBuildable": true
+}

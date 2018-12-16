@@ -1,0 +1,15 @@
+{
+	"eternalID": 171,
+	"setID": 2,
+	"name": "Praxis Banner",
+	"text": "Gain {F}{T}.; Depleted unless you have a unit.",
+	"cost": 0,
+	"influence": "{F}{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Power",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Praxis_Banner.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-171/praxis-banner",
+	"deckBuildable": true
+}

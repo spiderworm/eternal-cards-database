@@ -1,0 +1,15 @@
+{
+	"eternalID": 89,
+	"setID": 4,
+	"name": "Vital Arcana",
+	"text": "Draw two cards.; You gain 2 Health.",
+	"cost": 5,
+	"influence": "{T}{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Vital_Arcana.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-89/vital-arcana",
+	"deckBuildable": true
+}

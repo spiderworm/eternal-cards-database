@@ -1,0 +1,15 @@
+{
+	"eternalID": 231,
+	"setID": 1,
+	"name": "West-Wind Herald",
+	"text": "Flying, Aegis; Infiltrate: Play a spell from your void.",
+	"cost": 5,
+	"influence": "{P}{P}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/West-Wind_Herald.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-231/west-wind-herald",
+	"deckBuildable": true
+}

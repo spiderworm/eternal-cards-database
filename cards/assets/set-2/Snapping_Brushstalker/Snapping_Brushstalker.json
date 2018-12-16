@@ -1,0 +1,15 @@
+{
+	"eternalID": 53,
+	"setID": 2,
+	"name": "Snapping Brushstalker",
+	"text": "When an enemy spell is played, put Snapping Brushstalker into your hand.",
+	"cost": 4,
+	"influence": "{T}{T}",
+	"attack": 5,
+	"health": 5,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Snapping_Brushstalker.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-53/snapping-brushstalker",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 279,
+	"setID": 3,
+	"name": "Common Cause",
+	"text": "If two units in your hand share a type, gain an influence of your choice.",
+	"cost": 0,
+	"influence": "",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Power",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Common_Cause.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-279/common-cause",
+	"deckBuildable": true
+}

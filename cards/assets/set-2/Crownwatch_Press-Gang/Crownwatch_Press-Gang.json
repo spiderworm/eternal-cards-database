@@ -1,0 +1,15 @@
+{
+	"eternalID": 92,
+	"setID": 2,
+	"name": "Crownwatch Press-Gang",
+	"text": "Revenge.; Summon: Draw a 1-cost unit of your choice from your deck.",
+	"cost": 4,
+	"influence": "{J}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crownwatch_Press-Gang.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-92/crownwatch-press-gang",
+	"deckBuildable": true
+}

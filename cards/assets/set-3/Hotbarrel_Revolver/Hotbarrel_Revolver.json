@@ -1,0 +1,15 @@
+{
+	"eternalID": 34,
+	"setID": 3,
+	"name": "Hotbarrel Revolver",
+	"text": "Summon: The wielder deals 3 damage to a random enemy. If played on a Gunslinger, you choose the enemy instead.",
+	"cost": 5,
+	"influence": "{F}{F}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hotbarrel_Revolver.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-34/hotbarrel-revolver",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 212,
+	"setID": 5,
+	"name": "Howling Kurtarr",
+	"text": "Deadly, Endurance, Pledge;Empower: +2/+2 and Flying this turn.",
+	"cost": 4,
+	"influence": "{J}{J}{S}{S}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Howling_Kurtarr.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-212/howling-kurtarr",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 322,
+	"setID": 1,
+	"name": "Righteous Fury",
+	"text": "Give a unit Lifesteal and Double Damage.",
+	"cost": 4,
+	"influence": "{F}{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Righteous_Fury.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-322/righteous-fury",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 212,
+	"setID": 1,
+	"name": "Cobalt Acolyte",
+	"text": "Summon: Give a unit Flying",
+	"cost": 3,
+	"influence": "{P}",
+	"attack": 2,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cobalt_Acolyte.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-212/cobalt-acolyte",
+	"deckBuildable": true
+}

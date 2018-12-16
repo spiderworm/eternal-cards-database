@@ -1,0 +1,14 @@
+{
+	"setID": 1,
+	"name": "Pale Rider",
+	"text": "Deadly",
+	"cost": 4,
+	"influence": "{S}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Pale_Rider_Deadly.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/aSzgrKZfCiA/pale-rider",
+	"deckBuildable": false
+}

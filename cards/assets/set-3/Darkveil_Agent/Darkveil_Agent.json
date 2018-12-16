@@ -1,0 +1,15 @@
+{
+	"eternalID": 160,
+	"setID": 3,
+	"name": "Darkveil Agent",
+	"text": "Summon: Nightfall.; When you start your turn at Night, your Unseen get Aegis",
+	"cost": 2,
+	"influence": "{P}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Darkveil_Agent.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-160/darkveil-agent",
+	"deckBuildable": true
+}

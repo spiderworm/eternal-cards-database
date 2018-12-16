@@ -1,0 +1,15 @@
+{
+	"eternalID": 201,
+	"setID": 4,
+	"name": "Blackhall Warleader",
+	"text": "When Blackhall Warleader hits the enemy player, increase her Inspire by +1/+1 and she gets +1/+1.; Inspire: Units you draw get +0/+0.",
+	"cost": 2,
+	"influence": "{S}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Blackhall_Warleader.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-201/blackhall-warleader",
+	"deckBuildable": true
+}

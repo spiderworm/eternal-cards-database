@@ -1,0 +1,15 @@
+{
+	"eternalID": 185,
+	"setID": 3,
+	"name": "Slushdumper",
+	"text": "Ultimate: Pay 4 to give Slushdumper +1/+1 for each of your Yeti. Each of your Yeti deals 1 damage to the enemy player.",
+	"cost": 4,
+	"influence": "{P}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Slushdumper.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-185/slushdumper",
+	"deckBuildable": true
+}

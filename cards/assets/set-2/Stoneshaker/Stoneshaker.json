@@ -1,0 +1,15 @@
+{
+	"eternalID": 15,
+	"setID": 2,
+	"name": "Stoneshaker",
+	"text": "Summon: Reduce the cost of each unit in your deck by 1.",
+	"cost": 3,
+	"influence": "{F}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Stoneshaker.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-15/stoneshaker",
+	"deckBuildable": true
+}

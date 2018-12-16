@@ -1,0 +1,15 @@
+{
+	"eternalID": 151,
+	"setID": 1,
+	"name": "Valkyrie Enforcer",
+	"text": "Flying; Summon: You may silence another unit.",
+	"cost": 3,
+	"influence": "{J}{J}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Valkyrie_Enforcer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-151/valkyrie-enforcer",
+	"deckBuildable": true
+}

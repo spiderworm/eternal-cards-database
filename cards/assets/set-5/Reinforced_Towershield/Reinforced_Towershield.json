@@ -1,0 +1,15 @@
+{
+	"eternalID": 121,
+	"setID": 5,
+	"name": "Reinforced Towershield",
+	"text": "Summon: Gain {T} or {S}.",
+	"cost": 2,
+	"influence": "{P}",
+	"attack": 0,
+	"health": 4,
+	"rarity": "Common",
+	"type": "Relic Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Reinforced_Towershield.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-121/reinforced-towershield",
+	"deckBuildable": true
+}

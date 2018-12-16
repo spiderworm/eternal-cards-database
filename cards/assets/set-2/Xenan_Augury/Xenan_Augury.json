@@ -1,0 +1,15 @@
+{
+	"eternalID": 209,
+	"setID": 2,
+	"name": "Xenan Augury",
+	"text": "Draw one of the top three cards of your deck. Put the rest on the bottom.; You gain 3 Health.",
+	"cost": 4,
+	"influence": "{T}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Xenan_Augury.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-209/xenan-augury",
+	"deckBuildable": true
+}

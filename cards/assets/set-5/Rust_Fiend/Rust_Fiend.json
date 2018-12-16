@@ -1,0 +1,13 @@
+{
+	"setID": 5,
+	"name": "Rust Fiend",
+	"cost": 2,
+	"influence": "",
+	"attack": 6,
+	"health": 4,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rust_Fiend.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/t2r8F-sM_CU/rust-fiend",
+	"deckBuildable": false
+}

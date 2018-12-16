@@ -1,0 +1,15 @@
+{
+	"eternalID": 203,
+	"setID": 3,
+	"name": "Arachnophobia",
+	"text": "Summon: Nightfall.; When the cursed unit dies, play a 1/1 Spider with Deadly.",
+	"cost": 1,
+	"influence": "{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Curse",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Arachnophobia.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-203/arachnophobia",
+	"deckBuildable": true
+}

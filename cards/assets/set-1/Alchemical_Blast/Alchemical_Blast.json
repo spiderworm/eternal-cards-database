@@ -1,0 +1,15 @@
+{
+	"eternalID": 415,
+	"setID": 1,
+	"name": "Alchemical Blast",
+	"text": "Deal 2 damage.",
+	"cost": 3,
+	"influence": "",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Alchemical_Blast.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-415/alchemical-blast",
+	"deckBuildable": true
+}

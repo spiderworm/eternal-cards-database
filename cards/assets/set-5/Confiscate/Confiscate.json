@@ -1,0 +1,15 @@
+{
+	"eternalID": 66,
+	"setID": 5,
+	"name": "Confiscate",
+	"text": "Kill an attachment.\nDraw a card.",
+	"cost": 5,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Confiscate.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-66/confiscate",
+	"deckBuildable": true
+}

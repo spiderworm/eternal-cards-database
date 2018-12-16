@@ -1,0 +1,15 @@
+{
+	"eternalID": 101,
+	"setID": 4,
+	"name": "Peacekeeper's Helm",
+	"text": "Spellcraft 4: Play Rebuke.",
+	"cost": 1,
+	"influence": "{J}",
+	"attack": 1,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Peacekeeper's_Helm.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-101/peacekeepers-helm",
+	"deckBuildable": true
+}

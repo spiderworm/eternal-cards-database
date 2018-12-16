@@ -1,0 +1,15 @@
+{
+	"eternalID": 310,
+	"setID": 4,
+	"name": "Yushkov, the Usurper",
+	"text": "When the enemy player plays a unit, exhaust it.; Ultimate: At the start of your turn, you get +1 power this turn plus an additional power for each exhausted enemy unit.",
+	"cost": 4,
+	"influence": "{F}{F}{F}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "Promo",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Yushkov,_the_Usurper.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-310/yushkov-the-usurper",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 8,
+	"setID": 1003,
+	"name": "Honor the Fallen",
+	"text": "Give one of your units the battle skills of each unit in your void.",
+	"cost": 4,
+	"influence": "{J}{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Honor_the_Fallen.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1003-8/honor-the-fallen",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 333,
+	"setID": 1,
+	"name": "Combrei Healer",
+	"text": "Summon: You and a unit each get +3 Health.",
+	"cost": 3,
+	"influence": "{T}{J}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Combrei_Healer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-333/combrei-healer",
+	"deckBuildable": true
+}

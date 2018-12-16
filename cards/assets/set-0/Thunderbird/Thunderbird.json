@@ -1,0 +1,15 @@
+{
+	"eternalID": 27,
+	"setID": 0,
+	"name": "Thunderbird",
+	"text": "Flying, Aegis",
+	"cost": 3,
+	"influence": "{P}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Thunderbird.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/0-27/thunderbird",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 61,
+	"setID": 2,
+	"name": "Pack Hunt",
+	"text": "Your units get +2/+2 this turn.",
+	"cost": 6,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Pack_Hunt.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-61/pack-hunt",
+	"deckBuildable": true
+}

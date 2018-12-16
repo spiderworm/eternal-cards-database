@@ -1,0 +1,15 @@
+{
+	"eternalID": 172,
+	"setID": 5,
+	"name": "Lethrai Intimidator",
+	"text": "Pledge;Empower: Your units get +1 Strength this turn.",
+	"cost": 4,
+	"influence": "{S}{S}",
+	"attack": 2,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lethrai_Intimidator.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-172/lethrai-intimidator",
+	"deckBuildable": true
+}

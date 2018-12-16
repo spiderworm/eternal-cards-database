@@ -1,0 +1,15 @@
+{
+	"eternalID": 383,
+	"setID": 1,
+	"name": "Nightmaw, Sight Unseen",
+	"text": "Your units are Unblockable.",
+	"cost": 7,
+	"influence": "{P}{P}{P}{S}{S}{S}",
+	"attack": 7,
+	"health": 7,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Nightmaw,_Sight_Unseen.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-383/nightmaw-sight-unseen",
+	"deckBuildable": true
+}

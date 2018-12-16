@@ -1,0 +1,15 @@
+{
+	"eternalID": 8,
+	"setID": 4,
+	"name": "Ankle Cutter",
+	"text": "When a unit with Endurance takes damage, kill it.",
+	"cost": 2,
+	"influence": "{F}",
+	"attack": 3,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ankle_Cutter.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-8/ankle-cutter",
+	"deckBuildable": true
+}

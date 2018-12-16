@@ -1,0 +1,15 @@
+{
+	"eternalID": 426,
+	"setID": 1,
+	"name": "Amethyst Monument",
+	"text": "Depleted; Gain {S}; Transmute 5: 4/4 Puma with Lifesteal.",
+	"cost": 0,
+	"influence": "{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Power",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Amethyst_Monument.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-426/amethyst-monument",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 120,
+	"setID": 2,
+	"name": "Skyrider Vanguard",
+	"text": "Flying; Spark: Your Flying units get +1 Attack.",
+	"cost": 3,
+	"influence": "{P}",
+	"attack": 2,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Skyrider_Vanguard.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-120/skyrider-vanguard",
+	"deckBuildable": true
+}

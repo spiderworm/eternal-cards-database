@@ -1,0 +1,15 @@
+{
+	"eternalID": 282,
+	"setID": 1,
+	"name": "Beastcaller's Amulet",
+	"text": "Infiltrate: Play a 5/5 Beast.",
+	"cost": 3,
+	"influence": "{S}",
+	"attack": 1,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Beastcaller's_Amulet.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-282/beastcallers-amulet",
+	"deckBuildable": true
+}

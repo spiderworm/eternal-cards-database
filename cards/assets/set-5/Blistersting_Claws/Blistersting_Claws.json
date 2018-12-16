@@ -1,0 +1,15 @@
+{
+	"eternalID": 225,
+	"setID": 5,
+	"name": "Blistersting Claws",
+	"text": "You have Deadly while you have a unit with Deadly.",
+	"cost": 6,
+	"influence": "{T}{S}{S}",
+	"attack": 1,
+	"health": 4,
+	"rarity": "Rare",
+	"type": "Relic Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Blistersting_Claws.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-225/blistersting-claws",
+	"deckBuildable": true
+}

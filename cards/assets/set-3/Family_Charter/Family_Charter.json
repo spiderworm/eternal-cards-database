@@ -1,0 +1,15 @@
+{
+	"eternalID": 280,
+	"setID": 3,
+	"name": "Family Charter",
+	"text": "Summon: Scout.; Pay 6 and sacrifice Family Charter to draw two cards.",
+	"cost": 1,
+	"influence": "",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Family_Charter.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-280/family-charter",
+	"deckBuildable": true
+}

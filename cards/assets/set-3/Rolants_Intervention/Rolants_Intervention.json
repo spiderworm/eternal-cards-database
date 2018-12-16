@@ -1,0 +1,15 @@
+{
+	"eternalID": 104,
+	"setID": 3,
+	"name": "Rolant's Intervention",
+	"text": "- Give an enemy unit -3 Attack this turn, or; - Give a unit or weapon in your hand +1/+1, or; - Give one of your Vakyrie Aegis.",
+	"cost": 1,
+	"influence": "{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rolant's_Intervention.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-104/rolants-intervention",
+	"deckBuildable": true
+}

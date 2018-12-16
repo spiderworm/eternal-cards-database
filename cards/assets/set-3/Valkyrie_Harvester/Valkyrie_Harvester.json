@@ -1,0 +1,15 @@
+{
+	"eternalID": 249,
+	"setID": 3,
+	"name": "Valkyrie Harvester",
+	"text": "Flying; Summon: Draw each unit that died this turn. They get Flying and become Valkyrie.",
+	"cost": 8,
+	"influence": "{S}{S}",
+	"attack": 6,
+	"health": 5,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Valkyrie_Harvester.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-249/valkyrie-harvester",
+	"deckBuildable": true
+}

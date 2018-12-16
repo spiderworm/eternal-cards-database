@@ -1,0 +1,15 @@
+{
+	"eternalID": 14,
+	"setID": 1001,
+	"name": "Cabal Spymaster",
+	"text": "Your units can Infiltrate any number of times.",
+	"cost": 4,
+	"influence": "{P}{S}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cabal_Spymaster.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1001-14/cabal-spymaster",
+	"deckBuildable": true
+}

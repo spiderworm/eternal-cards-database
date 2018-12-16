@@ -1,0 +1,15 @@
+{
+	"eternalID": 184,
+	"setID": 3,
+	"name": "Regression",
+	"text": "At the start of the cursed unit's turn, transform it into a random unit that costs 1 less. When it would cost zero, kill it.",
+	"cost": 4,
+	"influence": "{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Curse",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Regression.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-184/regression",
+	"deckBuildable": true
+}

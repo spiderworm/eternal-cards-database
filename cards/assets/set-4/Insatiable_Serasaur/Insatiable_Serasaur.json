@@ -1,0 +1,15 @@
+{
+	"eternalID": 80,
+	"setID": 4,
+	"name": "Insatiable Serasaur",
+	"text": "When Insatiable Serasaur attacks, spend your remaining power to give it that much Attack/Health.",
+	"cost": 4,
+	"influence": "{T}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Insatiable_Serasaur.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-80/insatiable-serasaur",
+	"deckBuildable": true
+}

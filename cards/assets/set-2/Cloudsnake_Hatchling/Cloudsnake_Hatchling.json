@@ -1,0 +1,15 @@
+{
+	"eternalID": 103,
+	"setID": 2,
+	"name": "Cloudsnake Hatchling",
+	"text": "Flying",
+	"cost": 1,
+	"influence": "{P}",
+	"attack": 1,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cloudsnake_Hatchling.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-103/cloudsnake-hatchling",
+	"deckBuildable": true
+}

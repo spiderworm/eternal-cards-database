@@ -1,0 +1,15 @@
+{
+	"eternalID": 152,
+	"setID": 1,
+	"name": "Silverwing Familiar",
+	"text": "Flying, Lifesteal, Aegis",
+	"cost": 3,
+	"influence": "{J}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Silverwing_Familiar.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-152/silverwing-familiar",
+	"deckBuildable": true
+}

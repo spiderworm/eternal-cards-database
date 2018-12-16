@@ -1,0 +1,15 @@
+{
+	"eternalID": 62,
+	"setID": 3,
+	"name": "Cryptic Etchings",
+	"text": "Once per turn, you may pay 2 to Scout.",
+	"cost": 2,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cryptic_Etchings.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-62/cryptic-etchings",
+	"deckBuildable": true
+}

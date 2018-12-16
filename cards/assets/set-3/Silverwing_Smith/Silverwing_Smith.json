@@ -1,0 +1,15 @@
+{
+	"eternalID": 119,
+	"setID": 3,
+	"name": "Silverwing Smith",
+	"text": "Flying; When you gain Armor, gain an additional +1 Armor.",
+	"cost": 3,
+	"influence": "{J}{J}",
+	"attack": 1,
+	"health": 4,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Silverwing_Smith.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-119/silverwing-smith",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 221,
+	"setID": 4,
+	"name": "Umbren Deathwatcher",
+	"text": "+1/+1 for each unit in your void.",
+	"cost": 3,
+	"influence": "{S}{S}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Umbren_Deathwatcher.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-221/umbren-deathwatcher",
+	"deckBuildable": true
+}

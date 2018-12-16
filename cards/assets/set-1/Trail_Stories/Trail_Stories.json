@@ -1,0 +1,15 @@
+{
+	"eternalID": 188,
+	"setID": 1,
+	"name": "Trail Stories",
+	"text": "Reduce the cost of a spell in your hand by 1.",
+	"cost": 0,
+	"influence": "{F}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Trail_Stories.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-188/trail-stories",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 219,
+	"setID": 3,
+	"name": "Unseen Agent",
+	"text": "Unblockable; Summon: Nightfall.",
+	"cost": 2,
+	"influence": "{S}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Unseen_Agent.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-219/unseen-agent",
+	"deckBuildable": true
+}

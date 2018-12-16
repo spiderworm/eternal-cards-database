@@ -1,0 +1,15 @@
+{
+	"eternalID": 171,
+	"setID": 5,
+	"name": "Governor Sahin",
+	"text": "Once per turn, you may pay 3 and sacrifice a relic to play the top relic of your deck.",
+	"cost": 4,
+	"influence": "{S}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Governor_Sahin.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-171/governor-sahin",
+	"deckBuildable": true
+}

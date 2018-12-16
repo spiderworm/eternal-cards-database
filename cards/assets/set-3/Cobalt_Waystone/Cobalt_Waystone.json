@@ -1,0 +1,15 @@
+{
+	"eternalID": 151,
+	"setID": 3,
+	"name": "Cobalt Waystone",
+	"text": "Gain {P}, then if you have {P}{P}{P}{P}, you gain an Aegis",
+	"cost": 0,
+	"influence": "{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Power",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cobalt_Waystone.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-151/cobalt-waystone",
+	"deckBuildable": true
+}

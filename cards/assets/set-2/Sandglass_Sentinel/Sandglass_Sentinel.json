@@ -1,0 +1,15 @@
+{
+	"eternalID": 184,
+	"setID": 2,
+	"name": "Sandglass Sentinel",
+	"text": "Overwhelm; When you play a spell, Sandglass Sentinel gets +4 Attack this turn.",
+	"cost": 7,
+	"influence": "{F}{T}",
+	"attack": 4,
+	"health": 6,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sandglass_Sentinel.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-184/sandglass-sentinel",
+	"deckBuildable": true
+}

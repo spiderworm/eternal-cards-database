@@ -1,0 +1,15 @@
+{
+	"eternalID": 48,
+	"setID": 1,
+	"name": "Obliterate",
+	"text": "Overwhelm; Deal 6 damage to a unit or player.",
+	"cost": 5,
+	"influence": "{F}{F}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Obliterate.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-48/obliterate",
+	"deckBuildable": true
+}

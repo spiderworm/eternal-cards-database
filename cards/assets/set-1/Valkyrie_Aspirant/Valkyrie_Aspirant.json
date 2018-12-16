@@ -1,0 +1,15 @@
+{
+	"eternalID": 127,
+	"setID": 1,
+	"name": "Valkyrie Aspirant",
+	"text": "Flying; Ultimate: Pay 8 to give Valkyrie Aspirant +4/+4.",
+	"cost": 1,
+	"influence": "{J}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Valkyrie_Aspirant.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-127/valkyrie-aspirant",
+	"deckBuildable": true
+}

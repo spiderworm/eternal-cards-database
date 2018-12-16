@@ -1,0 +1,15 @@
+{
+	"eternalID": 217,
+	"setID": 2,
+	"name": "Bring Down",
+	"text": "Silence an enemy unit. If it had Flying, kill it.",
+	"cost": 2,
+	"influence": "{J}{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bring_Down.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-217/bring-down",
+	"deckBuildable": true
+}

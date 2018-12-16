@@ -1,0 +1,15 @@
+{
+	"eternalID": 200,
+	"setID": 2,
+	"name": "Decimate",
+	"text": "Deal 10 damage.; Decimate can't be negated or blocked by Aegis",
+	"cost": 10,
+	"influence": "{F}{F}{P}{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Decimate.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-200/decimate",
+	"deckBuildable": true
+}

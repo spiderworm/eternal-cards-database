@@ -1,0 +1,15 @@
+{
+	"eternalID": 227,
+	"setID": 1,
+	"name": "Jotun Hurler",
+	"text": "Fate: Create and draw a Snowball.",
+	"cost": 5,
+	"influence": "{P}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Jotun_Hurler.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-227/jotun-hurler",
+	"deckBuildable": true
+}

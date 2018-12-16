@@ -1,0 +1,14 @@
+{
+	"setID": 1003,
+	"name": "Bridled Sandstrider",
+	"text": "Deadly, Killer",
+	"cost": 5,
+	"influence": "",
+	"attack": 1,
+	"health": 1,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bridled_Sandstrider.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/a7RZ9et1nzc/bridled-sandstrider",
+	"deckBuildable": false
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 177,
+	"setID": 4,
+	"name": "Resurface",
+	"text": "Warp; Move a spell of your choice to the top of your deck.",
+	"cost": 4,
+	"influence": "{P}{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Resurface.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-177/resurface",
+	"deckBuildable": true
+}

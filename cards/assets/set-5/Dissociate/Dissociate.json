@@ -1,0 +1,15 @@
+{
+	"eternalID": 44,
+	"setID": 5,
+	"name": "Dissociate",
+	"text": "Negate an enemy spell and put it into the enemy hand or put an enemy attachment into the enemy hand. Then increase its cost by 3.",
+	"cost": 2,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Dissociate.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-44/dissociate",
+	"deckBuildable": true
+}

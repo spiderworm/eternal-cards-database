@@ -1,0 +1,15 @@
+{
+	"eternalID": 254,
+	"setID": 3,
+	"name": "Whirling Duo",
+	"text": "Charge, Lifesteal",
+	"cost": 3,
+	"influence": "{F}{J}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Whirling_Duo.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-254/whirling-duo",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 203,
+	"setID": 1,
+	"name": "Yeti Snowslinger",
+	"text": "Infiltrate: Create and draw a Snowball.",
+	"cost": 2,
+	"influence": "{P}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Yeti_Snowslinger.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-203/yeti-snowslinger",
+	"deckBuildable": true
+}

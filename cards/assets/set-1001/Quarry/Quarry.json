@@ -1,0 +1,15 @@
+{
+	"eternalID": 15,
+	"setID": 1001,
+	"name": "Quarry",
+	"text": "Draw one of the top two cards of your deck and reduce its cost by 1.; Discard the other.",
+	"cost": 2,
+	"influence": "{F}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Quarry.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1001-15/quarry",
+	"deckBuildable": true
+}

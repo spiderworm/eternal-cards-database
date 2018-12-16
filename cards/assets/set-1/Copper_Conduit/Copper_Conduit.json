@@ -1,0 +1,15 @@
+{
+	"eternalID": 66,
+	"setID": 1,
+	"name": "Copper Conduit",
+	"text": "Overwhelm; Summon: Spend your remaining power to give Copper Conduit that much Attack and Health.",
+	"cost": 2,
+	"influence": "{T}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Copper_Conduit.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-66/copper-conduit",
+	"deckBuildable": true
+}

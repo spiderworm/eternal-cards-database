@@ -1,0 +1,15 @@
+{
+	"eternalID": 121,
+	"setID": 3,
+	"name": "Tandem Watchwing",
+	"text": "Flying; Valkyrie Ally: +1/+1.",
+	"cost": 3,
+	"influence": "{J}",
+	"attack": 2,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Tandem_Watchwing.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-121/tandem-watchwing",
+	"deckBuildable": true
+}

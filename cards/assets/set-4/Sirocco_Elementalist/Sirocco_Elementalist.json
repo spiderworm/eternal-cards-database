@@ -1,0 +1,15 @@
+{
+	"eternalID": 74,
+	"setID": 4,
+	"name": "Sirocco Elementalist",
+	"text": "Summon: Put an enemy unit with Flying into its owner's hand.",
+	"cost": 3,
+	"influence": "{T}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sirocco_Elementalist.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-74/sirocco-elementalist",
+	"deckBuildable": true
+}

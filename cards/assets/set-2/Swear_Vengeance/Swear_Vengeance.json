@@ -1,0 +1,15 @@
+{
+	"eternalID": 140,
+	"setID": 2,
+	"name": "Swear Vengeance",
+	"text": "Give one of your units Revenge.",
+	"cost": 1,
+	"influence": "{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Swear_Vengeance.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-140/swear-vengeance",
+	"deckBuildable": true
+}

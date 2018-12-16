@@ -1,0 +1,15 @@
+{
+	"eternalID": 25,
+	"setID": 2,
+	"name": "Thunderhoof Warrior",
+	"text": "Overwhelm; Ultimate: Pay 6 to give Thunderhoof Warrior +2/+2.",
+	"cost": 4,
+	"influence": "{F}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Thunderhoof_Warrior.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-25/thunderhoof-warrior",
+	"deckBuildable": true
+}

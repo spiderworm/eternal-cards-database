@@ -1,0 +1,15 @@
+{
+	"eternalID": 19,
+	"setID": 2,
+	"name": "Dustblind",
+	"text": "Warp; Exhaust two enemy units.",
+	"cost": 5,
+	"influence": "{F}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Dustblind.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-19/dustblind",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 56,
+	"setID": 4,
+	"name": "Randori",
+	"text": "Swap the blocks  of two blocking enemy units.",
+	"cost": 1,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Randori.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-56/randori",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 121,
+	"setID": 1,
+	"name": "Hall of Lost Kings",
+	"text": "Play a 5/5 Sentinel. If you have more than 25 Health, play five Sentinels instead.",
+	"cost": 7,
+	"influence": "{T}{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hall_of_Lost_Kings.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-121/hall-of-lost-kings",
+	"deckBuildable": true
+}

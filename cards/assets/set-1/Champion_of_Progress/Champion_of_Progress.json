@@ -1,0 +1,15 @@
+{
+	"eternalID": 345,
+	"setID": 1,
+	"name": "Champion of Progress",
+	"text": "{T}{T}{T}{T}{T}{T}: +6/+6.; {J}{J}{J}{J}{J}{J}: +6/+6.",
+	"cost": 6,
+	"influence": "{T}{J}",
+	"attack": 6,
+	"health": 6,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Champion_of_Progress.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-345/champion-of-progress",
+	"deckBuildable": true
+}

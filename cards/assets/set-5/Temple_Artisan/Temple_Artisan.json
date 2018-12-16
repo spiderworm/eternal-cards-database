@@ -1,0 +1,15 @@
+{
+	"eternalID": 62,
+	"setID": 5,
+	"name": "Temple Artisan",
+	"text": "Pledge;Empower: Double Temple Artisan's  Strength/ Health this turn.",
+	"cost": 4,
+	"influence": "{T}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Temple_Artisan.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-62/temple-artisan",
+	"deckBuildable": true
+}

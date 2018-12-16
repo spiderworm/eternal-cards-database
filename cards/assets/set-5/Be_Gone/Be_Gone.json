@@ -1,0 +1,15 @@
+{
+	"eternalID": 39,
+	"setID": 5,
+	"name": "Be Gone",
+	"text": "Put a unit into its owner's hand.\nGain {J} or {S}.",
+	"cost": 1,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Be_Gone.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-39/be-gone",
+	"deckBuildable": true
+}

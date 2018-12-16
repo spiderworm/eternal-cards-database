@@ -1,0 +1,15 @@
+{
+	"eternalID": 9,
+	"setID": 0,
+	"name": "Silence",
+	"text": "Silence a unit.",
+	"cost": 1,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Silence.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/0-9/silence",
+	"deckBuildable": true
+}

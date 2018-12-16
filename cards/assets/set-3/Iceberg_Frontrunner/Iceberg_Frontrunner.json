@@ -1,0 +1,15 @@
+{
+	"eternalID": 3,
+	"setID": 3,
+	"name": "Iceberg Frontrunner",
+	"text": "Charge",
+	"cost": 1,
+	"influence": "{F}",
+	"attack": 1,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Iceberg_Frontrunner.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-3/iceberg-frontrunner",
+	"deckBuildable": true
+}

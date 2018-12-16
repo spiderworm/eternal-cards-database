@@ -1,0 +1,15 @@
+{
+	"eternalID": 193,
+	"setID": 3,
+	"name": "Eilyn's Frostrider",
+	"text": "Flying; Summon: Stun two enemy units.",
+	"cost": 6,
+	"influence": "{P}{P}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Eilyn's_Frostrider.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-193/eilyns-frostrider",
+	"deckBuildable": true
+}

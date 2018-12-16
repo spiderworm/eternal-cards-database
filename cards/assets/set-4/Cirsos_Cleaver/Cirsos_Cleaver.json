@@ -1,0 +1,15 @@
+{
+	"eternalID": 270,
+	"setID": 4,
+	"name": "Cirso's Cleaver",
+	"text": "Summon: The wielder gets Killer.; Spellcraft 2: Play Feeding Time.",
+	"cost": 5,
+	"influence": "{T}{P}{S}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Legendary",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cirso's_Cleaver.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-270/cirsos-cleaver",
+	"deckBuildable": true
+}

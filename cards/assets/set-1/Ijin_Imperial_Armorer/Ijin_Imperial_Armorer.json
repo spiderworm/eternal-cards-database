@@ -1,0 +1,15 @@
+{
+	"eternalID": 326,
+	"setID": 1,
+	"name": "Ijin, Imperial Armorer",
+	"text": "Pay 4 and exhaust Ijin to play a +4/+4 Mithril Armor on one of your units.",
+	"cost": 3,
+	"influence": "{F}{F}{J}",
+	"attack": 3,
+	"health": 2,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ijin,_Imperial_Armorer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-326/ijin-imperial-armorer",
+	"deckBuildable": true
+}

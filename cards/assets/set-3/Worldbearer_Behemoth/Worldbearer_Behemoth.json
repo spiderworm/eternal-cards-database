@@ -1,0 +1,15 @@
+{
+	"eternalID": 87,
+	"setID": 3,
+	"name": "Worldbearer Behemoth",
+	"text": "Overwhelm; When Worldbearer Behemoth attacks, play 1 random power card from your deck. Then, increase this ability by 1.",
+	"cost": 5,
+	"influence": "{T}{T}{T}",
+	"attack": 6,
+	"health": 7,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Worldbearer_Behemoth.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-87/worldbearer-behemoth",
+	"deckBuildable": true
+}

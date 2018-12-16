@@ -1,0 +1,15 @@
+{
+	"eternalID": 273,
+	"setID": 4,
+	"name": "Veteran Strategist",
+	"text": "Ultimate: Pay 2 to gain 1 Health and an influence of your choice.",
+	"cost": 1,
+	"influence": "",
+	"attack": 0,
+	"health": 4,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Veteran_Strategist.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-273/veteran-strategist",
+	"deckBuildable": true
+}

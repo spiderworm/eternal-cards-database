@@ -1,0 +1,15 @@
+{
+	"eternalID": 4,
+	"setID": 4,
+	"name": "Light 'em Up",
+	"text": "Your units get +1 Attack this turn.",
+	"cost": 1,
+	"influence": "{F}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Light_'em_Up.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-4/light-em-up",
+	"deckBuildable": true
+}

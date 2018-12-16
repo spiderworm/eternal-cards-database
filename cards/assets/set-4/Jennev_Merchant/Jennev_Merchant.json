@@ -1,0 +1,15 @@
+{
+	"eternalID": 169,
+	"setID": 4,
+	"name": "Jennev Merchant",
+	"text": "Aegis; Summon: You may choose a card from your hand to swap with a {P} card in your Market.",
+	"cost": 3,
+	"influence": "{P}",
+	"attack": 3,
+	"health": 2,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Jennev_Merchant.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-169/jennev-merchant",
+	"deckBuildable": true
+}

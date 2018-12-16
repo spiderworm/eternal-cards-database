@@ -1,0 +1,15 @@
+{
+	"eternalID": 247,
+	"setID": 1,
+	"name": "Skycrag Wyvarch",
+	"text": "Flying, Killer",
+	"cost": 5,
+	"influence": "{P}{P}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Skycrag_Wyvarch.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-247/skycrag-wyvarch",
+	"deckBuildable": true
+}

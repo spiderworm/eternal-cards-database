@@ -1,0 +1,15 @@
+{
+	"eternalID": 162,
+	"setID": 3,
+	"name": "Horizon Seeker",
+	"text": "Flying; Summon: Nightfall.; When you play a Dinosaur, it gets +1 Health.",
+	"cost": 2,
+	"influence": "{P}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Horizon_Seeker.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-162/horizon-seeker",
+	"deckBuildable": true
+}

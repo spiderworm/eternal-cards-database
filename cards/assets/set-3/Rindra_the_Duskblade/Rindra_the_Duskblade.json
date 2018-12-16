@@ -1,0 +1,15 @@
+{
+	"eternalID": 277,
+	"setID": 3,
+	"name": "Rindra, the Duskblade",
+	"text": "Summon: Nightfall.; Rindra has Lifesteal and Overwhelm at Night.",
+	"cost": 4,
+	"influence": "{P}{P}{S}{S}",
+	"attack": 5,
+	"health": 5,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rindra,_the_Duskblade.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-277/rindra-the-duskblade",
+	"deckBuildable": true
+}

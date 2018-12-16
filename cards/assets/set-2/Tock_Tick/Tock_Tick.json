@@ -1,0 +1,15 @@
+{
+	"eternalID": 141,
+	"setID": 2,
+	"name": "Tock Tick",
+	"text": "Revenge",
+	"cost": 1,
+	"influence": "{S}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Tock_Tick.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-141/tock-tick",
+	"deckBuildable": true
+}

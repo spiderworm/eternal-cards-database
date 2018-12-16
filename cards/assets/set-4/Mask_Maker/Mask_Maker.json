@@ -1,0 +1,15 @@
+{
+	"eternalID": 277,
+	"setID": 4,
+	"name": "Mask Maker",
+	"text": "Your other units that share a type with Mask Maker have +1/+1.; Summon: Choose one of your other units. Mask Maker becomes its type.",
+	"cost": 4,
+	"influence": "",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Mask_Maker.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-277/mask-maker",
+	"deckBuildable": true
+}

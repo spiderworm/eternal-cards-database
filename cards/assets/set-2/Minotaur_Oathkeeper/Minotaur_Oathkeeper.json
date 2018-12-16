@@ -1,0 +1,15 @@
+{
+	"eternalID": 70,
+	"setID": 2,
+	"name": "Minotaur Oathkeeper",
+	"text": "When you attack the enemy player with exactly one unit, it gets +1/+1 this turn.",
+	"cost": 1,
+	"influence": "{J}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Minotaur_Oathkeeper.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-70/minotaur-oathkeeper",
+	"deckBuildable": true
+}

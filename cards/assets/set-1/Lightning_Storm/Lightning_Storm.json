@@ -1,0 +1,15 @@
+{
+	"eternalID": 206,
+	"setID": 1,
+	"name": "Lightning Storm",
+	"text": "Deal 2 damage to each unit.",
+	"cost": 2,
+	"influence": "{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lightning_Storm.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-206/lightning-storm",
+	"deckBuildable": true
+}

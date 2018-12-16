@@ -1,0 +1,15 @@
+{
+	"eternalID": 14,
+	"setID": 4,
+	"name": "Ruination Sledge",
+	"text": "Spellcraft 3: Play Ruin.",
+	"cost": 2,
+	"influence": "{F}",
+	"attack": 3,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ruination_Sledge.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-14/ruination-sledge",
+	"deckBuildable": true
+}

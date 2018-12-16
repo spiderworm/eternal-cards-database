@@ -1,0 +1,15 @@
+{
+	"eternalID": 42,
+	"setID": 5,
+	"name": "Scorpion",
+	"text": "Deadly",
+	"cost": 1,
+	"influence": "{T}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Scorpion.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-42/scorpion",
+	"deckBuildable": true
+}

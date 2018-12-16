@@ -1,0 +1,15 @@
+{
+	"eternalID": 97,
+	"setID": 1,
+	"name": "Steward of Prophecy",
+	"text": "Summon: Silence a unit in the enemy player's hand.",
+	"cost": 4,
+	"influence": "{T}",
+	"attack": 4,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Steward_of_Prophecy.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-97/steward-of-prophecy",
+	"deckBuildable": true
+}

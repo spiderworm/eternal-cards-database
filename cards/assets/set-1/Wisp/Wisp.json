@@ -1,0 +1,13 @@
+{
+	"setID": 1,
+	"name": "Wisp",
+	"cost": 1,
+	"influence": "{T}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Wisp.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/Ss4epdkY6QE/wisp",
+	"deckBuildable": false
+}

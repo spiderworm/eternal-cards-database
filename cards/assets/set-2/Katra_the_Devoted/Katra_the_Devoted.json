@@ -1,0 +1,15 @@
+{
+	"eternalID": 208,
+	"setID": 2,
+	"name": "Katra, the Devoted",
+	"text": "Lifeforce: When you gain health, your units get +1/+1.",
+	"cost": 4,
+	"influence": "{T}{T}{S}{S}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Katra,_the_Devoted.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-208/katra-the-devoted",
+	"deckBuildable": true
+}

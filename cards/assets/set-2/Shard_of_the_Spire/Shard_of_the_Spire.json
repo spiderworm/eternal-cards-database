@@ -1,0 +1,15 @@
+{
+	"eternalID": 85,
+	"setID": 2,
+	"name": "Shard of the Spire",
+	"text": "When you play a unit, its Attack/Health becomes the higher of the two.",
+	"cost": 4,
+	"influence": "{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Shard_of_the_Spire.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-85/shard-of-the-spire",
+	"deckBuildable": true
+}

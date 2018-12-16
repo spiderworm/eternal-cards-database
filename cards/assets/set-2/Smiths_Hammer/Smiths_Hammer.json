@@ -1,0 +1,15 @@
+{
+	"eternalID": 8,
+	"setID": 2,
+	"name": "Smith's Hammer",
+	"text": "Overwhelm",
+	"cost": 2,
+	"influence": "{F}",
+	"attack": 2,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Smith's_Hammer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-8/smiths-hammer",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 385,
+	"setID": 1,
+	"name": "Black-Sky Harbinger",
+	"text": "Flying, Lifesteal; Summon: Deal 1 damage to each enemy.",
+	"cost": 6,
+	"influence": "{P}{S}",
+	"attack": 4,
+	"health": 5,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Black-Sky_Harbinger.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-385/black-sky-harbinger",
+	"deckBuildable": true
+}

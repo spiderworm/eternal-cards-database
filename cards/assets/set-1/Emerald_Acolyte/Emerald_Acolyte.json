@@ -1,0 +1,15 @@
+{
+	"eternalID": 153,
+	"setID": 1,
+	"name": "Emerald Acolyte",
+	"text": "Summon: You gain 3 Armor.",
+	"cost": 3,
+	"influence": "{J}",
+	"attack": 2,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Emerald_Acolyte.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-153/emerald-acolyte",
+	"deckBuildable": true
+}

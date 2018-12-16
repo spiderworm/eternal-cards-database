@@ -1,0 +1,15 @@
+{
+	"eternalID": 21,
+	"setID": 2,
+	"name": "Groundbreaker",
+	"text": "The enemy player can't gain health.; Spark: Double Damage.",
+	"cost": 4,
+	"influence": "{F}{F}{F}",
+	"attack": 3,
+	"health": 6,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Groundbreaker.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-21/groundbreaker",
+	"deckBuildable": true
+}

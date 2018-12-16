@@ -1,0 +1,15 @@
+{
+	"eternalID": 14,
+	"setID": 1002,
+	"name": "Sadistic Valkyrie",
+	"text": "Flying; Lifeforce: When you gain Health, Sadistic Valkyrie gets Lifesteal.",
+	"cost": 3,
+	"influence": "{S}",
+	"attack": 3,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sadistic_Valkyrie.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1002-14/sadistic-valkyrie",
+	"deckBuildable": true
+}

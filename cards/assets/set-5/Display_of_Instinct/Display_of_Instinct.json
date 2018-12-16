@@ -1,0 +1,15 @@
+{
+	"eternalID": 244,
+	"setID": 5,
+	"name": "Display of Instinct",
+	"text": "- Deal 4 damage to an enemy, or; - Put one of your units into your hand and gain its  Health, or; - Negate an enemy spell.",
+	"cost": 3,
+	"influence": "{F}{T}{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Display_of_Instinct.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-244/display-of-instinct",
+	"deckBuildable": true
+}

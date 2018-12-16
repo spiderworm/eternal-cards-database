@@ -1,0 +1,15 @@
+{
+	"eternalID": 412,
+	"setID": 1,
+	"name": "Elysian Stranger",
+	"text": "Summon: You gain {T}{P}.",
+	"cost": 2,
+	"influence": "",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Elysian_Stranger.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-412/elysian-stranger",
+	"deckBuildable": true
+}

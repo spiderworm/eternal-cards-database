@@ -1,0 +1,15 @@
+{
+	"eternalID": 16,
+	"setID": 5,
+	"name": "Lazy Firemane",
+	"text": "Renown: Play a 1/1 Wildcat with Charge.",
+	"cost": 3,
+	"influence": "{F}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lazy_Firemane.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-16/lazy-firemane",
+	"deckBuildable": true
+}

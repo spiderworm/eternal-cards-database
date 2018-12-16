@@ -1,0 +1,14 @@
+{
+	"setID": 4,
+	"name": "Brand, Without Fear",
+	"text": "Berserk; Summon: You may sacrifice another unit to give Brand Overwhelm.",
+	"cost": 6,
+	"influence": "{F}{F}",
+	"attack": 8,
+	"health": 6,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Brand,_Without_Fear.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/E3tyUVzzeag/brand--without-fear",
+	"deckBuildable": false
+}

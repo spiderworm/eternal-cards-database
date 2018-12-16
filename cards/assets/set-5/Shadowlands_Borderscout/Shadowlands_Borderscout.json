@@ -1,0 +1,15 @@
+{
+	"eternalID": 139,
+	"setID": 5,
+	"name": "Shadowlands Borderscout",
+	"text": "Flying, Pledge;When Shadowlands Borderscout hits the enemy player, draw a card for each damage dealt.",
+	"cost": 4,
+	"influence": "{P}{P}",
+	"attack": 1,
+	"health": 2,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Shadowlands_Borderscout.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-139/shadowlands-borderscout",
+	"deckBuildable": true
+}

@@ -1,0 +1,14 @@
+{
+	"setID": 5,
+	"name": "Kerendon Contraband",
+	"text": "Choose between a random {T}, {J}, and {S} card to create and draw.",
+	"cost": 1,
+	"influence": "{T}{T}{J}{J}{S}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "None",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Kerendon_Contraband.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/96nDPLpAPEA/kerendon-contraband",
+	"deckBuildable": false
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 178,
+	"setID": 4,
+	"name": "Scavenging Spikeback",
+	"text": "Overwhelm; Tribute: +2/+2.",
+	"cost": 4,
+	"influence": "{P}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Scavenging_Spikeback.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-178/scavenging-spikeback",
+	"deckBuildable": true
+}

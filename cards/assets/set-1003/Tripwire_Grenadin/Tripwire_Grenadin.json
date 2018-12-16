@@ -1,0 +1,15 @@
+{
+	"eternalID": 3,
+	"setID": 1003,
+	"name": "Tripwire Grenadin",
+	"text": "Summon: Deal 1 damage.; Entomb: Deal 1 damage.",
+	"cost": 2,
+	"influence": "{F}",
+	"attack": 1,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Tripwire_Grenadin.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1003-3/tripwire-grenadin",
+	"deckBuildable": true
+}

@@ -1,0 +1,14 @@
+{
+	"setID": 1,
+	"name": "Stormdancer",
+	"text": "Flying",
+	"cost": 5,
+	"influence": "{P}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Stormdancer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/zCb2Addrsqk/stormdancer",
+	"deckBuildable": false
+}

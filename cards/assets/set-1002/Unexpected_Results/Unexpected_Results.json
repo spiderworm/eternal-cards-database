@@ -1,0 +1,15 @@
+{
+	"eternalID": 19,
+	"setID": 1002,
+	"name": "Unexpected Results",
+	"text": "Transform all copies of a spell of your choice from the enemy player's deck into Firebombs.",
+	"cost": 4,
+	"influence": "{F}{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Unexpected_Results.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1002-19/unexpected-results",
+	"deckBuildable": true
+}

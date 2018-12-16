@@ -1,0 +1,15 @@
+{
+	"eternalID": 213,
+	"setID": 5,
+	"name": "Regent's Tomb",
+	"text": "Empower: Your units get +1 Strength this turn.;Elias's Agenda: Lingering Influence, Sabotage, Swear Vengeance.",
+	"cost": 4,
+	"influence": "{J}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Legendary",
+	"type": "Site",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Regent's_Tomb.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-213/regents-tomb",
+	"deckBuildable": true
+}

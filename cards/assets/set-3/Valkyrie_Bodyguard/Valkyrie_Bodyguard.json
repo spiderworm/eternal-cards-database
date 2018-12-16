@@ -1,0 +1,15 @@
+{
+	"eternalID": 135,
+	"setID": 3,
+	"name": "Valkyrie Bodyguard",
+	"text": "Flying; Valkyrie Bodyguard can't attack unless you have Armor.",
+	"cost": 4,
+	"influence": "{J}{J}",
+	"attack": 3,
+	"health": 4,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Valkyrie_Bodyguard.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-135/valkyrie-bodyguard",
+	"deckBuildable": true
+}

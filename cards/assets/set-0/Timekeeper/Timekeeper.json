@@ -1,0 +1,15 @@
+{
+	"eternalID": 14,
+	"setID": 0,
+	"name": "Timekeeper",
+	"text": "+1/+1 for each of your {T} influence.",
+	"cost": 4,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Timekeeper.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/0-14/timekeeper",
+	"deckBuildable": true
+}

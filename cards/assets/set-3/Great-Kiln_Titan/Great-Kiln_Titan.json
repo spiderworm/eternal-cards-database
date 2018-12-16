@@ -1,0 +1,15 @@
+{
+	"eternalID": 49,
+	"setID": 3,
+	"name": "Great-Kiln Titan",
+	"text": "When you play a relic, deal damage equal to its cost to an enemy.; At the end of your turn, play the top card of your deck.",
+	"cost": 8,
+	"influence": "{F}{F}",
+	"attack": 9,
+	"health": 7,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Great-Kiln_Titan.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-49/great-kiln-titan",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 8,
+	"setID": 1002,
+	"name": "Twinstrike Master",
+	"text": "Double Damage; Mentor: Give the Student Double Damage.",
+	"cost": 5,
+	"influence": "{J}{J}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Twinstrike_Master.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1002-8/twinstrike-master",
+	"deckBuildable": true
+}

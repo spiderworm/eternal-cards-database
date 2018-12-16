@@ -1,0 +1,15 @@
+{
+	"eternalID": 91,
+	"setID": 4,
+	"name": "End of Days",
+	"text": "Warp; Draw a Sigil of each faction from your deck.; Tribute: Play them Depleted instead.",
+	"cost": 6,
+	"influence": "{T}{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Legendary",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/End_of_Days.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-91/end-of-days",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 17,
+	"setID": 2,
+	"name": "Audacious Bandit",
+	"text": "Spark: Quickdraw.",
+	"cost": 4,
+	"influence": "{F}",
+	"attack": 4,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Audacious_Bandit.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-17/audacious-bandit",
+	"deckBuildable": true
+}

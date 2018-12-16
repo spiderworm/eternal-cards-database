@@ -1,0 +1,15 @@
+{
+	"eternalID": 185,
+	"setID": 4,
+	"name": "Speardiver",
+	"text": "Flying, Berserk",
+	"cost": 6,
+	"influence": "{P}",
+	"attack": 2,
+	"health": 5,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Speardiver.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-185/speardiver",
+	"deckBuildable": true
+}

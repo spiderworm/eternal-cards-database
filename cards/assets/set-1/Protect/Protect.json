@@ -1,0 +1,15 @@
+{
+	"eternalID": 132,
+	"setID": 1,
+	"name": "Protect",
+	"text": "Give a unit or player Aegis.",
+	"cost": 2,
+	"influence": "{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Protect.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-132/protect",
+	"deckBuildable": true
+}

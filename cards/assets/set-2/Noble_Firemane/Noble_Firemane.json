@@ -1,0 +1,15 @@
+{
+	"eternalID": 174,
+	"setID": 2,
+	"name": "Noble Firemane",
+	"text": "Pay 5 to give your units +1/+1 this turn.",
+	"cost": 2,
+	"influence": "{F}{T}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Noble_Firemane.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-174/noble-firemane",
+	"deckBuildable": true
+}

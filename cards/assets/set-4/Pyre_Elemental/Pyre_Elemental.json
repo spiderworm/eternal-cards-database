@@ -1,0 +1,15 @@
+{
+	"eternalID": 45,
+	"setID": 4,
+	"name": "Pyre Elemental",
+	"text": "Charge; Pyre Elemental costs 4 less if you have played a spell this turn.",
+	"cost": 6,
+	"influence": "{F}",
+	"attack": 4,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Pyre_Elemental.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-45/pyre-elemental",
+	"deckBuildable": true
+}

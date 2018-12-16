@@ -1,0 +1,15 @@
+{
+	"eternalID": 211,
+	"setID": 2,
+	"name": "Bloodcall Invoker",
+	"text": "Lifeforce: At the end of your turn, play a Restless Radiant with attack/health equal to the health you gained this turn.",
+	"cost": 5,
+	"influence": "{T}{S}",
+	"attack": 3,
+	"health": 5,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bloodcall_Invoker.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-211/bloodcall-invoker",
+	"deckBuildable": true
+}

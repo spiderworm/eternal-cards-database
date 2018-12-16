@@ -1,0 +1,15 @@
+{
+	"eternalID": 174,
+	"setID": 4,
+	"name": "Breeze Dancer",
+	"text": "Flying; Inspire: Units you draw get a random battle skill.",
+	"cost": 4,
+	"influence": "{P}{P}",
+	"attack": 2,
+	"health": 4,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Breeze_Dancer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-174/breeze-dancer",
+	"deckBuildable": true
+}

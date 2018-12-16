@@ -1,0 +1,15 @@
+{
+	"eternalID": 127,
+	"setID": 4,
+	"name": "Citywide Ban",
+	"text": "Summon: Choose one of the four highest cost cards in the enemy deck. The cursed player can't play cards with that name.",
+	"cost": 4,
+	"influence": "{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Cursed Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Citywide_Ban.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-127/citywide-ban",
+	"deckBuildable": true
+}

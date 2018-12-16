@@ -1,0 +1,15 @@
+{
+	"eternalID": 240,
+	"setID": 2,
+	"name": "Streetwise Informant",
+	"text": "Endurance, Unblockable; Pay 5 to gain 2 Armor.",
+	"cost": 4,
+	"influence": "{J}{S}",
+	"attack": 1,
+	"health": 4,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Streetwise_Informant.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-240/streetwise-informant",
+	"deckBuildable": true
+}

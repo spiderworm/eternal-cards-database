@@ -1,0 +1,15 @@
+{
+	"eternalID": 70,
+	"setID": 5,
+	"name": "Powerbreach Sentinel",
+	"text": "When Powerbreach Sentinel attacks, play the top power card from your deck Depleted.",
+	"cost": 6,
+	"influence": "{T}{T}",
+	"attack": 5,
+	"health": 6,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Powerbreach_Sentinel.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-70/powerbreach-sentinel",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 262,
+	"setID": 1,
+	"name": "Sporefolk",
+	"text": "Summon: Discard the top five cards of your deck.",
+	"cost": 2,
+	"influence": "{S}",
+	"attack": 1,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sporefolk.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-262/sporefolk",
+	"deckBuildable": true
+}

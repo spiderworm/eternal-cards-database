@@ -1,0 +1,15 @@
+{
+	"eternalID": 191,
+	"setID": 3,
+	"name": "Unchecked Rage",
+	"text": "The cursed unit and each other enemy unit are Reckless.",
+	"cost": 5,
+	"influence": "{P}{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Curse",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Unchecked_Rage.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-191/unchecked-rage",
+	"deckBuildable": true
+}

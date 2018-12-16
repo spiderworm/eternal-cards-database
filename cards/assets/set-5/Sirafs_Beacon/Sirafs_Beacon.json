@@ -1,0 +1,15 @@
+{
+	"eternalID": 93,
+	"setID": 5,
+	"name": "Siraf's Beacon",
+	"text": "When you attack with three or more units, play a Justice Sigil from your deck Depleted.;Summon: Play a 1/1 District Infantry.",
+	"cost": 3,
+	"influence": "{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Siraf's_Beacon.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-93/sirafs-beacon",
+	"deckBuildable": true
+}

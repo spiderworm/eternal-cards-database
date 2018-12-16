@@ -1,0 +1,15 @@
+{
+	"eternalID": 50,
+	"setID": 1,
+	"name": "Centaur Raidleader",
+	"text": "Charge; Summon: The top unit of your deck gets Charge.",
+	"cost": 5,
+	"influence": "{F}{F}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Centaur_Raidleader.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-50/centaur-raidleader",
+	"deckBuildable": true
+}

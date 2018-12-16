@@ -1,0 +1,15 @@
+{
+	"eternalID": 77,
+	"setID": 3,
+	"name": "Hissing Spiketail",
+	"text": "Overwhelm; When you play another Dinosaur, you gain 1 Health.",
+	"cost": 4,
+	"influence": "{T}",
+	"attack": 4,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hissing_Spiketail.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-77/hissing-spiketail",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 132,
+	"setID": 4,
+	"name": "Sheriff's Hat",
+	"text": "Spellcraft 2: Play Detain.",
+	"cost": 4,
+	"influence": "{J}",
+	"attack": 3,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sheriff's_Hat.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-132/sheriffs-hat",
+	"deckBuildable": true
+}

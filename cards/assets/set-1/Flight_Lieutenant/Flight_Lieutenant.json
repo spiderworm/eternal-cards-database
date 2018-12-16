@@ -1,0 +1,15 @@
+{
+	"eternalID": 184,
+	"setID": 1,
+	"name": "Flight Lieutenant",
+	"text": "Empower: Your units get Flying this turn.",
+	"cost": 7,
+	"influence": "{J}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Flight_Lieutenant.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-184/flight-lieutenant",
+	"deckBuildable": true
+}

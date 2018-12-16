@@ -1,0 +1,15 @@
+{
+	"eternalID": 204,
+	"setID": 4,
+	"name": "Fenris Nightshade",
+	"text": "Once per turn, you may pay 3 to draw a card. Fenris deals 3 damage to you and 1 damage to each cursed enemy.",
+	"cost": 2,
+	"influence": "{S}",
+	"attack": 3,
+	"health": 2,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Fenris_Nightshade.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-204/fenris-nightshade",
+	"deckBuildable": true
+}

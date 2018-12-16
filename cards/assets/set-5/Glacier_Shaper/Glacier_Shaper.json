@@ -1,0 +1,15 @@
+{
+	"eternalID": 128,
+	"setID": 5,
+	"name": "Glacier Shaper",
+	"text": "Renown: Play a Glacial Monstrosity with  Strength/ Health equal to the cost of that spell or weapon and Overwhelm.",
+	"cost": 3,
+	"influence": "{P}",
+	"attack": 2,
+	"health": 4,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Glacier_Shaper.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-128/glacier-shaper",
+	"deckBuildable": true
+}

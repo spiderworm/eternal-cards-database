@@ -1,0 +1,15 @@
+{
+	"eternalID": 287,
+	"setID": 1,
+	"name": "Steward of the Past",
+	"text": "Deadly; Summon: Silence all units in the enemy void.",
+	"cost": 4,
+	"influence": "{S}{S}",
+	"attack": 3,
+	"health": 5,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Steward_of_the_Past.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-287/steward-of-the-past",
+	"deckBuildable": true
+}

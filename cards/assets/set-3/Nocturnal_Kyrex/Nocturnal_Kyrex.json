@@ -1,0 +1,15 @@
+{
+	"eternalID": 183,
+	"setID": 3,
+	"name": "Nocturnal Kyrex",
+	"text": "Killer; Summon: Nightfall.",
+	"cost": 4,
+	"influence": "{P}",
+	"attack": 2,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Nocturnal_Kyrex.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-183/nocturnal-kyrex",
+	"deckBuildable": true
+}

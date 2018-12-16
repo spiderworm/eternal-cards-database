@@ -1,0 +1,15 @@
+{
+	"eternalID": 3,
+	"setID": 1002,
+	"name": "Crimson Firemaw",
+	"text": "Flying; When Crimson Firemaw hits the enemy player, reduce the cost of the top card of your deck by 4.",
+	"cost": 4,
+	"influence": "{F}{F}",
+	"attack": 5,
+	"health": 4,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crimson_Firemaw.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1002-3/crimson-firemaw",
+	"deckBuildable": true
+}

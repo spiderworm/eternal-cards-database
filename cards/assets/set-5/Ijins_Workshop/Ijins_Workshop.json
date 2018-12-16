@@ -1,0 +1,15 @@
+{
+	"eternalID": 200,
+	"setID": 5,
+	"name": "Ijin's Workshop",
+	"text": "Your Oni wielding weapons deal Double Damage.;Ijin's Agenda: Song of War, Reinforce, Ijin's Choice.",
+	"cost": 4,
+	"influence": "{F}{F}{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Legendary",
+	"type": "Site",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ijin's_Workshop.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-200/ijins-workshop",
+	"deckBuildable": true
+}

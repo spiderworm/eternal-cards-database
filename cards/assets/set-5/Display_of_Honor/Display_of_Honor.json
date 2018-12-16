@@ -1,0 +1,15 @@
+{
+	"eternalID": 228,
+	"setID": 5,
+	"name": "Display of Honor",
+	"text": "- Give one of your units +4/+4 and Lifesteal this turn, or; - Draw two weapons from your void, or; - Transform an enemy unit into a 2/1 Goat.",
+	"cost": 3,
+	"influence": "{F}{J}{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Display_of_Honor.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-228/display-of-honor",
+	"deckBuildable": true
+}

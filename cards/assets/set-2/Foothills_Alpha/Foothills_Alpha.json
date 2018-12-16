@@ -1,0 +1,14 @@
+{
+	"eternalID": 117,
+	"setID": 2,
+	"name": "Foothills Alpha",
+	"cost": 3,
+	"influence": "{P}",
+	"attack": 2,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Foothills_Alpha.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-117/foothills-alpha",
+	"deckBuildable": true
+}

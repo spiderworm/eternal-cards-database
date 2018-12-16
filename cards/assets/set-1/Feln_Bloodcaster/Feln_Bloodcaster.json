@@ -1,0 +1,15 @@
+{
+	"eternalID": 386,
+	"setID": 1,
+	"name": "Feln Bloodcaster",
+	"text": "Ultimate: Pay 7 to draw the top card of each deck.",
+	"cost": 3,
+	"influence": "{P}{S}{S}",
+	"attack": 2,
+	"health": 5,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Feln_Bloodcaster.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-386/feln-bloodcaster",
+	"deckBuildable": true
+}

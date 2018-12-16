@@ -1,0 +1,15 @@
+{
+	"eternalID": 125,
+	"setID": 4,
+	"name": "Warrant Officer",
+	"text": "Tribute: Stun an enemy unit. Warrant Officer gets +1 Attack equal to that unit's Attack.",
+	"cost": 3,
+	"influence": "{J}",
+	"attack": 0,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Warrant_Officer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-125/warrant-officer",
+	"deckBuildable": true
+}

@@ -1,0 +1,14 @@
+{
+	"setID": 5,
+	"name": "Molten Phoenix",
+	"text": "Flying, Charge;At the end of your turn, transform Molten Phoenix into a Phoenix Stone.",
+	"cost": 3,
+	"influence": "{F}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Molten_Phoenix.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/YHB35eS8NU8/molten-phoenix",
+	"deckBuildable": false
+}

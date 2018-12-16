@@ -1,0 +1,15 @@
+{
+	"eternalID": 38,
+	"setID": 5,
+	"name": "Unearth the Past",
+	"text": "Draw a relic from your void.",
+	"cost": 0,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Unearth_the_Past.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-38/unearth-the-past",
+	"deckBuildable": true
+}

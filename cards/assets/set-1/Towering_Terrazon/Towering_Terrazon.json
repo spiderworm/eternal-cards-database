@@ -1,0 +1,15 @@
+{
+	"eternalID": 114,
+	"setID": 1,
+	"name": "Towering Terrazon",
+	"text": "",
+	"cost": 5,
+	"influence": "{T}{T}",
+	"attack": 6,
+	"health": 5,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Towering_Terrazon.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-114/towering-terrazon",
+	"deckBuildable": true
+}

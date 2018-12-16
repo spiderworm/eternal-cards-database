@@ -1,0 +1,15 @@
+{
+	"eternalID": 153,
+	"setID": 3,
+	"name": "Farplace Finder",
+	"text": "Summon: Scout.",
+	"cost": 1,
+	"influence": "{P}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Farplace_Finder.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-153/farplace-finder",
+	"deckBuildable": true
+}

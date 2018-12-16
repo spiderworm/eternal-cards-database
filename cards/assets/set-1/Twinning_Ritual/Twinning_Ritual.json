@@ -1,0 +1,15 @@
+{
+	"eternalID": 79,
+	"setID": 1,
+	"name": "Twinning Ritual",
+	"text": "Create and draw a copy of a unit in your hand, then the copy gets +1/+1.",
+	"cost": 2,
+	"influence": "{T}{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Twinning_Ritual.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-79/twinning-ritual",
+	"deckBuildable": true
+}

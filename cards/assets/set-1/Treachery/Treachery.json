@@ -1,0 +1,15 @@
+{
+	"eternalID": 394,
+	"setID": 1,
+	"name": "Treachery",
+	"text": "Deal 2 damage to the enemy player. They discard a unit of your choice.",
+	"cost": 2,
+	"influence": "{F}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Treachery.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-394/treachery",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 168,
+	"setID": 5,
+	"name": "Rhysta, Acantha's Herald",
+	"text": "Rhysta can't block.;Summon: Draw a Shadow Sigil from your deck.;Empower: +2 Strength and Warcry this turn.",
+	"cost": 3,
+	"influence": "{S}{S}",
+	"attack": 2,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rhysta,_Acantha's_Herald.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-168/rhysta-acanthas-herald",
+	"deckBuildable": true
+}

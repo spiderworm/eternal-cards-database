@@ -1,0 +1,15 @@
+{
+	"eternalID": 3,
+	"setID": 4,
+	"name": "Feed the Flames",
+	"text": "Discard a card to create and draw two 3/1 Flamefangs with Reckless.",
+	"cost": 1,
+	"influence": "{F}{F}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Feed_the_Flames.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-3/feed-the-flames",
+	"deckBuildable": true
+}

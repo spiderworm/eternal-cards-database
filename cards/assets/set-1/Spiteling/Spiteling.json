@@ -1,0 +1,14 @@
+{
+	"setID": 1,
+	"name": "Spiteling",
+	"text": "Entomb: Deal 1 damage to the enemy player.",
+	"cost": 1,
+	"influence": "{S}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Spiteling.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/Xdoo-P13BWw/spiteling",
+	"deckBuildable": false
+}

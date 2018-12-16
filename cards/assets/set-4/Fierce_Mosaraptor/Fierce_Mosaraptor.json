@@ -1,0 +1,15 @@
+{
+	"eternalID": 77,
+	"setID": 4,
+	"name": "Fierce Mosaraptor",
+	"text": "Tribute: Killer.",
+	"cost": 4,
+	"influence": "{T}",
+	"attack": 3,
+	"health": 4,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Fierce_Mosaraptor.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-77/fierce-mosaraptor",
+	"deckBuildable": true
+}

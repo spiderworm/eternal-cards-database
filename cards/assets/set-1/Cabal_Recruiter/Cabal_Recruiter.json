@@ -1,0 +1,15 @@
+{
+	"eternalID": 283,
+	"setID": 1,
+	"name": "Cabal Recruiter",
+	"text": "Infiltrate: Play the top unit of the enemy deck.",
+	"cost": 4,
+	"influence": "{S}",
+	"attack": 1,
+	"health": 4,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cabal_Recruiter.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-283/cabal-recruiter",
+	"deckBuildable": true
+}

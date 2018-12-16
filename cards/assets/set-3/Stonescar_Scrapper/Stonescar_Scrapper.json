@@ -1,0 +1,15 @@
+{
+	"eternalID": 236,
+	"setID": 3,
+	"name": "Stonescar Scrapper",
+	"text": "When one of your Grenadin dies, you gain 1 Health.; Once per turn, you may pay 1 and sacrifice two other units to draw two cards.",
+	"cost": 5,
+	"influence": "{S}",
+	"attack": 4,
+	"health": 6,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Stonescar_Scrapper.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-236/stonescar-scrapper",
+	"deckBuildable": true
+}

@@ -1,0 +1,14 @@
+{
+	"setID": 1,
+	"name": "Owl",
+	"text": "Flying",
+	"cost": 4,
+	"influence": "{J}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Owl.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/fJm0ugNvULA/owl",
+	"deckBuildable": false
+}

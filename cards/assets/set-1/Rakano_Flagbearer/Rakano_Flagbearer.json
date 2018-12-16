@@ -1,0 +1,15 @@
+{
+	"eternalID": 27,
+	"setID": 1,
+	"name": "Rakano Flagbearer",
+	"text": "Warcry 2",
+	"cost": 3,
+	"influence": "{F}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rakano_Flagbearer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-27/rakano-flagbearer",
+	"deckBuildable": true
+}

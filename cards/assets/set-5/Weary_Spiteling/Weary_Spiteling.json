@@ -1,0 +1,15 @@
+{
+	"eternalID": 155,
+	"setID": 5,
+	"name": "Weary Spiteling",
+	"text": "Entomb: +2/+2 and Flying.",
+	"cost": 1,
+	"influence": "{S}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Weary_Spiteling.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-155/weary-spiteling",
+	"deckBuildable": true
+}

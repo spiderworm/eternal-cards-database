@@ -1,0 +1,15 @@
+{
+	"eternalID": 28,
+	"setID": 2,
+	"name": "Pouncing Drake",
+	"text": "Flying, Warp",
+	"cost": 5,
+	"influence": "{F}{F}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Pouncing_Drake.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-28/pouncing-drake",
+	"deckBuildable": true
+}

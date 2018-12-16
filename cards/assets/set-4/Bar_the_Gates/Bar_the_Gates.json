@@ -1,0 +1,15 @@
+{
+	"eternalID": 105,
+	"setID": 4,
+	"name": "Bar the Gates",
+	"text": "Choose a non-power card from the enemy player's hand. They can't play cards with that name for three turns.",
+	"cost": 2,
+	"influence": "{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bar_the_Gates.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-105/bar-the-gates",
+	"deckBuildable": true
+}

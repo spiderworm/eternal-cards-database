@@ -1,0 +1,15 @@
+{
+	"eternalID": 273,
+	"setID": 1,
+	"name": "Desperado",
+	"text": "Infiltrate: Kill an enemy unit.",
+	"cost": 3,
+	"influence": "{S}{S}",
+	"attack": 3,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Desperado.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-273/desperado",
+	"deckBuildable": true
+}

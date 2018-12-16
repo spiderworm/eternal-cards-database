@@ -1,0 +1,15 @@
+{
+	"eternalID": 137,
+	"setID": 2,
+	"name": "Brash Shorthorn",
+	"text": "",
+	"cost": 1,
+	"influence": "{S}",
+	"attack": 2,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Brash_Shorthorn.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-137/brash-shorthorn",
+	"deckBuildable": true
+}

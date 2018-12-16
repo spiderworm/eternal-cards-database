@@ -1,0 +1,15 @@
+{
+	"eternalID": 90,
+	"setID": 3,
+	"name": "Timeworn Sentinel",
+	"text": "Endurance; Explorer Ally: Draw a card.",
+	"cost": 6,
+	"influence": "{T}",
+	"attack": 3,
+	"health": 6,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Timeworn_Sentinel.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-90/timeworn-sentinel",
+	"deckBuildable": true
+}

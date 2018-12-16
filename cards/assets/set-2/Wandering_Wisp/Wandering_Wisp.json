@@ -1,0 +1,15 @@
+{
+	"eternalID": 38,
+	"setID": 2,
+	"name": "Wandering Wisp",
+	"text": "{T}{T}{T}{T}{T}: At the start of your turn, Wandering Wisp gets +1/+1 for each card in your hand.",
+	"cost": 1,
+	"influence": "{T}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Wandering_Wisp.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-38/wandering-wisp",
+	"deckBuildable": true
+}

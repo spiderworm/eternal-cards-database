@@ -1,0 +1,15 @@
+{
+	"eternalID": 120,
+	"setID": 3,
+	"name": "Stella, the Shotcaller",
+	"text": "Aegis; When Stella attacks while wielding a weapon, each Gunslinger and weapon in your deck gets +1/+1.",
+	"cost": 3,
+	"influence": "{J}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Stella,_the_Shotcaller.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-120/stella-the-shotcaller",
+	"deckBuildable": true
+}

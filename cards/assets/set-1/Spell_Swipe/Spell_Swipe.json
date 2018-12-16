@@ -1,0 +1,15 @@
+{
+	"eternalID": 373,
+	"setID": 1,
+	"name": "Spell Swipe",
+	"text": "Negate an enemy spell and draw it.",
+	"cost": 5,
+	"influence": "{P}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Spell_Swipe.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-373/spell-swipe",
+	"deckBuildable": true
+}

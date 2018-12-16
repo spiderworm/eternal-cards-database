@@ -1,0 +1,15 @@
+{
+	"eternalID": 390,
+	"setID": 1,
+	"name": "Infernal Tyrant",
+	"text": "Lifesteal; Summon: Deal 2 damage to each of your other units.",
+	"cost": 6,
+	"influence": "{F}{F}{S}{S}",
+	"attack": 6,
+	"health": 6,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Infernal_Tyrant.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-390/infernal-tyrant",
+	"deckBuildable": true
+}

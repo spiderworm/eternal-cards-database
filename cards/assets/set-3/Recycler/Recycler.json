@@ -1,0 +1,15 @@
+{
+	"eternalID": 269,
+	"setID": 3,
+	"name": "Recycler",
+	"text": "Ultimate: When one of your other units dies, create a draw a +3/+2 Fixit with Overwhelm.",
+	"cost": 3,
+	"influence": "{F}{S}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Recycler.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-269/recycler",
+	"deckBuildable": true
+}

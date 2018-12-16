@@ -1,0 +1,15 @@
+{
+	"eternalID": 10,
+	"setID": 4,
+	"name": "Flamebelcher",
+	"text": "Overwhelm; Infiltrate: Put 10 Firebombs into the bottom half of the enemy deck.",
+	"cost": 2,
+	"influence": "{F}{F}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Flamebelcher.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-10/flamebelcher",
+	"deckBuildable": true
+}

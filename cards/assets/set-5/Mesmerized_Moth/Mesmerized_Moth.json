@@ -1,0 +1,15 @@
+{
+	"eternalID": 53,
+	"setID": 5,
+	"name": "Mesmerized Moth",
+	"text": "Flying;Summon: Create and draw an Ancient Bauble.",
+	"cost": 3,
+	"influence": "{T}",
+	"attack": 1,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Mesmerized_Moth.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-53/mesmerized-moth",
+	"deckBuildable": true
+}

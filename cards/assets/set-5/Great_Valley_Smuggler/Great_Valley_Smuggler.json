@@ -1,0 +1,15 @@
+{
+	"eternalID": 204,
+	"setID": 5,
+	"name": "Great Valley Smuggler",
+	"text": "+1/+1 while you have a relic.;Summon: You may choose a card from your hand to swap with a {T} or {P} card in your Black Market.",
+	"cost": 3,
+	"influence": "{T}{P}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Great_Valley_Smuggler.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-204/great-valley-smuggler",
+	"deckBuildable": true
+}

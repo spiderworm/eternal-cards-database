@@ -1,0 +1,15 @@
+{
+	"eternalID": 42,
+	"setID": 2,
+	"name": "Sand Viper",
+	"text": "Deadly; Ultimate: Pay 6 to give Sand Viper +2/+2.",
+	"cost": 2,
+	"influence": "{T}",
+	"attack": 1,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sand_Viper.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-42/sand-viper",
+	"deckBuildable": true
+}

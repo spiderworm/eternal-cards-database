@@ -1,0 +1,15 @@
+{
+	"eternalID": 25,
+	"setID": 1,
+	"name": "Piercing Shot",
+	"text": "Deal 2 damage to an enemy unit and 2 damage to the enemy player.",
+	"cost": 2,
+	"influence": "{F}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Piercing_Shot.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-25/piercing-shot",
+	"deckBuildable": true
+}

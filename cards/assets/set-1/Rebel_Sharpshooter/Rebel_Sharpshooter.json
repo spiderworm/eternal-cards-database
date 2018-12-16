@@ -1,0 +1,15 @@
+{
+	"eternalID": 30,
+	"setID": 1,
+	"name": "Rebel Sharpshooter",
+	"text": "Rebel Sharpshooter has Quickdraw while she has 4 Attack or more.",
+	"cost": 3,
+	"influence": "{F}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rebel_Sharpshooter.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-30/rebel-sharpshooter",
+	"deckBuildable": true
+}

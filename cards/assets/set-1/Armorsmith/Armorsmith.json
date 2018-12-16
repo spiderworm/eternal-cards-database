@@ -1,0 +1,15 @@
+{
+	"eternalID": 163,
+	"setID": 1,
+	"name": "Armorsmith",
+	"text": "Summon: You gain 2 Armor. Free if you already have 2 Armor or more.",
+	"cost": 4,
+	"influence": "{J}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Armorsmith.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-163/armorsmith",
+	"deckBuildable": true
+}

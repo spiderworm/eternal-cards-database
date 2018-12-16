@@ -1,0 +1,15 @@
+{
+	"eternalID": 37,
+	"setID": 5,
+	"name": "Magmatic Sentinel",
+	"text": "Summon: Deal 5 damage to an enemy unit.",
+	"cost": 8,
+	"influence": "{F}{F}",
+	"attack": 7,
+	"health": 5,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Magmatic_Sentinel.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-37/magmatic-sentinel",
+	"deckBuildable": true
+}

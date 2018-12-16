@@ -1,0 +1,15 @@
+{
+	"eternalID": 250,
+	"setID": 5,
+	"name": "Grinva, Breaker of Will",
+	"text": "Endurance, Lifesteal;Empower: Play a Cowardice on an enemy unit.",
+	"cost": 6,
+	"influence": "{T}{T}{J}{J}{S}{S}",
+	"attack": 6,
+	"health": 6,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Grinva,_Breaker_of_Will.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-250/grinva-breaker-of-will",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 63,
+	"setID": 0,
+	"name": "Seat of Wisdom",
+	"text": "Gain {T}{P}.; Depleted unless you have a Sigil in your hand.",
+	"cost": 0,
+	"influence": "{T}{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Power",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Seat_of_Wisdom.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/0-63/seat-of-wisdom",
+	"deckBuildable": true
+}

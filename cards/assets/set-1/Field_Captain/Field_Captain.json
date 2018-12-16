@@ -1,0 +1,15 @@
+{
+	"eternalID": 324,
+	"setID": 1,
+	"name": "Field Captain",
+	"text": "+1 Attack for each time you or one of your units have attacked this game.",
+	"cost": 5,
+	"influence": "{F}{J}",
+	"attack": 0,
+	"health": 5,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Field_Captain.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-324/field-captain",
+	"deckBuildable": true
+}

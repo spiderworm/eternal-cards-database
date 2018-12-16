@@ -1,0 +1,15 @@
+{
+	"eternalID": 176,
+	"setID": 4,
+	"name": "Icespear Chucker",
+	"text": "When you play a spell, Icespear Chucker deals 1 damage to the enemy player.",
+	"cost": 4,
+	"influence": "{P}",
+	"attack": 1,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Icespear_Chucker.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-176/icespear-chucker",
+	"deckBuildable": true
+}

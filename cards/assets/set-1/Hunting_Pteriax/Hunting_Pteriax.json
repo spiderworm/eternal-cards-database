@@ -1,0 +1,15 @@
+{
+	"eternalID": 363,
+	"setID": 1,
+	"name": "Hunting Pteriax",
+	"text": "Flying, Ambush",
+	"cost": 5,
+	"influence": "{T}{P}",
+	"attack": 5,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hunting_Pteriax.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-363/hunting-pteriax",
+	"deckBuildable": true
+}

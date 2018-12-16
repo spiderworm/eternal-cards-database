@@ -1,0 +1,15 @@
+{
+	"eternalID": 123,
+	"setID": 3,
+	"name": "Valkyrie Cadet",
+	"text": "Valkyrie Cadet has Flying and Double Damage while wielding a weapon.",
+	"cost": 3,
+	"influence": "{J}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Valkyrie_Cadet.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-123/valkyrie-cadet",
+	"deckBuildable": true
+}

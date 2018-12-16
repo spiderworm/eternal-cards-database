@@ -1,0 +1,15 @@
+{
+	"eternalID": 50,
+	"setID": 3,
+	"name": "Heroic Bravo",
+	"text": "Overwhelm, Bond; When you bond Heroic Bravo, he deals 2 damage to an enemy.",
+	"cost": 8,
+	"influence": "{F}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Heroic_Bravo.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-50/heroic-bravo",
+	"deckBuildable": true
+}

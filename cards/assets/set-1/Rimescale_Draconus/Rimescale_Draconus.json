@@ -1,0 +1,15 @@
+{
+	"eternalID": 246,
+	"setID": 1,
+	"name": "Rimescale Draconus",
+	"text": "Flying; Summon: Play Permafrost on each exhausted enemy unit.",
+	"cost": 7,
+	"influence": "{P}{P}",
+	"attack": 7,
+	"health": 6,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rimescale_Draconus.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-246/rimescale-draconus",
+	"deckBuildable": true
+}

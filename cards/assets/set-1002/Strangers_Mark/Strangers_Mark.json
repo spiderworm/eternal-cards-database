@@ -1,0 +1,15 @@
+{
+	"eternalID": 22,
+	"setID": 1002,
+	"name": "Stranger's Mark",
+	"text": "A unit of your choice is now a Stranger.",
+	"cost": 0,
+	"influence": "",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Stranger's_Mark.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1002-22/strangers-mark",
+	"deckBuildable": true
+}

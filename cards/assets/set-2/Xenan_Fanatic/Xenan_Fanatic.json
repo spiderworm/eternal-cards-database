@@ -1,0 +1,15 @@
+{
+	"eternalID": 162,
+	"setID": 2,
+	"name": "Xenan Fanatic",
+	"text": "Lifeforce: At the end of your turn, deal damage to the enemy player equal to the Health you've gained this turn.",
+	"cost": 4,
+	"influence": "{S}{S}",
+	"attack": 3,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Xenan_Fanatic.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-162/xenan-fanatic",
+	"deckBuildable": true
+}

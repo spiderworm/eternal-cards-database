@@ -1,0 +1,15 @@
+{
+	"eternalID": 43,
+	"setID": 5,
+	"name": "Bazaar Trickster",
+	"text": "Pay 4 to silence an enemy unit.",
+	"cost": 2,
+	"influence": "{T}",
+	"attack": 2,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bazaar_Trickster.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-43/bazaar-trickster",
+	"deckBuildable": true
+}

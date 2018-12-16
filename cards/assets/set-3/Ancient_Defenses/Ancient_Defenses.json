@@ -1,0 +1,15 @@
+{
+	"eternalID": 28,
+	"setID": 3,
+	"name": "Ancient Defenses",
+	"text": "When you play a Sentinel, it gets +2 Attack.; Summon: Deal 3 damage to an enemy.",
+	"cost": 4,
+	"influence": "{F}{F}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ancient_Defenses.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-28/ancient-defenses",
+	"deckBuildable": true
+}

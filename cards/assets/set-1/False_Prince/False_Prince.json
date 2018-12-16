@@ -1,0 +1,15 @@
+{
+	"eternalID": 356,
+	"setID": 1,
+	"name": "False Prince",
+	"text": "Overwhelm; When a spell is played directly on False Prince, tranform him into a 1/1 Frog.",
+	"cost": 3,
+	"influence": "{T}{T}{P}",
+	"attack": 5,
+	"health": 5,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/False_Prince.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-356/false-prince",
+	"deckBuildable": true
+}

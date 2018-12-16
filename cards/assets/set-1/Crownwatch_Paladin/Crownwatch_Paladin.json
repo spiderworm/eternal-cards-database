@@ -1,0 +1,15 @@
+{
+	"eternalID": 139,
+	"setID": 1,
+	"name": "Crownwatch Paladin",
+	"text": "Warcry, Aegis",
+	"cost": 2,
+	"influence": "{J}",
+	"attack": 2,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crownwatch_Paladin.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-139/crownwatch-paladin",
+	"deckBuildable": true
+}

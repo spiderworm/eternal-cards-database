@@ -1,0 +1,15 @@
+{
+	"eternalID": 193,
+	"setID": 4,
+	"name": "Cabal Standard",
+	"text": "Depleted; Gain {S}.; Transmute 5: Cabal Tactic.",
+	"cost": 0,
+	"influence": "{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Power",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cabal_Standard.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-193/cabal-standard",
+	"deckBuildable": true
+}

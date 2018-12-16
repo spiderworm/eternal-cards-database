@@ -1,0 +1,15 @@
+{
+	"eternalID": 321,
+	"setID": 1,
+	"name": "Renegade Valkyrie",
+	"text": "Flying, Double Damage",
+	"cost": 4,
+	"influence": "{F}{J}",
+	"attack": 1,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Renegade_Valkyrie.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-321/renegade-valkyrie",
+	"deckBuildable": true
+}

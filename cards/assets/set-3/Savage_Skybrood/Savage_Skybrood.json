@@ -1,0 +1,15 @@
+{
+	"eternalID": 156,
+	"setID": 3,
+	"name": "Savage Skybrood",
+	"text": "Flying; When you play another Dinosaur, Savage Skybrood gets +1 Attack.",
+	"cost": 1,
+	"influence": "{P}",
+	"attack": 0,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Savage_Skybrood.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-156/savage-skybrood",
+	"deckBuildable": true
+}

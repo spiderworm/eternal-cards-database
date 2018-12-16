@@ -1,0 +1,15 @@
+{
+	"eternalID": 247,
+	"setID": 3,
+	"name": "Encroaching Darkness",
+	"text": "Summon: Nightfall.; Night never ends.; The cursed player takes your Night damage instead of you.",
+	"cost": 8,
+	"influence": "{S}{S}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Legendary",
+	"type": "Cursed Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Encroaching_Darkness.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-247/encroaching-darkness",
+	"deckBuildable": true
+}

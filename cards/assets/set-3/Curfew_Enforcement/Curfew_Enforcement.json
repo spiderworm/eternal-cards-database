@@ -1,0 +1,15 @@
+{
+	"eternalID": 110,
+	"setID": 3,
+	"name": "Curfew Enforcement",
+	"text": "Enemy units get -1 Attack.; For each of your Valkyrie, you may pay 2 and exhaust it to give enemy units an additional -1 Attack.",
+	"cost": 2,
+	"influence": "{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Curfew_Enforcement.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-110/curfew-enforcement",
+	"deckBuildable": true
+}

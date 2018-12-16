@@ -1,0 +1,15 @@
+{
+	"eternalID": 60,
+	"setID": 4,
+	"name": "Amaran Armadillo",
+	"text": "Your units with Endurance have +1/+1.; Inspire: Units you draw get Endurance.",
+	"cost": 2,
+	"influence": "{T}",
+	"attack": 1,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Amaran_Armadillo.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-60/amaran-armadillo",
+	"deckBuildable": true
+}

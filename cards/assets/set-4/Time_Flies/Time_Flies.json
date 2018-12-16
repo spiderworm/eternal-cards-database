@@ -1,0 +1,15 @@
+{
+	"eternalID": 58,
+	"setID": 4,
+	"name": "Time Flies",
+	"text": "Flying; Each player has +2 Maximum Power.",
+	"cost": 1,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 2,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Time_Flies.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-58/time-flies",
+	"deckBuildable": true
+}

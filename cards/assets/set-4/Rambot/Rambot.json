@@ -1,0 +1,15 @@
+{
+	"eternalID": 7,
+	"setID": 4,
+	"name": "Rambot",
+	"text": "Infiltrate: The top unit of your deck gets +4 Attack.; Then sacrifice Rambot.",
+	"cost": 1,
+	"influence": "{F}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rambot.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-7/rambot",
+	"deckBuildable": true
+}

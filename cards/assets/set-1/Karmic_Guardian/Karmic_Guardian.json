@@ -1,0 +1,15 @@
+{
+	"eternalID": 341,
+	"setID": 1,
+	"name": "Karmic Guardian",
+	"text": "Flying, Endurance, Lifesteal",
+	"cost": 4,
+	"influence": "{T}{T}{J}",
+	"attack": 1,
+	"health": 4,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Karmic_Guardian.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-341/karmic-guardian",
+	"deckBuildable": true
+}

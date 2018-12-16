@@ -1,0 +1,15 @@
+{
+	"eternalID": 162,
+	"setID": 4,
+	"name": "Tend the Flock",
+	"text": "Play three 0/1 Sheep.",
+	"cost": 2,
+	"influence": "{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Tend_the_Flock.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-162/tend-the-flock",
+	"deckBuildable": true
+}

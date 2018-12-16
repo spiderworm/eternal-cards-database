@@ -1,0 +1,15 @@
+{
+	"eternalID": 1,
+	"setID": 3,
+	"name": "Granite Waystone",
+	"text": "Gain {F}, then if you have {F}{F}{F}{F}, create and draw a 1/1 Grenadin.",
+	"cost": 0,
+	"influence": "{F}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Power",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Granite_Waystone.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-1/granite-waystone",
+	"deckBuildable": true
+}

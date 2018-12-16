@@ -1,0 +1,15 @@
+{
+	"eternalID": 22,
+	"setID": 2,
+	"name": "Library Phoenix",
+	"text": "At the start of your turn, reduce the cost of non-unit cards in your hand by 1.; +3 Attack and Flying while you have no cards in your hand.",
+	"cost": 4,
+	"influence": "{F}{F}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Library_Phoenix.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-22/library-phoenix",
+	"deckBuildable": true
+}

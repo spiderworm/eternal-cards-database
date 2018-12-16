@@ -1,0 +1,15 @@
+{
+	"eternalID": 114,
+	"setID": 4,
+	"name": "Auric Herdward",
+	"text": "Give one of your units Aegis.; You gain an Aegis.",
+	"cost": 3,
+	"influence": "{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Auric_Herdward.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-114/auric-herdward",
+	"deckBuildable": true
+}

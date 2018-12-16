@@ -1,0 +1,15 @@
+{
+	"eternalID": 82,
+	"setID": 3,
+	"name": "First Watch",
+	"text": "Nightfall.; You gain 8 Health.",
+	"cost": 5,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/First_Watch.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-82/first-watch",
+	"deckBuildable": true
+}

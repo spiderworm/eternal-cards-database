@@ -1,0 +1,15 @@
+{
+	"eternalID": 113,
+	"setID": 5,
+	"name": "Crystal Dirk",
+	"text": "",
+	"cost": 1,
+	"influence": "{P}",
+	"attack": 1,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crystal_Dirk.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-113/crystal-dirk",
+	"deckBuildable": true
+}

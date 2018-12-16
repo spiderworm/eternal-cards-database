@@ -1,0 +1,15 @@
+{
+	"eternalID": 300,
+	"setID": 1,
+	"name": "Argenport Ringmaster",
+	"text": "Infiltrate: Play five random units from the enemy void.",
+	"cost": 6,
+	"influence": "{S}{S}",
+	"attack": 5,
+	"health": 5,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Argenport_Ringmaster.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-300/argenport-ringmaster",
+	"deckBuildable": true
+}

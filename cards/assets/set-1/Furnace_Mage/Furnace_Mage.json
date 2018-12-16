@@ -1,0 +1,15 @@
+{
+	"eternalID": 40,
+	"setID": 1,
+	"name": "Furnace Mage",
+	"text": "Summon: Kill an enemy attachment.",
+	"cost": 4,
+	"influence": "{F}{F}",
+	"attack": 4,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Furnace_Mage.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-40/furnace-mage",
+	"deckBuildable": true
+}

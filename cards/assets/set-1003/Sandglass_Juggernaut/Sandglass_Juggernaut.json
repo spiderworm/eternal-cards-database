@@ -1,0 +1,15 @@
+{
+	"eternalID": 16,
+	"setID": 1003,
+	"name": "Sandglass Juggernaut",
+	"text": "Reckless; Invulnerable to damage.; Summon: Exhaust Sandglass Juggernaut.",
+	"cost": 5,
+	"influence": "{F}{F}{T}{T}",
+	"attack": 6,
+	"health": 1,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sandglass_Juggernaut.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1003-16/sandglass-juggernaut",
+	"deckBuildable": true
+}

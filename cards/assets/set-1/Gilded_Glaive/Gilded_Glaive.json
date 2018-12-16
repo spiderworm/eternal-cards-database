@@ -1,0 +1,15 @@
+{
+	"eternalID": 125,
+	"setID": 1,
+	"name": "Gilded Glaive",
+	"text": "Empower: +2/+2 this turn.",
+	"cost": 3,
+	"influence": "{J}{J}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Gilded_Glaive.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-125/gilded-glaive",
+	"deckBuildable": true
+}

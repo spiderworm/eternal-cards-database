@@ -1,0 +1,15 @@
+{
+	"eternalID": 187,
+	"setID": 1,
+	"name": "Primal Sigil",
+	"text": "",
+	"cost": 0,
+	"influence": "{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "None",
+	"type": "Power",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Primal_Sigil.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-187/primal-sigil",
+	"deckBuildable": true
+}

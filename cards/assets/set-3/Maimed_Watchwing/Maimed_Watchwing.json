@@ -1,0 +1,15 @@
+{
+	"eternalID": 223,
+	"setID": 3,
+	"name": "Maimed Watchwing",
+	"text": "Maimed Watchwing can't block.; Valkyrie Ally: Flying.",
+	"cost": 3,
+	"influence": "{S}",
+	"attack": 2,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Maimed_Watchwing.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-223/maimed-watchwing",
+	"deckBuildable": true
+}

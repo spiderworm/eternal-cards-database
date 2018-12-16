@@ -1,0 +1,15 @@
+{
+	"eternalID": 199,
+	"setID": 1,
+	"name": "Cloudsnake Saddle",
+	"text": "Can only be played on a unit with Flying.",
+	"cost": 2,
+	"influence": "{P}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cloudsnake_Saddle.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-199/cloudsnake-saddle",
+	"deckBuildable": true
+}

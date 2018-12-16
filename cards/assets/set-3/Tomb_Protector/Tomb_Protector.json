@@ -1,0 +1,15 @@
+{
+	"eternalID": 91,
+	"setID": 3,
+	"name": "Tomb Protector",
+	"text": "Your cards can't be stolen while Tomb Protector is ready.",
+	"cost": 6,
+	"influence": "{T}{T}",
+	"attack": 6,
+	"health": 8,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Tomb_Protector.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-91/tomb-protector",
+	"deckBuildable": true
+}

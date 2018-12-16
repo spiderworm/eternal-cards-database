@@ -1,0 +1,15 @@
+{
+	"eternalID": 243,
+	"setID": 4,
+	"name": "Crest of Glory",
+	"text": "Depleted; Gain {F}{J}.; Scout.",
+	"cost": 0,
+	"influence": "{F}{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Power",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crest_of_Glory.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-243/crest-of-glory",
+	"deckBuildable": true
+}

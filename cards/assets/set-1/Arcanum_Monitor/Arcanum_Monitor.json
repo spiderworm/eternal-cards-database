@@ -1,0 +1,15 @@
+{
+	"eternalID": 520,
+	"setID": 1,
+	"name": "Arcanum Monitor",
+	"text": "Overwhelm;+1/+1 for each of your other units.;Your other units have +1/+1.",
+	"cost": 5,
+	"influence": "{F}{F}{T}{T}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Promo",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Arcanum_Monitor.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-520/arcanum-monitor",
+	"deckBuildable": true
+}

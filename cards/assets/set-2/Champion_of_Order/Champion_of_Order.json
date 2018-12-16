@@ -1,0 +1,15 @@
+{
+	"eternalID": 225,
+	"setID": 2,
+	"name": "Champion of Order",
+	"text": "{J}{J}{J}{J}{J}: At the start of your turn, double Champion of Order's Attack/Health.; {P}{P}{P}{P}{P}: At the start of your turn, play a copy of Champion of Order.",
+	"cost": 5,
+	"influence": "{J}{P}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Champion_of_Order.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-225/champion-of-order",
+	"deckBuildable": true
+}

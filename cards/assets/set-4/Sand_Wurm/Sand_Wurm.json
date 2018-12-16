@@ -1,0 +1,13 @@
+{
+	"setID": 4,
+	"name": "Sand Wurm",
+	"cost": 5,
+	"influence": "{T}",
+	"attack": 7,
+	"health": 7,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sand_Wurm.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/rdVC5rIksAI/sand-wurm",
+	"deckBuildable": false
+}

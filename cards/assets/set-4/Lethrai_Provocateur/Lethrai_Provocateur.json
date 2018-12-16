@@ -1,0 +1,15 @@
+{
+	"eternalID": 228,
+	"setID": 4,
+	"name": "Lethrai Provocateur",
+	"text": "Deadly; Infiltrate: The enemy player discards all weapons from their deck.",
+	"cost": 4,
+	"influence": "{S}{S}",
+	"attack": 3,
+	"health": 5,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lethrai_Provocateur.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-228/lethrai-provocateur",
+	"deckBuildable": true
+}

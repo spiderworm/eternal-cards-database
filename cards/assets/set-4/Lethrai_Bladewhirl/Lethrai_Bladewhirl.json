@@ -1,0 +1,15 @@
+{
+	"eternalID": 236,
+	"setID": 4,
+	"name": "Lethrai Bladewhirl",
+	"text": "Summon: Give one of your other units +3 Attack while you have Lethrai Bladewhirl.",
+	"cost": 5,
+	"influence": "{S}",
+	"attack": 5,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lethrai_Bladewhirl.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-236/lethrai-bladewhirl",
+	"deckBuildable": true
+}

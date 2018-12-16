@@ -1,0 +1,15 @@
+{
+	"eternalID": 3,
+	"setID": 5,
+	"name": "Cautious Traveler",
+	"text": "Cautious Traveler can't attack unless you have a Sentinel.",
+	"cost": 1,
+	"influence": "{F}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cautious_Traveler.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-3/cautious-traveler",
+	"deckBuildable": true
+}

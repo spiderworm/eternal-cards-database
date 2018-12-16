@@ -1,0 +1,15 @@
+{
+	"eternalID": 289,
+	"setID": 1,
+	"name": "Subvert",
+	"text": "Draw a random card from the enemy hand.",
+	"cost": 4,
+	"influence": "{S}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Subvert.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-289/subvert",
+	"deckBuildable": true
+}

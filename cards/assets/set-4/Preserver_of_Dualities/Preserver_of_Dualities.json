@@ -1,0 +1,15 @@
+{
+	"eternalID": 267,
+	"setID": 4,
+	"name": "Preserver of Dualities",
+	"text": "When you play a Radiant (including Preserver of Dualities) play a 1/1 Wisp.; Pay 2 and exhaust Preserver of Dualities to give one of your Wisps +2 Attack.",
+	"cost": 4,
+	"influence": "{T}{S}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Preserver_of_Dualities.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-267/preserver-of-dualities",
+	"deckBuildable": true
+}

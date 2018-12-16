@@ -1,0 +1,15 @@
+{
+	"eternalID": 270,
+	"setID": 1,
+	"name": "Lethrai Ranger",
+	"text": "Infiltrate: +2/+2.",
+	"cost": 2,
+	"influence": "{S}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lethrai_Ranger.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-270/lethrai-ranger",
+	"deckBuildable": true
+}

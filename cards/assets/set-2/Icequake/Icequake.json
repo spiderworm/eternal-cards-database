@@ -1,0 +1,15 @@
+{
+	"eternalID": 136,
+	"setID": 2,
+	"name": "Icequake",
+	"text": "Deal 3 damage to each unit and the enemy player.",
+	"cost": 7,
+	"influence": "{P}{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Icequake.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-136/icequake",
+	"deckBuildable": true
+}

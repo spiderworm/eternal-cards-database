@@ -1,0 +1,15 @@
+{
+	"eternalID": 16,
+	"setID": 4,
+	"name": "Trick Shot",
+	"text": "Give one of your units Overwhelm and Quickdraw this turn.",
+	"cost": 2,
+	"influence": "{F}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Trick_Shot.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-16/trick-shot",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 302,
+	"setID": 3,
+	"name": "Dizo, Cabal Chairman",
+	"text": "Unblockable; Summon: You may sacrifice another unit to create and draw Cabal Extortion Scheme.",
+	"cost": 6,
+	"influence": "{S}{S}",
+	"attack": 4,
+	"health": 6,
+	"rarity": "Promo",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Dizo,_Cabal_Chairman.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-302/dizo-cabal-chairman",
+	"deckBuildable": true
+}

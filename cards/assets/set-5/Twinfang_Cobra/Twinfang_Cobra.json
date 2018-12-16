@@ -1,0 +1,15 @@
+{
+	"eternalID": 64,
+	"setID": 5,
+	"name": "Twinfang Cobra",
+	"text": "Deadly;Entomb: Create and draw a +2 Strength Viper Fang with Deadly.",
+	"cost": 4,
+	"influence": "{T}{T}",
+	"attack": 2,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Twinfang_Cobra.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-64/twinfang-cobra",
+	"deckBuildable": true
+}

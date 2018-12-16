@@ -1,0 +1,15 @@
+{
+	"eternalID": 504,
+	"setID": 1,
+	"name": "Steadfast Deputy",
+	"text": "Aegis",
+	"cost": 1,
+	"influence": "{J}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Steadfast_Deputy.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-504/steadfast-deputy",
+	"deckBuildable": true
+}

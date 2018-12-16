@@ -1,0 +1,15 @@
+{
+	"eternalID": 135,
+	"setID": 1,
+	"name": "Argenport Soldier",
+	"text": "",
+	"cost": 2,
+	"influence": "{J}",
+	"attack": 3,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Argenport_Soldier.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-135/argenport-soldier",
+	"deckBuildable": true
+}

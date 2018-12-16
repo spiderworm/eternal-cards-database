@@ -1,0 +1,15 @@
+{
+	"eternalID": 75,
+	"setID": 5,
+	"name": "Endure",
+	"text": "Give one of your units invulnerable to damage this turn.",
+	"cost": 0,
+	"influence": "{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Endure.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-75/endure",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 122,
+	"setID": 1,
+	"name": "Pillar of Amar",
+	"text": "Empower: Play a 5/5 Sentinel.",
+	"cost": 7,
+	"influence": "{T}{T}{T}",
+	"attack": 5,
+	"health": 5,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Pillar_of_Amar.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-122/pillar-of-amar",
+	"deckBuildable": true
+}

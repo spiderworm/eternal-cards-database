@@ -1,0 +1,15 @@
+{
+	"eternalID": 76,
+	"setID": 2,
+	"name": "Tranquil Scholar",
+	"text": "Summon: Tranquil Scholar gets a random battle skill. Then, you may give a unit in your hand that battle skill.",
+	"cost": 2,
+	"influence": "{J}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Tranquil_Scholar.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-76/tranquil-scholar",
+	"deckBuildable": true
+}

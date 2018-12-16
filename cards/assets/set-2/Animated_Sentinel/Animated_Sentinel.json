@@ -1,0 +1,13 @@
+{
+	"setID": 2,
+	"name": "Animated Sentinel",
+	"cost": 0,
+	"influence": "",
+	"attack": 0,
+	"health": 0,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Animated_Sentinel.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/nIUxb1_LtCY/animated-sentinel",
+	"deckBuildable": false
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 10,
+	"setID": 1003,
+	"name": "Wardwielder",
+	"text": "+3/+3 while you have an Aegis.",
+	"cost": 2,
+	"influence": "{P}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Wardwielder.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1003-10/wardwielder",
+	"deckBuildable": true
+}

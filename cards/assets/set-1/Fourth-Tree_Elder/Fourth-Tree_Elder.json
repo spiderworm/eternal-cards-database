@@ -1,0 +1,15 @@
+{
+	"eternalID": 176,
+	"setID": 1,
+	"name": "Fourth-Tree Elder",
+	"text": "Flying, Endurance",
+	"cost": 6,
+	"influence": "{J}{J}",
+	"attack": 4,
+	"health": 6,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Fourth-Tree_Elder.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-176/fourth-tree-elder",
+	"deckBuildable": true
+}

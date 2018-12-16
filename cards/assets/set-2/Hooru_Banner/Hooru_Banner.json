@@ -1,0 +1,15 @@
+{
+	"eternalID": 216,
+	"setID": 2,
+	"name": "Hooru Banner",
+	"text": "Gain {J}{P}.; Depleted unless you have a unit.",
+	"cost": 0,
+	"influence": "{J}{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Power",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hooru_Banner.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-216/hooru-banner",
+	"deckBuildable": true
+}

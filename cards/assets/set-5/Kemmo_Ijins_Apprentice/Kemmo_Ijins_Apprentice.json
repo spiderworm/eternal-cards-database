@@ -1,0 +1,15 @@
+{
+	"eternalID": 89,
+	"setID": 5,
+	"name": "Kemmo, Ijin's Apprentice",
+	"text": "Warcry;Summon: Put four +7/+7 Bladebreakers with Warcry into your deck.",
+	"cost": 3,
+	"influence": "{J}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Kemmo,_Ijin's_Apprentice.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-89/kemmo-ijins-apprentice",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 130,
+	"setID": 2,
+	"name": "Watcher of the Big Ones",
+	"text": "When Watcher of the Big Ones is a Student, play a 5/5 Carnosaur.",
+	"cost": 4,
+	"influence": "{P}{P}",
+	"attack": 3,
+	"health": 6,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Watcher_of_the_Big_Ones.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-130/watcher-of-the-big-ones",
+	"deckBuildable": true
+}

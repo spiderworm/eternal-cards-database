@@ -1,0 +1,15 @@
+{
+	"eternalID": 183,
+	"setID": 4,
+	"name": "Gleaming Shield",
+	"text": "Summon: The wielder gets Aegis.; Spellcraft 2: Play Mirror Image.",
+	"cost": 5,
+	"influence": "{P}",
+	"attack": 1,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Gleaming_Shield.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-183/gleaming-shield",
+	"deckBuildable": true
+}

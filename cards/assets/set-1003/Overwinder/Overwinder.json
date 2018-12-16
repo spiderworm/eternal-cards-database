@@ -1,0 +1,15 @@
+{
+	"eternalID": 19,
+	"setID": 1003,
+	"name": "Overwinder",
+	"text": "When one of your Grenadin hits the enemy player, each player discards the top two cards of their deck.",
+	"cost": 3,
+	"influence": "{F}{S}",
+	"attack": 2,
+	"health": 4,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Overwinder.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1003-19/overwinder",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 98,
+	"setID": 3,
+	"name": "Scourstone Sentinel",
+	"text": "Overwhelm, Bond",
+	"cost": 9,
+	"influence": "{T}{T}",
+	"attack": 7,
+	"health": 8,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Scourstone_Sentinel.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-98/scourstone-sentinel",
+	"deckBuildable": true
+}

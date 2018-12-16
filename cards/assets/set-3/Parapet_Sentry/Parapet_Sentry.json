@@ -1,0 +1,15 @@
+{
+	"eternalID": 37,
+	"setID": 3,
+	"name": "Parapet Sentry",
+	"text": "+2/+2 while you have a relic.; Summon: Deal 3 damage to the enemy player and 3 damage to an enemy unit with Flying.",
+	"cost": 5,
+	"influence": "{F}{F}",
+	"attack": 4,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Parapet_Sentry.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-37/parapet-sentry",
+	"deckBuildable": true
+}

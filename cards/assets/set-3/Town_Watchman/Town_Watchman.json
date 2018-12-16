@@ -1,0 +1,15 @@
+{
+	"eternalID": 145,
+	"setID": 3,
+	"name": "Town Watchman",
+	"text": "Warcry",
+	"cost": 6,
+	"influence": "{J}",
+	"attack": 3,
+	"health": 7,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Town_Watchman.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-145/town-watchman",
+	"deckBuildable": true
+}

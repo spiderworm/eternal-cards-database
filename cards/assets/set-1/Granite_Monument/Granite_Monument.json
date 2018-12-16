@@ -1,0 +1,15 @@
+{
+	"eternalID": 423,
+	"setID": 1,
+	"name": "Granite Monument",
+	"text": "Depleted; Gain {F}; Transmute 5: 4/1; Magmahound with Charge.",
+	"cost": 0,
+	"influence": "{F}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Power",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Granite_Monument.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-423/granite-monument",
+	"deckBuildable": true
+}

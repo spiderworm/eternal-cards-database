@@ -1,0 +1,15 @@
+{
+	"eternalID": 98,
+	"setID": 2,
+	"name": "Rolant's Fist",
+	"text": "Summon: Silence all enemy Valkyrie.",
+	"cost": 6,
+	"influence": "{J}{J}",
+	"attack": 7,
+	"health": 7,
+	"rarity": "Legendary",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rolant's_Fist.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-98/rolants-fist",
+	"deckBuildable": true
+}

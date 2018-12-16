@@ -1,0 +1,15 @@
+{
+	"eternalID": 359,
+	"setID": 1,
+	"name": "Crystalline Chalice",
+	"text": "Once per turn, you may pay 2 and exhaust one of your units with 2 Attack or less. It gets +2/+2 and you draw a card.",
+	"cost": 4,
+	"influence": "{T}{P}{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crystalline_Chalice.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-359/crystalline-chalice",
+	"deckBuildable": true
+}

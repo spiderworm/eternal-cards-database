@@ -1,0 +1,15 @@
+{
+	"eternalID": 78,
+	"setID": 1,
+	"name": "Voice of the Speaker",
+	"text": "Your power cards have Echo.",
+	"cost": 2,
+	"influence": "{T}",
+	"attack": 1,
+	"health": 2,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Voice_of_the_Speaker.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-78/voice-of-the-speaker",
+	"deckBuildable": true
+}

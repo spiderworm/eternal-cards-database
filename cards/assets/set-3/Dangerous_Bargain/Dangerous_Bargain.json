@@ -1,0 +1,15 @@
+{
+	"eternalID": 245,
+	"setID": 3,
+	"name": "Dangerous Bargain",
+	"text": "Summon: Nightfall; Steal the cursed unit until Night ends.",
+	"cost": 7,
+	"influence": "{S}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Curse",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Dangerous_Bargain.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-245/dangerous-bargain",
+	"deckBuildable": true
+}

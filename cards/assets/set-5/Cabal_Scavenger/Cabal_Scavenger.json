@@ -1,0 +1,15 @@
+{
+	"eternalID": 150,
+	"setID": 5,
+	"name": "Cabal Scavenger",
+	"text": "Lifesteal;When you play a relic, Cabal Scavenger deals 1 damage to the enemy player.",
+	"cost": 1,
+	"influence": "{S}",
+	"attack": 1,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cabal_Scavenger.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-150/cabal-scavenger",
+	"deckBuildable": true
+}

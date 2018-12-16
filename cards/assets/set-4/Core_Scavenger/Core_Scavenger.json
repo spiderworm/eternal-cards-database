@@ -1,0 +1,15 @@
+{
+	"eternalID": 46,
+	"setID": 4,
+	"name": "Core Scavenger",
+	"text": "Summon: Give one of your other units +2/+1 while you have Core Scavenger.",
+	"cost": 7,
+	"influence": "{F}",
+	"attack": 5,
+	"health": 4,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Core_Scavenger.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-46/core-scavenger",
+	"deckBuildable": true
+}

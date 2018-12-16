@@ -1,0 +1,15 @@
+{
+	"eternalID": 140,
+	"setID": 5,
+	"name": "Cliffdiver Mantasaur",
+	"text": "Flying, Aegis, Pledge",
+	"cost": 5,
+	"influence": "{P}{P}",
+	"attack": 4,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cliffdiver_Mantasaur.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-140/cliffdiver-mantasaur",
+	"deckBuildable": true
+}

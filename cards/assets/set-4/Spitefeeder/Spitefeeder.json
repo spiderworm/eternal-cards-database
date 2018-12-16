@@ -1,0 +1,15 @@
+{
+	"eternalID": 197,
+	"setID": 4,
+	"name": "Spitefeeder",
+	"text": "Flying; Summon: The player of your choice discards the top two cards of their deck.",
+	"cost": 1,
+	"influence": "{S}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Spitefeeder.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-197/spitefeeder",
+	"deckBuildable": true
+}

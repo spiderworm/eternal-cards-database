@@ -1,0 +1,15 @@
+{
+	"eternalID": 252,
+	"setID": 4,
+	"name": "Cirso's Choice",
+	"text": "- You gain an Aegis and 6 Health, or; - Deal 2 damage to each unit.",
+	"cost": 4,
+	"influence": "{T}{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cirso's_Choice.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-252/cirsos-choice",
+	"deckBuildable": true
+}

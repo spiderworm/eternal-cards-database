@@ -1,0 +1,15 @@
+{
+	"eternalID": 97,
+	"setID": 5,
+	"name": "Auric Weaponsmith",
+	"text": "When you play a weapon, it gets +1/+1.",
+	"cost": 4,
+	"influence": "{J}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Auric_Weaponsmith.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-97/auric-weaponsmith",
+	"deckBuildable": true
+}

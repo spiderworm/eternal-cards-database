@@ -1,0 +1,15 @@
+{
+	"eternalID": 275,
+	"setID": 3,
+	"name": "Vicious Highwayman",
+	"text": "Charge, Warcry; Summon: Deal 1 damage to an enemy.; When an enemy unit dies, Vicious Highwayman gets Lifesteal and Quickdraw this turn.",
+	"cost": 4,
+	"influence": "{F}{F}{S}{S}",
+	"attack": 4,
+	"health": 2,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Vicious_Highwayman.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-275/vicious-highwayman",
+	"deckBuildable": true
+}

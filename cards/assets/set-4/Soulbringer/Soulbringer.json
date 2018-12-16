@@ -1,0 +1,15 @@
+{
+	"eternalID": 231,
+	"setID": 4,
+	"name": "Soulbringer",
+	"text": "Summon: Play a Wisp from your void.; Tribute: Play two Wisps from your void instead.",
+	"cost": 4,
+	"influence": "{S}{S}",
+	"attack": 4,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Soulbringer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-231/soulbringer",
+	"deckBuildable": true
+}

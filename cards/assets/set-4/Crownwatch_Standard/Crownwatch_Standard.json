@@ -1,0 +1,15 @@
+{
+	"eternalID": 97,
+	"setID": 4,
+	"name": "Crownwatch Standard",
+	"text": "Depleted; Gain {J}.; Transmute 5: Crownwatch Tactic.",
+	"cost": 0,
+	"influence": "{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Power",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crownwatch_Standard.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-97/crownwatch-standard",
+	"deckBuildable": true
+}

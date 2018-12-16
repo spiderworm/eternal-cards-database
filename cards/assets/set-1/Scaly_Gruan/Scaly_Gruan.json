@@ -1,0 +1,15 @@
+{
+	"eternalID": 215,
+	"setID": 1,
+	"name": "Scaly Gruan",
+	"text": "",
+	"cost": 2,
+	"influence": "{P}",
+	"attack": 1,
+	"health": 4,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Scaly_Gruan.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-215/scaly-gruan",
+	"deckBuildable": true
+}

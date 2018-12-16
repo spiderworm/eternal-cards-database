@@ -1,0 +1,15 @@
+{
+	"eternalID": 116,
+	"setID": 2,
+	"name": "Crafty Yeti",
+	"text": "Spark: Draw a card, then discard a card.",
+	"cost": 3,
+	"influence": "{P}",
+	"attack": 3,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crafty_Yeti.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-116/crafty-yeti",
+	"deckBuildable": true
+}

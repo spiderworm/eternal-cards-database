@@ -1,0 +1,15 @@
+{
+	"eternalID": 186,
+	"setID": 1,
+	"name": "Sword of the Sky King",
+	"text": "",
+	"cost": 8,
+	"influence": "{J}{J}",
+	"attack": 8,
+	"health": 8,
+	"rarity": "Legendary",
+	"type": "Relic Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sword_of_the_Sky_King.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-186/sword-of-the-sky-king",
+	"deckBuildable": true
+}

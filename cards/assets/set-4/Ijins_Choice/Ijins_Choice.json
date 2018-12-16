@@ -1,0 +1,15 @@
+{
+	"eternalID": 245,
+	"setID": 4,
+	"name": "Ijin's Choice",
+	"text": "- Kill an attachment on an enemy, or; - Create and draw a +4/+4 Mithril Armor.",
+	"cost": 2,
+	"influence": "{F}{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ijin's_Choice.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-245/ijins-choice",
+	"deckBuildable": true
+}

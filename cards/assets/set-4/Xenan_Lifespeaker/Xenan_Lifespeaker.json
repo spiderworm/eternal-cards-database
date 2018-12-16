@@ -1,0 +1,15 @@
+{
+	"eternalID": 198,
+	"setID": 4,
+	"name": "Xenan Lifespeaker",
+	"text": "Inspire: Units you draw get Lifesteal.; Ultimate: Pay 4 to give Xenan Lifespeaker +3/+3.",
+	"cost": 1,
+	"influence": "{S}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Xenan_Lifespeaker.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-198/xenan-lifespeaker",
+	"deckBuildable": true
+}

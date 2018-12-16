@@ -1,0 +1,15 @@
+{
+	"eternalID": 161,
+	"setID": 4,
+	"name": "Snowfort Trumpeter",
+	"text": "Tribute: +2/+2.",
+	"cost": 2,
+	"influence": "{P}{P}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Snowfort_Trumpeter.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-161/snowfort-trumpeter",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 185,
+	"setID": 5,
+	"name": "Acantha, the Huntress",
+	"text": "Flying, Pledge;Summon: Kill an enemy unit.",
+	"cost": 9,
+	"influence": "{S}{S}",
+	"attack": 7,
+	"health": 7,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Acantha,_the_Huntress.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-185/acantha-the-huntress",
+	"deckBuildable": true
+}

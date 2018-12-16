@@ -1,0 +1,15 @@
+{
+	"eternalID": 17,
+	"setID": 1002,
+	"name": "Vision of Austerity",
+	"text": "Transform an enemy relic into an Omen of Austerity cursed relic.",
+	"cost": 2,
+	"influence": "{J}{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Vision_of_Austerity.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1002-17/vision-of-austerity",
+	"deckBuildable": true
+}

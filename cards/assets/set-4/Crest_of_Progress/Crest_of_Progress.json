@@ -1,0 +1,15 @@
+{
+	"eternalID": 247,
+	"setID": 4,
+	"name": "Crest of Progress",
+	"text": "Depleted; Gain {T}{J}.; Scout.",
+	"cost": 0,
+	"influence": "{T}{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Power",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crest_of_Progress.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-247/crest-of-progress",
+	"deckBuildable": true
+}

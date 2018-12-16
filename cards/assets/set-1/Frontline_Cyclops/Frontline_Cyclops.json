@@ -1,0 +1,15 @@
+{
+	"eternalID": 53,
+	"setID": 1,
+	"name": "Frontline Cyclops",
+	"text": "Reckless, Warcry",
+	"cost": 6,
+	"influence": "{F}",
+	"attack": 6,
+	"health": 6,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Frontline_Cyclops.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-53/frontline-cyclops",
+	"deckBuildable": true
+}

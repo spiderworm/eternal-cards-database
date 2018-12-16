@@ -1,0 +1,15 @@
+{
+	"eternalID": 88,
+	"setID": 2,
+	"name": "Spiked Buckler",
+	"text": "",
+	"cost": 4,
+	"influence": "{J}",
+	"attack": 2,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Spiked_Buckler.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-88/spiked-buckler",
+	"deckBuildable": true
+}

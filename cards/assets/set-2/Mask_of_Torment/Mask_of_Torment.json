@@ -1,0 +1,15 @@
+{
+	"eternalID": 212,
+	"setID": 2,
+	"name": "Mask of Torment",
+	"text": "+1 Maximum Power.; Lifeforce: When you gain Health, +1 Maximum Power.; Ultimate: Pay 20 to play The Tormentor.",
+	"cost": 4,
+	"influence": "{T}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Legendary",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Mask_of_Torment.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-212/mask-of-torment",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 242,
+	"setID": 5,
+	"name": "Jennev Cargo",
+	"text": "Draw a Fire Sigil, Time Sigil, or Primal Sigil from your deck.;Transmute {F}{F}{T}{T}{P}{P}: Jennev Contraband.",
+	"cost": 1,
+	"influence": "",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Jennev_Cargo.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-242/jennev-cargo",
+	"deckBuildable": true
+}

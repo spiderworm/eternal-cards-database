@@ -1,0 +1,14 @@
+{
+	"setID": 3,
+	"name": "Gilded Hammer",
+	"text": "",
+	"cost": 6,
+	"influence": "{J}{J}{J}",
+	"attack": 6,
+	"health": 6,
+	"rarity": "None",
+	"type": "Relic Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Gilded_Hammer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/--dvKVM-4n4/gilded-hammer",
+	"deckBuildable": false
+}

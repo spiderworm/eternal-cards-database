@@ -1,0 +1,15 @@
+{
+	"eternalID": 291,
+	"setID": 1,
+	"name": "Soul Collector",
+	"text": "When another unit dies, Soul Collector gets +1/+1. Entomb: You gain Health equal to Soul Collector's Health.",
+	"cost": 4,
+	"influence": "{S}{S}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Soul_Collector.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-291/soul-collector",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 204,
+	"setID": 3,
+	"name": "Grenamender",
+	"text": "Entomb: You gain 3 Health.",
+	"cost": 1,
+	"influence": "{S}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Grenamender.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-204/grenamender",
+	"deckBuildable": true
+}

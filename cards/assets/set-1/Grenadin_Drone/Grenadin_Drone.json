@@ -1,0 +1,15 @@
+{
+	"eternalID": 5,
+	"setID": 1,
+	"name": "Grenadin Drone",
+	"text": "Summon: Play a 1/1 Grenadin",
+	"cost": 1,
+	"influence": "{F}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Grenadin_Drone.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-5/grenadin-drone",
+	"deckBuildable": true
+}

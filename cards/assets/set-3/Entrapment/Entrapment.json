@@ -1,0 +1,15 @@
+{
+	"eternalID": 116,
+	"setID": 3,
+	"name": "Entrapment",
+	"text": "Kill an attacking enemy unit.; Entrapment can't be played at Night.",
+	"cost": 4,
+	"influence": "{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Entrapment.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-116/entrapment",
+	"deckBuildable": true
+}

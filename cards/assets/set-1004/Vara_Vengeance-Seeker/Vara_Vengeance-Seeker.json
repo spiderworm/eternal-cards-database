@@ -1,0 +1,15 @@
+{
+	"eternalID": 19,
+	"setID": 1004,
+	"name": "Vara, Vengeance-Seeker",
+	"text": "Lifesteal; Nothing can have an Aegis.; Summon: The enemy player must choose: Sacrifice a unit or give Vara +2/+2 and Deadly.",
+	"cost": 4,
+	"influence": "{S}{S}",
+	"attack": 3,
+	"health": 4,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Vara,_Vengeance-Seeker.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1004-19/vara-vengeance-seeker",
+	"deckBuildable": true
+}

@@ -1,0 +1,14 @@
+{
+	"setID": 2,
+	"name": "Explorer",
+	"text": "",
+	"cost": 1,
+	"influence": "",
+	"attack": 1,
+	"health": 1,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Explorer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/0uX18-HSbDE/explorer",
+	"deckBuildable": false
+}

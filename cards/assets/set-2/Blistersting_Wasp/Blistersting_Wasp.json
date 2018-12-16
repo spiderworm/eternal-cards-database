@@ -1,0 +1,15 @@
+{
+	"eternalID": 202,
+	"setID": 2,
+	"name": "Blistersting Wasp",
+	"text": "Flying, Deadly",
+	"cost": 2,
+	"influence": "{T}{S}",
+	"attack": 1,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Blistersting_Wasp.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-202/blistersting-wasp",
+	"deckBuildable": true
+}

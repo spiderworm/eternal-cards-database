@@ -1,0 +1,15 @@
+{
+	"eternalID": 202,
+	"setID": 4,
+	"name": "Cull the Deck",
+	"text": "Draw one of the top three cards of your deck. Put the rest on the bottom.",
+	"cost": 2,
+	"influence": "{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cull_the_Deck.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-202/cull-the-deck",
+	"deckBuildable": true
+}

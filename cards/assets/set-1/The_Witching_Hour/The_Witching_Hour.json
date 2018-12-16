@@ -1,0 +1,15 @@
+{
+	"eternalID": 310,
+	"setID": 1,
+	"name": "The Witching Hour",
+	"text": "Play four Pale Riders. When you play a non-power card, reduce the cost of The Witching Hour by 1.",
+	"cost": 24,
+	"influence": "{S}{S}{S}{S}{S}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Legendary",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/The_Witching_Hour.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-310/the-witching-hour",
+	"deckBuildable": true
+}

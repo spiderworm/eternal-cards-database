@@ -1,0 +1,15 @@
+{
+	"eternalID": 113,
+	"setID": 2,
+	"name": "Yeti Snowchucker",
+	"text": "Reckless; When Yeti Snowchucker attacks, it deals 1 damage to the enemy player.",
+	"cost": 2,
+	"influence": "{P}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Yeti_Snowchucker.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-113/yeti-snowchucker",
+	"deckBuildable": true
+}

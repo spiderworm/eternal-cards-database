@@ -1,0 +1,15 @@
+{
+	"eternalID": 248,
+	"setID": 3,
+	"name": "Nametaker",
+	"text": "When an enemy unit dies, the enemy player discards each copy from their hand and deck.",
+	"cost": 8,
+	"influence": "{S}{S}{S}",
+	"attack": 6,
+	"health": 4,
+	"rarity": "Legendary",
+	"type": "Relic Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Nametaker.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-248/nametaker",
+	"deckBuildable": true
+}

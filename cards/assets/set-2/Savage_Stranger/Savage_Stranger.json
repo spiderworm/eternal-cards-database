@@ -1,0 +1,15 @@
+{
+	"eternalID": 161,
+	"setID": 2,
+	"name": "Savage Stranger",
+	"text": "At the end of your turn, Strangers get +1 Attack.",
+	"cost": 4,
+	"influence": "{S}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Savage_Stranger.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-161/savage-stranger",
+	"deckBuildable": true
+}

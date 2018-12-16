@@ -1,0 +1,15 @@
+{
+	"eternalID": 193,
+	"setID": 2,
+	"name": "Hunter's Harpoon",
+	"text": "Quickdraw; When the wielder hits the enemy player, draw a card.",
+	"cost": 4,
+	"influence": "{F}{P}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hunter's_Harpoon.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-193/hunters-harpoon",
+	"deckBuildable": true
+}

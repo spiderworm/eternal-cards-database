@@ -1,0 +1,15 @@
+{
+	"eternalID": 249,
+	"setID": 5,
+	"name": "Display of Vision",
+	"text": "- Enemy units get -1/-1 this turn, or; - Play a power card of your choice from your deck, or; - Kill an attachment on an enemy.",
+	"cost": 3,
+	"influence": "{T}{J}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Display_of_Vision.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-249/display-of-vision",
+	"deckBuildable": true
+}

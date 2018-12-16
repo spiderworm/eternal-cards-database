@@ -1,0 +1,15 @@
+{
+	"eternalID": 200,
+	"setID": 3,
+	"name": "Clutchkeeper",
+	"text": "Bond; When you bond Clutchkeeper, she gets Killer.; When she attacks, play two 3/3 Dinosaurs with Overwhelm.",
+	"cost": 14,
+	"influence": "{P}{P}{P}",
+	"attack": 8,
+	"health": 7,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Clutchkeeper.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-200/clutchkeeper",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 121,
+	"setID": 4,
+	"name": "Master-at-Arms",
+	"text": "Summon: Give one of your other units +2/+2 while you have Master-at-Arms.",
+	"cost": 2,
+	"influence": "{J}{J}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Master-at-Arms.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-121/master-at-arms",
+	"deckBuildable": true
+}

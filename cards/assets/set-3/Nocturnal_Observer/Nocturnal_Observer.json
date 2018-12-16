@@ -1,0 +1,15 @@
+{
+	"eternalID": 173,
+	"setID": 3,
+	"name": "Nocturnal Observer",
+	"text": "Summon: Nightfall.; You may exhaust Nocturnal Observer at Night to draw a card, then discard a card.",
+	"cost": 3,
+	"influence": "{P}",
+	"attack": 2,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Nocturnal_Observer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-173/nocturnal-observer",
+	"deckBuildable": true
+}

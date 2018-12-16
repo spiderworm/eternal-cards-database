@@ -1,0 +1,15 @@
+{
+	"eternalID": 17,
+	"setID": 1003,
+	"name": "Sower of Dissent",
+	"text": "When you Warcry a unit or weapon, reduce its cost by that much.; Valkyrie Ally: Warcry 2.",
+	"cost": 3,
+	"influence": "{F}{J}",
+	"attack": 2,
+	"health": 4,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sower_of_Dissent.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1003-17/sower-of-dissent",
+	"deckBuildable": true
+}

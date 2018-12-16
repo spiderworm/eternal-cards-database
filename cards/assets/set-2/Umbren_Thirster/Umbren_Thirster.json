@@ -1,0 +1,15 @@
+{
+	"eternalID": 165,
+	"setID": 2,
+	"name": "Umbren Thirster",
+	"text": "Lifeforce: When you gain health, Umbren Thirster gets +1 Attack and Flying.",
+	"cost": 5,
+	"influence": "{S}",
+	"attack": 2,
+	"health": 4,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Umbren_Thirster.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-165/umbren-thirster",
+	"deckBuildable": true
+}

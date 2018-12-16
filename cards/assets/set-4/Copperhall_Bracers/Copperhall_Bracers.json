@@ -1,0 +1,15 @@
+{
+	"eternalID": 115,
+	"setID": 4,
+	"name": "Copperhall Bracers",
+	"text": "When the wielder hits the enemy player, play a Justice Sigil from your deck.; Spellcraft 1: Play Copperhall Blessing.",
+	"cost": 3,
+	"influence": "{J}{J}",
+	"attack": 4,
+	"health": 0,
+	"rarity": "Legendary",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Copperhall_Bracers.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-115/copperhall-bracers",
+	"deckBuildable": true
+}

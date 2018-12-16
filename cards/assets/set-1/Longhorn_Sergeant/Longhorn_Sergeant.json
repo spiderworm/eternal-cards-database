@@ -1,0 +1,15 @@
+{
+	"eternalID": 318,
+	"setID": 1,
+	"name": "Longhorn Sergeant",
+	"text": "Warcry; When you Warcry, you gain 1 Armor.",
+	"cost": 4,
+	"influence": "{F}{J}",
+	"attack": 2,
+	"health": 4,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Longhorn_Sergeant.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-318/longhorn-sergeant",
+	"deckBuildable": true
+}

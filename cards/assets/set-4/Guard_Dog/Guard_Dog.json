@@ -1,0 +1,15 @@
+{
+	"eternalID": 117,
+	"setID": 4,
+	"name": "Guard Dog",
+	"text": "Tribute: +1/+1.",
+	"cost": 3,
+	"influence": "{J}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Guard_Dog.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-117/guard-dog",
+	"deckBuildable": true
+}

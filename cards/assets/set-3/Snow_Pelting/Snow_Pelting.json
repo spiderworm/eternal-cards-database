@@ -1,0 +1,15 @@
+{
+	"eternalID": 158,
+	"setID": 3,
+	"name": "Snow Pelting",
+	"text": "Deal 2 damage to an enemy.; For each of your Yeti, you may pay 2 and exhaust it to deal 2 damage to an additional enemy.",
+	"cost": 1,
+	"influence": "{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Snow_Pelting.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-158/snow-pelting",
+	"deckBuildable": true
+}

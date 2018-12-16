@@ -1,0 +1,15 @@
+{
+	"eternalID": 218,
+	"setID": 1,
+	"name": "Wisdom of the Elders",
+	"text": "Draw two cards.",
+	"cost": 3,
+	"influence": "{P}{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Wisdom_of_the_Elders.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-218/wisdom-of-the-elders",
+	"deckBuildable": true
+}

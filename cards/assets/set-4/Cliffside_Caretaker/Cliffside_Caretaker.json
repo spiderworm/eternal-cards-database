@@ -1,0 +1,15 @@
+{
+	"eternalID": 186,
+	"setID": 4,
+	"name": "Cliffside Caretaker",
+	"text": "Inspire: Units you draw get Flying.",
+	"cost": 5,
+	"influence": "{P}",
+	"attack": 2,
+	"health": 4,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cliffside_Caretaker.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-186/cliffside-caretaker",
+	"deckBuildable": true
+}

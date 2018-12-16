@@ -1,0 +1,15 @@
+{
+	"eternalID": 130,
+	"setID": 3,
+	"name": "Lawman's Sidearm",
+	"text": "Summon: Draw a Justice Sigil from your deck. If played on a Gunslinger, draw two instead.",
+	"cost": 4,
+	"influence": "{J}",
+	"attack": 3,
+	"health": 2,
+	"rarity": "Rare",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lawman's_Sidearm.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-130/lawmans-sidearm",
+	"deckBuildable": true
+}

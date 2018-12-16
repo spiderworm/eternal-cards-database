@@ -1,0 +1,15 @@
+{
+	"eternalID": 74,
+	"setID": 5,
+	"name": "Pit of Lenekta",
+	"text": "When an enemy unit goes to a void, you gain 2 Health.;Empower: Play two 7/7 Sand Wurms exhausted.",
+	"cost": 9,
+	"influence": "{T}{T}{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Legendary",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Pit_of_Lenekta.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-74/pit-of-lenekta",
+	"deckBuildable": true
+}

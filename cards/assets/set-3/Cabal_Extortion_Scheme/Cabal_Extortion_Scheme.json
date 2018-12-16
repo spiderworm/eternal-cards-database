@@ -1,0 +1,14 @@
+{
+	"setID": 3,
+	"name": "Cabal Extortion Scheme",
+	"text": "The enemy player must choose: You draw the top three cards of their deck, or you deal 7 damage to them and gain 7 Health.",
+	"cost": 3,
+	"influence": "",
+	"attack": 0,
+	"health": 0,
+	"rarity": "None",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cabal_Extortion_Scheme.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/TDF8EzZU-_0/cabal-extortion-scheme",
+	"deckBuildable": false
+}

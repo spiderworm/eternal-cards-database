@@ -1,0 +1,15 @@
+{
+	"eternalID": 58,
+	"setID": 3,
+	"name": "Talir's Intervention",
+	"text": "- You gain 4 Health, or; - Put one of your Explorers or Sentinels into your hand, or; - Silence an enemy unit.",
+	"cost": 1,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Talir's_Intervention.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-58/talirs-intervention",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 251,
+	"setID": 2,
+	"name": "Xenan Stranger",
+	"text": "Summon: Gain {T}{S}",
+	"cost": 2,
+	"influence": "",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Xenan_Stranger.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-251/xenan-stranger",
+	"deckBuildable": true
+}

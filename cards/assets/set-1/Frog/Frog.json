@@ -1,0 +1,14 @@
+{
+	"setID": 1,
+	"name": "Frog",
+	"text": "",
+	"cost": 0,
+	"influence": "",
+	"attack": 1,
+	"health": 1,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Frog.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/-FkZI6qQkjU/frog",
+	"deckBuildable": false
+}

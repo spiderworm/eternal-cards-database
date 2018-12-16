@@ -1,0 +1,15 @@
+{
+	"eternalID": 9,
+	"setID": 1004,
+	"name": "Unwavering Exorcist",
+	"text": "You are immune to damage from Night.; Summon: Kill an enemy curse.",
+	"cost": 2,
+	"influence": "{J}",
+	"attack": 3,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Unwavering_Exorcist.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1004-9/unwavering-exorcist",
+	"deckBuildable": true
+}

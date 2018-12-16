@@ -1,0 +1,15 @@
+{
+	"eternalID": 200,
+	"setID": 1,
+	"name": "Backlash",
+	"text": "Negate an enemy spell and deal 2 damage to that player.",
+	"cost": 2,
+	"influence": "{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Backlash.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-200/backlash",
+	"deckBuildable": true
+}

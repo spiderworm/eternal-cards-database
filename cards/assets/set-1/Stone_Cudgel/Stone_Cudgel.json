@@ -1,0 +1,14 @@
+{
+	"setID": 1,
+	"name": "Stone Cudgel",
+	"text": "",
+	"cost": 1,
+	"influence": "",
+	"attack": 2,
+	"health": 2,
+	"rarity": "None",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Stone_Cudgel.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/zn0NdU5QUgU/stone-cudgel",
+	"deckBuildable": false
+}

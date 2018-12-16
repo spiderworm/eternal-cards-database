@@ -1,0 +1,15 @@
+{
+	"eternalID": 271,
+	"setID": 3,
+	"name": "Duskwalker",
+	"text": "Summon: Nightfall.; +2 Maximum Power at Night.",
+	"cost": 4,
+	"influence": "{T}{S}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Duskwalker.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-271/duskwalker",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 3,
+	"setID": 2,
+	"name": "Young Gun",
+	"text": "Quickdraw",
+	"cost": 1,
+	"influence": "{F}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Young_Gun.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-3/young-gun",
+	"deckBuildable": true
+}

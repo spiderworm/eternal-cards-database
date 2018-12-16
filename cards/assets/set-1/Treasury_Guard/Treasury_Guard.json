@@ -1,0 +1,15 @@
+{
+	"eternalID": 505,
+	"setID": 1,
+	"name": "Treasury Guard",
+	"text": "Endurance",
+	"cost": 3,
+	"influence": "{J}",
+	"attack": 2,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Treasury_Guard.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-505/treasury-guard",
+	"deckBuildable": true
+}

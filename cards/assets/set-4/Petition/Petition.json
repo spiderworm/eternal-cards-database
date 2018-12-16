@@ -1,0 +1,15 @@
+{
+	"eternalID": 274,
+	"setID": 4,
+	"name": "Petition",
+	"text": "Draw a power card of your choice from your deck.",
+	"cost": 2,
+	"influence": "",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Petition.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-274/petition",
+	"deckBuildable": true
+}

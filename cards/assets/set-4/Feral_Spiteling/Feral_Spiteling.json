@@ -1,0 +1,15 @@
+{
+	"eternalID": 205,
+	"setID": 4,
+	"name": "Feral Spiteling",
+	"text": "When Feral Spiteling attacks, each of your Radiants get +1 Attack for each unit in your void.",
+	"cost": 1,
+	"influence": "{S}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Feral_Spiteling.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-205/feral-spiteling",
+	"deckBuildable": true
+}

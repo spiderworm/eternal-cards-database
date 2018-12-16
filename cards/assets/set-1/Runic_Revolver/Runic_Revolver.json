@@ -1,0 +1,15 @@
+{
+	"eternalID": 404,
+	"setID": 1,
+	"name": "Runic Revolver",
+	"text": "Quickdraw; Summon: Deal 2 damage to the enemy player.",
+	"cost": 5,
+	"influence": "{F}{S}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Relic Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Runic_Revolver.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-404/runic-revolver",
+	"deckBuildable": true
+}

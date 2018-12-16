@@ -1,0 +1,15 @@
+{
+	"eternalID": 41,
+	"setID": 5,
+	"name": "Araktodon Egg",
+	"text": "Empower: Araktodon Egg shakes. After the third shake, sacrifice Araktodon Egg to play a 4/4 Dinosaur.",
+	"cost": 1,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Araktodon_Egg.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-41/araktodon-egg",
+	"deckBuildable": true
+}

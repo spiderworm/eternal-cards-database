@@ -1,0 +1,15 @@
+{
+	"eternalID": 346,
+	"setID": 1,
+	"name": "Minotaur Ambassador",
+	"text": "Summon: Play a Time Sigil and a Justice Sigil from your deck.",
+	"cost": 6,
+	"influence": "{T}{J}",
+	"attack": 3,
+	"health": 5,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Minotaur_Ambassador.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-346/minotaur-ambassador",
+	"deckBuildable": true
+}

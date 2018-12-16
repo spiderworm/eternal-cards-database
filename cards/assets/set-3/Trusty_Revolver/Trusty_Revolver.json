@@ -1,0 +1,15 @@
+{
+	"eternalID": 206,
+	"setID": 3,
+	"name": "Trusty Revolver",
+	"text": "Entomb: Create and draw a +1/+1 weapon.",
+	"cost": 1,
+	"influence": "{S}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Trusty_Revolver.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-206/trusty-revolver",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 4,
+	"setID": 5,
+	"name": "Research Assistant",
+	"text": "Pay 2 and sacrifice Research Assistant to get +3 power this turn.;Summon: Gain {T} or {P}.",
+	"cost": 1,
+	"influence": "{F}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Research_Assistant.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-4/research-assistant",
+	"deckBuildable": true
+}

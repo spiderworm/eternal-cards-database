@@ -1,0 +1,15 @@
+{
+	"eternalID": 85,
+	"setID": 3,
+	"name": "Sandbinder Sentinel",
+	"text": "Summon: Play a Sandbind on an enemy unit with Flying.",
+	"cost": 5,
+	"influence": "{T}{T}",
+	"attack": 4,
+	"health": 6,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sandbinder_Sentinel.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-85/sandbinder-sentinel",
+	"deckBuildable": true
+}

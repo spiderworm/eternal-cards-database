@@ -1,0 +1,15 @@
+{
+	"eternalID": 189,
+	"setID": 3,
+	"name": "Lida, Most Skilled",
+	"text": "Overwhelm; Unseen Ally: Killer.",
+	"cost": 5,
+	"influence": "{P}{P}",
+	"attack": 4,
+	"health": 5,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lida,_Most_Skilled.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-189/lida-most-skilled",
+	"deckBuildable": true
+}

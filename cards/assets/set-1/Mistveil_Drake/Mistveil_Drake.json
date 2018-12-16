@@ -1,0 +1,15 @@
+{
+	"eternalID": 242,
+	"setID": 1,
+	"name": "Mistveil Drake",
+	"text": "Flying, Aegis; Fate: You gain an Aegis.; Summon: If you have an Aegis, Mistveil Drake gets +3/+3.",
+	"cost": 7,
+	"influence": "{P}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Mistveil_Drake.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-242/mistveil-drake",
+	"deckBuildable": true
+}

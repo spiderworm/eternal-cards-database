@@ -1,0 +1,15 @@
+{
+	"eternalID": 144,
+	"setID": 1,
+	"name": "Eager Owlet",
+	"text": "Flying; +3 Attack while you have another Flying unit.",
+	"cost": 2,
+	"influence": "{J}",
+	"attack": 0,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Eager_Owlet.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-144/eager-owlet",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 15,
+	"setID": 0,
+	"name": "Oasis Sanctuary",
+	"text": "You gain 5 Health.",
+	"cost": 3,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Oasis_Sanctuary.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/0-15/oasis-sanctuary",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 397,
+	"setID": 1,
+	"name": "Bloodrite Kalis",
+	"text": "Summon: Sacrifice all of your units. Bloodrite Kalis gets +2/+2 for each unit sacrificed.",
+	"cost": 3,
+	"influence": "{F}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Relic Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Bloodrite_Kalis.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-397/bloodrite-kalis",
+	"deckBuildable": true
+}

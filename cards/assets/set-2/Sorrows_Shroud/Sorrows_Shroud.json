@@ -1,0 +1,15 @@
+{
+	"eternalID": 151,
+	"setID": 2,
+	"name": "Sorrow's Shroud",
+	"text": "When the wielder dies, you gain Health equal to its Health.",
+	"cost": 3,
+	"influence": "{S}",
+	"attack": 1,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sorrow's_Shroud.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-151/sorrows-shroud",
+	"deckBuildable": true
+}

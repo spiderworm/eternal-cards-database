@@ -1,0 +1,15 @@
+{
+	"eternalID": 78,
+	"setID": 5,
+	"name": "Oni Samurai",
+	"text": "Warcry",
+	"cost": 1,
+	"influence": "{J}",
+	"attack": 1,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Oni_Samurai.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-78/oni-samurai",
+	"deckBuildable": true
+}

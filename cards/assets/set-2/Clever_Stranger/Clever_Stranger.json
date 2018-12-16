@@ -1,0 +1,15 @@
+{
+	"eternalID": 178,
+	"setID": 2,
+	"name": "Clever Stranger",
+	"text": "Warp;Strangers have Warp.",
+	"cost": 4,
+	"influence": "{F}{T}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Clever_Stranger.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-178/clever-stranger",
+	"deckBuildable": true
+}

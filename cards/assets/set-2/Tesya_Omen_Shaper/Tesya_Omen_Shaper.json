@@ -1,0 +1,15 @@
+{
+	"eternalID": 256,
+	"setID": 2,
+	"name": "Tesya, Omen Shaper",
+	"text": "Warp; When you play another unit while Tesya is on top of your deck, it gets +1/+1.; Summon: Your other units get +1/+1.",
+	"cost": 7,
+	"influence": "{T}{T}",
+	"attack": 7,
+	"health": 6,
+	"rarity": "Promo",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Tesya,_Omen_Shaper.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-256/tesya-omen-shaper",
+	"deckBuildable": true
+}

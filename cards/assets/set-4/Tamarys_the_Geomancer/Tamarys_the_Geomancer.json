@@ -1,0 +1,15 @@
+{
+	"eternalID": 308,
+	"setID": 4,
+	"name": "Tamarys, the Geomancer",
+	"text": "Flying, Overwhelm;Your spells cost 1 less.",
+	"cost": 5,
+	"influence": "{F}{P}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "Promo",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Tamarys,_the_Geomancer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-308/tamarys-the-geomancer",
+	"deckBuildable": true
+}

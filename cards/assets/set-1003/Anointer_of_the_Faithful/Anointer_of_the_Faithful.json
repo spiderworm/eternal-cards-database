@@ -1,0 +1,15 @@
+{
+	"eternalID": 24,
+	"setID": 1003,
+	"name": "Anointer of the Faithful",
+	"text": "Lifesteal; Summon: Give a Paladin in your hand Bond.; When you play another Paladin, play a +1/+1 weapon on it.",
+	"cost": 2,
+	"influence": "{J}{S}",
+	"attack": 1,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Anointer_of_the_Faithful.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1003-24/anointer-of-the-faithful",
+	"deckBuildable": true
+}

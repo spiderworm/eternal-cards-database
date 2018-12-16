@@ -1,0 +1,15 @@
+{
+	"eternalID": 268,
+	"setID": 1,
+	"name": "Argenport Instigator",
+	"text": "When a unit dies, deal 1 damage to its owner.",
+	"cost": 2,
+	"influence": "{S}{S}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Argenport_Instigator.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-268/argenport-instigator",
+	"deckBuildable": true
+}

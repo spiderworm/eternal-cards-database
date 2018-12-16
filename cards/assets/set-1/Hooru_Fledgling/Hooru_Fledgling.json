@@ -1,0 +1,15 @@
+{
+	"eternalID": 159,
+	"setID": 1,
+	"name": "Hooru Fledgling",
+	"text": "Flying",
+	"cost": 5,
+	"influence": "{J}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hooru_Fledgling.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-159/hooru-fledgling",
+	"deckBuildable": true
+}

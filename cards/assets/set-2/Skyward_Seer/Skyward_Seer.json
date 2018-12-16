@@ -1,0 +1,15 @@
+{
+	"eternalID": 125,
+	"setID": 2,
+	"name": "Skyward Seer",
+	"text": "Spark: Draw a Flying unit of your choice from your deck.",
+	"cost": 4,
+	"influence": "{P}{P}",
+	"attack": 1,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Skyward_Seer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-125/skyward-seer",
+	"deckBuildable": true
+}

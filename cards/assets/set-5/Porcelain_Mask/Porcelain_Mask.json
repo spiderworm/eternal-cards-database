@@ -1,0 +1,15 @@
+{
+	"eternalID": 47,
+	"setID": 5,
+	"name": "Porcelain Mask",
+	"text": "Your units have Overwhelm.;Summon: Silence a unit in the enemy hand.",
+	"cost": 2,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Porcelain_Mask.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-47/porcelain-mask",
+	"deckBuildable": true
+}

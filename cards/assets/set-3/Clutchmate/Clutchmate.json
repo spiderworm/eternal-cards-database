@@ -1,0 +1,15 @@
+{
+	"eternalID": 179,
+	"setID": 3,
+	"name": "Clutchmate",
+	"text": "Play a copy of one of your units. If it's a Dinosaur, give both +1/+1.",
+	"cost": 4,
+	"influence": "{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Clutchmate.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-179/clutchmate",
+	"deckBuildable": true
+}

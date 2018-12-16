@@ -1,0 +1,15 @@
+{
+	"eternalID": 268,
+	"setID": 4,
+	"name": "Siphon Vitality",
+	"text": "Enemy units get -1/-1.; Your units get +1/+1.",
+	"cost": 6,
+	"influence": "{T}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Siphon_Vitality.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-268/siphon-vitality",
+	"deckBuildable": true
+}

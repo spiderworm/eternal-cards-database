@@ -1,0 +1,15 @@
+{
+	"eternalID": 355,
+	"setID": 1,
+	"name": "Crown of Possibilities",
+	"text": "Units you draw gain a random skill.",
+	"cost": 3,
+	"influence": "{T}{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Legendary",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Crown_of_Possibilities.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-355/crown-of-possibilities",
+	"deckBuildable": true
+}

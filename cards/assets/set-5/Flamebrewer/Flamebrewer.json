@@ -1,0 +1,15 @@
+{
+	"eternalID": 20,
+	"setID": 5,
+	"name": "Flamebrewer",
+	"text": "Reckless;At the start of your turn, create and draw a random spell. Discard it at the end of the turn.",
+	"cost": 4,
+	"influence": "{F}{F}",
+	"attack": 5,
+	"health": 3,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Flamebrewer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-20/flamebrewer",
+	"deckBuildable": true
+}

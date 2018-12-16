@@ -1,0 +1,15 @@
+{
+	"eternalID": 514,
+	"setID": 1,
+	"name": "Throne Warden",
+	"text": "Aegis; Summon: You gain 4 Armor",
+	"cost": 5,
+	"influence": "{J}{J}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Throne_Warden.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-514/throne-warden",
+	"deckBuildable": true
+}

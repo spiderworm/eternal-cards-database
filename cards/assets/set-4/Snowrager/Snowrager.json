@@ -1,0 +1,15 @@
+{
+	"eternalID": 149,
+	"setID": 4,
+	"name": "Snowrager",
+	"text": "Berserk; Tribute: Create and draw a Snowball.",
+	"cost": 1,
+	"influence": "{P}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Snowrager.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-149/snowrager",
+	"deckBuildable": true
+}

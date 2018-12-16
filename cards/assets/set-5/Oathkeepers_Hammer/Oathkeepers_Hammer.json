@@ -1,0 +1,15 @@
+{
+	"eternalID": 108,
+	"setID": 5,
+	"name": "Oathkeeper's Hammer",
+	"text": "Lifesteal",
+	"cost": 6,
+	"influence": "{J}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Oathkeeper's_Hammer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-108/oathkeepers-hammer",
+	"deckBuildable": true
+}

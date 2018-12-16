@@ -1,0 +1,15 @@
+{
+	"eternalID": 158,
+	"setID": 1,
+	"name": "Copperhall Recruit",
+	"text": "",
+	"cost": 4,
+	"influence": "{J}",
+	"attack": 2,
+	"health": 5,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Copperhall_Recruit.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-158/copperhall-recruit",
+	"deckBuildable": true
+}

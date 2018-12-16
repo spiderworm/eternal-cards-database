@@ -1,0 +1,15 @@
+{
+	"eternalID": 25,
+	"setID": 4,
+	"name": "Rika, Desert Navigator",
+	"text": "When Rika hits the enemy player, the top card of your deck gets Warp this turn.",
+	"cost": 3,
+	"influence": "{F}",
+	"attack": 1,
+	"health": 5,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rika,_Desert_Navigator.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-25/rika-desert-navigator",
+	"deckBuildable": true
+}

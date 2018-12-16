@@ -1,0 +1,15 @@
+{
+	"eternalID": 146,
+	"setID": 1,
+	"name": "Auric Sentry",
+	"text": "Endurance, Warcry",
+	"cost": 3,
+	"influence": "{J}",
+	"attack": 1,
+	"health": 5,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Auric_Sentry.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-146/auric-sentry",
+	"deckBuildable": true
+}

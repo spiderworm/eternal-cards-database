@@ -1,0 +1,15 @@
+{
+	"eternalID": 148,
+	"setID": 5,
+	"name": "Eilyn, the Rising Storm",
+	"text": "Pledge;Summon: Deal 6 damage to an enemy.;Ultimate: The third time Eilyn attacks, she deals 12 damage to each enemy.",
+	"cost": 8,
+	"influence": "{P}{P}{P}",
+	"attack": 6,
+	"health": 12,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Eilyn,_the_Rising_Storm.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-148/eilyn-the-rising-storm",
+	"deckBuildable": true
+}

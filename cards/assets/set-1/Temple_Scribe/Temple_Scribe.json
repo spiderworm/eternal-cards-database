@@ -1,0 +1,15 @@
+{
+	"eternalID": 502,
+	"setID": 1,
+	"name": "Temple Scribe",
+	"text": "Summon: You gain 1 Health and draw a card.",
+	"cost": 2,
+	"influence": "{T}{T}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Temple_Scribe.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-502/temple-scribe",
+	"deckBuildable": true
+}

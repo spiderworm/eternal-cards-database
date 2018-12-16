@@ -1,0 +1,15 @@
+{
+	"eternalID": 181,
+	"setID": 3,
+	"name": "Freewing Glider",
+	"text": "Flying; Summon: Scout.",
+	"cost": 4,
+	"influence": "{P}",
+	"attack": 0,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Freewing_Glider.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-181/freewing-glider",
+	"deckBuildable": true
+}

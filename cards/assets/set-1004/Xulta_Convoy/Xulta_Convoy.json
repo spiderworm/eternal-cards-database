@@ -1,0 +1,15 @@
+{
+	"eternalID": 10,
+	"setID": 1004,
+	"name": "Xulta Convoy",
+	"text": "Play two 2/2 Exiles with Aegis and Endurance.",
+	"cost": 4,
+	"influence": "{J}{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Xulta_Convoy.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1004-10/xulta-convoy",
+	"deckBuildable": true
+}

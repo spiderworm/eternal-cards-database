@@ -1,0 +1,14 @@
+{
+	"setID": 1002,
+	"name": "Unseen Disciple",
+	"text": "",
+	"cost": 3,
+	"influence": "{P}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Unseen_Disciple.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/ZUzXLGMoEGU/unseen-disciple",
+	"deckBuildable": false
+}

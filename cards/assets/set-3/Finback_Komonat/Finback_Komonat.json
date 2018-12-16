@@ -1,0 +1,15 @@
+{
+	"eternalID": 240,
+	"setID": 3,
+	"name": "Finback Komonat",
+	"text": "Summon: You may discard a card to make Nightfall.",
+	"cost": 6,
+	"influence": "{S}",
+	"attack": 5,
+	"health": 5,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Finback_Komonat.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-240/finback-komonat",
+	"deckBuildable": true
+}

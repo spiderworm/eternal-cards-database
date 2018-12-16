@@ -1,0 +1,15 @@
+{
+	"eternalID": 186,
+	"setID": 3,
+	"name": "Thudrock, Arctic Artisan",
+	"text": "When Thudrock hits the enemy player, play a Snowman with Attack/Health equal to your number of Yeti.",
+	"cost": 4,
+	"influence": "{P}{P}",
+	"attack": 5,
+	"health": 4,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Thudrock,_Arctic_Artisan.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-186/thudrock-arctic-artisan",
+	"deckBuildable": true
+}

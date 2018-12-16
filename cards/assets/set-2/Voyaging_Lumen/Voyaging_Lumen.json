@@ -1,0 +1,15 @@
+{
+	"eternalID": 66,
+	"setID": 2,
+	"name": "Voyaging Lumen",
+	"text": "Lifeforce: At the end of your turn, if you gained Health, play a 1/1 Wisp.",
+	"cost": 6,
+	"influence": "{T}",
+	"attack": 5,
+	"health": 5,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Voyaging_Lumen.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-66/voyaging-lumen",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 245,
+	"setID": 5,
+	"name": "Zal Chi, Herald of War",
+	"text": "Charge;Entomb: Play two 4/4 Ruin Stalkers with Flying.",
+	"cost": 7,
+	"influence": "{F}{F}{T}{T}{P}{P}",
+	"attack": 7,
+	"health": 5,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Zal_Chi,_Herald_of_War.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-245/zal-chi-herald-of-war",
+	"deckBuildable": true
+}

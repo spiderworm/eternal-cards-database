@@ -1,0 +1,15 @@
+{
+	"eternalID": 15,
+	"setID": 1002,
+	"name": "Dueling Pistols",
+	"text": "Quickdraw; Summon: Give an enemy unit -2/-2.",
+	"cost": 4,
+	"influence": "{S}{S}",
+	"attack": 2,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Dueling_Pistols.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1002-15/dueling-pistols",
+	"deckBuildable": true
+}

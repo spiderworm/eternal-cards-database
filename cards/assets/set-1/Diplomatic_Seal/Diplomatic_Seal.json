@@ -1,0 +1,15 @@
+{
+	"eternalID": 425,
+	"setID": 1,
+	"name": "Diplomatic Seal",
+	"text": "If you have two or fewer Influence, gain an Influence of your choice.",
+	"cost": 0,
+	"influence": "",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Power",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Diplomatic_Seal.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-425/diplomatic-seal",
+	"deckBuildable": true
+}

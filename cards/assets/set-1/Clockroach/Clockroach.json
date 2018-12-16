@@ -1,0 +1,15 @@
+{
+	"eternalID": 94,
+	"setID": 1,
+	"name": "Clockroach",
+	"text": "Echo; Summon: Clockroaches in your hand and deck get +1/+1.",
+	"cost": 3,
+	"influence": "{T}{T}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Clockroach.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-94/clockroach",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 183,
+	"setID": 5,
+	"name": "Fear Made Flesh",
+	"text": "Flying, Pledge;When Fear Made Flesh hits the enemy player, each unit in their deck gets -1/-1.",
+	"cost": 7,
+	"influence": "{S}{S}{S}",
+	"attack": 5,
+	"health": 7,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Fear_Made_Flesh.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-183/fear-made-flesh",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 105,
+	"setID": 3,
+	"name": "Steady Marshal",
+	"text": "Gunslinger Ally: Play a +1/+1 weapon on Steady Marshal.",
+	"cost": 1,
+	"influence": "{J}",
+	"attack": 1,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Steady_Marshal.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-105/steady-marshal",
+	"deckBuildable": true
+}

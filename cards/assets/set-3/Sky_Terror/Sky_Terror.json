@@ -1,0 +1,15 @@
+{
+	"eternalID": 43,
+	"setID": 3,
+	"name": "Sky Terror",
+	"text": "Flying, Warcry; When Sky Terror attacks, exhaust all enemy units without Flying.",
+	"cost": 6,
+	"influence": "{F}{F}",
+	"attack": 6,
+	"health": 5,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sky_Terror.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-43/sky-terror",
+	"deckBuildable": true
+}

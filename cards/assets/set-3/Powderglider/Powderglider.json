@@ -1,0 +1,15 @@
+{
+	"eternalID": 155,
+	"setID": 3,
+	"name": "Powderglider",
+	"text": "Summon: Stun an enemy unit with Flying.; When you play a spell, Powderglider gets +1/+1 this turn.",
+	"cost": 1,
+	"influence": "{P}",
+	"attack": 1,
+	"health": 2,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Powderglider.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-155/powderglider",
+	"deckBuildable": true
+}

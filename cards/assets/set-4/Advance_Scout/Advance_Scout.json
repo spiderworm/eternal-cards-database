@@ -1,0 +1,15 @@
+{
+	"eternalID": 165,
+	"setID": 4,
+	"name": "Advance Scout",
+	"text": "Flying; Infiltrate: Scout",
+	"cost": 3,
+	"influence": "{P}",
+	"attack": 2,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Advance_Scout.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-165/advance-scout",
+	"deckBuildable": true
+}

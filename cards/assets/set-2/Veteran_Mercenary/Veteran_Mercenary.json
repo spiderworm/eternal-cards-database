@@ -1,0 +1,15 @@
+{
+	"eternalID": 252,
+	"setID": 2,
+	"name": "Veteran Mercenary",
+	"text": "Summon: If you have only one type of influence, draw a random card of that faction.",
+	"cost": 5,
+	"influence": "",
+	"attack": 6,
+	"health": 4,
+	"rarity": "Promo",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Veteran_Mercenary.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-252/veteran-mercenary",
+	"deckBuildable": true
+}

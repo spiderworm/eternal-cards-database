@@ -1,0 +1,15 @@
+{
+	"eternalID": 243,
+	"setID": 1,
+	"name": "Thunderstrike Dragon",
+	"text": "Flying, Echo",
+	"cost": 6,
+	"influence": "{P}{P}{P}",
+	"attack": 5,
+	"health": 6,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Thunderstrike_Dragon.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-243/thunderstrike-dragon",
+	"deckBuildable": true
+}

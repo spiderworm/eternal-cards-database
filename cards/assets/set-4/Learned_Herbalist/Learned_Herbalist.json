@@ -1,0 +1,15 @@
+{
+	"eternalID": 63,
+	"setID": 4,
+	"name": "Learned Herbalist",
+	"text": "When you play a spell, you gain 1 Health.; Summon: You may discard a card to create and draw Secret Pages.",
+	"cost": 2,
+	"influence": "{T}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Learned_Herbalist.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-63/learned-herbalist",
+	"deckBuildable": true
+}

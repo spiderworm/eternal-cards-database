@@ -1,0 +1,15 @@
+{
+	"eternalID": 18,
+	"setID": 1003,
+	"name": "Pokpok, Rockpacker",
+	"text": "Reckless, Bond; When you Bond Pokpok, create and draw a Snowball.",
+	"cost": 3,
+	"influence": "{F}{P}",
+	"attack": 1,
+	"health": 5,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Pokpok,_Rockpacker.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1003-18/pokpok-rockpacker",
+	"deckBuildable": true
+}

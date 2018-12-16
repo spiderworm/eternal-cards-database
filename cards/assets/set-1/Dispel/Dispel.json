@@ -1,0 +1,15 @@
+{
+	"eternalID": 91,
+	"setID": 1,
+	"name": "Dispel",
+	"text": "Silence a unit. Draw a card.",
+	"cost": 3,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Dispel.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-91/dispel",
+	"deckBuildable": true
+}

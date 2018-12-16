@@ -1,0 +1,15 @@
+{
+	"eternalID": 159,
+	"setID": 5,
+	"name": "Kerendon Steward",
+	"text": "Deadly;Empower: +2/+2 this turn.",
+	"cost": 2,
+	"influence": "{S}",
+	"attack": 1,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Kerendon_Steward.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-159/kerendon-steward",
+	"deckBuildable": true
+}

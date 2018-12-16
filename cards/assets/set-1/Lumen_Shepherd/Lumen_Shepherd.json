@@ -1,0 +1,15 @@
+{
+	"eternalID": 117,
+	"setID": 1,
+	"name": "Lumen Shepherd",
+	"text": "Fate: Play a 1/1 Wisp.",
+	"cost": 6,
+	"influence": "{T}",
+	"attack": 4,
+	"health": 6,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lumen_Shepherd.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-117/lumen-shepherd",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 91,
+	"setID": 5,
+	"name": "Kosul Recruit",
+	"text": "Pledge",
+	"cost": 3,
+	"influence": "{J}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Kosul_Recruit.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-91/kosul-recruit",
+	"deckBuildable": true
+}

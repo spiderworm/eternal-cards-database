@@ -1,0 +1,15 @@
+{
+	"eternalID": 59,
+	"setID": 3,
+	"name": "Twilight Hunt",
+	"text": "NIghtfall.; Give one of your units Killer. If it's a Dinosaur, it gets +1/+1.",
+	"cost": 1,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Twilight_Hunt.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-59/twilight-hunt",
+	"deckBuildable": true
+}

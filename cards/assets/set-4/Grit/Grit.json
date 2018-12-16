@@ -1,0 +1,15 @@
+{
+	"eternalID": 116,
+	"setID": 4,
+	"name": "Grit",
+	"text": "Warp; You gain 3 Armor.",
+	"cost": 3,
+	"influence": "{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Grit.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-116/grit",
+	"deckBuildable": true
+}

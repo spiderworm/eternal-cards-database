@@ -1,0 +1,15 @@
+{
+	"eternalID": 137,
+	"setID": 5,
+	"name": "Mass Entomancy",
+	"text": "Transform a unit into a 1/1 Humbug with Flying.\r\nAmplify 4: Transform an additional unit into a 1/1 Humbug with Flying.",
+	"cost": 4,
+	"influence": "{P}{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Mass_Entomancy.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-137/mass-entomancy",
+	"deckBuildable": true
+}

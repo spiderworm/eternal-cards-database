@@ -1,0 +1,15 @@
+{
+	"eternalID": 42,
+	"setID": 1,
+	"name": "Outlands Sniper",
+	"text": "Summon: Deal 2 damage.",
+	"cost": 4,
+	"influence": "{F}{F}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Outlands_Sniper.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-42/outlands-sniper",
+	"deckBuildable": true
+}

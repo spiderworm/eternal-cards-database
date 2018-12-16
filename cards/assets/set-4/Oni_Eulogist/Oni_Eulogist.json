@@ -1,0 +1,15 @@
+{
+	"eternalID": 23,
+	"setID": 4,
+	"name": "Oni Eulogist",
+	"text": "Tribute: +1/+1.",
+	"cost": 3,
+	"influence": "{F}",
+	"attack": 4,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Oni_Eulogist.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-23/oni-eulogist",
+	"deckBuildable": true
+}

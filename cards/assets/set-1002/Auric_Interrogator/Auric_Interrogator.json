@@ -1,0 +1,15 @@
+{
+	"eternalID": 13,
+	"setID": 1002,
+	"name": "Auric Interrogator",
+	"text": "At the end of your turn, if Auric Interrogator has 5 Attack or more, he deals 1 damage to you and you draw a card.",
+	"cost": 3,
+	"influence": "{S}{S}",
+	"attack": 4,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Auric_Interrogator.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1002-13/auric-interrogator",
+	"deckBuildable": true
+}

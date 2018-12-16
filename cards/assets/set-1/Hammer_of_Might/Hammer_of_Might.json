@@ -1,0 +1,15 @@
+{
+	"eternalID": 170,
+	"setID": 1,
+	"name": "Hammer of Might",
+	"text": "Summon: Warcry 3 this turn.",
+	"cost": 4,
+	"influence": "{J}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hammer_of_Might.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-170/hammer-of-might",
+	"deckBuildable": true
+}

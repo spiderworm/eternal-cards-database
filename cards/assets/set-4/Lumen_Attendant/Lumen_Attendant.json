@@ -1,0 +1,15 @@
+{
+	"eternalID": 81,
+	"setID": 4,
+	"name": "Lumen Attendant",
+	"text": "Voidbound; Ultimate: Pay 3 and discard a card to draw another card from your void. Play a 1/1 Wisp.",
+	"cost": 4,
+	"influence": "{T}{T}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lumen_Attendant.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-81/lumen-attendant",
+	"deckBuildable": true
+}

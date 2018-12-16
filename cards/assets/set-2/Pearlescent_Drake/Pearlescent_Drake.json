@@ -1,0 +1,15 @@
+{
+	"eternalID": 127,
+	"setID": 2,
+	"name": "Pearlescent Drake",
+	"text": "Flying, Reckless; Spark: +4 Health.",
+	"cost": 5,
+	"influence": "{P}{P}{P}",
+	"attack": 6,
+	"health": 3,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Pearlescent_Drake.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-127/pearlescent-drake",
+	"deckBuildable": true
+}

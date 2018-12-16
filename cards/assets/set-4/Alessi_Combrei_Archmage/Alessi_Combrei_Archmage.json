@@ -1,0 +1,15 @@
+{
+	"eternalID": 248,
+	"setID": 4,
+	"name": "Alessi, Combrei Archmage",
+	"text": "When you play a spell, Alessi gets +1/+1 and you gain 1 Armor.",
+	"cost": 1,
+	"influence": "{T}{J}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Alessi,_Combrei_Archmage.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-248/alessi-combrei-archmage",
+	"deckBuildable": true
+}

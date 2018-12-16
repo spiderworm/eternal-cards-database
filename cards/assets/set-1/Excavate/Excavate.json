@@ -1,0 +1,15 @@
+{
+	"eternalID": 71,
+	"setID": 1,
+	"name": "Excavate",
+	"text": "Voidbound; Put a card from your void on the top of your deck; You gain 2 Health.",
+	"cost": 1,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Excavate.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-71/excavate",
+	"deckBuildable": true
+}

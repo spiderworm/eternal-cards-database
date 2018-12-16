@@ -1,0 +1,15 @@
+{
+	"eternalID": 252,
+	"setID": 3,
+	"name": "Mysterium Orb",
+	"text": "+1 Maximum Power for each of your Explorers.; Your Sentinels have Endurance and Overwhelm.",
+	"cost": 3,
+	"influence": "{F}{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Mysterium_Orb.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-252/mysterium-orb",
+	"deckBuildable": true
+}

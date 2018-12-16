@@ -1,0 +1,15 @@
+{
+	"eternalID": 90,
+	"setID": 1,
+	"name": "Ageless Mentor",
+	"text": "Summon: All units in your hand with cost 4 or more get +2/+2.",
+	"cost": 3,
+	"influence": "{T}",
+	"attack": 2,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ageless_Mentor.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-90/ageless-mentor",
+	"deckBuildable": true
+}

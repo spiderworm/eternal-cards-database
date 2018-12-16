@@ -1,0 +1,15 @@
+{
+	"eternalID": 261,
+	"setID": 4,
+	"name": "Rindra's Choice",
+	"text": "- Kill an enemy unit with more than one faction, or; - Negate an enemy spell with more than one faction.",
+	"cost": 2,
+	"influence": "{P}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rindra's_Choice.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-261/rindras-choice",
+	"deckBuildable": true
+}

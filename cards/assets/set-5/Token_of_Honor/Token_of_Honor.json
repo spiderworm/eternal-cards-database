@@ -1,0 +1,15 @@
+{
+	"eternalID": 226,
+	"setID": 5,
+	"name": "Token of Honor",
+	"text": "Depleted;Gain {F}, {J}, or {P}.",
+	"cost": 0,
+	"influence": "",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Power",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Token_of_Honor.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-226/token-of-honor",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 230,
+	"setID": 3,
+	"name": "Street Leecher",
+	"text": "Warcry; Ultimate: When you play a weapon on Street Leecher, give an enemy unit and each copy in the enemy hand and deck -1/-1.",
+	"cost": 4,
+	"influence": "{S}{S}",
+	"attack": 3,
+	"health": 4,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Street_Leecher.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-230/street-leecher",
+	"deckBuildable": true
+}

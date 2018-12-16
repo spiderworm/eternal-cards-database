@@ -1,0 +1,15 @@
+{
+	"eternalID": 234,
+	"setID": 4,
+	"name": "Betray the Cause",
+	"text": "Warp; Steal and ready an enemy unit this turn.",
+	"cost": 4,
+	"influence": "{S}{S}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Betray_the_Cause.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-234/betray-the-cause",
+	"deckBuildable": true
+}

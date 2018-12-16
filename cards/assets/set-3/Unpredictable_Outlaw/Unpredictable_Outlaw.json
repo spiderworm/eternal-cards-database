@@ -1,0 +1,15 @@
+{
+	"eternalID": 13,
+	"setID": 3,
+	"name": "Unpredictable Outlaw",
+	"text": "When you play a weapon on Unpredictable Outlaw, exhaust an enemy unit.",
+	"cost": 2,
+	"influence": "{F}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Unpredictable_Outlaw.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-13/unpredictable-outlaw",
+	"deckBuildable": true
+}

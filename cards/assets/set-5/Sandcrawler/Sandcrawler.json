@@ -1,0 +1,15 @@
+{
+	"eternalID": 54,
+	"setID": 5,
+	"name": "Sandcrawler",
+	"text": "Overwhelm",
+	"cost": 3,
+	"influence": "{T}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sandcrawler.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-54/sandcrawler",
+	"deckBuildable": true
+}

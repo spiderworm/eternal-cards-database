@@ -1,0 +1,15 @@
+{
+	"eternalID": 239,
+	"setID": 4,
+	"name": "End of the Line",
+	"text": "Lifesteal, Warp; Deal 3 damage to two enemies.; Tribute: Deal 4 damage to two enemies instead.",
+	"cost": 6,
+	"influence": "{S}{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Legendary",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/End_of_the_Line.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-239/end-of-the-line",
+	"deckBuildable": true
+}

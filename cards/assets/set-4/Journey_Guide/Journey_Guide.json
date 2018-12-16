@@ -1,0 +1,15 @@
+{
+	"eternalID": 53,
+	"setID": 4,
+	"name": "Journey Guide",
+	"text": "Inspire: Reduce the cost of units you draw by 1.",
+	"cost": 1,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Journey_Guide.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-53/journey-guide",
+	"deckBuildable": true
+}

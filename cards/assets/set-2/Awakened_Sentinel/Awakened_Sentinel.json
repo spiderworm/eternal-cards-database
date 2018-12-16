@@ -1,0 +1,15 @@
+{
+	"eternalID": 57,
+	"setID": 2,
+	"name": "Awakened Sentinel",
+	"text": "Endurance, Warp",
+	"cost": 5,
+	"influence": "{T}",
+	"attack": 3,
+	"health": 5,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Awakened_Sentinel.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-57/awakened-sentinel",
+	"deckBuildable": true
+}

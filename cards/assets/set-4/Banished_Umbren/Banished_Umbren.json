@@ -1,0 +1,15 @@
+{
+	"eternalID": 213,
+	"setID": 4,
+	"name": "Banished Umbren",
+	"text": "Once per turn, you may pay 5 to make a player discard the top two cards of their deck.",
+	"cost": 3,
+	"influence": "{S}",
+	"attack": 2,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Banished_Umbren.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-213/banished-umbren",
+	"deckBuildable": true
+}

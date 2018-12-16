@@ -1,0 +1,15 @@
+{
+	"eternalID": 68,
+	"setID": 4,
+	"name": "Amaran Stinger",
+	"text": "Charge; Infiltrate: Put three Scorpion Traps into the top 20 cards of the enemy deck.",
+	"cost": 3,
+	"influence": "{T}",
+	"attack": 2,
+	"health": 4,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Amaran_Stinger.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-68/amaran-stinger",
+	"deckBuildable": true
+}

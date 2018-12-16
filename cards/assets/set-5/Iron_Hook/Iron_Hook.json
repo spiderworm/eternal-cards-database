@@ -1,0 +1,15 @@
+{
+	"eternalID": 253,
+	"setID": 5,
+	"name": "Iron Hook",
+	"text": "",
+	"cost": 3,
+	"influence": "",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Relic Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Iron_Hook.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-253/iron-hook",
+	"deckBuildable": true
+}

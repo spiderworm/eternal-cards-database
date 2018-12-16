@@ -1,0 +1,15 @@
+{
+	"eternalID": 36,
+	"setID": 4,
+	"name": "Welding Torch",
+	"text": "Spellcraft 3: Play Torch.",
+	"cost": 4,
+	"influence": "{F}",
+	"attack": 3,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Welding_Torch.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-36/welding-torch",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 402,
+	"setID": 1,
+	"name": "Champion of Chaos",
+	"text": "{F}{F}{F}: +1 Attack and Overwhelm.; {S}{S}{S}: +1 Attack and Deadly.",
+	"cost": 3,
+	"influence": "{F}{S}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Champion_of_Chaos.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-402/champion-of-chaos",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 103,
+	"setID": 3,
+	"name": "Humble Instructor",
+	"text": "Pay 2 and exhaust Humble Instructor to give one of your units with two or more battle skills +1/+1",
+	"cost": 1,
+	"influence": "{J}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Humble_Instructor.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-103/humble-instructor",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 73,
+	"setID": 1,
+	"name": "Sanctuary Priest",
+	"text": "Empower: You gain 1 Health.",
+	"cost": 1,
+	"influence": "{T}",
+	"attack": 1,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sanctuary_Priest.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-73/sanctuary-priest",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 250,
+	"setID": 2,
+	"name": "Skycrag Stranger",
+	"text": "Summon: Gain {F}{P}",
+	"cost": 2,
+	"influence": "",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Skycrag_Stranger.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-250/skycrag-stranger",
+	"deckBuildable": true
+}

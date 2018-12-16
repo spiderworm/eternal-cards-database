@@ -1,0 +1,15 @@
+{
+	"eternalID": 229,
+	"setID": 4,
+	"name": "Mazag, the Waking Terror",
+	"text": "Flying; Summon: Sacrifice a unit.; Ultimate: Pay 6 to steal an enemy unit with less Health than Mazag.",
+	"cost": 4,
+	"influence": "{S}{S}{S}",
+	"attack": 6,
+	"health": 4,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Mazag,_the_Waking_Terror.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-229/mazag-the-waking-terror",
+	"deckBuildable": true
+}

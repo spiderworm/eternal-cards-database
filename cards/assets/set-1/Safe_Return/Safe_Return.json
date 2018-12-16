@@ -1,0 +1,15 @@
+{
+	"eternalID": 330,
+	"setID": 1,
+	"name": "Safe Return",
+	"text": "Put one of your units into your hand and give it +1/+1.",
+	"cost": 2,
+	"influence": "{T}{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Safe_Return.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-330/safe-return",
+	"deckBuildable": true
+}

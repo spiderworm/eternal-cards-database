@@ -1,0 +1,14 @@
+{
+	"setID": 3,
+	"name": "Soldier",
+	"text": "",
+	"cost": 2,
+	"influence": "",
+	"attack": 2,
+	"health": 2,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Soldier.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/H4nA11tLpwg/soldier",
+	"deckBuildable": false
+}

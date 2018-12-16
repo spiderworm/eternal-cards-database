@@ -1,0 +1,15 @@
+{
+	"eternalID": 19,
+	"setID": 3,
+	"name": "Milos Izalio, Heir to Rebellion",
+	"text": "When Milos attacks while wielding a weapon, you get +2 power this turn.; Gunslinger Ally: Double Damage",
+	"cost": 3,
+	"influence": "{F}{F}",
+	"attack": 2,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Milos_Izalio,_Heir_to_Rebellion.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-19/milos-izalio-heir-to-rebellion",
+	"deckBuildable": true
+}

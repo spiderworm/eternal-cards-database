@@ -1,0 +1,15 @@
+{
+	"eternalID": 244,
+	"setID": 2,
+	"name": "Valkyrie Denouncer",
+	"text": "Flying, Revenge",
+	"cost": 5,
+	"influence": "{J}{S}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Valkyrie_Denouncer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-244/valkyrie-denouncer",
+	"deckBuildable": true
+}

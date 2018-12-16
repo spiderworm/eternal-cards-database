@@ -1,0 +1,13 @@
+{
+	"setID": 5,
+	"name": "Poacher's Rifle",
+	"cost": 5,
+	"influence": "{F}{F}",
+	"attack": 4,
+	"health": 2,
+	"rarity": "None",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Poacher's_Rifle.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/kCXgUF-wra8/poacher-s-rifle",
+	"deckBuildable": false
+}

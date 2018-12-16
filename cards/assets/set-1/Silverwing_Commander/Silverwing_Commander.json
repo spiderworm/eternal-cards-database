@@ -1,0 +1,15 @@
+{
+	"eternalID": 175,
+	"setID": 1,
+	"name": "Silverwing Commander",
+	"text": "Flying, Warcry 2",
+	"cost": 5,
+	"influence": "{J}{J}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Silverwing_Commander.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-175/silverwing-commander",
+	"deckBuildable": true
+}

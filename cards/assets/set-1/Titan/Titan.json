@@ -1,0 +1,14 @@
+{
+	"setID": 1,
+	"name": "Titan",
+	"text": "Endurance, Aegis",
+	"cost": 2,
+	"influence": "",
+	"attack": 6,
+	"health": 6,
+	"rarity": "None",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Titan.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/x2LOj4O7NsA/titan",
+	"deckBuildable": false
+}

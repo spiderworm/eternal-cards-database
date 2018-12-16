@@ -1,0 +1,15 @@
+{
+	"eternalID": 112,
+	"setID": 2,
+	"name": "Talon Dive",
+	"text": "Give a Flying unit +2/+2 and Overwhelm this turn.",
+	"cost": 2,
+	"influence": "{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Talon_Dive.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-112/talon-dive",
+	"deckBuildable": true
+}

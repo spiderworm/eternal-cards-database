@@ -1,0 +1,15 @@
+{
+	"eternalID": 5,
+	"setID": 1004,
+	"name": "Auralian Restorationist",
+	"text": "Summon: You gain 2 Health.",
+	"cost": 1,
+	"influence": "{T}",
+	"attack": 2,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Auralian_Restorationist.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1004-5/auralian-restorationist",
+	"deckBuildable": true
+}

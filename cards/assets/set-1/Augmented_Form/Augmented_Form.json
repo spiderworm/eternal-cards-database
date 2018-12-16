@@ -1,0 +1,15 @@
+{
+	"eternalID": 182,
+	"setID": 1,
+	"name": "Augmented Form",
+	"text": "Give a unit +6/+6.",
+	"cost": 6,
+	"influence": "{J}{J}{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Legendary",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Augmented_Form.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-182/augmented-form",
+	"deckBuildable": true
+}

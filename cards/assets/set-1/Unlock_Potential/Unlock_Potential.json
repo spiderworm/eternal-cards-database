@@ -1,0 +1,15 @@
+{
+	"eternalID": 76,
+	"setID": 1,
+	"name": "Unlock Potential",
+	"text": "Your units get +1/+1.",
+	"cost": 3,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Unlock_Potential.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-76/unlock-potential",
+	"deckBuildable": true
+}

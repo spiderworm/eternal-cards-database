@@ -1,0 +1,15 @@
+{
+	"eternalID": 195,
+	"setID": 3,
+	"name": "Slope Sergeant",
+	"text": "Bond; When you bond Slope Sergeant, draw two cards, then discard two cards.",
+	"cost": 6,
+	"influence": "{P}{P}",
+	"attack": 4,
+	"health": 4,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Slope_Sergeant.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-195/slope-sergeant",
+	"deckBuildable": true
+}

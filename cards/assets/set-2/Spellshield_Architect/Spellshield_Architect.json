@@ -1,0 +1,15 @@
+{
+	"eternalID": 221,
+	"setID": 2,
+	"name": "Spellshield Architect",
+	"text": "Aegis; Mentor: Give the Student Aegis.",
+	"cost": 3,
+	"influence": "{J}{P}",
+	"attack": 3,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Spellshield_Architect.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-221/spellshield-architect",
+	"deckBuildable": true
+}

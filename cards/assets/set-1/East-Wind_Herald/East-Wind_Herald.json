@@ -1,0 +1,15 @@
+{
+	"eternalID": 201,
+	"setID": 1,
+	"name": "East-Wind Herald",
+	"text": "Flying",
+	"cost": 2,
+	"influence": "{P}",
+	"attack": 1,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/East-Wind_Herald.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-201/east-wind-herald",
+	"deckBuildable": true
+}

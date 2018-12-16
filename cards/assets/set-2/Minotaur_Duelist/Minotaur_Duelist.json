@@ -1,0 +1,15 @@
+{
+	"eternalID": 93,
+	"setID": 2,
+	"name": "Minotaur Duelist",
+	"text": "Revenge; Summon: Stun an enemy unit.",
+	"cost": 5,
+	"influence": "{J}{J}",
+	"attack": 3,
+	"health": 2,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Minotaur_Duelist.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-93/minotaur-duelist",
+	"deckBuildable": true
+}

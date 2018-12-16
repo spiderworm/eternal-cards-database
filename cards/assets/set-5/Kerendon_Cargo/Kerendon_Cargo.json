@@ -1,0 +1,15 @@
+{
+	"eternalID": 247,
+	"setID": 5,
+	"name": "Kerendon Cargo",
+	"text": "Draw a Time Sigil, Justice Sigil, or Shadow Sigil from your deck.;Transmute {T}{T}{J}{J}{S}{S}: Kerendon Contraband.",
+	"cost": 1,
+	"influence": "",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Kerendon_Cargo.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-247/kerendon-cargo",
+	"deckBuildable": true
+}

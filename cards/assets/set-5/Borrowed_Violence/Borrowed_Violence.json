@@ -1,0 +1,15 @@
+{
+	"eternalID": 149,
+	"setID": 5,
+	"name": "Borrowed Violence",
+	"text": "Each unit in your hand gets +1 Strength.",
+	"cost": 0,
+	"influence": "{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Borrowed_Violence.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-149/borrowed-violence",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 65,
+	"setID": 3,
+	"name": "Trail Maker",
+	"text": "+1 Maximum Power.; Summon: Gain an influence of your choice.",
+	"cost": 2,
+	"influence": "{T}",
+	"attack": 2,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Trail_Maker.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-65/trail-maker",
+	"deckBuildable": true
+}

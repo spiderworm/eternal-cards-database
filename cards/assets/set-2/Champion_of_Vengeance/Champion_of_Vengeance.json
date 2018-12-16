@@ -1,0 +1,15 @@
+{
+	"eternalID": 237,
+	"setID": 2,
+	"name": "Champion of Vengeance",
+	"text": "{J}{J}{J}{J}: Invulnerable to damage during your turn.; {S}{S}{S}{S}: When Champion of Vengeance attacks, she gets +2 Attack.",
+	"cost": 4,
+	"influence": "{J}{S}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Champion_of_Vengeance.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-237/champion-of-vengeance",
+	"deckBuildable": true
+}

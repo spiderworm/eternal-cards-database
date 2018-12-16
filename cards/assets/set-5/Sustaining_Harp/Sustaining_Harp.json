@@ -1,0 +1,15 @@
+{
+	"eternalID": 49,
+	"setID": 5,
+	"name": "Sustaining Harp",
+	"text": "You gain 2 Health.\nAmplify 2: You gain an additional 2 Health.",
+	"cost": 2,
+	"influence": "{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Sustaining_Harp.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-49/sustaining-harp",
+	"deckBuildable": true
+}

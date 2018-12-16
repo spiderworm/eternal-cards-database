@@ -1,0 +1,15 @@
+{
+	"eternalID": 74,
+	"setID": 3,
+	"name": "Ageless Sentinel",
+	"text": "",
+	"cost": 4,
+	"influence": "{T}{T}",
+	"attack": 3,
+	"health": 5,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ageless_Sentinel.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-74/ageless-sentinel",
+	"deckBuildable": true
+}

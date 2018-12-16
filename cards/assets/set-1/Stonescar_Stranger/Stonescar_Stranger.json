@@ -1,0 +1,15 @@
+{
+	"eternalID": 413,
+	"setID": 1,
+	"name": "Stonescar Stranger",
+	"text": "Summon: You gain {F}{S}.",
+	"cost": 2,
+	"influence": "",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Stonescar_Stranger.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-413/stonescar-stranger",
+	"deckBuildable": true
+}

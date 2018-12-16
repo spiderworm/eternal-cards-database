@@ -1,0 +1,15 @@
+{
+	"eternalID": 90,
+	"setID": 2,
+	"name": "Valkyrie Spireguard",
+	"text": "Flying; +3/+3 while you have another Valkyrie.",
+	"cost": 4,
+	"influence": "{J}{J}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Valkyrie_Spireguard.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-90/valkyrie-spireguard",
+	"deckBuildable": true
+}

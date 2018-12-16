@@ -1,0 +1,15 @@
+{
+	"eternalID": 40,
+	"setID": 3,
+	"name": "Barkeep's Friend",
+	"text": "Entomb: Create and draw a +1/+1 weapon.",
+	"cost": 6,
+	"influence": "{F}{F}",
+	"attack": 4,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Relic Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Barkeep's_Friend.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-40/barkeeps-friend",
+	"deckBuildable": true
+}

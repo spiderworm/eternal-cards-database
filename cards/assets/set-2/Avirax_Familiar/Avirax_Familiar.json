@@ -1,0 +1,15 @@
+{
+	"eternalID": 46,
+	"setID": 2,
+	"name": "Avirax Familiar",
+	"text": "Flying, Warp;+1 Maximum Power",
+	"cost": 3,
+	"influence": "{T}",
+	"attack": 1,
+	"health": 2,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Avirax_Familiar.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-46/avirax-familiar",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 181,
+	"setID": 4,
+	"name": "Big Brother",
+	"text": "Big Brother can't attack or block.; Summon: Play two 1/1 Little Brothers.; When a Little Brother hits the enemy player, silence Big Brother.",
+	"cost": 5,
+	"influence": "{P}{P}",
+	"attack": 8,
+	"health": 8,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Big_Brother.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-181/big-brother",
+	"deckBuildable": true
+}

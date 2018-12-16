@@ -1,0 +1,15 @@
+{
+	"eternalID": 519,
+	"setID": 1,
+	"name": "Rilgon, Hooru Operative",
+	"text": "When you play a weapon on Rilgon, he gains an Aegis.;When you play a spell, Rilgon gains Double Damage this turn.",
+	"cost": 4,
+	"influence": "{J}{J}{P}{P}",
+	"attack": 2,
+	"health": 4,
+	"rarity": "Promo",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Rilgon,_Hooru_Operative.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-519/rilgon-hooru-operative",
+	"deckBuildable": true
+}

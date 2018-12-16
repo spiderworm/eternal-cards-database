@@ -1,0 +1,15 @@
+{
+	"eternalID": 418,
+	"setID": 1,
+	"name": "Cobalt Monument",
+	"text": "Depleted; Gain {P}; Transmute 5: 4/4 Stormdancer with Flying.",
+	"cost": 0,
+	"influence": "{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Uncommon",
+	"type": "Power",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cobalt_Monument.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-418/cobalt-monument",
+	"deckBuildable": true
+}

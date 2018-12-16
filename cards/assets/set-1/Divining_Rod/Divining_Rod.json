@@ -1,0 +1,15 @@
+{
+	"eternalID": 109,
+	"setID": 1,
+	"name": "Divining Rod",
+	"text": "Summon: Play all units from the top four cards of your deck that shares a skill with the wielder. Discard the rest.",
+	"cost": 6,
+	"influence": "{T}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Rare",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Divining_Rod.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-109/divining-rod",
+	"deckBuildable": true
+}

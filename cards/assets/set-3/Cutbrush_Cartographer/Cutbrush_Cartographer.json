@@ -1,0 +1,15 @@
+{
+	"eternalID": 180,
+	"setID": 3,
+	"name": "Cutbrush Cartographer",
+	"text": "When you draw a card, Cutbrush Cartographer gets +1 Attack.",
+	"cost": 4,
+	"influence": "{P}",
+	"attack": 1,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cutbrush_Cartographer.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-180/cutbrush-cartographer",
+	"deckBuildable": true
+}

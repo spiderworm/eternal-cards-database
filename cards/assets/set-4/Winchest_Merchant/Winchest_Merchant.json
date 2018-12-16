@@ -1,0 +1,15 @@
+{
+	"eternalID": 126,
+	"setID": 4,
+	"name": "Winchest Merchant",
+	"text": "Flying; Summon: You may choose a card from your hand to swap with a {J} card in your Market.",
+	"cost": 3,
+	"influence": "{J}",
+	"attack": 2,
+	"health": 2,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Winchest_Merchant.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-126/winchest-merchant",
+	"deckBuildable": true
+}

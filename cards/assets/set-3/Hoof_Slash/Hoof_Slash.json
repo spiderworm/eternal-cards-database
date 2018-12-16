@@ -1,0 +1,15 @@
+{
+	"eternalID": 18,
+	"setID": 3,
+	"name": "Hoof Slash",
+	"text": "Give a unit +4/+2 this turn.",
+	"cost": 3,
+	"influence": "{F}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Hoof_Slash.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-18/hoof-slash",
+	"deckBuildable": true
+}

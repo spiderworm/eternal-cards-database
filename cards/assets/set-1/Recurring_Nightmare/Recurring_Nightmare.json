@@ -1,0 +1,15 @@
+{
+	"eternalID": 382,
+	"setID": 1,
+	"name": "Recurring Nightmare",
+	"text": "Flying, Charge; Infiltrate: Double Recurring Nightmare's Attack and put it into your hand.",
+	"cost": 3,
+	"influence": "{P}{S}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Recurring_Nightmare.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-382/recurring-nightmare",
+	"deckBuildable": true
+}

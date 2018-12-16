@@ -1,0 +1,15 @@
+{
+	"eternalID": 239,
+	"setID": 1,
+	"name": "Jarrall Iceheart",
+	"text": "Infiltrate: Draw the top spell of your deck. Deal damage to each enemy unit equal to that spell's cost.",
+	"cost": 6,
+	"influence": "{P}{P}{P}",
+	"attack": 6,
+	"health": 7,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Jarrall_Iceheart.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-239/jarrall-iceheart",
+	"deckBuildable": true
+}

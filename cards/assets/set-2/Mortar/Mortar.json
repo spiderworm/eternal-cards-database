@@ -1,0 +1,15 @@
+{
+	"eternalID": 194,
+	"setID": 2,
+	"name": "Mortar",
+	"text": "Deal 4 damage.",
+	"cost": 4,
+	"influence": "{F}{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Mortar.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-194/mortar",
+	"deckBuildable": true
+}

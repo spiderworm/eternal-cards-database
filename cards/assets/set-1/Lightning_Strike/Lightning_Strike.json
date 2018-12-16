@@ -1,0 +1,15 @@
+{
+	"eternalID": 197,
+	"setID": 1,
+	"name": "Lightning Strike",
+	"text": "Deal 4 damage to an attacking enemy.",
+	"cost": 2,
+	"influence": "{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Lightning_Strike.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-197/lightning-strike",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 226,
+	"setID": 4,
+	"name": "Holdup",
+	"text": "The enemy player discards two cards of their choice from their hand.",
+	"cost": 4,
+	"influence": "{S}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Holdup.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-226/holdup",
+	"deckBuildable": true
+}

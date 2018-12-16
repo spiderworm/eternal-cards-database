@@ -1,0 +1,15 @@
+{
+	"eternalID": 264,
+	"setID": 1,
+	"name": "Dark Wisp",
+	"text": "Entomb: Draw a card.",
+	"cost": 2,
+	"influence": "{S}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Dark_Wisp.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-264/dark-wisp",
+	"deckBuildable": true
+}

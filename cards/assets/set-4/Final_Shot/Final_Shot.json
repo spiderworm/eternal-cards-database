@@ -1,0 +1,15 @@
+{
+	"eternalID": 47,
+	"setID": 4,
+	"name": "Final Shot",
+	"text": "Quickdraw; Spellcraft 1: Play Gun Down.",
+	"cost": 7,
+	"influence": "{F}",
+	"attack": 5,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Final_Shot.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-47/final-shot",
+	"deckBuildable": true
+}

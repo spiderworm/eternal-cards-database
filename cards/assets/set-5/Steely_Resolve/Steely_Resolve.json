@@ -1,0 +1,15 @@
+{
+	"eternalID": 112,
+	"setID": 5,
+	"name": "Steely Resolve",
+	"text": "Negate an enemy spell with cost 1 or less.",
+	"cost": 0,
+	"influence": "{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Steely_Resolve.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-112/steely-resolve",
+	"deckBuildable": true
+}

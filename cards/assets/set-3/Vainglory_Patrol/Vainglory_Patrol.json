@@ -1,0 +1,15 @@
+{
+	"eternalID": 231,
+	"setID": 3,
+	"name": "Vainglory Patrol",
+	"text": "Flying",
+	"cost": 4,
+	"influence": "{S}",
+	"attack": 3,
+	"health": 1,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Vainglory_Patrol.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-231/vainglory-patrol",
+	"deckBuildable": true
+}

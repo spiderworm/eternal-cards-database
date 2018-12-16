@@ -1,0 +1,15 @@
+{
+	"eternalID": 67,
+	"setID": 3,
+	"name": "Dig Site",
+	"text": "When you play a Sentinel, your Explorers get +1/+1 this turn.; Summon: You may put a unit or another relic into its owner's hand.",
+	"cost": 3,
+	"influence": "{T}{T}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Relic",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Dig_Site.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/3-67/dig-site",
+	"deckBuildable": true
+}

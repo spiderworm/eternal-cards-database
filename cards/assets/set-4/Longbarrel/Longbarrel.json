@@ -1,0 +1,15 @@
+{
+	"eternalID": 5,
+	"setID": 4,
+	"name": "Longbarrel",
+	"text": "Overwhelm; Spellcraft 3: Play Piercing Shot.",
+	"cost": 1,
+	"influence": "{F}{F}",
+	"attack": 2,
+	"health": 0,
+	"rarity": "Rare",
+	"type": "Weapon",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Longbarrel.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-5/longbarrel",
+	"deckBuildable": true
+}

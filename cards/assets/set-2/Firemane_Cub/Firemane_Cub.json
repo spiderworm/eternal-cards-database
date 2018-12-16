@@ -1,0 +1,15 @@
+{
+	"eternalID": 1,
+	"setID": 2,
+	"name": "Firemane Cub",
+	"text": "Summon: Deal 1 damage to an enemy unit.",
+	"cost": 1,
+	"influence": "{F}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Firemane_Cub.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-1/firemane-cub",
+	"deckBuildable": true
+}

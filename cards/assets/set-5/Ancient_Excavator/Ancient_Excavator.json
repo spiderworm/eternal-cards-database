@@ -1,0 +1,15 @@
+{
+	"eternalID": 65,
+	"setID": 5,
+	"name": "Ancient Excavator",
+	"text": "Summon: Draw a relic from your void.",
+	"cost": 5,
+	"influence": "{T}{T}",
+	"attack": 4,
+	"health": 6,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Ancient_Excavator.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/5-65/ancient-excavator",
+	"deckBuildable": true
+}

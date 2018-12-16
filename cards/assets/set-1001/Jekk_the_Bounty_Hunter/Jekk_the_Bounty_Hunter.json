@@ -1,0 +1,15 @@
+{
+	"eternalID": 11,
+	"setID": 1001,
+	"name": "Jekk, the Bounty Hunter",
+	"text": "Quickdraw; Summon: Silence and stun an enemy unit.",
+	"cost": 6,
+	"influence": "{F}{J}",
+	"attack": 6,
+	"health": 4,
+	"rarity": "Legendary",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Jekk,_the_Bounty_Hunter.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1001-11/jekk-the-bounty-hunter",
+	"deckBuildable": true
+}

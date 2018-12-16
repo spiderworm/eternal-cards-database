@@ -1,0 +1,15 @@
+{
+	"eternalID": 124,
+	"setID": 2,
+	"name": "Serpent Mount",
+	"text": "Flying; Mentor: Serpent Mount gains the Student's Attack.",
+	"cost": 4,
+	"influence": "{P}{P}",
+	"attack": 1,
+	"health": 1,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Serpent_Mount.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-124/serpent-mount",
+	"deckBuildable": true
+}

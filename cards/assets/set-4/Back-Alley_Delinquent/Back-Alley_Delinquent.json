@@ -1,0 +1,15 @@
+{
+	"eternalID": 200,
+	"setID": 4,
+	"name": "Back-Alley Delinquent",
+	"text": "Quickdraw; Summon: You may discard a card to create and draw Sabotage.",
+	"cost": 2,
+	"influence": "{S}",
+	"attack": 1,
+	"health": 3,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Back-Alley_Delinquent.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-200/back-alley-delinquent",
+	"deckBuildable": true
+}

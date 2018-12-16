@@ -1,0 +1,15 @@
+{
+	"eternalID": 338,
+	"setID": 1,
+	"name": "The Great Parliament",
+	"text": "Play a 4/4 Flying Owl for every 4 maximum power you have.",
+	"cost": 4,
+	"influence": "{T}{J}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Legendary",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/The_Great_Parliament.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-338/the-great-parliament",
+	"deckBuildable": true
+}

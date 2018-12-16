@@ -1,0 +1,15 @@
+{
+	"eternalID": 522,
+	"setID": 1,
+	"name": "Alpine Tracker",
+	"text": "Charge;\r\nSummon: Deal 1 damage to each other unit and each player.",
+	"cost": 4,
+	"influence": "{F}{F}{P}{P}",
+	"attack": 3,
+	"health": 3,
+	"rarity": "Promo",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Alpine_Tracker.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-522/alpine-tracker",
+	"deckBuildable": true
+}

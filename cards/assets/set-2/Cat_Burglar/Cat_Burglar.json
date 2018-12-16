@@ -1,0 +1,15 @@
+{
+	"eternalID": 148,
+	"setID": 2,
+	"name": "Cat Burglar",
+	"text": "Deadly; Summon: The enemy player discards a relic of your choice from their hand.",
+	"cost": 3,
+	"influence": "{S}",
+	"attack": 3,
+	"health": 2,
+	"rarity": "Rare",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Cat_Burglar.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-148/cat-burglar",
+	"deckBuildable": true
+}

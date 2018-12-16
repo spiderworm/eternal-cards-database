@@ -1,0 +1,15 @@
+{
+	"eternalID": 41,
+	"setID": 4,
+	"name": "Wildfire Censari",
+	"text": "When you play a spell, Wildfire Censari gets +1/+1 and Quickdraw this turn.",
+	"cost": 5,
+	"influence": "{F}{F}",
+	"attack": 5,
+	"health": 3,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Wildfire_Censari.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-41/wildfire-censari",
+	"deckBuildable": true
+}

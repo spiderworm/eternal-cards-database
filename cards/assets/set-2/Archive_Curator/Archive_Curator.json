@@ -1,0 +1,15 @@
+{
+	"eternalID": 50,
+	"setID": 2,
+	"name": "Archive Curator",
+	"text": "Flying; Summon: You may silence another unit.",
+	"cost": 4,
+	"influence": "{T}",
+	"attack": 1,
+	"health": 4,
+	"rarity": "Common",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Archive_Curator.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/2-50/archive-curator",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 207,
+	"setID": 1,
+	"name": "Second Sight",
+	"text": "Draw two cards, then put a card from your hand on top of your deck.",
+	"cost": 2,
+	"influence": "{P}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Fast Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Second_Sight.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/1-207/second-sight",
+	"deckBuildable": true
+}

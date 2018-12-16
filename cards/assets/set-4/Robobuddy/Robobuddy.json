@@ -1,0 +1,15 @@
+{
+	"eternalID": 40,
+	"setID": 4,
+	"name": "Robobuddy",
+	"text": "Charge; Infiltrate: Create and draw a 0/3 Helpful Doorbot.",
+	"cost": 5,
+	"influence": "{F}",
+	"attack": 1,
+	"health": 6,
+	"rarity": "Uncommon",
+	"type": "Unit",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Robobuddy.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-40/robobuddy",
+	"deckBuildable": true
+}

@@ -1,0 +1,15 @@
+{
+	"eternalID": 38,
+	"setID": 4,
+	"name": "Fiery Fissure",
+	"text": "Deal 4 damage to an enemy.; Tribute: Overwhelm",
+	"cost": 5,
+	"influence": "{F}",
+	"attack": 0,
+	"health": 0,
+	"rarity": "Common",
+	"type": "Spell",
+	"imageURL": "https://cards.eternalwarcry.com/cards/full/Fiery_Fissure.png",
+	"detailsURL": "https://eternalwarcry.com/cards/details/4-38/fiery-fissure",
+	"deckBuildable": true
+}
